@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (December 19, 2024)
+## Latest Updates (December 23, 2024)
 
 
 ### Notable Innovations
@@ -26,12 +26,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
   - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
-
-### Market Trends
-
-- **Why SoundHound AI (SOUN) and Quantum Computing ...**
-  - At Yahoo Finance, you get free stock quotes, up-to-date <strong>news</strong>, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.
-  - [Source](https://finance.yahoo.com/news/why-soundhound-ai-soun-quantum-220645548.html)
 
 ## Contributing
 
