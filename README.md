@@ -2,14 +2,14 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (January 20, 2025)
+## Latest Updates (January 27, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **60 Google AI news announcements from 2024: Gemini, NotebookLM and more**
-  - Recap some of Google’s biggest <strong>AI</strong> <strong>news</strong> from 2024, including moments from Gemini, NotebookLM, Search and more.
-  - [Source](https://blog.google/technology/ai/google-ai-news-recap-2024/)
+- **Quantum Computing recent news | AI Business**
+  - <strong>IBM Launches Security Suite to Defend Against AI, Quantum Threats</strong><strong>IBM Launches Security Suite to Defend Against AI, Quantum Threats</strong> ... Leaders Divided on Level of Governance Needed for Responsible AILeaders Divided on Level of Governance Needed for Responsible AI ...
+  - [Source](https://aibusiness.com/verticals/quantum-computing)
 
 ### Notable Innovations
 
@@ -17,21 +17,21 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - <strong>Quantum</strong> <strong>Computer</strong> Research. Read the latest <strong>news</strong> in developing <strong>quantum</strong> <strong>computers</strong>.
   - [Source](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
-- **‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone**
-  - <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>. <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>.
-  - [Source](https://www.nature.com/articles/d41586-024-04028-3)
-
 - **Quantum Computing News & Top Stories | The Quantum Insider**
   - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
   - [Source](https://thequantuminsider.com/)
 
+- **‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone**
+  - <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>. <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>.
+  - [Source](https://www.nature.com/articles/d41586-024-04028-3)
+
 - **Quantum Computing Inches Closer to Reality After Another Google Breakthrough**
-  - On Monday, <strong>Google unveiled a new quantum computer that may end this back-and-forth race with traditional machines</strong> and that points to a future in which quantum computers could drive advances in areas like drug discovery and artificial intelligence.
+  - Google unveiled an experimental machine capable of tasks that a traditional supercomputer could not master in 10 septillion years. (That’s older than the universe.)
   - [Source](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html)
 
-- **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
-  - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
-  - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
+- **Google Quantum AI**
+  - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
+  - [Source](https://quantumai.google/)
 
 ### Market Trends
 
