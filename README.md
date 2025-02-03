@@ -2,14 +2,14 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (January 27, 2025)
+## Latest Updates (February 03, 2025)
 
 
 ### Major Model Releases & Improvements
 
-- **Quantum Computing recent news | AI Business**
-  - <strong>IBM Launches Security Suite to Defend Against AI, Quantum Threats</strong><strong>IBM Launches Security Suite to Defend Against AI, Quantum Threats</strong> ... Leaders Divided on Level of Governance Needed for Responsible AILeaders Divided on Level of Governance Needed for Responsible AI ...
-  - [Source](https://aibusiness.com/verticals/quantum-computing)
+- **News - Quantum Computing Report**
+  - Recent <strong>news</strong> items published within the <strong>last</strong> 6 months on <strong>quantum</strong> <strong>computing</strong> developments are listed below. Click on the hyperlinked item to go to the press release or <strong>news</strong> article for more details. For older <strong>news</strong> items published in 2024 click here, for 2023 click here, for 2022 click here, for
+  - [Source](https://quantumcomputingreport.com/news/)
 
 ### Notable Innovations
 
@@ -21,23 +21,31 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
   - [Source](https://thequantuminsider.com/)
 
-- **‘A truly remarkable breakthrough’: Google’s new quantum chip achieves accuracy milestone**
-  - <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>. <strong>Error-correction feat shows quantum computers will get more accurate as they grow larger</strong>.
-  - [Source](https://www.nature.com/articles/d41586-024-04028-3)
-
-- **Quantum Computing Inches Closer to Reality After Another Google Breakthrough**
-  - Google unveiled an experimental machine capable of tasks that a traditional supercomputer could not master in 10 septillion years. (That’s older than the universe.)
-  - [Source](https://www.nytimes.com/2024/12/09/technology/google-quantum-computing.html)
-
-- **Google Quantum AI**
-  - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
-  - [Source](https://quantumai.google/)
+- **Quantum computing | MIT News | Massachusetts Institute of Technology**
+  - By emulating a magnetic field on a superconducting <strong>quantum</strong> <strong>computer</strong>, researchers can probe complex properties of materials.
+  - [Source](https://news.mit.edu/topic/quantum-computing)
 
 ### Market Trends
 
 - **Quantum Computing Further Out In The ‘AI Decade,’ John Chambers Says | Investor's Business Daily**
   - Decode the energy market and invest with confidence with our <strong>weekly</strong> newsletter. Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>computing</strong> could shake up the winners and losers in tech.
   - [Source](https://www.investors.com/news/technology/quantum-computing-further-out-ai-decade-john-chambers/)
+
+- **Useful quantum computing is inevitable—and increasingly imminent | MIT Technology Review**
+  - On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that <strong>practical quantum computing is still 15 to 30 years away</strong>, at the same time suggesting those computers will need Nvidia GPUs in order to implement the necessary error correction.
+  - [Source](https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/)
+
+- **Quantum Computing News, Quantum Articles, Quantum Industry**
+  - <strong>Quantum</strong> <strong>Computing</strong> <strong>News</strong> <strong>and</strong> <strong>Quantum</strong> <strong>News</strong>. Technology <strong>News</strong> from around the planet. Exciting Latest Developments in <strong>Quantum</strong> Tech.
+  - [Source](https://quantumzeitgeist.com/)
+
+- **2025 Expert Quantum Predictions — Quantum Computing**
+  - The following is a list of just some of those experts who submitted their key insights and emerging trends that may shape <strong>quantum</strong> <strong>computing</strong>.
+  - [Source](https://thequantuminsider.com/2024/12/31/2025-expert-quantum-predictions-quantum-computing/)
+
+- **Quantum Computing Stocks Pop As Investors Mull Trump's 'Stargate' Project Quantum Computing Stocks Pop As Investors Mull President Trump's First Moves**
+  - Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>Computing</strong> Stocks Pop As Investors Mull Trump&#x27;s &#x27;Stargate&#x27; Project
+  - [Source](https://www.investors.com/news/technology/quantum-computing-stocks-trump-artificial-inteligence/)
 
 ## Contributing
 
