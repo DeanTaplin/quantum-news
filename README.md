@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (March 03, 2025)
+## Latest Updates (March 10, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -15,29 +15,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Most Read: <strong>OpenAI Releases DeepSeek Challenger Model; SoftBank, OpenAI Create Joint Venture to Advance AI in Japan</strong>Most Read: <strong>OpenAI Releases DeepSeek Challenger Model; SoftBank, OpenAI Create Joint Venture to Advance AI in Japan</strong> ... Quantum Advantage Has Already Been Reached For AI ...
   - [Source](https://aibusiness.com/verticals/quantum-computing)
 
-- **Google says commercial quantum computing applications arriving within five years | Reuters**
-  - Google aims to release commercial <strong>quantum</strong> <strong>computing</strong> applications within five years, Google&#x27;s head of <strong>quantum</strong> told Reuters on Wednesday, in a challenge to Nvidia&#x27;s predictions of a 20-year wait.
-  - [Source](https://www.reuters.com/technology/google-says-commercial-quantum-computing-applications-arriving-within-five-years-2025-02-05/)
-
 ### Notable Innovations
-
-- **Quantum Computing News & Top Stories | The Quantum Insider**
-  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
-  - [Source](https://thequantuminsider.com/)
 
 - **Quantum Computers News -- ScienceDaily**
   - <strong>Quantum</strong> <strong>Computer</strong> Research. Read the latest <strong>news</strong> in developing <strong>quantum</strong> <strong>computers</strong>.
   - [Source](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
+- **Quantum Computing News & Top Stories | The Quantum Insider**
+  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
+  - [Source](https://thequantuminsider.com/)
+
 - **These Artificial Intelligence (AI) Quantum Computing Stocks Could Soar in 2025 @themotleyfool #stocks $IONQ $GOOGL $GOOG**
   - Over the <strong>last</strong> 12 months, the company has poured roughly $30 million each quarter into R&amp;D -- logically prioritizing that above all else. However, potential investors should understand there are risks to the company&#x27;s strategy -- and owning its stock. If IonQ&#x27;s research pays off. and the company announces key improvements to <strong>quantum</strong> <strong>computing</strong> ...
   - [Source](https://www.fool.com/investing/2025/02/04/these-artificial-intelligence-ai-quantum-computing/)
 
-### Market Trends
+- **Quantum computing | MIT News | Massachusetts Institute of Technology**
+  - By emulating a magnetic field on a superconducting <strong>quantum</strong> <strong>computer</strong>, researchers can probe complex properties of materials.
+  - [Source](https://news.mit.edu/topic/quantum-computing)
 
-- **Is Quantum Computing Investable As The Next AI?**
-  - Feb 3, 2025,08:32am ESTTrump Tariffs Send Market Sharply Lower; Big <strong>Week</strong> For Earnings ... Opinions expressed by Forbes Contributors are their own. Vineer Bhansali is the Founder and CIO of LongTail Alpha, LLC ... The boom and bust and re-boom in <strong>quantum</strong> <strong>computing</strong> stocks over the <strong>last</strong> <strong>few</strong> <strong>weeks</strong> ...
-  - [Source](https://www.forbes.com/sites/vineerbhansali/2025/01/23/is-quantum-computing-investable-as-the-next-ai-/)
+### Market Trends
 
 - **Useful quantum computing is inevitable—and increasingly imminent | MIT Technology Review**
   - On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that <strong>practical quantum computing is still 15 to 30 years away</strong>, at the same time suggesting those computers will need Nvidia GPUs in order to implement the necessary error correction.
@@ -46,6 +42,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **Quantum Computing Further Out In The ‘AI Decade,’ John Chambers Says | Investor's Business Daily**
   - Decode the energy market and invest with confidence with our <strong>weekly</strong> newsletter. Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>computing</strong> could shake up the winners and losers in tech.
   - [Source](https://www.investors.com/news/technology/quantum-computing-further-out-ai-decade-john-chambers/)
+
+- **Quantum Computing Stocks Pop As Investors Mull Trump's 'Stargate' Project Quantum Computing Stocks Pop As Investors Mull President Trump's First Moves**
+  - Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>Computing</strong> Stocks Pop As Investors Mull Trump&#x27;s &#x27;Stargate&#x27; Project
+  - [Source](https://www.investors.com/news/technology/quantum-computing-stocks-trump-artificial-inteligence/)
 
 - **Quantum Computing News, Quantum Articles, Quantum Industry**
   - <strong>Quantum</strong> <strong>Computing</strong> <strong>News</strong> <strong>and</strong> <strong>Quantum</strong> <strong>News</strong>. Technology <strong>News</strong> from around the planet. Exciting Latest Developments in <strong>Quantum</strong> Tech.
