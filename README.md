@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (March 10, 2025)
+## Latest Updates (March 17, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -25,13 +25,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
   - [Source](https://thequantuminsider.com/)
 
+- **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
+  - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
+  - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
+
+- **Quantum computing leader reveals historic breakthrough - TheStreet**
+  - A recent study indicates that <strong>quantum</strong> history may be taking shape.
+  - [Source](https://www.thestreet.com/technology/quantum-computing-leader-reveals-historic-breakthrough)
+
 - **These Artificial Intelligence (AI) Quantum Computing Stocks Could Soar in 2025 @themotleyfool #stocks $IONQ $GOOGL $GOOG**
   - Over the <strong>last</strong> 12 months, the company has poured roughly $30 million each quarter into R&amp;D -- logically prioritizing that above all else. However, potential investors should understand there are risks to the company&#x27;s strategy -- and owning its stock. If IonQ&#x27;s research pays off. and the company announces key improvements to <strong>quantum</strong> <strong>computing</strong> ...
   - [Source](https://www.fool.com/investing/2025/02/04/these-artificial-intelligence-ai-quantum-computing/)
-
-- **Quantum computing | MIT News | Massachusetts Institute of Technology**
-  - By emulating a magnetic field on a superconducting <strong>quantum</strong> <strong>computer</strong>, researchers can probe complex properties of materials.
-  - [Source](https://news.mit.edu/topic/quantum-computing)
 
 ### Market Trends
 
@@ -39,17 +43,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that <strong>practical quantum computing is still 15 to 30 years away</strong>, at the same time suggesting those computers will need Nvidia GPUs in order to implement the necessary error correction.
   - [Source](https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/)
 
-- **Quantum Computing Further Out In The ‘AI Decade,’ John Chambers Says | Investor's Business Daily**
-  - Decode the energy market and invest with confidence with our <strong>weekly</strong> newsletter. Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>computing</strong> could shake up the winners and losers in tech.
-  - [Source](https://www.investors.com/news/technology/quantum-computing-further-out-ai-decade-john-chambers/)
+- **Quantum computing company shares jump after D-Wave's upbeat forecast | Reuters**
+  - <strong>Shares of some quantum computing companies rallied on Thursday</strong>, adding to gains from the previous session and bucking the broader market&#x27;s trend after D-Wave Quantum forecast stronger-than-expected quarterly revenue.
+  - [Source](https://www.reuters.com/technology/quantum-computing-company-shares-jump-after-d-waves-upbeat-forecast-2025-03-13/)
 
-- **Quantum Computing Stocks Pop As Investors Mull Trump's 'Stargate' Project Quantum Computing Stocks Pop As Investors Mull President Trump's First Moves**
-  - Try 4 <strong>weeks</strong> free. Simple, quick, actionable. Invest like a pro with IBD’s MarketDiem newsletter for only $20/year! <strong>Quantum</strong> <strong>Computing</strong> Stocks Pop As Investors Mull Trump&#x27;s &#x27;Stargate&#x27; Project
-  - [Source](https://www.investors.com/news/technology/quantum-computing-stocks-trump-artificial-inteligence/)
-
-- **Quantum Computing News, Quantum Articles, Quantum Industry**
-  - <strong>Quantum</strong> <strong>Computing</strong> <strong>News</strong> <strong>and</strong> <strong>Quantum</strong> <strong>News</strong>. Technology <strong>News</strong> from around the planet. Exciting Latest Developments in <strong>Quantum</strong> Tech.
-  - [Source](https://quantumzeitgeist.com/)
+- **Sutor Group Intelligence and Advisory – Tech, Strategy, and Marketing Expertise for Quantum Computing, AI, and Emerging Tech**
+  - This is looking to be a busy <strong>week</strong> <strong>for</strong> <strong>quantum</strong> <strong>computing</strong>, and it is only Wednesday morning as I write this. IonQ announces earnings after… Read More ... This is the 50th edition of this newsletter. I’m forgoing links today to discuss <strong>quantum</strong> <strong>computing</strong> vendor announcements and how they affect the trust in those vendors. <strong>Quantum</strong> <strong>Computing</strong> Announcements: It’s a Question of Trust <strong>Last</strong> ...
+  - [Source](https://sutorgroupintelligenceandadvisory.com/)
 
 ## Contributing
 
