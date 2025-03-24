@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (March 17, 2025)
+## Latest Updates (March 24, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -17,25 +17,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
-- **Quantum Computers News -- ScienceDaily**
-  - <strong>Quantum</strong> <strong>Computer</strong> Research. Read the latest <strong>news</strong> in developing <strong>quantum</strong> <strong>computers</strong>.
-  - [Source](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+- **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
+  - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
+  - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
 
 - **Quantum Computing News & Top Stories | The Quantum Insider**
   - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
   - [Source](https://thequantuminsider.com/)
 
-- **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
-  - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
-  - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
-
 - **Quantum computing leader reveals historic breakthrough - TheStreet**
   - A recent study indicates that <strong>quantum</strong> history may be taking shape.
   - [Source](https://www.thestreet.com/technology/quantum-computing-leader-reveals-historic-breakthrough)
 
-- **These Artificial Intelligence (AI) Quantum Computing Stocks Could Soar in 2025 @themotleyfool #stocks $IONQ $GOOGL $GOOG**
-  - Over the <strong>last</strong> 12 months, the company has poured roughly $30 million each quarter into R&amp;D -- logically prioritizing that above all else. However, potential investors should understand there are risks to the company&#x27;s strategy -- and owning its stock. If IonQ&#x27;s research pays off. and the company announces key improvements to <strong>quantum</strong> <strong>computing</strong> ...
-  - [Source](https://www.fool.com/investing/2025/02/04/these-artificial-intelligence-ai-quantum-computing/)
+- **This Week in AI: Microsoft Sees Quantum Breakthrough as Ai Pin Deflates | PYMNTS.com**
+  - This <strong>week</strong> <strong>in</strong> <strong>AI</strong> <strong>news</strong>, <strong>quantum</strong> <strong>computing</strong> achieves a breakthrough, while HP buys out Humane as the wearable tech firm struggles.
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/this-week-in-ai-microsoft-sees-quantum-breakthrough-as-ai-pin-deflates/)
+
+- **Quantum Computers News -- ScienceDaily**
+  - <strong>Quantum</strong> <strong>Computer</strong> Research. Read the latest <strong>news</strong> in developing <strong>quantum</strong> <strong>computers</strong>.
+  - [Source](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
 
 ### Market Trends
 
@@ -43,13 +43,13 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that <strong>practical quantum computing is still 15 to 30 years away</strong>, at the same time suggesting those computers will need Nvidia GPUs in order to implement the necessary error correction.
   - [Source](https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/)
 
-- **Quantum computing company shares jump after D-Wave's upbeat forecast | Reuters**
-  - <strong>Shares of some quantum computing companies rallied on Thursday</strong>, adding to gains from the previous session and bucking the broader market&#x27;s trend after D-Wave Quantum forecast stronger-than-expected quarterly revenue.
-  - [Source](https://www.reuters.com/technology/quantum-computing-company-shares-jump-after-d-waves-upbeat-forecast-2025-03-13/)
-
 - **Sutor Group Intelligence and Advisory – Tech, Strategy, and Marketing Expertise for Quantum Computing, AI, and Emerging Tech**
   - This is looking to be a busy <strong>week</strong> <strong>for</strong> <strong>quantum</strong> <strong>computing</strong>, and it is only Wednesday morning as I write this. IonQ announces earnings after… Read More ... This is the 50th edition of this newsletter. I’m forgoing links today to discuss <strong>quantum</strong> <strong>computing</strong> vendor announcements and how they affect the trust in those vendors. <strong>Quantum</strong> <strong>Computing</strong> Announcements: It’s a Question of Trust <strong>Last</strong> ...
   - [Source](https://sutorgroupintelligenceandadvisory.com/)
+
+- **Quantum computing company shares jump after D-Wave's upbeat forecast | Reuters**
+  - Shares of some <strong>quantum</strong> <strong>computing</strong> companies rallied on Thursday, adding to gains from the previous session and bucking the broader market&#x27;s trend after D-Wave <strong>Quantum</strong> forecast stronger-than-expected quarterly revenue.
+  - [Source](https://www.reuters.com/technology/quantum-computing-company-shares-jump-after-d-waves-upbeat-forecast-2025-03-13/)
 
 ## Contributing
 
