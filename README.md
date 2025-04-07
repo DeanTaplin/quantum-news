@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (March 31, 2025)
+## Latest Updates (April 07, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -13,13 +13,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
+- **Google Quantum AI**
+  - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
+  - [Source](https://quantumai.google/)
+
+- **Is AI the Solution for Quantum Computing? -- and other science news of the week - YouTube**
+  - This is our <strong>weekly</strong> ad-free compilation of science news00:00 - Einstein-Tile Discovered in Nature5:47 - Is <strong>AI</strong> the Solution for <strong>Quantum</strong> <strong>Computing</strong>? 11:18 - Chin...
+  - [Source](https://www.youtube.com/watch?v=bGOGK0-3fcw)
+
 - **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
   - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
   - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
-
-- **Quantum computing leader reveals historic breakthrough - TheStreet**
-  - A recent study indicates that <strong>quantum</strong> history may be taking shape.
-  - [Source](https://www.thestreet.com/technology/quantum-computing-leader-reveals-historic-breakthrough)
 
 - **Quantum Computing News & Top Stories | The Quantum Insider**
   - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
@@ -28,28 +32,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
   - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
-
-- **Is AI the Solution for Quantum Computing? -- and other science news of the week - YouTube**
-  - This is our <strong>weekly</strong> ad-free compilation of science news00:00 - Einstein-Tile Discovered in Nature5:47 - Is <strong>AI</strong> the Solution for <strong>Quantum</strong> <strong>Computing</strong>? 11:18 - Chin...
-  - [Source](https://www.youtube.com/watch?v=bGOGK0-3fcw)
-
-### Market Trends
-
-- **Useful quantum computing is inevitable—and increasingly imminent | MIT Technology Review**
-  - On January 8, Nvidia CEO Jensen Huang jolted the stock market by saying that <strong>practical quantum computing is still 15 to 30 years away</strong>, at the same time suggesting those computers will need Nvidia GPUs in order to implement the necessary error correction.
-  - [Source](https://www.technologyreview.com/2025/01/27/1110540/useful-quantum-computing-is-inevitable-and-increasingly-imminent/)
-
-- **Sutor Group Intelligence and Advisory – Tech, Strategy, and Marketing Expertise for Quantum Computing, AI, and Emerging Tech**
-  - I’m forgoing links today to discuss quantum computing vendor announcements and how they affect the trust in those vendors. Quantum Computing Announcements: It’s a Question of Trust Last week, <strong>Microsoft announced its Majorana-1 chip</strong> with great fanfare, common among major corporations with ...
-  - [Source](https://sutorgroupintelligenceandadvisory.com/)
-
-- **Quantum computing company shares jump after D-Wave's upbeat forecast | Reuters**
-  - Shares of some <strong>quantum</strong> <strong>computing</strong> companies rallied on Thursday, adding to gains from the previous session and bucking the broader market&#x27;s trend after D-Wave <strong>Quantum</strong> forecast stronger-than-expected quarterly revenue.
-  - [Source](https://www.reuters.com/technology/quantum-computing-company-shares-jump-after-d-waves-upbeat-forecast-2025-03-13/)
-
-- **2025 Expert Quantum Predictions — Quantum Computing**
-  - The following is a list of just some of those experts who submitted their key insights and emerging trends that may shape <strong>quantum</strong> <strong>computing</strong>.
-  - [Source](https://thequantuminsider.com/2024/12/31/2025-expert-quantum-predictions-quantum-computing/)
 
 ## Contributing
 
