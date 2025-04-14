@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (April 07, 2025)
+## Latest Updates (April 14, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -11,27 +11,31 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Recent <strong>news</strong> items published within the <strong>last</strong> 6 months on <strong>quantum</strong> <strong>computing</strong> developments are listed below. Click on the hyperlinked item to go to the press release or <strong>news</strong> article for more details. For older <strong>news</strong> items published in 2024 click here, for 2023 click here, for 2022 click here, for ...
   - [Source](https://quantumcomputingreport.com/news/)
 
+- **Chinese Researchers Use Quantum Computer to Fine-Tune Billion-Parameter AI Model**
+  - <strong>Chinese scientists used a quantum computer to fine-tune a billion-parameter artificial intelligence (AI) model</strong>, marking what they claim is a global first and a step toward combining quantum computing with advanced AI tasks, the state-affiliated Global Times reported.
+  - [Source](https://thequantuminsider.com/2025/04/07/chinese-researchers-use-quantum-computer-to-fine-tune-billion-parameter-ai-model/)
+
 ### Notable Innovations
 
 - **Google Quantum AI**
   - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
   - [Source](https://quantumai.google/)
 
-- **Is AI the Solution for Quantum Computing? -- and other science news of the week - YouTube**
-  - This is our <strong>weekly</strong> ad-free compilation of science news00:00 - Einstein-Tile Discovered in Nature5:47 - Is <strong>AI</strong> the Solution for <strong>Quantum</strong> <strong>Computing</strong>? 11:18 - Chin...
-  - [Source](https://www.youtube.com/watch?v=bGOGK0-3fcw)
-
 - **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
   - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
   - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
 
-- **Quantum Computing News & Top Stories | The Quantum Insider**
-  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
-  - [Source](https://thequantuminsider.com/)
+- **Quantum computing leader reveals historic breakthrough - TheStreet**
+  - A recent study indicates that <strong>quantum</strong> history may be taking shape.
+  - [Source](https://www.thestreet.com/technology/quantum-computing-leader-reveals-historic-breakthrough)
 
 - **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
   - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
+
+- **This Week in AI: Microsoft Sees Quantum Breakthrough as Ai Pin Deflates | PYMNTS.com**
+  - This week in AI news, <strong>quantum computing achieves a breakthrough</strong>, while HP buys out Humane as the wearable tech firm struggles.
+  - [Source](https://www.pymnts.com/artificial-intelligence-2/2025/this-week-in-ai-microsoft-sees-quantum-breakthrough-as-ai-pin-deflates/)
 
 ## Contributing
 
