@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (April 28, 2025)
+## Latest Updates (May 05, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -15,6 +15,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - <strong>Chinese scientists used a quantum computer to fine-tune a billion-parameter artificial intelligence (AI) model</strong>, marking what they claim is a global first and a step toward combining quantum computing with advanced AI tasks, the state-affiliated Global Times reported.
   - [Source](https://thequantuminsider.com/2025/04/07/chinese-researchers-use-quantum-computer-to-fine-tune-billion-parameter-ai-model/)
 
+- **First encounter: Chinese AI meets quantum power and gets smarter, faster | South China Morning Post**
+  - Hefei team use China’s superconducting <strong>quantum</strong> <strong>computer</strong> Origin Wukong to fine-tune a large language model, researcher says.
+  - [Source](https://www.scmp.com/news/china/science/article/3305761/first-encounter-chinese-ai-meets-quantum-power-and-gets-smarter-faster)
+
 ### Notable Innovations
 
 - **How quantum computing could supercharge Google’s AI ambitions**
@@ -25,6 +29,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
   - [Source](https://quantumai.google/)
 
+- **Quantum Computing News & Top Stories | The Quantum Insider**
+  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
+  - [Source](https://thequantuminsider.com/)
+
 - **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
   - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
@@ -32,10 +40,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **Quantum computing leader reveals historic breakthrough - TheStreet**
   - A recent study indicates that <strong>quantum</strong> history may be taking shape.
   - [Source](https://www.thestreet.com/technology/quantum-computing-leader-reveals-historic-breakthrough)
-
-- **Quantum Computing News & Top Stories | The Quantum Insider**
-  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
-  - [Source](https://thequantuminsider.com/)
 
 ## Contributing
 
