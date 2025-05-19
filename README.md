@@ -2,7 +2,7 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (May 12, 2025)
+## Latest Updates (May 19, 2025)
 
 
 ### Major Model Releases & Improvements
@@ -17,6 +17,10 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
+- **Quantum Computing News & Top Stories | The Quantum Insider**
+  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
+  - [Source](https://thequantuminsider.com/)
+
 - **How quantum computing could supercharge Google’s AI ambitions**
   - <strong>The company unveiled a breakthrough quantum computing chip called Willow</strong>, which it says can solve a benchmark problem unimaginably faster than what&#x27;s possible with a classical computer, and demonstrated that adding more quantum bits to the chip reduced errors exponentially.
   - [Source](https://www.cnbc.com/2025/04/18/how-quantum-computing-could-supercharge-googles-ai-ambitions.html)
@@ -25,10 +29,6 @@ A curated collection of the latest developments, breakthroughs, and news in the 
   - Google <strong>Quantum</strong> <strong>AI</strong> is advancing the state of the art in <strong>quantum</strong> <strong>computing</strong> and developing the hardware and software tools to operate beyond classical capabilities. Discover our research and resources to help you with your <strong>quantum</strong> experiments.
   - [Source](https://quantumai.google/)
 
-- **Quantum Computing News & Top Stories | The Quantum Insider**
-  - Find the latest <strong>Quantum</strong> <strong>Computing</strong> <strong>news</strong>, data, market research, and insights. To stay up to date with the <strong>quantum</strong> market click here!
-  - [Source](https://thequantuminsider.com/)
-
 - **AI and quantum computing: How IBM showed up at SXSW 2025 - IBM Research**
   - At IBM Research, we’re inventing what’s next in <strong>AI</strong>, <strong>quantum</strong> <strong>computing</strong>, and hybrid cloud to shape the world ahead.
   - [Source](https://research.ibm.com/blog/ibm-research-sxsw-quantum-ai)
@@ -36,6 +36,12 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 - **The Next Breakthrough In Artificial Intelligence: How Quantum AI Will Reshape Our World**
   - <strong>Quantum</strong> <strong>AI</strong>, the fusion of <strong>quantum</strong> <strong>computing</strong> and artificial intelligence, is poised to revolutionize industries from finance to healthcare.
   - [Source](https://www.forbes.com/sites/bernardmarr/2024/10/08/the-next-breakthrough-in-artificial-intelligence-how-quantum-ai-will-reshape-our-world/)
+
+### Market Trends
+
+- **Quantum Computers Will Make AI Better**
+  - With more than 550 dedicated employees, ... This week marked one of my proudest moments: <strong>the announcement of a joint venture with Al Rabban Capital to accelerate the commercial adoption of quantum technology in Qatar and the Gulf region</strong>....
+  - [Source](https://www.quantinuum.com/blog/quantum-computers-will-make-ai-better)
 
 ## Contributing
 
