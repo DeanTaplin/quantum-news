@@ -1,15 +1,12 @@
 import os
 import json
 import requests
-from datetime import datetime, timedelta
-# For robust month calculations, dateutil.relativedelta can be useful.
-# Ensure 'python-dateutil' is added to dependencies if you use it.
-# For this implementation, we'll use datetime and timedelta.
+from datetime import datetime # timedelta might not be needed anymore
 
 # Define the history directory
 NEWS_HISTORY_DIR = "news_history"
 
-def search_brave(query, count=30):
+def search_brave(query, count=30, freshness_code=None, country='us', search_lang='en'):
     api_key = os.environ.get('BRAVE_API_KEY')
     if not api_key:
         print("Error: BRAVE_API_KEY environment variable not set.")
@@ -19,22 +16,43 @@ def search_brave(query, count=30):
         'X-Subscription-Token': api_key,
         'Accept': 'application/json'
     }
-    url = 'https://api.search.brave.com/res/v1/web/search'
-    params = {'q': query, 'count': count}
+    # Use the NEWS endpoint
+    url = 'https://api.search.brave.com/res/v1/news/search' 
     
-    print(f"Searching Brave with query: '{query}' and params: {params}")
+    params = {
+        'q': query,
+        'count': count,
+        'country': country,
+        'search_lang': search_lang,
+        'spellcheck': 'true' # Enable spellcheck as per example
+    }
+    if freshness_code:
+        params['freshness'] = freshness_code
+    
+    print(f"Searching Brave NEWS API with query: '{query}' and params: {params}")
     try:
         response = requests.get(url, headers=headers, params=params)
         response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"Error during Brave API request: {e}")
-        return {"web": {"results": []}}
+        # Return a structure that mimics a valid empty response for news
+        return {"results": []} # News API might return 'results' at top level
 
 def generate_readme_content(data_saved_to_history, news_period_label=""): 
+    # The API response for news might be a direct list of results, or nested.
+    # Based on Brave's general structure, 'results' is often a top-level key for news.
+    # If it's nested under 'web', this needs adjustment. Assuming 'results' is top-level for news endpoint.
     api_response_data = data_saved_to_history.get('api_response', {})
+    # Let's check common structures for results from news endpoint:
+    # Option 1: results is a top-level key in api_response_data
+    # Option 2: results is under a 'web' or 'news' key (less likely for specific news endpoint)
+    results = api_response_data.get('results', []) # Primary assumption for news endpoint
+    if not results and 'web' in api_response_data: # Fallback check if it's like web search
+        results = api_response_data.get('web', {}).get('results', [])
+
+
     query_details = data_saved_to_history.get('query_details', {})
-    results = api_response_data.get('web', {}).get('results', [])
     
     content_parts = []
     content_parts.append("# Quantum Computing News Tracker\n\n")
@@ -44,32 +62,32 @@ def generate_readme_content(data_saved_to_history, news_period_label=""):
     content_parts.append(f"## Latest Updates ({header_text})\n\n")
     
     if not results:
-        search_type = query_details.get("search_type", "weekly")
-        if search_type == "monthly_fallback":
-            content_parts.append("No new relevant articles found for the past week. Displaying notable articles from the past month.\n")
-            # Check again if fallback also yielded nothing specifically for the message
-            if not api_response_data.get('web', {}).get('results', []): # Check results from fallback specifically
+        search_type = query_details.get("search_type", "weekly_freshness") # Updated search_type name
+        if search_type == "monthly_freshness_fallback":
+            content_parts.append("No new relevant articles found for the past 7 days. Displaying notable articles from the past month.\n")
+            if not results: # Check if fallback also yielded nothing
                  content_parts.append("No notable articles found for the past month either.\n")
-        else: # weekly search that found nothing
-            content_parts.append("No new relevant articles found for the past week. Consider checking the archive or if a fallback monthly search occurs next.\n")
-    else: # Results were found
-        search_type = query_details.get("search_type", "weekly")
-        if search_type == "monthly_fallback":
-             content_parts.append("No new relevant articles found for the past week. Displaying notable articles from the past month:\n\n")
-
+        else: 
+            content_parts.append(f"No new relevant articles found for the {news_period_label.lower()}.\n")
+    else: 
+        search_type = query_details.get("search_type", "weekly_freshness")
+        if search_type == "monthly_freshness_fallback":
+             content_parts.append("No new relevant articles found for the past 7 days. Displaying notable articles from the past month:\n\n")
 
     model_releases = []
     innovations = []
     market_trends = []
     
-    for item in results: # Iterate through results from either primary or fallback
-        title = item.get('title', 'N/A')
-        description = item.get('description', 'No description available.')
-        url = item.get('url', '#')
-        
+    for item in results: 
+        # Adjust keys based on actual News API response structure for title, description, url
+        title = item.get('title', item.get('name', 'N/A')) # 'name' is sometimes used
+        description = item.get('description', item.get('snippet', 'No description available.')) # 'snippet' is common
+        url = item.get('url', item.get('webSearchUrl', '#')) # 'webSearchUrl' or similar
+
         content_text = f"{title} {description}".lower()
         news_item = f"- **{title}**\n  - {description}\n  - [Source]({url})\n"
         
+        # Keyword categorization remains the same
         if any(keyword in content_text for keyword in ['release', 'launch', 'version', 'model', 'gpt', 'claude', 'gemini']):
             model_releases.append(news_item)
         elif any(keyword in content_text for keyword in ['breakthrough', 'innovation', 'research', 'discover']):
@@ -92,6 +110,7 @@ def generate_readme_content(data_saved_to_history, news_period_label=""):
     if results and (model_releases or innovations or market_trends):
         content_parts.append("\n")
 
+    # Ensure the full static part is present in the actual script:
     full_static_readme_part = r'''
 ## News Archive
 
@@ -134,31 +153,13 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
     content_parts.append(full_static_readme_part)
     return "".join(content_parts)
 
-def get_previous_week_date_range():
-    today = datetime.now()
-    # Monday of the current week
-    start_of_this_week = today - timedelta(days=today.weekday())
-    # Monday of last week
-    start_of_last_week = start_of_this_week - timedelta(days=7)
-    # Sunday of last week
-    end_of_last_week = start_of_last_week + timedelta(days=6)
-    return start_of_last_week.strftime("%Y-%m-%d"), end_of_last_week.strftime("%Y-%m-%d")
-
-def get_previous_month_date_range():
-    today = datetime.now()
-    # First day of current month
-    first_day_current_month = today.replace(day=1)
-    # Last day of previous month is one day before first day of current month
-    last_day_previous_month = first_day_current_month - timedelta(days=1)
-    # First day of previous month
-    first_day_previous_month = last_day_previous_month.replace(day=1)
-    return first_day_previous_month.strftime("%Y-%m-%d"), last_day_previous_month.strftime("%Y-%m-%d")
 
 def main():
     print(f"Script started at {datetime.now().isoformat()}")
-    search_type = "weekly" 
-    news_period_label_for_readme = ""
-    actual_start_date_str, actual_end_date_str = "", "" # To store dates of data actually fetched
+    search_type = "weekly_freshness" 
+    news_period_label_for_readme = "Past 7 Days" # Default label
+    current_query = "" # Variable to store the query used for data_to_save
+    freshness_applied = 'none' # Variable to store freshness for data_to_save
 
     if not os.path.exists(NEWS_HISTORY_DIR):
         try:
@@ -168,45 +169,37 @@ def main():
             print(f"Error creating directory {NEWS_HISTORY_DIR}: {e}")
             return
 
-    # Primary search: Previous Week
-    intended_start_week, intended_end_week = get_previous_week_date_range()
-    actual_start_date_str, actual_end_date_str = intended_start_week, intended_end_week
+    # Primary search: Previous Week using freshness
+    current_query = '"Quantum Computing" AND "AI"' # Stricter query for weekly
+    freshness_applied = 'pw'
+    print(f"Attempting primary search (News API, freshness '{freshness_applied}'): {current_query}")
+    raw_api_response = search_brave(current_query, freshness_code=freshness_applied, country='us', search_lang='en')
     
-    query = f'"Quantum Computing" AND "AI" AND "news" after:{actual_start_date_str} before:{actual_end_date_str}'
-    print(f"Attempting primary search (previous week): {actual_start_date_str} to {actual_end_date_str}")
-    raw_api_response = search_brave(query)
-    
-    news_period_label_for_readme = f"Week of {datetime.strptime(actual_start_date_str, '%Y-%m-%d').strftime('%B %d, %Y')}"
+    current_results = raw_api_response.get('results', [])
+    if not current_results and 'web' in raw_api_response: 
+         current_results = raw_api_response.get('web', {}).get('results', [])
 
-    # Fallback search: Previous Month (if no results from weekly)
-    # Define "no results" as an empty list for 'results' key in 'web'
-    results_found = raw_api_response.get('web', {}).get('results', [])
-    if not results_found:
-        print("No results found for the previous week. Attempting fallback to previous month.")
-        search_type = "monthly_fallback"
+    if not current_results:
+        print("No results found for the past 7 days. Attempting fallback to past month.")
+        search_type = "monthly_freshness_fallback"
+        news_period_label_for_readme = "Past Month"
         
-        actual_start_date_str, actual_end_date_str = get_previous_month_date_range()
-        query = f'"Quantum Computing" AND "AI" AND "news" after:{actual_start_date_str} before:{actual_end_date_str}'
-        print(f"Attempting fallback search (previous month): {actual_start_date_str} to {actual_end_date_str}")
-        raw_api_response = search_brave(query) # This will be the response used if fallback happens
-        # Update label for README to reflect monthly fallback
-        month_dt = datetime.strptime(actual_start_date_str, '%Y-%m-%d')
-        news_period_label_for_readme = f"Month of {month_dt.strftime('%B %Y')}"
-        # Re-check if fallback also has results for accurate messaging in generate_readme_content
-        results_found = raw_api_response.get('web', {}).get('results', [])
+        current_query = '"Quantum Computing"' # Broader query for monthly
+        freshness_applied = 'pm'
+        print(f"Attempting fallback search (News API, freshness '{freshness_applied}' with broader query): {current_query}")
+        raw_api_response = search_brave(current_query, freshness_code=freshness_applied, country='us', search_lang='en')
+        current_results = raw_api_response.get('results', [])
+        if not current_results and 'web' in raw_api_response:
+             current_results = raw_api_response.get('web', {}).get('results', [])
 
-
-    # Prepare data for saving
-    # History filename is based on the script's run week, not the data's period (if fallback)
-    history_file_run_date_prefix = intended_start_week 
+    history_file_run_date_prefix = datetime.now().strftime("%Y-%m-%d")
 
     data_to_save = {
         "query_details": {
-            "query_sent": query, 
-            "intended_period_start_date": intended_start_week,
-            "intended_period_end_date": intended_end_week,
-            "actual_data_period_start": actual_start_date_str, # Start date of the data in api_response
-            "actual_data_period_end": actual_end_date_str,     # End date of the data in api_response
+            "query_sent": current_query, 
+            "freshness_used": freshness_applied, 
+            "country_used": 'us', # Hardcoded for now
+            "search_lang_used": 'en', # Hardcoded for now
             "search_type": search_type,
             "retrieval_timestamp": datetime.now().isoformat()
         },
