@@ -2,10 +2,15 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (Month of April 2025)
+## Latest Updates (Past 7 Days)
 
-No new relevant articles found for the past week. Displaying notable articles from the past month.
-No notable articles found for the past month either.
+
+### Major Model Releases & Improvements
+
+- **NVIDIA and AIST Launch ABCI-Q Supercomputer for Hybrid Quantum-AI Research - Quantum Computing Report**
+  - Japan’s National Institute of Advanced Industrial Science and Technology (AIST), in collaboration with NVIDIA, has launched ABCI-Q, a new research-focused supercomputing system designed to support large-scale hybrid quantum-classical computing.
+  - [Source](https://quantumcomputingreport.com/nvidia-and-aist-launch-abci-q-supercomputer-for-hybrid-quantum-ai-research/)
+
 
 ## News Archive
 

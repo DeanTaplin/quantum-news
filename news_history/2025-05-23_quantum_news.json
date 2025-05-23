@@ -1,0 +1,92 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-05-23T22:31:08.434926"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "NVIDIA and AIST Launch ABCI-Q Supercomputer for Hybrid Quantum-AI Research - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/nvidia-and-aist-launch-abci-q-supercomputer-for-hybrid-quantum-ai-research/",
+                "description": "Japan\u2019s National Institute of Advanced Industrial Science and Technology (AIST), in collaboration with NVIDIA, has launched ABCI-Q, a new research-focused supercomputing system designed to support large-scale hybrid quantum-classical computing.",
+                "age": "4 days ago",
+                "page_age": "2025-05-19T20:51:11",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a nvidia-and-aist-launch-abci-q-supercomputer-for-hybrid-quantum-ai-research"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "NVIDIA Grows Quantum Computing Ecosystem with Taiwan Manufacturers and Supercomputing",
+                "url": "https://www.hpcwire.com/off-the-wire/nvidia-grows-quantum-computing-ecosystem-with-taiwan-manufacturers-and-supercomputing/",
+                "description": "Atlantic Quantum, the University of Edinburgh,, the University of Oxford, Quantum Circuits Inc., QuEra Computing and Yale University anticipate receiving NVIDIA Grace Hopper Superchips from Supermicro to explore and refine the intersections between AI supercomputing and quantum computing.",
+                "age": "4 days ago",
+                "page_age": "2025-05-19T14:06:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "hpcwire.com",
+                    "hostname": "www.hpcwire.com",
+                    "favicon": "https://imgs.search.brave.com/6HoaQy46JZPC4UEqka3p9uhe-301pfJDwcm4vTIVFRE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE3YTg5N2Qw/ZTdmMzYwNjEyNGVj/NWE5NjA5MGVmMTY4/OWJkM2ZkMzBjYjFi/M2YzNmE3ZmZjMWIw/OWVmMmYwOS93d3cu/aHBjd2lyZS5jb20v",
+                    "path": "\u203a off-the-wire  \u203a nvidia-grows-quantum-computing-ecosystem-with-taiwan-manufacturers-and-supercomputing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/WWe-g6aumrNYssBY6VFi0ar0RI1-o62FQk1LTD1UKjY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aHBjd2lyZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjIv/MDEvTnZpZGlhLWJ1/aWxkaW5nLWxvZ29f/c2h1dHRlcnN0b2Nr/LTQxMDMxODAyM183/MDB4LnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Feels Like Where AI Was In 2015: Google CEO Sundar Pichai",
+                "url": "https://officechai.com/ai/quantum-computing-feels-like-where-ai-was-in-2015-google-ceo-sundar-pichai/",
+                "description": "He projects a near-future where quantum computing delivers tangible advantages: \u201cSo I would say in a five-year time frame, you would have that moment where some a really useful practical computation is done in a quantum way, far superior to classical computers, and that\u2019ll be that aha moment ...",
+                "age": "1 week ago",
+                "page_age": "2025-05-17T06:35:40",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "officechai.com",
+                    "hostname": "officechai.com",
+                    "favicon": "https://imgs.search.brave.com/we_4DpJjSvBKWK4cSA-2iVg-Q0-3lJlpf3fWfZIZaT8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzJlZWUxMmE2/MTE3NDliOGQ0Mzhj/OWE4ZGQxMjg2MzA2/ZjFhYjQyZjFmYTNk/YzAzMjEyMDAyOTNm/NWJlNDgxYS9vZmZp/Y2VjaGFpLmNvbS8",
+                    "path": "\u203a ai  \u203a quantum-computing-feels-like-where-ai-was-in-2015-google-ceo-sundar-pichai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/IwnGJpOoeHSkvGZly_tgREx8B2t1I_XbngQ0rRuar1E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9vZmZp/Y2VjaGFpLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NS9NaXhDb2xsYWdl/LTE3LU1heS0yMDI1/LTEyLTA0LVBNLTc1/NjcuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "QpiAI Partners with L&T-Cloudfiniti to Advance Quantum Computing and AI Integration",
+                "url": "https://www.hpcwire.com/off-the-wire/qpiai-partners-with-lt-cloudfiniti-to-advance-quantum-computing-and-ai-integration/",
+                "description": "The collaboration will focus on driving quantum computing workloads, including Quantum Computing as a Service (QCAAS), enabling scalable deployment of quantum solutions across domains. L&T-Cloudfiniti and QpiAI will explore collaborative opportunities under India\u2019s National Quantum Mission.",
+                "age": "1 week ago",
+                "page_age": "2025-05-16T14:06:48",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "hpcwire.com",
+                    "hostname": "www.hpcwire.com",
+                    "favicon": "https://imgs.search.brave.com/6HoaQy46JZPC4UEqka3p9uhe-301pfJDwcm4vTIVFRE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGE3YTg5N2Qw/ZTdmMzYwNjEyNGVj/NWE5NjA5MGVmMTY4/OWJkM2ZkMzBjYjFi/M2YzNmE3ZmZjMWIw/OWVmMmYwOS93d3cu/aHBjd2lyZS5jb20v",
+                    "path": "\u203a off-the-wire  \u203a qpiai-partners-with-lt-cloudfiniti-to-advance-quantum-computing-and-ai-integration"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/6efhFGfwlyvsrq85zmgR6sRmcWuiiWIbL6kQYfTwVRc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aHBjd2lyZS5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MDUvcXBpYWktbG9n/by5qcGc"
+                }
+            }
+        ]
+    }
+}
