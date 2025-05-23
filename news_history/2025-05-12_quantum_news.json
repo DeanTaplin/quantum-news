@@ -1,9 +1,12 @@
 {
     "query_details": {
-        "query_sent": "\"Quantum Computing\" AND \"AI\" AND \"news\" after:2025-05-12 before:2025-05-18",
-        "period_start_date": "2025-05-12",
-        "period_end_date": "2025-05-18",
-        "retrieval_timestamp": "2025-05-23T22:10:51.643791"
+        "query_sent": "\"Quantum Computing\" AND \"AI\" AND \"news\" after:2025-04-01 before:2025-04-30",
+        "intended_period_start_date": "2025-05-12",
+        "intended_period_end_date": "2025-05-18",
+        "actual_data_period_start": "2025-04-01",
+        "actual_data_period_end": "2025-04-30",
+        "search_type": "monthly_fallback",
+        "retrieval_timestamp": "2025-05-23T22:22:05.087610"
     },
     "api_response": {
         "web": {

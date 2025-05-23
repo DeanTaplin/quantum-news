@@ -2,9 +2,10 @@
 
 A curated collection of the latest developments, breakthroughs, and news in the field of Quantum Computing.
 
-## Latest Updates (May 23, 2025)
+## Latest Updates (Month of April 2025)
 
-No new relevant articles found for the latest period.
+No new relevant articles found for the past week. Displaying notable articles from the past month.
+No notable articles found for the past month either.
 
 ## News Archive
 
