@@ -1,0 +1,110 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-06-02T01:27:20.640605"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Billionaire Chamath Palihapitiya has a blunt warning about quantum computing - TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more",
+                "url": "https://www.thestreet.com/crypto/markets/billionaire-chamath-palihapitiya-has-a-blunt-warning-about-quantum-computing",
+                "description": "New research suggests quantum computers could break encryption far sooner than expected, raising alarm bells across the crypto world. ... Billionaire investor Chamath Palihapitiya has warned that Google revealed breaking common encryption might be closer than we thought. \u201cIf this is even remotely true, combined with everything else happening rn, the only safe trade are hard assets and...",
+                "age": "2 days ago",
+                "page_age": "2025-05-30T15:32:53",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thestreet.com",
+                    "hostname": "www.thestreet.com",
+                    "favicon": "https://imgs.search.brave.com/-VC9dZps0BgtEX1S6D7NG3hdqWp5SDvxju1_9jZWAD8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDNkOGE0YjUy/YThmNjljOTAxM2Zj/YmFlZTQ5Y2EzMTc2/ZGI1YTAyNTE3MjA0/MjUzOWJjMzE3ZDcz/MTQ1ZmE1MS93d3cu/dGhlc3RyZWV0LmNv/bS8",
+                    "path": "\u203a crypto  \u203a markets  \u203a billionaire-chamath-palihapitiya-has-a-blunt-warning-about-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nCRXQF-felvCpasf4jyvMNmKdWTMwE8ycvYIUadALHI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlc3RyZWV0LmNv/bS8uaW1hZ2UvdF9z/aGFyZS9NakUxTWpZ/M05UUXhNalV5TURV/Mk5UazEvZ2V0dHlp/bWFnZXMtMTQxMzcz/MjYzOC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "ZenaTech Combines Quantum Computing with AI Drone Fleets to Fight Western Wildfires | ZENA Stock News",
+                "url": "https://www.stocktitan.net/news/ZENA/zena-tech-developing-quantum-computing-and-ai-drone-fleets-to-asbw6ogtb03z.html",
+                "description": "VCI Global Teases \u2018Project QG\u2019: Sovereign AI and Encrypted Data M... ... Zeo Energy Corp. to Acquire Heliogen, Inc., Expected to Create a ... ... Alzamend Neuro Announces Dosing of First Patient in its Phase II ... ... Eos Energy Enterprises, Inc. Announces Proposed Offering of Commo... ... Hyperscale Data Subsidiary Ault Capital Group Plans to Launch XRP... ... ZenaTech (NASDAQ: ZENA) has announced a strategic initiative combining quantum computing ...",
+                "age": "4 days ago",
+                "page_age": "2025-05-29T12:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "stocktitan.net",
+                    "hostname": "www.stocktitan.net",
+                    "favicon": "https://imgs.search.brave.com/oVbJYXQ1fMa7E7nV4NEgJIoaJed1n-Yg3MKop6cU2fw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQxYTVjN2Y3/YTdkZjQ0NWYzNDRm/NzFjNjUyZGNmYjJl/Y2VhNGUxNDlhNzgx/OWZlOTAyYTE5Yjhk/MDBjOTE4Zi93d3cu/c3RvY2t0aXRhbi5u/ZXQv",
+                    "path": "\u203a news  \u203a ZENA  \u203a zena-tech-developing-quantum-computing-and-ai-drone-fleets-to-asbw6ogtb03z.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ffEJeUWeENia4ZGGiXcvmXUOhxOgjx1GaWAtdKRv2Mc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc3RvY2t0aXRh/bi5uZXQvY29tcGFu/eS1sb2dvL3plbmEt/bGcucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "GBAC Unveils Quantum Healthcare 2025 Blueprint on Quantum Computing (QC) and AI-Driven Drug Discovery",
+                "url": "https://www.einpresswire.com/article/816282690/gbac-unveils-quantum-healthcare-2025-blueprint-on-quantum-computing-qc-and-ai-driven-drug-discovery",
+                "description": "Aisha Rahim, MD, FHM, Medical Executive ... boards and investors for healthcare\u2019s quantum leap. Governments have already earmarked US $40 billion-plus for quantum-health programmes across 30 nations, highlighting the sector\u2019s accelerating momentum. Pharma-Focused Highlights US $3.2 billion quantum-drug-discovery market by 2030 (42 % CAGR). 50\u201370 % faster R&D cycles \u2013 hybrid Quantum Computing (QC) + AI ...",
+                "age": "6 days ago",
+                "page_age": "2025-05-27T04:54:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "einpresswire.com",
+                    "hostname": "www.einpresswire.com",
+                    "favicon": "https://imgs.search.brave.com/uuJXgwPr74vaELI7f5Mw-ONBbU71F6UJ2iLG7ZYKwfs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQyNmNlYWQ2/NThiMzY3ZjUxYjcx/YzJiYjQ0NDYyMWZj/YmE2ZDdjZWJkN2I1/MzBhYmNmMDI1NmRk/NTQzYzk4YS93d3cu/ZWlucHJlc3N3aXJl/LmNvbS8",
+                    "path": "\u203a article  \u203a 816282690  \u203a gbac-unveils-quantum-healthcare-2025-blueprint-on-quantum-computing-qc-and-ai-driven-drug-discovery"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ROAFS5B0n142C8Eyre-BNjkxwXYtkIAFyeAGJX6siJ4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZWlubmV3cy5jb20v/ZmFjZWJvb2svODkx/MzE5L2x1eHVyeS1p/bmZvZ3JhcGhpYy1n/YmFjLXF1YW50LnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing and AI are unlocking complex challenges in petrochemical and manufacturing \u2013 10/12 Industry Report",
+                "url": "https://www.1012industryreport.com/technology/quantum-computing-and-ai-are-unlocking-complex-challenges-in-petrochemical-and-manufacturing/",
+                "description": "It\u2019s not scalable just yet, but quantum computing is already turning heads because of its ability to exponentially accelerate decision-making in the industrial space.",
+                "age": "1 week ago",
+                "page_age": "2025-05-26T17:26:14",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "1012industryreport.com",
+                    "hostname": "www.1012industryreport.com",
+                    "favicon": "https://imgs.search.brave.com/BBJhAcOaua-YFEfs0tq66a5VDzV79R7eMP1j0kNS9y4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTZkNDk0OWEx/ZTU3OWE3ZWRmNTVm/ZDRjYjJiMTcxZjVl/ZDQxMmVlYzVlZjYy/YjcyNzEwNzMwYzcy/MjIyMzkyMy93d3cu/MTAxMmluZHVzdHJ5/cmVwb3J0LmNvbS8",
+                    "path": "\u203a technology  \u203a quantum-computing-and-ai-are-unlocking-complex-challenges-in-petrochemical-and-manufacturing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/hPRks38YQDrEkfxp5HtM3PY3BDhyPPkJPn76t2tc9hI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/MTAxMmluZHVzdHJ5/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NC9Hb29nbGUtR2Vt/aW5pLXNjYWxlZC5q/cGcub3B0aW1hbC5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "L&T-Cloudfiniti partners with QpiAI to drive quantum computing work...",
+                "url": "https://evertiq.com/design/2025-05-26-lt-cloudfiniti-partners-with-qpiai-to-drive-quantum-computing-workloads",
+                "description": "The two companies will initiate and execute joint R&D programmes focussed on next-generation solutions at the intersection of AI and quantum computing, in India.",
+                "age": "1 week ago",
+                "page_age": "2025-05-26T09:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "evertiq.com",
+                    "hostname": "evertiq.com",
+                    "favicon": "https://imgs.search.brave.com/YnkVqE5aJqY3MHrCXefdJMVDWyQwj4BqQDlS2Cw7AGY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDQzY2U5OWQx/NjMyMDc0ZjlmNDcx/ZTMwODgzZTczMzcy/MzJlNDk1YTMyMDBi/ZTllMWUyNzQ2Njc4/YmM0ZTQ0Zi9ldmVy/dGlxLmNvbS8",
+                    "path": "\u203a design  \u203a 2025-05-26-lt-cloudfiniti-partners-with-qpiai-to-drive-quantum-computing-workloads"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/2Ksj90JZI9RjWwEIJSpzO2-o0fWhyqVY1kkXSxGCn5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ldmVy/dGlxLmNvbS9uaW1n/L1BpeGFiYXktSW1h/Z2VzL1BpeGFiYXlf/cXVhbnR1bS1jb21w/dXRlcl9nZXJhbHQu/anBn"
+                }
+            }
+        ]
+    }
+}

@@ -7,9 +7,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **NVIDIA and AIST Launch ABCI-Q Supercomputer for Hybrid Quantum-AI Research - Quantum Computing Report**
-  - Japan’s National Institute of Advanced Industrial Science and Technology (AIST), in collaboration with NVIDIA, has launched ABCI-Q, a new research-focused supercomputing system designed to support large-scale hybrid quantum-classical computing.
-  - [Source](https://quantumcomputingreport.com/nvidia-and-aist-launch-abci-q-supercomputer-for-hybrid-quantum-ai-research/)
+- **ZenaTech Combines Quantum Computing with AI Drone Fleets to Fight Western Wildfires | ZENA Stock News**
+  - VCI Global Teases ‘Project QG’: Sovereign AI and Encrypted Data M... ... Zeo Energy Corp. to Acquire Heliogen, Inc., Expected to Create a ... ... Alzamend Neuro Announces Dosing of First Patient in its Phase II ... ... Eos Energy Enterprises, Inc. Announces Proposed Offering of Commo... ... Hyperscale Data Subsidiary Ault Capital Group Plans to Launch XRP... ... ZenaTech (NASDAQ: ZENA) has announced a strategic initiative combining quantum computing ...
+  - [Source](https://www.stocktitan.net/news/ZENA/zena-tech-developing-quantum-computing-and-ai-drone-fleets-to-asbw6ogtb03z.html)
+
+### Notable Innovations
+
+- **Billionaire Chamath Palihapitiya has a blunt warning about quantum computing - TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more**
+  - New research suggests quantum computers could break encryption far sooner than expected, raising alarm bells across the crypto world. ... Billionaire investor Chamath Palihapitiya has warned that Google revealed breaking common encryption might be closer than we thought. “If this is even remotely true, combined with everything else happening rn, the only safe trade are hard assets and...
+  - [Source](https://www.thestreet.com/crypto/markets/billionaire-chamath-palihapitiya-has-a-blunt-warning-about-quantum-computing)
+
+- **GBAC Unveils Quantum Healthcare 2025 Blueprint on Quantum Computing (QC) and AI-Driven Drug Discovery**
+  - Aisha Rahim, MD, FHM, Medical Executive ... boards and investors for healthcare’s quantum leap. Governments have already earmarked US $40 billion-plus for quantum-health programmes across 30 nations, highlighting the sector’s accelerating momentum. Pharma-Focused Highlights US $3.2 billion quantum-drug-discovery market by 2030 (42 % CAGR). 50–70 % faster R&D cycles – hybrid Quantum Computing (QC) + AI ...
+  - [Source](https://www.einpresswire.com/article/816282690/gbac-unveils-quantum-healthcare-2025-blueprint-on-quantum-computing-qc-and-ai-driven-drug-discovery)
+
+### Market Trends
+
+- **Quantum computing and AI are unlocking complex challenges in petrochemical and manufacturing – 10/12 Industry Report**
+  - It’s not scalable just yet, but quantum computing is already turning heads because of its ability to exponentially accelerate decision-making in the industrial space.
+  - [Source](https://www.1012industryreport.com/technology/quantum-computing-and-ai-are-unlocking-complex-challenges-in-petrochemical-and-manufacturing/)
 
 
 ## News Archive
