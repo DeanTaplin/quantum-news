@@ -5,27 +5,21 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 ## Latest Updates (Past 7 Days)
 
 
-### Major Model Releases & Improvements
-
-- **ZenaTech Combines Quantum Computing with AI Drone Fleets to Fight Western Wildfires | ZENA Stock News**
-  - VCI Global Teases ‘Project QG’: Sovereign AI and Encrypted Data M... ... Zeo Energy Corp. to Acquire Heliogen, Inc., Expected to Create a ... ... Alzamend Neuro Announces Dosing of First Patient in its Phase II ... ... Eos Energy Enterprises, Inc. Announces Proposed Offering of Commo... ... Hyperscale Data Subsidiary Ault Capital Group Plans to Launch XRP... ... ZenaTech (NASDAQ: ZENA) has announced a strategic initiative combining quantum computing ...
-  - [Source](https://www.stocktitan.net/news/ZENA/zena-tech-developing-quantum-computing-and-ai-drone-fleets-to-asbw6ogtb03z.html)
-
 ### Notable Innovations
 
-- **Billionaire Chamath Palihapitiya has a blunt warning about quantum computing - TheStreet Crypto: Bitcoin and cryptocurrency news, advice, analysis and more**
-  - New research suggests quantum computers could break encryption far sooner than expected, raising alarm bells across the crypto world. ... Billionaire investor Chamath Palihapitiya has warned that Google revealed breaking common encryption might be closer than we thought. “If this is even remotely true, combined with everything else happening rn, the only safe trade are hard assets and...
-  - [Source](https://www.thestreet.com/crypto/markets/billionaire-chamath-palihapitiya-has-a-blunt-warning-about-quantum-computing)
+- **Quantum Computing & AI Partnership Accelerates New Materials Discovery**
+  - Quandela, a quantum computing company, and Alysophil, specialising in AI-assisted continuous flow chemistry, have secured renewed investment from TotalEnergies and MBDA to continue collaborative research into applying quantum computing to materials science. The project combines artificial ...
+  - [Source](https://quantumzeitgeist.com/quantum-computing-ai-partnership-accelerates-new-materials-discovery/)
 
-- **GBAC Unveils Quantum Healthcare 2025 Blueprint on Quantum Computing (QC) and AI-Driven Drug Discovery**
-  - Aisha Rahim, MD, FHM, Medical Executive ... boards and investors for healthcare’s quantum leap. Governments have already earmarked US $40 billion-plus for quantum-health programmes across 30 nations, highlighting the sector’s accelerating momentum. Pharma-Focused Highlights US $3.2 billion quantum-drug-discovery market by 2030 (42 % CAGR). 50–70 % faster R&D cycles – hybrid Quantum Computing (QC) + AI ...
-  - [Source](https://www.einpresswire.com/article/816282690/gbac-unveils-quantum-healthcare-2025-blueprint-on-quantum-computing-qc-and-ai-driven-drug-discovery)
+- **ZenaTech Pushes Forward on AI Drone Swarms, US Military Applications, and Quantum Computing Initiatives to be Highlighted at Three Upcoming Investor Conferences | Financial Post**
+  - Maxim Group Virtual Tech Conference Series – Bringing together emerging growth companies at the forefront of innovation, the 2025 series will spotlight how firms are leveraging AI and quantum computing to disrupt industries and scale for the future.
+  - [Source](https://financialpost.com/globe-newswire/zenatech-pushes-forward-on-ai-drone-swarms-us-military-applications-and-quantum-computing-initiatives-to-be-highlighted-at-three-upcoming-investor-conferences)
 
 ### Market Trends
 
-- **Quantum computing and AI are unlocking complex challenges in petrochemical and manufacturing – 10/12 Industry Report**
-  - It’s not scalable just yet, but quantum computing is already turning heads because of its ability to exponentially accelerate decision-making in the industrial space.
-  - [Source](https://www.1012industryreport.com/technology/quantum-computing-and-ai-are-unlocking-complex-challenges-in-petrochemical-and-manufacturing/)
+- **AI Quantum Computing Market to Grow at a CAGR of 35.0% During 2025-2031**
+  - AI Quantum Computing Market Overview and Scope 2025 2031 The AI Quantum Computing market represents a diverse and expansive global industry comprising materials and solutions that support high performance applications These components are integrated across multiple end user industries where ...
+  - [Source](https://www.openpr.com/news/4055763/ai-quantum-computing-market-to-grow-at-a-cagr-of-35-0-during)
 
 
 ## News Archive

@@ -1,0 +1,89 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-06-09T01:37:59.737573"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "AI Quantum Computing Market to Grow at a CAGR of 35.0% During 2025-2031",
+                "url": "https://www.openpr.com/news/4055763/ai-quantum-computing-market-to-grow-at-a-cagr-of-35-0-during",
+                "description": "AI Quantum Computing Market Overview and Scope 2025 2031 The AI Quantum Computing market represents a diverse and expansive global industry comprising materials and solutions that support high performance applications These components are integrated across multiple end user industries where ...",
+                "age": "2 days ago",
+                "page_age": "2025-06-06T20:59:25",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "openpr.com",
+                    "hostname": "www.openpr.com",
+                    "favicon": "https://imgs.search.brave.com/snCKbHwFO_fLYBX9eDsMqdfdPWr0nEwrrl6XZfRIDBA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTFjMjc2NjUw/MzZmMTA3MzlkZTlk/Nzg1ZjMzYjE4NDg0/NjJhMzZhYWE1Zjky/YmE3NzRhNGNlMzg4/NjdmNzcyMS93d3cu/b3BlbnByLmNvbS8",
+                    "path": "\u203a news  \u203a 4055763  \u203a ai-quantum-computing-market-to-grow-at-a-cagr-of-35-0-during"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/FvMtL9kwJJ2XfHEtf_j6uRSrSTQAwf8CYyyqXoIfmBQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/b3Blbi1wci5jb20v/TC82L0w2MDY2MTAx/NjZfZy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing & AI Partnership Accelerates New Materials Discovery",
+                "url": "https://quantumzeitgeist.com/quantum-computing-ai-partnership-accelerates-new-materials-discovery/",
+                "description": "Quandela, a quantum computing company, and Alysophil, specialising in AI-assisted continuous flow chemistry, have secured renewed investment from TotalEnergies and MBDA to continue collaborative research into applying quantum computing to materials science. The project combines artificial ...",
+                "age": "5 days ago",
+                "page_age": "2025-06-04T08:16:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a quantum-computing-ai-partnership-accelerates-new-materials-discovery"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ni9w680sJQRneP8CeLl--iSS1QZ5DAByn3tMSql6zy8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8xNDk4/NjAxMzQudjIucHJl/c3NhYmxlY2RuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvbWF0/ZXJpYWxzLTEtMS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "ZenaTech Pushes Forward on AI Drone Swarms, US Military Applications, and Quantum Computing Initiatives to be Highlighted at Three Upcoming Investor Conferences | Financial Post",
+                "url": "https://financialpost.com/globe-newswire/zenatech-pushes-forward-on-ai-drone-swarms-us-military-applications-and-quantum-computing-initiatives-to-be-highlighted-at-three-upcoming-investor-conferences",
+                "description": "Maxim Group Virtual Tech Conference Series \u2013 Bringing together emerging growth companies at the forefront of innovation, the 2025 series will spotlight how firms are leveraging AI and quantum computing to disrupt industries and scale for the future.",
+                "age": "6 days ago",
+                "page_age": "2025-06-03T11:48:16",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "financialpost.com",
+                    "hostname": "financialpost.com",
+                    "favicon": "https://imgs.search.brave.com/w-Drne-2CBzGKrbWm4ghD7ND_-5A7jzfz-gg-nESBYk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjA1MDI4OTM0/NzBkZjE0NzdmZGIz/MmYzNzljNTBlZGM5/NzJkMTI4NDVjNjM2/ZGMyYmZiMTdhMDkw/MTU1MGRlNS9maW5h/bmNpYWxwb3N0LmNv/bS8",
+                    "path": "\u203a globe-newswire  \u203a zenatech-pushes-forward-on-ai-drone-swarms-us-military-applications-and-quantum-computing-initiatives-to-be-highlighted-at-three-upcoming-investor-conferences"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Infleqtion Raises $100M to Scale Atom-Based Quantum Systems for Defense and Commercial Deployment - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/infleqtion-secures-100m-to-scale-atom-based-quantum-systems-for-defense-and-ai-applications/",
+                "description": "Infleqtion has raised $100 million ... Counterpoint Global (Morgan Stanley), S32, SAIC, and others. The funding will accelerate deployment of the company\u2019s atom-based quantum technologies across sensing, computing, and timing, with a focus on defense, aerospace, and critical ...",
+                "age": "1 week ago",
+                "page_age": "2025-06-03T02:22:29",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a infleqtion-secures-100m-to-scale-atom-based-quantum-systems-for-defense-and-ai-applications"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            }
+        ]
+    }
+}
