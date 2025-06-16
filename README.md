@@ -5,21 +5,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 ## Latest Updates (Past 7 Days)
 
 
+### Major Model Releases & Improvements
+
+- **China Ramps Up Photonic Chip Production With Eye on AI and Quantum Computing**
+  - Image: The new pilot line of China’s ... wafers and features rapid, low-cost production. (SCMP, Handout) China has launched its first production line for next-generation photonic chips, signaling a leap in its effort to compete in global technology sectors like AI, quantum computing, and 6G ...
+  - [Source](https://thequantuminsider.com/2025/06/13/china-ramps-up-photonic-chip-production-with-eye-on-ai-and-quantum-computing/)
+
+- **MerLin: Quantum Framework Bridges AI And Photonic Quantum Computing With GPU Acceleration**
+  - MerLin is a new quantum computing framework designed for data scientists not quantum physicists enabling rapid prototyping of hybrid quantumclassical machine learning models using familiar tools like PyTorch and scikitlearn it leverages GPU acceleration for simulating photonic quantum circuits ...
+  - [Source](https://quantumzeitgeist.com/merlin-quantum-framework-bridges-ai-and-photonic-quantum-computing-with-gpu-acceleration/)
+
+- **China’s photonic chip debut to power AI, 6G and quantum computing advances, expert says | South China Morning Post**
+  - TFLN wafer line is well-positioned for aggressive push into cloud and supercomputing, AI model training and inference, expert says.
+  - [Source](https://www.scmp.com/news/china/science/article/3314048/chinas-photonic-chip-debut-power-ai-6g-and-quantum-computing-advances-expert-says)
+
 ### Notable Innovations
 
-- **Quantum Computing & AI Partnership Accelerates New Materials Discovery**
-  - Quandela, a quantum computing company, and Alysophil, specialising in AI-assisted continuous flow chemistry, have secured renewed investment from TotalEnergies and MBDA to continue collaborative research into applying quantum computing to materials science. The project combines artificial ...
-  - [Source](https://quantumzeitgeist.com/quantum-computing-ai-partnership-accelerates-new-materials-discovery/)
-
-- **ZenaTech Pushes Forward on AI Drone Swarms, US Military Applications, and Quantum Computing Initiatives to be Highlighted at Three Upcoming Investor Conferences | Financial Post**
-  - Maxim Group Virtual Tech Conference Series – Bringing together emerging growth companies at the forefront of innovation, the 2025 series will spotlight how firms are leveraging AI and quantum computing to disrupt industries and scale for the future.
-  - [Source](https://financialpost.com/globe-newswire/zenatech-pushes-forward-on-ai-drone-swarms-us-military-applications-and-quantum-computing-initiatives-to-be-highlighted-at-three-upcoming-investor-conferences)
-
-### Market Trends
-
-- **AI Quantum Computing Market to Grow at a CAGR of 35.0% During 2025-2031**
-  - AI Quantum Computing Market Overview and Scope 2025 2031 The AI Quantum Computing market represents a diverse and expansive global industry comprising materials and solutions that support high performance applications These components are integrated across multiple end user industries where ...
-  - [Source](https://www.openpr.com/news/4055763/ai-quantum-computing-market-to-grow-at-a-cagr-of-35-0-during)
+- **Quantum Computing Inc. (QUBT): A Quantum Leap in AI-Driven Drug Discovery**
+  - The healthcare sector is undergoing a paradigm shift, with artificial intelligence (AI) and quantum computing emerging as critical tools to tackle previously insurmountable challenges in drug discovery. Among the pioneers in this space is Quantum Computing Inc.
+  - [Source](https://www.ainvest.com/news/quantum-computing-qubt-quantum-leap-ai-driven-drug-discovery-2506/)
 
 
 ## News Archive

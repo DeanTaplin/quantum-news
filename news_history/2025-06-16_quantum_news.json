@@ -1,0 +1,146 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-06-16T01:27:54.635524"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "China Ramps Up Photonic Chip Production With Eye on AI and Quantum Computing",
+                "url": "https://thequantuminsider.com/2025/06/13/china-ramps-up-photonic-chip-production-with-eye-on-ai-and-quantum-computing/",
+                "description": "Image: The new pilot line of China\u2019s ... wafers and features rapid, low-cost production. (SCMP, Handout) China has launched its first production line for next-generation photonic chips, signaling a leap in its effort to compete in global technology sectors like AI, quantum computing, and 6G ...",
+                "age": "3 days ago",
+                "page_age": "2025-06-13T08:22:07",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2025  \u203a 06  \u203a 13  \u203a china-ramps-up-photonic-chip-production-with-eye-on-ai-and-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/CCDiGjDgXcXGlrfl8s_i3THOjBoOpw3TKiuJ9nDHkDk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDYvU2Ny/ZWVuc2hvdC0yMDI1/LTA2LTEzLWF0LTQu/MTcuMTHigK9BTS5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "MerLin: Quantum Framework Bridges AI And Photonic Quantum Computing With GPU Acceleration",
+                "url": "https://quantumzeitgeist.com/merlin-quantum-framework-bridges-ai-and-photonic-quantum-computing-with-gpu-acceleration/",
+                "description": "MerLin is a new quantum computing framework designed for data scientists not quantum physicists enabling rapid prototyping of hybrid quantumclassical machine learning models using familiar tools like PyTorch and scikitlearn it leverages GPU acceleration for simulating photonic quantum circuits ...",
+                "age": "4 days ago",
+                "page_age": "2025-06-12T09:53:24",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a merlin-quantum-framework-bridges-ai-and-photonic-quantum-computing-with-gpu-acceleration"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/TbEBAfBPYFKVOAD6G2xWvT3qAdRyz7xfdwDOwyM10jo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8xNDk4/NjAxMzQudjIucHJl/c3NhYmxlY2RuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvbWVy/bGluLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "China\u2019s photonic chip debut to power AI, 6G and quantum computing advances, expert says | South China Morning Post",
+                "url": "https://www.scmp.com/news/china/science/article/3314048/chinas-photonic-chip-debut-power-ai-6g-and-quantum-computing-advances-expert-says",
+                "description": "TFLN wafer line is well-positioned for aggressive push into cloud and supercomputing, AI model training and inference, expert says.",
+                "age": "4 days ago",
+                "page_age": "2025-06-12T06:00:12",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "scmp.com",
+                    "hostname": "www.scmp.com",
+                    "favicon": "https://imgs.search.brave.com/glh0EcQC-BrbjUU98-nC7yKa1GSIhHuVAbgalCLZ6NA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzgzYjExOTk3/ZjUxYmEwMTVkN2Fl/OTJhMDgxNDBiZGNi/NjEzNTEyZmJjZWE0/MzNiNjQ0MTI4MzUw/ZmQyMTZmZi93d3cu/c2NtcC5jb20v",
+                    "path": "\u203a news  \u203a china  \u203a science  \u203a article  \u203a 3314048  \u203a chinas-photonic-chip-debut-power-ai-6g-and-quantum-computing-advances-expert-says"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/INTBjySqE49TqAmBpM0mIsXrrsx5On41Klu6OOx4yKQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aS1zY21wLmNvbS9z/aXRlcy9kZWZhdWx0/L2ZpbGVzL3N0eWxl/cy9vZ19pbWFnZV9z/Y21wX2dlbmVyaWMv/cHVibGljL2Q4L2lt/YWdlcy9jYW52YXMv/MjAyNS8wNi8xMS82/YzQ5ZmMwYi02MDM1/LTQ0ZGYtYThjYS00/MDI1Y2IyOGQ2YjVf/YmMzZmYyNTkuanBn/P2l0b2s9SnhtclUw/bFAmYW1wO3Y9MTc0/OTY0Mzk5Mw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Diraq and Quantum Machines Integrate NVIDIA DGX Quantum for Low-Latency AI-Accelerated Quantum Control - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/diraq-and-qm-integrate-nvidia-dgx-quantum-for-low-latency-ai-accelerated-quantum-control/",
+                "description": "The setup achieved a 3.3-microsecond ... via QM\u2019s OPX1000 controller. This latency allows for live feedback and decision-making within coherence times, addressing key barriers to practical quantum computing....",
+                "age": "4 days ago",
+                "page_age": "2025-06-11T18:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a diraq-and-qm-integrate-nvidia-dgx-quantum-for-low-latency-ai-accelerated-quantum-control"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Inc. (QUBT): A Quantum Leap in AI-Driven Drug Discovery",
+                "url": "https://www.ainvest.com/news/quantum-computing-qubt-quantum-leap-ai-driven-drug-discovery-2506/",
+                "description": "The healthcare sector is undergoing a paradigm shift, with artificial intelligence (AI) and quantum computing emerging as critical tools to tackle previously insurmountable challenges in drug discovery. Among the pioneers in this space is Quantum Computing Inc.",
+                "age": "5 days ago",
+                "page_age": "2025-06-10T20:29:22",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a quantum-computing-qubt-quantum-leap-ai-driven-drug-discovery-2506"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4ajy2mQZmwm_ePqbZ4sV4IwL7mcwaPT7xeY8pVqLedE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWludmVzdC5jb20v/YWlnYy9oeGNtcC9p/bWFnZXMvY29tcHJl/c3MtMWFkMWJlYmFk/MTgyMDAwMS5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM 'more certain' of fault-tolerant quantum computing by 2029 | Fierce Electronics",
+                "url": "https://www.fierceelectronics.com/electronics/ibm-more-certain-fault-tolerant-quantum-computing-2029",
+                "description": "It is expected to be capable of ... quantum computers, according to. The error correction methods IBM is using could require up to 2,000 physical qubits to achieve that many logical qubits, so the company still has a long way to go. But Jay Gambetta, IBM Fellow and vice president ...",
+                "age": "5 days ago",
+                "page_age": "2025-06-10T18:10:27",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fierceelectronics.com",
+                    "hostname": "www.fierceelectronics.com",
+                    "favicon": "https://imgs.search.brave.com/8-pzqONqUe8fnpD9b0C-SAQqp1N-xssFB_z1EAdBW54/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTYyNzA2Nzg0/ODQ5MDM1MTc0MWEy/MDQxM2Q1MjgyOWIx/ZmY5ODdiYTIwZmU3/M2QzZjBiMDg2Mzc3/OTZlZDAwZS93d3cu/ZmllcmNlZWxlY3Ry/b25pY3MuY29tLw",
+                    "path": "\u203a electronics  \u203a ibm-more-certain-fault-tolerant-quantum-computing-2029"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-ElyqUldACAUvMP7MYUphiq5PfMeVmQ-vBor3SUfeLI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdHhh/c3NldC5jb20vcXVh/cnR6L3FjbG91ZDQv/bWVkaWEvaW1hZ2Uv/U2NyZWVuc2hvdCUy/MDIwMjUtMDYtMTAl/MjAxMS41NS4zNSUy/MEFNLnBuZz9WZXJz/aW9uSWQ9N2hnTDh1/eXNHU25Bb2NwU1pQ/VzJ4TUY4T2dpWE1t/cVM"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Siddharth Pai: Can AI beat quantum computing at its own game?",
+                "url": "https://www.livemint.com/opinion/online-views/quantum-computing-artificial-intelligence-deep-learning-machine-learning-neural-networks-deepmind-ai-mathematics-google-11749411935622.html",
+                "description": "Artificial intelligence (AI) has shown it can imperfectly but acceptably achieve much that was envisioned for quantum computers. And AI is moving fast. So quantum computing risks becoming a beautiful idea outpaced by a merely competence but deployable alternative.",
+                "age": "1 week ago",
+                "page_age": "2025-06-09T10:30:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "livemint.com",
+                    "hostname": "www.livemint.com",
+                    "favicon": "https://imgs.search.brave.com/4_SjXmOVg6ghTUrR-Jfkp_jUfFnA69V15ZVSoZgGLaM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2I4ZTJlOGVi/MTNmYmU4OGNhZGE1/NDQ0NmQyNDVjZTA0/YTAyYzNmYTdmZGU5/YmYxOWI2OTk1NmFm/NDY2NTJkMi93d3cu/bGl2ZW1pbnQuY29t/Lw",
+                    "path": "\u203a opinion  \u203a online-views  \u203a quantum-computing-artificial-intelligence-deep-learning-machine-learning-neural-networks-deepmind-ai-mathematics-google-11749411935622.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nE_ik1v0VOJtMk2OEGBGEVSlMrzak-yuWew_x7HdZZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGl2ZW1pbnQuY29t/L2xtLWltZy9pbWcv/MjAyNS8wNi8wOC8x/NjAweDkwMC9xdWFu/dHVtLWNvbXB1dGVy/cy13ZWJfMTcyNzI2/ODkwMDQ3MF8xNzQ5/NDEyNDI4NzY3Lmpw/Zw"
+                }
+            }
+        ]
+    }
+}
