@@ -1,0 +1,147 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-06-23T01:39:44.899750"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Canada\u2019s super hub combines the power of AI, GPU, and quantum computing",
+                "url": "https://interestingengineering.com/innovation/canada-super-hub-ai-gpu-quantum-computing",
+                "description": "It uses Nvidia GPUs, it uses quantum parts, it uses gate-based quantum machines, it uses classical CPUs, and GPUs. It figures out how to best solve the problem using a combination of these architectures,\u201d said Muhammad Khan, CEO of SuperQ Quantum Computing, the company that developed the hub.",
+                "age": "1 day ago",
+                "page_age": "2025-06-21T13:46:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "interestingengineering.com",
+                    "hostname": "interestingengineering.com",
+                    "favicon": "https://imgs.search.brave.com/RZEGJithNwyfjOMM8FdFlglO2qxgdvpd-PIAgRnff14/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThhNWFmMjZj/YzYyMmI3ZWY2NjMx/MjgyMmQzNDY1ODhj/ZjI4OTIwMGIyYWM2/MTIxNTNmNTlmNzNm/NjRkOGNmMS9pbnRl/cmVzdGluZ2VuZ2lu/ZWVyaW5nLmNvbS8",
+                    "path": "\u203a innovation  \u203a canada-super-hub-ai-gpu-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/oXFTehh0SrVkHzv6g2xLxPH2MGB45LQQ7mKk-6-jlO4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jbXMu/aW50ZXJlc3Rpbmdl/bmdpbmVlcmluZy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDYvR3RtTktF/V1dzQUFTcUNiMS5q/cGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing (QUBT) Soars 25%; Nvidia's Huang Sparks AI Optimism",
+                "url": "https://finance.yahoo.com/news/quantum-computing-qubt-soars-25-122201786.html",
+                "description": "Beyond the charts; the fundamentals are improving too. Quantum Computing recently completed its Quantum Photonic Chip Foundry in Tempe, Arizona; and has been expanding ties with government and commercial clients; betting big on photonic and quantum optics applications.",
+                "age": "1 week ago",
+                "page_age": "2025-06-16T12:22:01",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-qubt-soars-25-122201786.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Want Exposure to AI, Quantum Computing, and Robotics? This Vanguard ETF Has It All.",
+                "url": "https://www.aol.com/want-exposure-ai-quantum-computing-113000937.html",
+                "description": "Most investors chase the latest hot tech stock -- frantically researching quantum computing start-ups or trying to identify the next AI winner. What if you could own the entire technology revolution with a single investment? Specifically, one technology ETF has delivered market-crushing returns ...",
+                "age": "5 days ago",
+                "page_age": "2025-06-18T11:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "aol.com",
+                    "hostname": "www.aol.com",
+                    "favicon": "https://imgs.search.brave.com/sVMgyMCQKPeE5Dsd6_CLz3U7W0AHJmAvX9gxV9NGAZg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjZiZDhhODZj/ZGJhZTUwZmJhMTVl/MGNmNzVhNGQ2OGE0/OTUxOTYwNjc2NGUz/ZTkxMWJkZDcyOTA0/YWQ0ZjVlMS93d3cu/YW9sLmNvbS8",
+                    "path": "\u203a want-exposure-ai-quantum-computing-113000937.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/DCOFfVrLVdKpJkvxBUnYp8rv0FARoVJObVpZRaQRlvM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS56ZW5mcy5jb20v/ZW4vYW9sX3RoZV9t/b3RsZXlfZm9vbF8z/OTIvMWM5M2M0NDE4/Nzc3ODQwODc4NTcw/M2E3NTg3M2EwNzk"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM's Quantum Leap: Unlocking Undervalued Growth in AI and Quantum Computing",
+                "url": "https://www.ainvest.com/news/ibm-quantum-leap-unlocking-undervalued-growth-ai-quantum-computing-2506/",
+                "description": "In an era where artificial intelligence (AI) and quantum computing are reshaping industries, IBM (NYSE: IBM) stands at a critical inflection point. Despite its legacy reputation, the company is positioning itself as a leader in two transformative technologies with significant undervalued growth ...",
+                "age": "3 days ago",
+                "page_age": "2025-06-20T13:12:48",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a ibm-quantum-leap-unlocking-undervalued-growth-ai-quantum-computing-2506"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/m44oXdcyr21_RfZcnssCOFQYPXkrzfMAH2GRZIbXcn0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWludmVzdC5jb20v/YWlnYy9oeGNtcC9p/bWFnZXMvY29tcHJl/c3MtMWFkZTNhYjhl/MjkzODAwMi5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing And AI Combine To Enhance Payment Fraud Detection",
+                "url": "https://quantumzeitgeist.com/quantum-computing-and-ai-combine-to-enhance-payment-fraud-detection/",
+                "description": "AdvanThink and Quandela have integrated quantum machine learning algorithms into existing payment fraud detection models, demonstrating potential for enhanced speed and accuracy in identifying fraudulent transactions and signalling a shift towards quantum-enhanced financial security systems.",
+                "age": "3 days ago",
+                "page_age": "2025-06-20T09:44:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a quantum-computing-and-ai-combine-to-enhance-payment-fraud-detection"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QlnnRPUMlNtDF8m_76MVqGirrnWQDEGZuDdxhsRoDkg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8xNDk4/NjAxMzQudjIucHJl/c3NhYmxlY2RuLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvY2Fy/ZC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How Will Bitcoin Defend Against Quantum Computing? This Project Just Raised $6M - Decrypt",
+                "url": "https://decrypt.co/326065/how-bitcoin-defend-against-quantum-computing-project-raised-6m",
+                "description": "A startup has raised $6 million in a seed round to protect Bitcoin from quantum computing. Project 11, which focuses on quantum computing's hypothetical threat to the leading crypto network, announced the raise Thursday, which was co-led by Variant and Quantonation, and included participation ...",
+                "age": "3 days ago",
+                "page_age": "2025-06-19T16:12:11",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "decrypt.co",
+                    "hostname": "decrypt.co",
+                    "favicon": "https://imgs.search.brave.com/uAv1wgzQyAfFz8XiHsc842TaK8gqEVK6rrtBziPVEVI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjEyMjNlYmNh/MWVlYzViOGM1NGM1/ZmVhMWEzY2I0NDhh/Y2I5MTA2OGFhYzVk/NTRmYzZhNTUzNDMx/YzQ1YzliNC9kZWNy/eXB0LmNvLw",
+                    "path": "\u203a 326065  \u203a how-bitcoin-defend-against-quantum-computing-project-raised-6m"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/I53jOiP1NT-D5sdUjbqlkg3d9u7oBItYifl2PIe8oxo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/ZGVjcnlwdC5jby9y/ZXNpemUvMTAyNC9o/ZWlnaHQvNTEyL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA2/L2JpdGNvaW4tZGVj/cnlwdC1zdHlsZS1z/Y3JlZW4tZ0lEXzcu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Oxford University spin-off claims breakthrough in quantum computing efficiency - National Technology",
+                "url": "https://nationaltechnology.co.uk/Oxford_University_spin_Off_Research_Accelerates_Path_To_Commercially_Viable_Quantum_Computers.php",
+                "description": "To build reliable quantum computers capable of executing highly complex operations, OQC explained that the industry has assumed the need for machines with thousands of physical qubits. These would enable the creation of a smaller number of error-corrected logical qubits, which are essential for stable computation. OQC's research centres on its dual-rail \"Dimon\" qubit technology, a hardware design that detects and ...",
+                "age": "3 days ago",
+                "page_age": "2025-06-20T10:22:14",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nationaltechnology.co.uk",
+                    "hostname": "nationaltechnology.co.uk",
+                    "favicon": "https://imgs.search.brave.com/aIUyv2wMGi6-jSv9wNLyYcmlX_xEkncSMJ2FUvNIOW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWQ4OWZiY2Y1/MDc1ZTk2ZjE2YTc5/MjU3OTlkODFjODVk/ZTAxMzk3OWQ2MzNm/N2QwZjMwZGRiNWE3/N2QwNmEzZi9uYXRp/b25hbHRlY2hub2xv/Z3kuY28udWsv",
+                    "path": "\u203a Oxford_University_spin_Off_Research_Accelerates_Path_To_Commercially_Viable_Quantum_Computers.php"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-xo8dA-EaZcYP6CPAH4cJFOAyvkwNk0kbSnU3KzuzZc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uYXRp/b25hbHRlY2hub2xv/Z3kuY28udWsvaW1h/Z2VzL1F1YW50dW1w/cmljaW5nLmpwZw"
+                }
+            }
+        ]
+    }
+}

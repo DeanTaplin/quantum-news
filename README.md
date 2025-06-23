@@ -7,23 +7,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **China Ramps Up Photonic Chip Production With Eye on AI and Quantum Computing**
-  - Image: The new pilot line of China’s ... wafers and features rapid, low-cost production. (SCMP, Handout) China has launched its first production line for next-generation photonic chips, signaling a leap in its effort to compete in global technology sectors like AI, quantum computing, and 6G ...
-  - [Source](https://thequantuminsider.com/2025/06/13/china-ramps-up-photonic-chip-production-with-eye-on-ai-and-quantum-computing/)
-
-- **MerLin: Quantum Framework Bridges AI And Photonic Quantum Computing With GPU Acceleration**
-  - MerLin is a new quantum computing framework designed for data scientists not quantum physicists enabling rapid prototyping of hybrid quantumclassical machine learning models using familiar tools like PyTorch and scikitlearn it leverages GPU acceleration for simulating photonic quantum circuits ...
-  - [Source](https://quantumzeitgeist.com/merlin-quantum-framework-bridges-ai-and-photonic-quantum-computing-with-gpu-acceleration/)
-
-- **China’s photonic chip debut to power AI, 6G and quantum computing advances, expert says | South China Morning Post**
-  - TFLN wafer line is well-positioned for aggressive push into cloud and supercomputing, AI model training and inference, expert says.
-  - [Source](https://www.scmp.com/news/china/science/article/3314048/chinas-photonic-chip-debut-power-ai-6g-and-quantum-computing-advances-expert-says)
+- **Quantum Computing And AI Combine To Enhance Payment Fraud Detection**
+  - AdvanThink and Quandela have integrated quantum machine learning algorithms into existing payment fraud detection models, demonstrating potential for enhanced speed and accuracy in identifying fraudulent transactions and signalling a shift towards quantum-enhanced financial security systems.
+  - [Source](https://quantumzeitgeist.com/quantum-computing-and-ai-combine-to-enhance-payment-fraud-detection/)
 
 ### Notable Innovations
 
-- **Quantum Computing Inc. (QUBT): A Quantum Leap in AI-Driven Drug Discovery**
-  - The healthcare sector is undergoing a paradigm shift, with artificial intelligence (AI) and quantum computing emerging as critical tools to tackle previously insurmountable challenges in drug discovery. Among the pioneers in this space is Quantum Computing Inc.
-  - [Source](https://www.ainvest.com/news/quantum-computing-qubt-quantum-leap-ai-driven-drug-discovery-2506/)
+- **Want Exposure to AI, Quantum Computing, and Robotics? This Vanguard ETF Has It All.**
+  - Most investors chase the latest hot tech stock -- frantically researching quantum computing start-ups or trying to identify the next AI winner. What if you could own the entire technology revolution with a single investment? Specifically, one technology ETF has delivered market-crushing returns ...
+  - [Source](https://www.aol.com/want-exposure-ai-quantum-computing-113000937.html)
+
+- **Oxford University spin-off claims breakthrough in quantum computing efficiency - National Technology**
+  - To build reliable quantum computers capable of executing highly complex operations, OQC explained that the industry has assumed the need for machines with thousands of physical qubits. These would enable the creation of a smaller number of error-corrected logical qubits, which are essential for stable computation. OQC's research centres on its dual-rail "Dimon" qubit technology, a hardware design that detects and ...
+  - [Source](https://nationaltechnology.co.uk/Oxford_University_spin_Off_Research_Accelerates_Path_To_Commercially_Viable_Quantum_Computers.php)
+
+### Market Trends
+
+- **IBM's Quantum Leap: Unlocking Undervalued Growth in AI and Quantum Computing**
+  - In an era where artificial intelligence (AI) and quantum computing are reshaping industries, IBM (NYSE: IBM) stands at a critical inflection point. Despite its legacy reputation, the company is positioning itself as a leader in two transformative technologies with significant undervalued growth ...
+  - [Source](https://www.ainvest.com/news/ibm-quantum-leap-unlocking-undervalued-growth-ai-quantum-computing-2506/)
 
 
 ## News Archive
