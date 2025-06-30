@@ -1,0 +1,183 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-06-30T01:39:31.191114"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Are Quantum Computing Stocks Becoming the Next AI?",
+                "url": "https://finance.yahoo.com/news/quantum-computing-stocks-becoming-next-074000097.html",
+                "description": "Today, these players continue to advance, and they're joined by certain stocks in the high-potential field of quantum computing. In fact, quantum computing stocks might be following in the footsteps of AI stocks, becoming the next industry to lead market gains, and here's why.",
+                "age": "3 days ago",
+                "page_age": "2025-06-27T07:40:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-stocks-becoming-next-074000097.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing is having a moment. But the technology remains futuristic",
+                "url": "https://www.cnbc.com/2025/06/27/quantum-computing-applications-how-it-works.html",
+                "description": "But the technology has limited real-world application today and is mostly focused on simulating chemistry and physics. ... It doesn't quite have the buzz of artificial intelligence, but quantum computing is having a moment of its own.",
+                "age": "3 days ago",
+                "page_age": "2025-06-27T12:00:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cnbc.com",
+                    "hostname": "www.cnbc.com",
+                    "favicon": "https://imgs.search.brave.com/Y-kiUECkMSGd7lOmrP2aTYHW7-HGeiVhcw9XMTUFn-Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTJhNzM1OTQ2/YTZmNDZiOGM2ZDVk/OTUzOWY3ZThlZmYz/YzNkNDk5MDcyOGI2/MzEzMzNmYjM1ZGRk/YjdhNGVlYy93d3cu/Y25iYy5jb20v",
+                    "path": "\u203a 2025  \u203a 06  \u203a 27  \u203a quantum-computing-applications-how-it-works.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Csmhs7X737lFlJCo-HtfKWBsX1tETsYNMGwrCSd3aHY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgxMTc4MDQt/MTc0MjMyMjgyMzM2/MS1NYWpvcmFuYS0x/LTAwMS00MDAwcHgt/MS0xMDAweDY2Ny5q/cGc_dj0xNzQyMzIy/OTU2JmFtcDt3PTE5/MjAmYW1wO2g9MTA4/MA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Lead Plaintiff Appointed in Quantum Computing Class Action \u2014 Here\u2019s How You Can Recover Your Losses",
+                "url": "https://tradingview.com/news/11thestate:cadf425cb094b:0-lead-plaintiff-appointed-in-quantum-computing-class-action-here-s-how-you-can-recover-your-losses",
+                "description": "Court: D. New Jersey Case: 2:25-cv-01457Lead Plaintiff has been appointed to represent investors in the class action against Quantum Computing.What is this lawsuit about?Between March 30, 2020, and January 15, 2025, Quantum Computing Inc. (QCI) claimed its quantum photonic technology and AI ...",
+                "age": "4 days ago",
+                "page_age": "2025-06-25T18:46:52",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tradingview.com",
+                    "hostname": "tradingview.com",
+                    "favicon": "https://imgs.search.brave.com/6u2cV1RTdTvnUTq9O6lNp3gtL5Kb2iTHmn5ppUXnT4Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDAyMDAxOTc5/ZTZjNjU3ZDg0OGNi/Yjk1ZjM1OTljNzMy/MTE4NDUxNTM3NDJi/OGJhZjZiNTU3ODdj/NWY0YzNlZi90cmFk/aW5ndmlldy5jb20v",
+                    "path": "\u203a news  \u203a 11thestate:cadf425cb094b:0-lead-plaintiff-appointed-in-quantum-computing-class-action-here-s-how-you-can-recover-your-losses"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/NxQxkucUcvbHhjDo31Djow4QESooWZ6wtVv0CoJYGuI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnRy/YWRpbmd2aWV3LmNv/bS9zdGF0aWMvaW1h/Z2VzL2lsbHVzdHJh/dGlvbnMvbmV3cy1z/dG9yeS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Are Quantum Computing Stocks Becoming the Next AI? @themotleyfool #stocks $QBTS $META $MSFT $GOOGL $AMZN $NVDA $AVGO $GOOG $IONQ $RGTI",
+                "url": "https://www.fool.com/investing/2025/06/27/are-quantum-computing-stocks-becoming-the-next-ai/",
+                "description": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... AI stocks soared last year, leading indexes higher. Quantum computing, like AI, offers game-changing technology -- making quantum stocks ...",
+                "age": "3 days ago",
+                "page_age": "2025-06-27T07:40:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 06  \u203a 27  \u203a are-quantum-computing-stocks-becoming-the-next-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ib5SjIFwzW8bVvDpWQ8OMcuYPCDCuOabEw3kZw7jFfE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODIyODYzL2dl/dHR5aW1hZ2VzLXF1/YW50dW0wMS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI, cybersecurity, and quantum computing shape UK\u2019s new 10-year economic plan",
+                "url": "https://www.computerworld.com/article/4011112/ai-cybersecurity-and-quantum-computing-shape-uks-new-10-year-economic-plan.html",
+                "description": "The UK government is plotting an ambitious path to a world where compute and AI capacity rival GDP for national significance.",
+                "age": "1 week ago",
+                "page_age": "2025-06-23T13:41:12",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "computerworld.com",
+                    "hostname": "www.computerworld.com",
+                    "favicon": "https://imgs.search.brave.com/4xbpb3FDjwG3HtaKctEqKWDbxnyivnbMfbqkAggrvCU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTkxOWI0MTAz/Njk4MWMxN2MyMGQz/NDg2Yzg5ZjUwY2Yy/NTc0Nzg5NTZhNjgz/YzE2YWIyNmNhOTUz/ODZkYzZjYS93d3cu/Y29tcHV0ZXJ3b3Js/ZC5jb20v",
+                    "path": "\u203a article  \u203a 4011112  \u203a ai-cybersecurity-and-quantum-computing-shape-uks-new-10-year-economic-plan.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/av2wmqkz-ljxskcxHyEpnfjaVrluSkl1RsV-1O6c_9Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29tcHV0ZXJ3b3Js/ZC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDYvNDAx/MTExMi0wLTc2MzAy/OTAwLTE3NTA3MTEz/NDMtdWstcGFybGlh/bWVudC0xMDA5NDYy/MTYtb3JpZy5qcGc_/cXVhbGl0eT01MCZh/bXA7c3RyaXA9YWxs/JmFtcDt3PTEwMjQ"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Minister Evan Solomon unpacks how Canada plans to support domestic AI and quantum computing",
+                "url": "https://betakit.com/light-tight-and-right-regulation-minister-evan-solomon-unpacks-how-canada-plans-to-support-domestic-ai-and-quantum-computing/",
+                "description": "During a private CEO lunch yesterday at Creative Destruction Lab (CDL) Super Session, Minister of Artificial Intelligence (AI) and Digital Innovation Evan Solomon said the Government of Canada plans to provide more targeted support to the country\u2019s AI and quantum computing companies.",
+                "age": "4 days ago",
+                "page_age": "2025-06-25T20:28:17",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "betakit.com",
+                    "hostname": "betakit.com",
+                    "favicon": "https://imgs.search.brave.com/ZLoHX5lGCJ5EPDGamFhfPHahEPjlGreR1spyR8fObw8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjE5MjZjY2U4/ZWY3YjA0ZTUzYzZm/ZDExMWI2YWY5Mzk4/MTY5Mzc3NzdlYzY4/Njk1MWY0NzdiNWM0/NzQ1ZGNhYi9iZXRh/a2l0LmNvbS8",
+                    "path": "\u203a light-tight-and-right-regulation-minister-evan-solomon-unpacks-how-canada-plans-to-support-domestic-ai-and-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/z6Dk8xnNoS-7EfS4DUTAvOt-yXYmgA9NxSUOBYFAlSs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmV0YWtpdC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MDYvVW50aXRsZWQt/ZGVzaWduLTIxNS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Inc. raises $200 million in private placement By Investing.com",
+                "url": "https://investing.com/news/company-news/quantum-computing-inc-raises-200-million-in-private-placement-93CH-4105778",
+                "description": "Sign up to create alerts for Instruments, Economic Events and content by followed authors Free Sign Up ... Saved. See Saved Items. This article has already been saved in your Saved Items ... HOBOKEN, N.J. - Quantum Computing Inc.",
+                "age": "1 week ago",
+                "page_age": "2025-06-23T12:37:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "investing.com",
+                    "hostname": "investing.com",
+                    "favicon": "https://imgs.search.brave.com/83K0pTVlEdmK3LePoSxCf6TC4V1HssqtJEMFLJn3fww/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTY3NTQ3ZjU0/NmFkNzRlMGJkMTI4/Mjc0MGU3Mjg4OWEy/MzA2N2IyMDEzMDAx/ZWZlZDQ4NTRkM2U1/ZmYwODIyYy9pbnZl/c3RpbmcuY29tLw",
+                    "path": "\u203a news  \u203a company-news  \u203a quantum-computing-inc-raises-200-million-in-private-placement-93CH-4105778"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/H4mmt_cTunnyvKkg5YgJBnxL7XWqlNAl_L7m9HFQ0ZQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLWlu/dmRuLWNvbS5pbnZl/c3RpbmcuY29tL25l/d3Mv"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Want to Invest in Quantum Computing? 2 Stocks That Are Great Buys Right Now. - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/markets-news/Motley Fool/33055908/want-to-invest-in-quantum-computing-2-stocks-that-are-great-buys-right-now",
+                "description": "The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing will change the world someday. Next-generation systems will be able to do certain kinds of advanced math and pattern-matching much faster than today's digital chips.",
+                "age": "3 days ago",
+                "page_age": "2025-06-26T13:50:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 33055908  \u203a want-to-invest-in-quantum-computing-2-stocks-that-are-great-buys-right-now"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "New chip could be the breakthrough the quantum computing industry has been waiting for",
+                "url": "https://tech.yahoo.com/science/articles/chip-could-breakthrough-quantum-computing-150000741.html",
+                "description": "The scientists described the result as a \"vital proof of principle\" for integrating quantum and classical components in the same chip \u2014 a major step toward the kind of practical, scalable processors needed to make quantum computing a reality.",
+                "age": "4 days ago",
+                "page_age": "2025-06-25T15:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tech.yahoo.com",
+                    "hostname": "tech.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/EduoxCedoyq6090olJEdo0YrZRrOgIlPZ-DnTsgDQs4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjM1ZWM5NDg3/Y2ExZjA0ZmRmNWZm/YjlmYTk5N2FjNDg5/YTMwNWI2MGFiZjY4/MjcxYzg0OTFmZjNi/YjI4NzVlMS90ZWNo/LnlhaG9vLmNvbS8",
+                    "path": "\u203a science  \u203a articles  \u203a chip-could-breakthrough-quantum-computing-150000741.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/lgEYRd5_eYyb_yWMMrbpJ9OFXXOPmTdZ5prboouKvjw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnlp/bWcuY29tL255L2Fw/aS9yZXMvMS4yLzVM/VlNfdEdyQ0xEQ3R0/d1h0Z3hFdWctLS9Z/WEJ3YVdROWFHbG5h/R3hoYm1SbGNqdDNQ/VEV5TURBN2FEMDJO/elUtL2h0dHBzOi8v/bWVkaWEuemVuZnMu/Y29tL2VuL2xpdmVf/c2NpZW5jZV85NTMv/ZjAxYmJlOTgwM2Ex/MDNlMmY1MGYxMWY5/Y2Q0YjU1ZDM"
+                }
+            }
+        ]
+    }
+}
