@@ -1,0 +1,90 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-07-07T01:39:52.478877"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Investments: A Once-in-a-Lifetime Opportunity? - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33137592/quantum-computing-investments-a-once-in-a-lifetime-opportunity/",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Advancements in quantum computing are generating buzz in the stock market, promising to revolutionize fields like ...",
+                "age": "1 week ago",
+                "page_age": "2025-07-01T01:18:22",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 33137592  \u203a quantum-computing-investments-a-once-in-a-lifetime-opportunity"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing, The Way Ahead: Chandrababu Naidu",
+                "url": "https://m9.news/politics/quantum-computing-the-way-ahead-chandrababu-naidu",
+                "description": "Andhra Pradesh Chandrababu Naidu who was the poster boy of IT in combined Andhra Pradesh, is now promoting quantum computing. He says that quantum computing is the way ahead and called people to get acquainted with the latest technological development.",
+                "age": "1 week ago",
+                "page_age": "2025-06-30T10:30:32",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "m9.news",
+                    "hostname": "m9.news",
+                    "favicon": "https://imgs.search.brave.com/Z7ZUWo8SWU7ma4hqYgjrSlw_Kqh6nJNkKQzNAsbtTkk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2MxODI4MTcy/MTVjMzQzYTgyMmRk/YmI5ZjM2OTk1NjFi/MGMzNWUxN2E1Zjg1/ZDg5ZTVhZWY4NWZk/MTQwNDVlMi9tOS5u/ZXdzLw",
+                    "path": "\u203a politics  \u203a quantum-computing-the-way-ahead-chandrababu-naidu"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/XQQ3xqS7lLrxqzq02Ebk1V1O9kf04NzdEGUIYgTUCWM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bTkubmV3cy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wNi9j/aGFuZHJhYmFidS1u/YWlkdS1vbi1xdWFu/dHVtLWNvbXB1dGlu/Zy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Guest Post: Why AI Regulation Won't Work for Quantum",
+                "url": "https://thequantuminsider.com/2025/07/01/guest-post-why-ai-regulation-wont-work-for-quantum/",
+                "description": "In an AI-obsessed world, quantum computing innovation plods along just beneath the surface in relative obscurity and largely confined to the domain of physicists and academia. But look beyond the promise of artificial intelligence and multiply it manyfold \u2014 you may find quantum.",
+                "age": "6 days ago",
+                "page_age": "2025-07-01T11:50:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2025  \u203a 07  \u203a 01  \u203a guest-post-why-ai-regulation-wont-work-for-quantum"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Zh6DkwcsFs6xs90PxYcMBzghBEcSmIHkzxoMX8OPtcc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMDYvU2Ny/ZWVuc2hvdC0yMDI1/LTA2LTMwLWF0LTgu/NTguMjjigK9BTS5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM's Quantum Leap: Can AI and Quantum Computing Drive a New Era of Growth?",
+                "url": "https://www.ainvest.com/news/ibm-quantum-leap-ai-quantum-computing-drive-era-growth-2507/",
+                "description": "IBM's integration of its cloud infrastructure with WatsonX ensures enterprises can deploy AI solutions seamlessly across private and public clouds\u2014a critical requirement for regulated industries. While AI is IBM's near-term growth driver, quantum computing represents its moonshot.",
+                "age": "1 week ago",
+                "page_age": "2025-06-30T23:46:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a ibm-quantum-leap-ai-quantum-computing-drive-era-growth-2507"
+                }
+            }
+        ]
+    }
+}

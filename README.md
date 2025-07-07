@@ -5,25 +5,23 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 ## Latest Updates (Past 7 Days)
 
 
+### Major Model Releases & Improvements
+
+- **Quantum Computing Investments: A Once-in-a-Lifetime Opportunity? - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Advancements in quantum computing are generating buzz in the stock market, promising to revolutionize fields like ...
+  - [Source](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33137592/quantum-computing-investments-a-once-in-a-lifetime-opportunity/)
+
 ### Notable Innovations
 
-- **Are Quantum Computing Stocks Becoming the Next AI? @themotleyfool #stocks $QBTS $META $MSFT $GOOGL $AMZN $NVDA $AVGO $GOOG $IONQ $RGTI**
-  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... AI stocks soared last year, leading indexes higher. Quantum computing, like AI, offers game-changing technology -- making quantum stocks ...
-  - [Source](https://www.fool.com/investing/2025/06/27/are-quantum-computing-stocks-becoming-the-next-ai/)
-
-- **Minister Evan Solomon unpacks how Canada plans to support domestic AI and quantum computing**
-  - During a private CEO lunch yesterday at Creative Destruction Lab (CDL) Super Session, Minister of Artificial Intelligence (AI) and Digital Innovation Evan Solomon said the Government of Canada plans to provide more targeted support to the country’s AI and quantum computing companies.
-  - [Source](https://betakit.com/light-tight-and-right-regulation-minister-evan-solomon-unpacks-how-canada-plans-to-support-domestic-ai-and-quantum-computing/)
-
-- **New chip could be the breakthrough the quantum computing industry has been waiting for**
-  - The scientists described the result as a "vital proof of principle" for integrating quantum and classical components in the same chip — a major step toward the kind of practical, scalable processors needed to make quantum computing a reality.
-  - [Source](https://tech.yahoo.com/science/articles/chip-could-breakthrough-quantum-computing-150000741.html)
+- **Guest Post: Why AI Regulation Won't Work for Quantum**
+  - In an AI-obsessed world, quantum computing innovation plods along just beneath the surface in relative obscurity and largely confined to the domain of physicists and academia. But look beyond the promise of artificial intelligence and multiply it manyfold — you may find quantum.
+  - [Source](https://thequantuminsider.com/2025/07/01/guest-post-why-ai-regulation-wont-work-for-quantum/)
 
 ### Market Trends
 
-- **Are Quantum Computing Stocks Becoming the Next AI?**
-  - Today, these players continue to advance, and they're joined by certain stocks in the high-potential field of quantum computing. In fact, quantum computing stocks might be following in the footsteps of AI stocks, becoming the next industry to lead market gains, and here's why.
-  - [Source](https://finance.yahoo.com/news/quantum-computing-stocks-becoming-next-074000097.html)
+- **IBM's Quantum Leap: Can AI and Quantum Computing Drive a New Era of Growth?**
+  - IBM's integration of its cloud infrastructure with WatsonX ensures enterprises can deploy AI solutions seamlessly across private and public clouds—a critical requirement for regulated industries. While AI is IBM's near-term growth driver, quantum computing represents its moonshot.
+  - [Source](https://www.ainvest.com/news/ibm-quantum-leap-ai-quantum-computing-drive-era-growth-2507/)
 
 
 ## News Archive
