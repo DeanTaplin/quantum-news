@@ -1,0 +1,219 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-07-14T01:42:01.579876"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "My 2 Top Quantum Computing Stocks to Buy Now - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33372202/my-2-top-quantum-computing-stocks-to-buy-now/",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Much like artificial intelligence (AI), quantum computing has attracted investors for its game-changing potential.",
+                "age": "1 day ago",
+                "page_age": "2025-07-12T14:56:13",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 33372202  \u203a my-2-top-quantum-computing-stocks-to-buy-now"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Artificial Intelligence (AI) Stocks Could Lead the Quantum Computing Revolution",
+                "url": "https://finance.yahoo.com/news/3-artificial-intelligence-ai-stocks-093500307.html",
+                "description": "Nvidia is infusing classical computer systems with quantum computing technology. Microsoft's innovation and extensive footprint make it a leading player in the quantum computing market.",
+                "age": "5 days ago",
+                "page_age": "2025-07-09T09:35:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a 3-artificial-intelligence-ai-stocks-093500307.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How NVIDIA Is Revolutionizing Quantum Computing with AI | by Ai Digitalfy | Jul, 2025 | Medium",
+                "url": "https://medium.com/@zubair.miner/how-nvidia-is-revolutionizing-quantum-computing-with-ai-a5062087396d",
+                "description": "Quantum computing has long been hailed as the next big leap in technology \u2014 but its real-world adoption has faced massive hurdles, primarily due to unstable qubit errors. Now, NVIDIA, the global powerhouse in AI and GPU technologies, is stepping up with a groundbreaking solution that combines ...",
+                "age": "2 days ago",
+                "page_age": "2025-07-11T15:36:42",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @zubair.miner  \u203a how-nvidia-is-revolutionizing-quantum-computing-with-ai-a5062087396d"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HVWMavi293m6LeePMlrsxh_0Too0JKJeDOWQodk0N6c/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDo0MjkvMSpxWGJS/YjNVX1ppbWZKN3N3/UTNPNWhnLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum AI: When Quantum Computing Meets Machine Learning. | by Gitika Naik | Jul, 2025 | Medium",
+                "url": "https://medium.com/@gitikanaik12345r/quantum-ai-when-quantum-computing-meets-machine-learning-7da0b8709b49",
+                "description": "Hey everyone, \ud83d\udc4b hope you\u2019re ... where the unimaginable power of quantum computing intersects with the growing intelligence of machine learning. So, what happens when these two meet? A potential revolution in how machines think, learn, and solve problems....",
+                "age": "6 days ago",
+                "page_age": "2025-07-08T11:52:26",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @gitikanaik12345r  \u203a quantum-ai-when-quantum-computing-meets-machine-learning-7da0b8709b49"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/1A6ufu6UrDjmlJ2ycfYlMeS7VQd_fbYz_WFlnP8i0yk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqT1pW/TnZ1T1pUSmpQR0di/US1nNEdDQS5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Breakthrough Powers Next-Gen AI Drones for Defense and Commerce | ZENA Stock News",
+                "url": "https://www.stocktitan.net/news/ZENA/zena-tech-creates-first-quantum-computing-prototype-enabling-zblekez1torn.html",
+                "description": "First-ever quantum computing prototype accelerates AI drone capabilities for military and commercial use. Enables real-time weather forecasting and defense operations. Learn more.",
+                "age": "4 days ago",
+                "page_age": "2025-07-10T12:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "stocktitan.net",
+                    "hostname": "www.stocktitan.net",
+                    "favicon": "https://imgs.search.brave.com/oVbJYXQ1fMa7E7nV4NEgJIoaJed1n-Yg3MKop6cU2fw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQxYTVjN2Y3/YTdkZjQ0NWYzNDRm/NzFjNjUyZGNmYjJl/Y2VhNGUxNDlhNzgx/OWZlOTAyYTE5Yjhk/MDBjOTE4Zi93d3cu/c3RvY2t0aXRhbi5u/ZXQv",
+                    "path": "\u203a news  \u203a ZENA  \u203a zena-tech-creates-first-quantum-computing-prototype-enabling-zblekez1torn.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/85WimutPTIkeZFDHfqCY0ox8iMKx4_tZvjg-pfGLu0M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RvY2t0aXRhbi5u/ZXQvbmV3c19jb3Zl/cnMvWmVuYVRlY2hf/Q3JlYXRlc19GaXJz/dF9RdWFudHVtX0Nv/bXB1dGluZ19Qcm90/b3R5cGVfRW5hYmxp/bmdfRGlzcnVwdGl2/ZV9BSV9Ecm9uZV9T/cGVlZF9hbmRfUHJl/Y2lzaW9uX184NzY0/NDcucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Artificial Intelligence (AI) Stocks Could Lead the Quantum Computing Revolution @themotleyfool #stocks $NVDA $IBM $MSFT",
+                "url": "https://www.fool.com/investing/2025/07/09/3-artificial-intelligence-ai-stocks-could-lead-the/",
+                "description": "You're reading a free article with ... Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Nvidia is infusing classical computer systems with quantum computing technology....",
+                "age": "5 days ago",
+                "page_age": "2025-07-09T09:35:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 07  \u203a 09  \u203a 3-artificial-intelligence-ai-stocks-could-lead-the"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/PvvPBR_dj-4zKXQ-_uHeealbLj0pEndamJ8FQGbsluc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODIzMTE1L2Fp/LWFydC1pbWFnZS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 AI Stocks Positioned to Ride the Quantum Computing Wave - MoneyCheck",
+                "url": "https://moneycheck.com/3-ai-stocks-positioned-to-ride-the-quantum-computing-wave",
+                "description": "Nvidia, Microsoft, and IBM are leveraging their AI expertise to capture market share in quantum computing as the technology approaches commercial viability.",
+                "age": "5 days ago",
+                "page_age": "2025-07-09T11:38:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "moneycheck.com",
+                    "hostname": "moneycheck.com",
+                    "favicon": "https://imgs.search.brave.com/j590YyRNl9-WOcV79RnkH7LyknOjFxFgxQk2AyMHf2w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTllOWUwMWNi/OTg4MDBjMTRlOGRj/YTgxMmZmNjFlYjlm/OTFkM2NkYjA2ZDk1/NmFiOTliZWY5ZjQx/MDRhNWZlMC9tb25l/eWNoZWNrLmNvbS8",
+                    "path": "\u203a 3-ai-stocks-positioned-to-ride-the-quantum-computing-wave"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/yl9OZfk2ql4x6EGPb5Ez2ciXUbKsnwqWa_cvSIQhfaM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tb25l/eWNoZWNrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/NS9BSS1RdWFudHVt/LUZpbmFuY2Uud2Vi/cA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Creating a Secure, Private and Safe Autonomous Future with Quantum Computing and AI Technologies",
+                "url": "https://solutionsreview.com/creating-a-secure-private-and-safe-autonomous-future-with-quantum-computing-and-ai-technologies/",
+                "description": "ByteSafe\u2019s CTO Raghavan Chellappan offers commentary on creating a secure, private, and safe autonomous future with quantum computing and AI. This article originally appeared in Insight Jam, \u2026",
+                "age": "3 days ago",
+                "page_age": "2025-07-10T15:36:55",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "solutionsreview.com",
+                    "hostname": "solutionsreview.com",
+                    "favicon": "https://imgs.search.brave.com/x0o5ERzRQlQSSyx9qecz_jLRZQVzu3t54uRnobgF-IM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDYzNGQ1ZDBj/MDYzMTc5YTQ3YjY1/Yjk4NjUwNjNiZmI3/OTgyOGM2Y2JjNWEy/N2QwYTU2ZGRkNGZk/ZmI2MGJmNS9zb2x1/dGlvbnNyZXZpZXcu/Y29tLw",
+                    "path": "\u203a creating-a-secure-private-and-safe-autonomous-future-with-quantum-computing-and-ai-technologies"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/_fpTdy-NgwbCSG-ttkSsL5guXIxKyNvqRTb0XbqstuY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zb2x1/dGlvbnNyZXZpZXcu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzA3L29pZV9J/NmpVU25CbjlxNksu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaires Are Buying This Quantum Computing Stock Hand Over Fist (Hint: It's Not IonQ or D-Wave Quantum)",
+                "url": "https://finance.yahoo.com/news/billionaires-buying-quantum-computing-stock-085100978.html",
+                "description": "Shares of IonQ have soared nearly 6x over the last 12 months, and D-Wave Quantum stock is up roughly 1,400% during the same period. Have the wealthiest investors noticed this trend? Almost certainly. In fact, billionaires are buying one quantum computing stock hand over fist, but it's not IonQ ...",
+                "age": "6 days ago",
+                "page_age": "2025-07-08T08:51:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a billionaires-buying-quantum-computing-stock-085100978.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing in 2025: Is It Finally Mainstream? | by Razia Content Writer | Jul, 2025 | Medium",
+                "url": "https://medium.com/@raziacontentwriter/quantum-computing-in-2025-is-it-finally-mainstream-e7fa30a3d23c",
+                "description": "For decades, quantum computing has sat at the edge of science fiction and cutting-edge research. We've heard the promises: revolutionary speedups, solving problems classical computers can\u2019t touch, and ushering in a new technological era.",
+                "age": "4 days ago",
+                "page_age": "2025-07-10T08:02:07",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @raziacontentwriter  \u203a quantum-computing-in-2025-is-it-finally-mainstream-e7fa30a3d23c"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/oT_viyIcPEpGgWCaD0K9zUDYTjnx3zvgKx_W07UpBfo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMDgwLzEqYnZs/NjdsWGE4b1BBaFJB/d3VPbTgwQS5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaire Warren Buffett Is (Indirectly) Wagering on 2 Quantum Computing Stocks to Make Berkshire Hathaway's Shareholders Richer @themotleyfool #stocks $GOOGL $BRK.A $BRK.B $MSFT $GOOG",
+                "url": "https://fool.com/investing/2025/07/11/billionaire-warren-buffett-quantum-computing-stock",
+                "description": "Become a Motley Fool member today ... and more. Learn More ... Warren Buffett's investment track record -- a 5,789,503% cumulative return over six decades -- has made him Wall Street's most-followed money manager. Thanks to an acquisition 27 years ago, Berkshire Hathaway is the parent company of a specialty investment firm, New England Asset Management. Two of the 122 securities held in Buffett's secret portfolio have lofty quantum computing ...",
+                "age": "3 days ago",
+                "page_age": "2025-07-11T07:51:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 07  \u203a 11  \u203a billionaire-warren-buffett-quantum-computing-stock"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/AI6pJiAotJSuxXq7bDnZ7axbvtrd1ooyj_67_qWvzCY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI0MjM5L2J1/ZmZldHQxMy10bWYu/anBn"
+                }
+            }
+        ]
+    }
+}
