@@ -7,41 +7,35 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **My 2 Top Quantum Computing Stocks to Buy Now - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Much like artificial intelligence (AI), quantum computing has attracted investors for its game-changing potential.
-  - [Source](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33372202/my-2-top-quantum-computing-stocks-to-buy-now/)
+- **New Platform Leverages AI and Quantum Computing to Predict Salmonella Antimicrobial Resistance | Newswise**
+  - A recent study published in Engineering presents a novel approach to predict Salmonella antimicrobial resistance, a growing concern for public health. The research, led by Le Zhang from Sichuan University, combines large language models (LLMs) and quantum computing to develop a predictive platform.
+  - [Source](https://www.newswise.com/articles/new-platform-leverages-ai-and-quantum-computing-to-predict-salmonella-antimicrobial-resistance)
+
+- **QpiAI Bags $32 Mn To Integrate AI, Quantum Computing Into Enterprise Solutions**
+  - Learn from India’s top 1% of ... and tactics on how to launch a successful D2C Brand in 6 weeks. ... The Bengaluru-based deeptech startup raised funds from Avataar Ventures, National Quantum Mission, among others · QpiAI will deploy the freshly raised funds to accelerate delivery of its utility scale quantum computer and expand ...
+  - [Source](https://inc42.com/buzz/qpiai-bags-32-mn-to-integrate-ai-quantum-computing-into-enterprise-solutions/)
+
+- **Billionaire Warren Buffett Owns These 3 Quantum Computing Stocks. Should You? - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Buffett doesn't have any quantum computing stocks in Berkshire Hathaway's portfolio. However, he owns stakes in Alphabet...
+  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/GOOG/pressreleases/33380828/billionaire-warren-buffett-owns-these-3-quantum-computing-stocks-should-you/)
 
 ### Notable Innovations
 
-- **3 Artificial Intelligence (AI) Stocks Could Lead the Quantum Computing Revolution**
-  - Nvidia is infusing classical computer systems with quantum computing technology. Microsoft's innovation and extensive footprint make it a leading player in the quantum computing market.
-  - [Source](https://finance.yahoo.com/news/3-artificial-intelligence-ai-stocks-093500307.html)
+- **Building a Quantum Computing Agent: The Future of AI-Powered Quantum Experimentation | by Yauheniya.AI | Jul, 2025 | AI Advances**
+  - Fig. 1: Majorana 1 — A new quantum chip by Microsoft. Source: Microsoft · The field of quantum computing, though still in its relative infancy, has captured the imagination of researchers, tech giants, and governments worldwide. Yet despite the tremendous potential, quantum research activity ...
+  - [Source](https://ai.gopubby.com/building-a-quantum-computing-agent-the-future-of-ai-powered-quantum-experimentation-146f9118c7af?gi=b6f1e8359daa)
 
-- **Quantum Computing Breakthrough Powers Next-Gen AI Drones for Defense and Commerce | ZENA Stock News**
-  - First-ever quantum computing prototype accelerates AI drone capabilities for military and commercial use. Enables real-time weather forecasting and defense operations. Learn more.
-  - [Source](https://www.stocktitan.net/news/ZENA/zena-tech-creates-first-quantum-computing-prototype-enabling-zblekez1torn.html)
+- **Quantum Computing and its Effect on Ethics in AI**
+  - Explore the ethical challenges of quantum AI: Frameworks for responsible innovation and interdisciplinary collaboration. Click to learn more!
+  - [Source](https://eureka.patsnap.com/report-quantum-computing-and-its-effect-on-ethics-in-ai)
 
-- **3 Artificial Intelligence (AI) Stocks Could Lead the Quantum Computing Revolution @themotleyfool #stocks $NVDA $IBM $MSFT**
-  - You're reading a free article with ... Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Nvidia is infusing classical computer systems with quantum computing technology....
-  - [Source](https://www.fool.com/investing/2025/07/09/3-artificial-intelligence-ai-stocks-could-lead-the/)
+- **How quantum computing and AI can accelerate and improve drug development | Arab News**
+  - RIYADH: Using traditional discovery processes, a staggering 90 percent of drug development trials are unsuccessful. But what if there is a future in which quantum technologies could revolutionize that process to achieve unprecedented efficiency? The race to develop quantum computers has been ...
+  - [Source](https://arabnews.com/node/2608467/saudi-arabia)
 
-- **Quantum Computing in 2025: Is It Finally Mainstream? | by Razia Content Writer | Jul, 2025 | Medium**
-  - For decades, quantum computing has sat at the edge of science fiction and cutting-edge research. We've heard the promises: revolutionary speedups, solving problems classical computers can’t touch, and ushering in a new technological era.
-  - [Source](https://medium.com/@raziacontentwriter/quantum-computing-in-2025-is-it-finally-mainstream-e7fa30a3d23c)
-
-### Market Trends
-
-- **How NVIDIA Is Revolutionizing Quantum Computing with AI | by Ai Digitalfy | Jul, 2025 | Medium**
-  - Quantum computing has long been hailed as the next big leap in technology — but its real-world adoption has faced massive hurdles, primarily due to unstable qubit errors. Now, NVIDIA, the global powerhouse in AI and GPU technologies, is stepping up with a groundbreaking solution that combines ...
-  - [Source](https://medium.com/@zubair.miner/how-nvidia-is-revolutionizing-quantum-computing-with-ai-a5062087396d)
-
-- **3 AI Stocks Positioned to Ride the Quantum Computing Wave - MoneyCheck**
-  - Nvidia, Microsoft, and IBM are leveraging their AI expertise to capture market share in quantum computing as the technology approaches commercial viability.
-  - [Source](https://moneycheck.com/3-ai-stocks-positioned-to-ride-the-quantum-computing-wave)
-
-- **Billionaires Are Buying This Quantum Computing Stock Hand Over Fist (Hint: It's Not IonQ or D-Wave Quantum)**
-  - Shares of IonQ have soared nearly 6x over the last 12 months, and D-Wave Quantum stock is up roughly 1,400% during the same period. Have the wealthiest investors noticed this trend? Almost certainly. In fact, billionaires are buying one quantum computing stock hand over fist, but it's not IonQ ...
-  - [Source](https://finance.yahoo.com/news/billionaires-buying-quantum-computing-stock-085100978.html)
+- **Billionaire Warren Buffett Owns These 3 Quantum Computing Stocks. Should You? @themotleyfool #stocks $GOOG $IBM $MSFT $GOOGL $BRK.A $BRK.B**
+  - You're reading a free article with ... a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Buffett doesn't have any quantum computing stocks in Berkshire Hathaway's portfo...
+  - [Source](https://www.fool.com/investing/2025/07/14/billionaire-warren-buffett-owns-these-3-quantum-co/)
 
 
 ## News Archive

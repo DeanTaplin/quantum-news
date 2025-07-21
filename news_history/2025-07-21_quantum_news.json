@@ -1,0 +1,255 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-07-21T01:45:03.157104"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Building a Quantum Computing Agent: The Future of AI-Powered Quantum Experimentation | by Yauheniya.AI | Jul, 2025 | AI Advances",
+                "url": "https://ai.gopubby.com/building-a-quantum-computing-agent-the-future-of-ai-powered-quantum-experimentation-146f9118c7af?gi=b6f1e8359daa",
+                "description": "Fig. 1: Majorana 1 \u2014 A new quantum chip by Microsoft. Source: Microsoft \u00b7 The field of quantum computing, though still in its relative infancy, has captured the imagination of researchers, tech giants, and governments worldwide. Yet despite the tremendous potential, quantum research activity ...",
+                "age": "2 days ago",
+                "page_age": "2025-07-19T01:58:27",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ai.gopubby.com",
+                    "hostname": "ai.gopubby.com",
+                    "favicon": "https://imgs.search.brave.com/EW9JTgPYYYi_BL4jtyDCyezRCR7TsVph8Psl6hHNsSw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTU5OTI0MTYx/ZDJjZDI5YTRjMmJk/NWM0YWU3ZTQ5MGJj/ZGQ3ODdkYWZkNGJh/ZDBhMjZiZTBjNWUx/MmU5NTU2My9haS5n/b3B1YmJ5LmNvbS8",
+                    "path": "\u203a building-a-quantum-computing-agent-the-future-of-ai-powered-quantum-experimentation-146f9118c7af"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QK9LmYkmgOWBB4ZvXM9TCgsbfKlV6k40bCpS6ewJnus/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvZGE6dHJ1ZS9y/ZXNpemU6Zml0Ojgw/MC8xKlp0X1djVGVG/WWlQdldrZ2JONkV3/NlEuZ2lm.jpeg"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Is No Longer Sci-Fi \u2014 It\u2019s Already Rewriting the Rules of AI | by Priyansh Shrivastava | Jul, 2025 | Medium",
+                "url": "https://medium.com/@whitedevil1000done/quantum-computing-is-no-longer-sci-fi-its-already-rewriting-the-rules-of-ai-5c24ab229e35",
+                "description": "Quantum computing isn\u2019t science fiction anymore. It\u2019s here, reshaping AI and redefining the future of intelligence. Are we ready for the\u2026",
+                "age": "6 days ago",
+                "page_age": "2025-07-15T13:25:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @whitedevil1000done  \u203a quantum-computing-is-no-longer-sci-fi-its-already-rewriting-the-rules-of-ai-5c24ab229e35"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/OrrVn1poI5kEi72xPI8SktTy86GPaW8bjFwla_1csIY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqQjg5/QVR5OVBDdld0N3Za/YzNCaGFxdy5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Everything to know about QpiAI, the startup helping India's Quantum computing leap - Technology News | The Financial Express",
+                "url": "https://financialexpress.com/life/technology-everything-to-know-about-qpiai-the-startup-helping-indias-quantum-computing-leap-3919341",
+                "description": "Meet QpiAI \u2013 the company that ... Avataar Ventures and the Indian government\u2019s National Quantum Mission (NQM).  \u00b7 QpiAI, which was founded in 2019 by Dr. Nagendra Nagaraja, specialises in integrating artificial intelligence (AI) with quantum computing for various enterprise ...",
+                "age": "2 days ago",
+                "page_age": "2025-07-18T13:45:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "financialexpress.com",
+                    "hostname": "financialexpress.com",
+                    "favicon": "https://imgs.search.brave.com/JHkvjCfteUffuytoZB2HOBJHnx8wCgGAid-Z987Bk_c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTViZDZlNmE5/Y2YwN2IyNDEwOGI4/ZDUwOGY1ZDMwOTcz/NTA5MmUyMmFlZDFl/MjMzN2U2ZGZmYzAz/Y2YxZDAzNi9maW5h/bmNpYWxleHByZXNz/LmNvbS8",
+                    "path": "\u203a life  \u203a technology-everything-to-know-about-qpiai-the-startup-helping-indias-quantum-computing-leap-3919341"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/lcYSEseL36LB8-4Erii_TDI8KfiNLUQwLZrPvNJnTpE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmluYW5jaWFsZXhw/cmVzcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDcv/cXVhbnR1bS1jb21w/dXRpbmcuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing and its Effect on Ethics in AI",
+                "url": "https://eureka.patsnap.com/report-quantum-computing-and-its-effect-on-ethics-in-ai",
+                "description": "Explore the ethical challenges of quantum AI: Frameworks for responsible innovation and interdisciplinary collaboration. Click to learn more!",
+                "age": "4 days ago",
+                "page_age": "2025-07-16T22:20:04",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "eureka.patsnap.com",
+                    "hostname": "eureka.patsnap.com",
+                    "favicon": "https://imgs.search.brave.com/css2-yJgx4c9TrAcHO73O8sn-gT0y7boo3SPUZP04Mc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgzYmE3YWM0/ZmRhMmFlZjFlM2Ez/MTViMmFiMjFjMDhi/NmVhZmI0Mzc5NDU5/MjFiOGVhYjM5ZGJj/MmNlMDQ5OS9ldXJl/a2EucGF0c25hcC5j/b20v",
+                    "path": "\u203a report-quantum-computing-and-its-effect-on-ethics-in-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Bd8SeBEhJVmriwk4Ph5y-IyLrOWdAnTGyJmlpC6FOBg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ldXJl/a2EucGF0c25hcC5j/b20vYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wNC9F/dXJla2EtYnktUGF0/c25hcC1MT0dPLTIu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "New Platform Leverages AI and Quantum Computing to Predict Salmonella Antimicrobial Resistance | Newswise",
+                "url": "https://www.newswise.com/articles/new-platform-leverages-ai-and-quantum-computing-to-predict-salmonella-antimicrobial-resistance",
+                "description": "A recent study published in Engineering presents a novel approach to predict Salmonella antimicrobial resistance, a growing concern for public health. The research, led by Le Zhang from Sichuan University, combines large language models (LLMs) and quantum computing to develop a predictive platform.",
+                "age": "4 days ago",
+                "page_age": "2025-07-17T10:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "newswise.com",
+                    "hostname": "www.newswise.com",
+                    "favicon": "https://imgs.search.brave.com/hN5aXMi2MztEKBZ-QmlJ1KCrgcr3ZXmKOtenl64iw8I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWM3OTU2ODMw/YTk5ZGEwODRmYjk2/ZmFiODU4ZjNlOGU4/M2NlNjM3MjJhZWJm/Yjk4YzQxOTNiZWRh/MTU5NDBmNC93d3cu/bmV3c3dpc2UuY29t/Lw",
+                    "path": "\u203a articles  \u203a new-platform-leverages-ai-and-quantum-computing-to-predict-salmonella-antimicrobial-resistance"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/tsoOaKa1WWYDrdegDzVJDG8Yq4T_hDbmHvQGbaIWYSU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c3dpc2UuY29t/L2xlZ2FjeS9pbWFn/ZS5waHA_aW1hZ2U9/L2ltYWdlcy91cGxv/YWRzLzIwMjUvMDcv/MTcvNjg3OGFlOWVj/NjdhNV8xLXMyLjAt/UzIwOTU4MDk5MjUw/MDAzMFgtZ3IxbHJn/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "QpiAI Raises $32M Series A to Accelerate Full-Stack Quantum Computing Development - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/qpiai-raises-32m-series-a-to-accelerate-full-stack-quantum-computing-development",
+                "description": "The round was led by Avataar Ventures and India\u2019s National Quantum Mission (NQM), with participation from both new and existing investors. Founded by Dr. Nagendra Nagaraja, QpiAI has developed a proprietary full-stack quantum computing platform combining custom hardware and advanced software ...",
+                "age": "3 days ago",
+                "page_age": "2025-07-18T02:08:48",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a qpiai-raises-32m-series-a-to-accelerate-full-stack-quantum-computing-development"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing upstart QpiAI gets India Government backing in its $32Mn Series A fundraise - The Tech Portal",
+                "url": "https://thetechportal.com/2025/07/17/quantum-computing-upstart-qpiai-gets-india-government-backing-in-its-32mn-series-a-fundraise",
+                "description": "Bengaluru-headquartered QpiAI, a headstarter in India\u2019s nascent Quantum computing space, has secured a total of $32 Million in a Series A fundraise, which includes backing by the Indian Government. The round was led by Avataar Ventures and the National Quantum Mission (NQM), a $750Mn initiative ...",
+                "age": "4 days ago",
+                "page_age": "2025-07-17T05:51:57",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thetechportal.com",
+                    "hostname": "thetechportal.com",
+                    "favicon": "https://imgs.search.brave.com/TZmM54FWcfff7w5TKyDTkJgEiCkhVdXz77PKznZNjko/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGU2MjQ2YWZj/ODQ3OGRmYjAwZjFk/ZGNjNDdhNDI1ZDYx/MmU4ZmY5ZDUzMGZj/M2NlNDRjNDhlZGE4/NDNhYjcwNS90aGV0/ZWNocG9ydGFsLmNv/bS8",
+                    "path": "\u203a 2025  \u203a 07  \u203a 17  \u203a quantum-computing-upstart-qpiai-gets-india-government-backing-in-its-32mn-series-a-fundraise"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nDxteGHJZEIspN3IKJKoZhErHdLCGW02FiIcd6RPvrw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGV0/ZWNocG9ydGFsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNy9xdWFudHVt/LWNvbXB1dGluZy1p/b24tdHJhcHBpbmct/dGhlLXRlY2gtcG9y/dGFsLW5ldy5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How quantum computing and AI can accelerate and improve drug development | Arab News",
+                "url": "https://arabnews.com/node/2608467/saudi-arabia",
+                "description": "RIYADH: Using traditional discovery processes, a staggering 90 percent of drug development trials are unsuccessful. But what if there is a future in which quantum technologies could revolutionize that process to achieve unprecedented efficiency? The race to develop quantum computers has been ...",
+                "age": "3 days ago",
+                "page_age": "2025-07-17T18:20:16",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "arabnews.com",
+                    "hostname": "arabnews.com",
+                    "favicon": "https://imgs.search.brave.com/5uH6lxGbT2_Hwm3bKrm9mvhUgr21Lwx9EOr6Ycvp29I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWI1YmRlMmQ3/YTg3NzBmZDc3YjFi/ZDQ0ZmE2ZTg4M2Mz/ZjQzZTVjMGYyOTY2/NzQ5NTc1YmE1Yzc5/MjNkZWUxZC9hcmFi/bmV3cy5jb20v",
+                    "path": "\u203a node  \u203a 2608467  \u203a saudi-arabia"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/OK5pXJTXvOB01Nl-dtulxQuaMJRmt6HsdP-2cUhVNBc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YXJhYm5ld3MuY29t/L3NpdGVzL2RlZmF1/bHQvZmlsZXMvc3R5/bGVzLzY2MHgzNzFf/d2F0ZXJtYXJrc2F1/ZGkvcHVibGljL21h/aW4taW1hZ2UvMjAy/NS8wNy8xNy80NjIy/MDcyLTE3OTUwNzc0/NTMuanBlZz9pdG9r/PVNzMDFPeUk2"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "QpiAI Bags $32 Mn To Integrate AI, Quantum Computing Into Enterprise Solutions",
+                "url": "https://inc42.com/buzz/qpiai-bags-32-mn-to-integrate-ai-quantum-computing-into-enterprise-solutions/",
+                "description": "Learn from India\u2019s top 1% of ... and tactics on how to launch a successful D2C Brand in 6 weeks. ... The Bengaluru-based deeptech startup raised funds from Avataar Ventures, National Quantum Mission, among others \u00b7 QpiAI will deploy the freshly raised funds to accelerate delivery of its utility scale quantum computer and expand ...",
+                "age": "5 days ago",
+                "page_age": "2025-07-16T12:41:22",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "inc42.com",
+                    "hostname": "inc42.com",
+                    "favicon": "https://imgs.search.brave.com/PKSpodCWQIjLBrs5bSmaDHNjl-q123-5xQmpVO3ahf8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2JmYzRkNzUw/NGFiZGU0ZTIyYjNk/MzA2YjczODBiZjNi/ODQ5OThhNjI0YTEz/MzA1YTdiNTk1YTc3/ZDIzMWRlMy9pbmM0/Mi5jb20v",
+                    "path": "\u203a buzz  \u203a qpiai-bags-32-mn-to-integrate-ai-quantum-computing-into-enterprise-solutions"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/cXzGzfVdntPM8jOcNW3IRhieskH2XazBGwes8uoNoOs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbmM0/Mi5jb20vY2RuLWNn/aS9pbWFnZS9xdWFs/aXR5PTc1L2h0dHBz/Oi8vYXNzZXQuaW5j/NDIuY29tLzIwMjUv/MDcvVW50aXRsZWQt/ZGVzaWduLTEtMS5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Wanted: enabling technologies in quantum computing for artificial intelligence (AI) and cyber security",
+                "url": "https://www.militaryaerospace.com/computers/article/55302789/quantum-computing-for-artificial-intelligence-ai-and-cyber-security",
+                "description": "The focus involves qubit characterization, calibration, and control to reduce errors and improve long-term quantum computation performance. Companies must submit white papers by 7 Aug 2025, to participate in this initiative to push quantum computing toward fault tolerance.",
+                "age": "1 week ago",
+                "page_age": "2025-07-14T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "militaryaerospace.com",
+                    "hostname": "www.militaryaerospace.com",
+                    "favicon": "https://imgs.search.brave.com/HnEcXIlp4jTU5bFG9sLR_TCDCvEaW8LcD6VC3XUesuM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmZiZGU5NjA5/ZWJiOWY1MDE0M2M1/ODIxN2EwOTEzZjNk/NWZlZjc2ZmIyNDEw/NDgxYTQwMmJhOWRk/OTFiMzRkOC93d3cu/bWlsaXRhcnlhZXJv/c3BhY2UuY29tLw",
+                    "path": "\u203a computers  \u203a article  \u203a 55302789  \u203a quantum-computing-for-artificial-intelligence-ai-and-cyber-security"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What is Quantum Computing? - Blockchain Council",
+                "url": "https://blockchain-council.org/ai/quantum-computing",
+                "description": "Quantum computing is a new way of processing information using the laws of quantum mechanics. Unlike regular computers that use bits, quantum computers use qubits. A qubit can hold both 0 and 1 at the same time, which means quantum machines can solve some problems much faster than classical ones.",
+                "age": "5 days ago",
+                "page_age": "2025-07-16T04:09:53",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "blockchain-council.org",
+                    "hostname": "blockchain-council.org",
+                    "favicon": "https://imgs.search.brave.com/cTlkAb_Lv-HC04a-_j3B0ydOy06J7zOV56NSaGLQh04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTk2MDc0Njg5/MjhkNzAwZTEzZTll/NzZkYzY3YTMxYWQ5/ZTA3NWIyODY0N2I0/YzI5NjQ1NmY3YmY0/YjY5YWQ1Yi9ibG9j/a2NoYWluLWNvdW5j/aWwub3JnLw",
+                    "path": "\u203a ai  \u203a quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VnxG50hywQ-lqRlnVDvSGk23U1tBPD-YQim229pQSas/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmxvY2tjaGFpbi1j/b3VuY2lsLm9yZy93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Ny9XaGF0LTgud2Vi/cA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaire Warren Buffett Owns These 3 Quantum Computing Stocks. Should You? @themotleyfool #stocks $GOOG $IBM $MSFT $GOOGL $BRK.A $BRK.B",
+                "url": "https://www.fool.com/investing/2025/07/14/billionaire-warren-buffett-owns-these-3-quantum-co/",
+                "description": "You're reading a free article with ... a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Buffett doesn't have any quantum computing stocks in Berkshire Hathaway's portfo...",
+                "age": "1 week ago",
+                "page_age": "2025-07-14T08:50:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 07  \u203a 14  \u203a billionaire-warren-buffett-owns-these-3-quantum-co"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/1xorBFkjSYCwAENhBLILyICwpURzdM9S3GYnUS0VGSg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI0NjcxL3F1/YW50dW0tY29tcHV0/aW5nLXRleHQuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaire Warren Buffett Owns These 3 Quantum Computing Stocks. Should You? - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/stocks/GOOG/pressreleases/33380828/billionaire-warren-buffett-owns-these-3-quantum-computing-stocks-should-you/",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Buffett doesn't have any quantum computing stocks in Berkshire Hathaway's portfolio. However, he owns stakes in Alphabet...",
+                "age": "1 week ago",
+                "page_age": "2025-07-14T08:50:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a GOOG  \u203a pressreleases  \u203a 33380828  \u203a billionaire-warren-buffett-owns-these-3-quantum-computing-stocks-should-you"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}
