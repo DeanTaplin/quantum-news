@@ -1,0 +1,162 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-07-28T01:46:24.879072"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33656072/why-some-investors-are-betting-big-on-quantum-computing-as-a-moonshot-artificial-intelligence-ai-play/",
+                "description": "The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum technology is forecast to become a $200 billion market over the coming decades. One of the hottest stocks in the quantum movement is a company called Quantum Computing, which has seen its stock soar by nearly ...",
+                "age": "2 days ago",
+                "page_age": "2025-07-26T10:33:14",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 33656072  \u203a why-some-investors-are-betting-big-on-quantum-computing-as-a-moonshot-artificial-intelligence-ai-play"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI and Quantum Computing Revolutionize Industries Amid Ethical Challenges",
+                "url": "https://webpronews.com/ai-and-quantum-computing-revolutionize-industries-amid-ethical-challenges",
+                "description": "AI is transforming industries like finance and healthcare, with surging investments in infrastructure by giants like Microsoft and Amazon. Quantum computing advances promise disruptions in pharmaceuticals and logistics, while sustainability drives eco-friendly innovations.",
+                "age": "3 days ago",
+                "page_age": "2025-07-25T10:08:50",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/Tp-mqvgaJbUc4uV77RL8kYTPAmLvayWF506H3fJOhnE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBkN2JlYzk1/YTEwZDNjMmUzNjFk/Y2IxZWU1ZjkxMjE5/YTJlZWRkN2QyZjU5/ODhiMGRjY2MyNDEw/NmRkNmU3Ni93ZWJw/cm9uZXdzLmNvbS8",
+                    "path": "\u203a ai-and-quantum-computing-revolutionize-industries-amid-ethical-challenges"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4RLzxywwVCBn_CDlG5mVUfWFcF0zmsWtDdbkHwx9d9o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDcveGFpLXRt/cC1pbWdlbi0yYTFk/Y2EzNi1mYjhiLTQ4/OWItYWQxOC03NTY0/YmM1MTQxZGUuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IDTechEx Investigates: How Close is Quantum Computing to Commercial Value? | The AI Journal",
+                "url": "https://aijourn.com/idtechex-investigates-how-close-is-quantum-computing-to-commercial-value",
+                "description": "BOSTON, July 23, 2025 /PRNewswire/ \u2014 Quantum computing is a high-profile emerging technology frequently discussed but often misunderstood. Over the last decade, its development from lab to commercial technology has seen startups, established companies, and governments alike pursue the goal ...",
+                "age": "5 days ago",
+                "page_age": "2025-07-23T13:03:46",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "aijourn.com",
+                    "hostname": "aijourn.com",
+                    "favicon": "https://imgs.search.brave.com/G9_7A6eqCPbT6SW1tz1WDTE2pGLFYw88FNdl54ARhKA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDYzNDQyOWE4/MmQ0ODQwZjE2Yzdm/NDc2OThlODg0YWQ3/ZmQ0OWIwNWFjYzk3/ZjJmYTBiY2NjMmU4/OWQ4ZTM2Yi9haWpv/dXJuLmNvbS8",
+                    "path": "\u203a idtechex-investigates-how-close-is-quantum-computing-to-commercial-value"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing and AI: The Power Couple - Roar News",
+                "url": "https://roarnews.co.uk/2025/quantum-computing-and-ai-the-power-couple/",
+                "description": "Staff Writer Advay Jain explores the rapidly evolving relationship between quantum computing and artificial intelligence, unpacking how their fusion could revolutionise the future. The most powerful computer in the world is El Capitan, capable of performing one quintillion calculations per second.",
+                "age": "4 days ago",
+                "page_age": "2025-07-24T13:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "roarnews.co.uk",
+                    "hostname": "roarnews.co.uk",
+                    "favicon": "https://imgs.search.brave.com/FnznLu0GOEefs8aKqnxYHWZ7tKkNUJFmxI_ZQnth_7Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWEzYjQyM2M4/MDE3Mzk4NDhhNjI2/ZTM0MzBlYjRhMjRl/YmE3ZjdlMmE5MTRm/MzczYzc4Njk0N2Vj/NTE2MTVkYy9yb2Fy/bmV3cy5jby51ay8",
+                    "path": "\u203a 2025  \u203a quantum-computing-and-ai-the-power-couple"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/MXxn1SV8eOMOcYPYIynpEDEmogakjFWNL5SVUcY_NYM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9yb2Fy/bmV3cy5jby51ay93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8w/Ny8xMDI0cHgtSVFN/X1F1YW50dW1fQ29t/cHV0ZXJfRXNwb29f/RmlubGFuZC1lMTc1/MzMzNDcyMzE4Ny0x/MDI0eDU3Ni5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Harvard\u2019s ultra-thin chip could revolutionize quantum computing | ScienceDaily",
+                "url": "https://sciencedaily.com/releases/2025/07/250724232413.htm",
+                "description": "Researchers at Harvard have created a groundbreaking metasurface that can replace bulky and complex optical components used in quantum computing with a single, ultra-thin, nanostructured layer. This innovation could make quantum networks far more scalable, stable, and compact.",
+                "age": "2 days ago",
+                "page_age": "2025-07-26T03:02:30",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sciencedaily.com",
+                    "hostname": "sciencedaily.com",
+                    "favicon": "https://imgs.search.brave.com/QMxzIRv3nUYelI4Sg8j6d5I7a8NPHLMLzgb3BEtREZk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjczYzIzZjhj/MmJlZDY4ZjYyY2Rk/MDQ4MGQ0ZWUxOGIx/YmY5OGNiN2FjMGQ1/MzEzNTA0YmJlMTM4/ZmNkYTdhOC9zY2ll/bmNlZGFpbHkuY29t/Lw",
+                    "path": "\u203a releases  \u203a 2025  \u203a 07  \u203a 250724232413.htm"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4bPHqdPHlLPtUMRC72xYQj50udnrlS_RbGZwbe6BOd8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZWRhaWx5/LmNvbS9pbWFnZXMv/MTkyMC9tZXRhc3Vy/ZmFjZS1xdWFudHVt/LWdyYXBocy53ZWJw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaires Are Buying This Quantum Computing Stock Hand Over Fist (Hint: It's Not IonQ or D-Wave Quantum) @themotleyfool #stocks $GOOGL $GOOG $IONQ $QBTS",
+                "url": "https://www.fool.com/investing/2025/07/22/billionaires-buying-this-quantum-computing-stock/",
+                "description": "You're reading a free article with opinions that may differ from The Motley Fool's Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Quantum computing stocks ...",
+                "age": "5 days ago",
+                "page_age": "2025-07-22T14:39:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 07  \u203a 22  \u203a billionaires-buying-this-quantum-computing-stock"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ZDRKw4SYPpviAfsvrhsji0ObV4N5mY3kvO3fdVxvwg4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI1MjgyL2Fp/LXBpYy0xLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Faces 3 Major Barriers Before Going Mainstream",
+                "url": "https://www.forbes.com/sites/bernardmarr/2025/07/23/quantum-computing-faces-3-major-barriers-before-going-mainstream/",
+                "description": "More intelligence, but faces major technical hurdles, including unstable qubits that last only microseconds and the need for millions of qubits versus today's 1,000.Adobe Stock \u00b7 The age of the \u201cuseful\u201d quantum computer is fast approaching, promising to supercharge the computing power ...",
+                "age": "5 days ago",
+                "page_age": "2025-07-23T03:51:17",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "forbes.com",
+                    "hostname": "www.forbes.com",
+                    "favicon": "https://imgs.search.brave.com/qg6-E4bARcUpS7pHuJ2FXSeQ2YI51iPfbI8wpUBx9tg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0NWFiMTBk/YmY2MjkyN2M0MTI0/NmRkYTM3ZjQzMGJj/Y2Q2MTBkYjVmZjA2/OGRjODBhMTM1M2Yx/YmRlZTA1NS93d3cu/Zm9yYmVzLmNvbS8",
+                    "path": "\u203a sites  \u203a bernardmarr  \u203a 2025  \u203a 07  \u203a 23  \u203a quantum-computing-faces-3-major-barriers-before-going-mainstream"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How Quantum Computing Could Revolutionize Supply Chains",
+                "url": "https://logisticsinsider.in/how-quantum-computing-could-revolutionize-supply-chains",
+                "description": "Imagine navigating a maze one step at a time, trying different paths until you find the right one. That\u2019s how classical computers tackle complex logistics problems\u2014slowly. Now imagine seeing all paths at once and instantly knowing the best one. That\u2019s the magic of quantum computing in ...",
+                "age": "1 week ago",
+                "page_age": "2025-07-21T09:15:32",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "logisticsinsider.in",
+                    "hostname": "logisticsinsider.in",
+                    "favicon": "https://imgs.search.brave.com/f6iaebIikmXnRyX7EJZCvvumWKi-vgKQ5190JHLCyiI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzI1Y2NhZDc2/MjJmODJhYjhmZTEz/MzdjNDg3OTc4NzMx/MjBlMGE2MGFhNDE2/N2FmMTUxMzExNmIz/MGU1NTc4OC9sb2dp/c3RpY3NpbnNpZGVy/LmluLw",
+                    "path": "\u203a how-quantum-computing-could-revolutionize-supply-chains"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/g2TpjDXxdXpHuIHmmcUj-TJWgpk0BwrKkrllqCstuTI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bG9naXN0aWNzaW5z/aWRlci5pbi93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wNy8y/MTc0MzcxOV82NDUz/MjE3LXNjYWxlZC5q/cGc"
+                }
+            }
+        ]
+    }
+}
