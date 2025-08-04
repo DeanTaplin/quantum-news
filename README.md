@@ -7,23 +7,25 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
-- **AI and Quantum Computing Revolutionize Industries Amid Ethical Challenges**
-  - AI is transforming industries like finance and healthcare, with surging investments in infrastructure by giants like Microsoft and Amazon. Quantum computing advances promise disruptions in pharmaceuticals and logistics, while sustainability drives eco-friendly innovations.
-  - [Source](https://webpronews.com/ai-and-quantum-computing-revolutionize-industries-amid-ethical-challenges)
+- **Bitcoin News Today: Grok AI Cuts Quantum Computing Risk to Bitcoin at 0% in 5 Years**
+  - In a recent conversation prompted ... quantum computers breaking Bitcoin’s SHA-256 algorithm within five years as "essentially zero." Even by 2035, Grok calculated the risk would remain in single digits unless a major technological breakthrough occurs [1]. The primary obstacle lies in the scale required to break Bitcoin’s encryption. Such an attack would necessitate millions of fully error-corrected qubits—far beyond the capabilities of current quantum systems. While IBM and Google have ...
+  - [Source](https://www.ainvest.com/news/bitcoin-news-today-grok-ai-cuts-quantum-computing-risk-bitcoin-0-5-years-2508/)
 
-- **Harvard’s ultra-thin chip could revolutionize quantum computing | ScienceDaily**
-  - Researchers at Harvard have created a groundbreaking metasurface that can replace bulky and complex optical components used in quantum computing with a single, ultra-thin, nanostructured layer. This innovation could make quantum networks far more scalable, stable, and compact.
-  - [Source](https://sciencedaily.com/releases/2025/07/250724232413.htm)
+- **This Quantum Computing Company Just Unlocked a New AI Breakthrough**
+  - This could pave the way for quantum computers with more qubits that can be used for AI. There's still a long way to go, though -- and Rigetti's stock remains a speculative bet.
+  - [Source](https://finance.yahoo.com/news/quantum-computing-company-just-unlocked-085200558.html)
 
-- **Billionaires Are Buying This Quantum Computing Stock Hand Over Fist (Hint: It's Not IonQ or D-Wave Quantum) @themotleyfool #stocks $GOOGL $GOOG $IONQ $QBTS**
-  - You're reading a free article with opinions that may differ from The Motley Fool's Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Quantum computing stocks ...
-  - [Source](https://www.fool.com/investing/2025/07/22/billionaires-buying-this-quantum-computing-stock/)
+- **Microsoft Says Quantum Computing Will Soon Accelerate AI Cloud - CoinCentral**
+  - Microsoft CEO Satya Nadella unveils a bold pivot toward quantum computing, calling it the next major force driving AI cloud innovation. ... Microsoft CEO Nadella says quantum computing will soon drive cloud and AI acceleration.
+  - [Source](https://coincentral.com/microsoft-says-quantum-computing-will-soon-accelerate-ai-cloud/)
 
-### Market Trends
+- **This Quantum Computing Company Just Unlocked a New AI Breakthrough @themotleyfool #stocks $RGTI**
+  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Rigetti has achieved a significant error rate reduction with a 36-qubit system. This could pave the way for quantum computers with more ...
+  - [Source](https://www.fool.com/investing/2025/08/02/this-quantum-computing-company-just-unlocked-a-new/)
 
-- **Why Some Investors Are Betting Big on Quantum Computing as a Moonshot Artificial Intelligence (AI) Play - The Globe and Mail**
-  - The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum technology is forecast to become a $200 billion market over the coming decades. One of the hottest stocks in the quantum movement is a company called Quantum Computing, which has seen its stock soar by nearly ...
-  - [Source](https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/33656072/why-some-investors-are-betting-big-on-quantum-computing-as-a-moonshot-artificial-intelligence-ai-play/)
+- **Merging AI and Quantum Computing: Here's the Stock to Watch**
+  - With its cutting-edge GPUs, Nvidia is a formidable force in the AI industry. Collaborating with quantum computer developers and Japanese researchers, Nvidia is applying its AI capabilities to advance quantum computing.
+  - [Source](https://finance.yahoo.com/news/merging-ai-quantum-computing-heres-212400385.html)
 
 
 ## News Archive

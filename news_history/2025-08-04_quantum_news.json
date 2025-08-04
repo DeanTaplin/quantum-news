@@ -1,0 +1,237 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-08-04T01:49:53.447926"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "8 Quantum Computing Stocks Artificial Intelligence (AI) Investors Should Have on Their Radars. Here's the Best of the Bunch.",
+                "url": "https://finance.yahoo.com/news/8-quantum-computing-stocks-artificial-110000860.html",
+                "description": "Quantum computing stocks remain sizzling hot in the artificial intelligence (AI) space, many of which are outperforming the S&P 500 and Nasdaq Composite this year.",
+                "age": "2 days ago",
+                "page_age": "2025-08-02T11:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a 8-quantum-computing-stocks-artificial-110000860.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Bitcoin News Today: Grok AI Cuts Quantum Computing Risk to Bitcoin at 0% in 5 Years",
+                "url": "https://www.ainvest.com/news/bitcoin-news-today-grok-ai-cuts-quantum-computing-risk-bitcoin-0-5-years-2508/",
+                "description": "In a recent conversation prompted ... quantum computers breaking Bitcoin\u2019s SHA-256 algorithm within five years as \"essentially zero.\" Even by 2035, Grok calculated the risk would remain in single digits unless a major technological breakthrough occurs [1]. The primary obstacle lies in the scale required to break Bitcoin\u2019s encryption. Such an attack would necessitate millions of fully error-corrected qubits\u2014far beyond the capabilities of current quantum systems. While IBM and Google have ...",
+                "age": "6 hours ago",
+                "page_age": "2025-08-03T20:16:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a bitcoin-news-today-grok-ai-cuts-quantum-computing-risk-bitcoin-0-5-years-2508"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X91m6Dnn7qP_kmXRdSQHiIsneFuOJrNVuNaMQaq4Bkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWludmVzdC5jb20v/d2VuY2FpLXNzci9v/Zy1pbWFnZS1uZXdz/LTIwMjQwMjI2LnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Company Just Unlocked a New AI Breakthrough",
+                "url": "https://finance.yahoo.com/news/quantum-computing-company-just-unlocked-085200558.html",
+                "description": "This could pave the way for quantum computers with more qubits that can be used for AI. There's still a long way to go, though -- and Rigetti's stock remains a speculative bet.",
+                "age": "2 days ago",
+                "page_age": "2025-08-02T08:52:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-company-just-unlocked-085200558.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Microsoft Says Quantum Computing Will Soon Accelerate AI Cloud - CoinCentral",
+                "url": "https://coincentral.com/microsoft-says-quantum-computing-will-soon-accelerate-ai-cloud/",
+                "description": "Microsoft CEO Satya Nadella unveils a bold pivot toward quantum computing, calling it the next major force driving AI cloud innovation. ... Microsoft CEO Nadella says quantum computing will soon drive cloud and AI acceleration.",
+                "age": "1 day ago",
+                "page_age": "2025-08-02T16:22:33",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "coincentral.com",
+                    "hostname": "coincentral.com",
+                    "favicon": "https://imgs.search.brave.com/A5XtylhrUm208qKgtE6tikdv-bGRQ0fLkOcDOhSTTPY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmEwNzFjNWVk/ZDI3ZjEwNTRjYjZj/MDZiMTQ5ZDUxMTJi/ODdjMjE1Mjk3NmU4/OWY0OWExNWZmZGQ4/ZDI3YmY3NC9jb2lu/Y2VudHJhbC5jb20v",
+                    "path": "\u203a microsoft-says-quantum-computing-will-soon-accelerate-ai-cloud"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/IoL_vGqSMQ-fjSADTyHhCDRGMlaecBZPB6C9Us8_kbc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb2lu/Y2VudHJhbC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MDgvc2h1dHRlcnN0/b2NrXzI1NTY3NzY5/OTctc2NhbGVkLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI & Quantum Computing Mastery: From Zero to Expert Bootcamp- (Free Course) - Course Joiner",
+                "url": "https://www.coursejoiner.com/development/ai-quantum-computing-mastery-from-zero-to-expert-bootcamp-free-course-3/",
+                "description": "Unlock the power of Artificial Intelligence (AI) and Quantum Computing (QC) with this comprehensive, hands-on course designed",
+                "age": "2 days ago",
+                "page_age": "2025-08-02T11:21:43",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "coursejoiner.com",
+                    "hostname": "www.coursejoiner.com",
+                    "favicon": "https://imgs.search.brave.com/7DxJrTRXDiIVyonFnYScc_Nueiuu-zt-3IL_DJp2rfc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOThiMjIwZjM2/ZjVjMWJkZTkzOTEw/YTQzNjIzZTUzMGU1/NWUzYzA4MmNjYmE3/Y2M1N2Y1NGZiN2I5/NTU3MzgyMi93d3cu/Y291cnNlam9pbmVy/LmNvbS8",
+                    "path": "\u203a development  \u203a ai-quantum-computing-mastery-from-zero-to-expert-bootcamp-free-course-3"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/kfasPWu_WAr_T6ks-x4sml-3MtitIICX7uLhdZKhdp8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y291cnNlam9pbmVy/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wOC82NDky/NjI1XzA4NWIuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Company Just Unlocked a New AI Breakthrough @themotleyfool #stocks $RGTI",
+                "url": "https://www.fool.com/investing/2025/08/02/this-quantum-computing-company-just-unlocked-a-new/",
+                "description": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Rigetti has achieved a significant error rate reduction with a 36-qubit system. This could pave the way for quantum computers with more ...",
+                "age": "2 days ago",
+                "page_age": "2025-08-02T08:52:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 02  \u203a this-quantum-computing-company-just-unlocked-a-new"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HoWW5hokYdrdJfkUn3Mcb9m03R5GPpnKAVQfM69I2iY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI2NTUxL2Fp/LWljb25zLWhhbmQu/anBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How Quantum Computing Will Change AI And The World | by Carroll Blayze | Aug, 2025 | Medium",
+                "url": "https://medium.com/@carroll.blayze/how-quantum-computing-will-change-ai-and-the-world-7d9891fd52a9",
+                "description": "Think about a regular computer. At its core, it uses bits, which are like tiny light switches. A bit can either be on (represented by a 1) or off (represented by a 0). It\u2019s a simple, binary system\u2026",
+                "age": "1 day ago",
+                "page_age": "2025-08-02T15:34:35",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @carroll.blayze  \u203a how-quantum-computing-will-change-ai-and-the-world-7d9891fd52a9"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/SqVwUxFt49q4up66RyKSABsTFxPuNWL1cRbK7HWf3Ng/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqLUhp/UnRXbmJTNU1Odm12/SXNwZ0lPdy5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Merging AI and Quantum Computing: Here's the Stock to Watch",
+                "url": "https://finance.yahoo.com/news/merging-ai-quantum-computing-heres-212400385.html",
+                "description": "With its cutting-edge GPUs, Nvidia is a formidable force in the AI industry. Collaborating with quantum computer developers and Japanese researchers, Nvidia is applying its AI capabilities to advance quantum computing.",
+                "age": "2 days ago",
+                "page_age": "2025-08-01T21:24:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a merging-ai-quantum-computing-heres-212400385.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Merging AI and Quantum Computing: Here's the Stock to Watch @themotleyfool #stocks $NVDA",
+                "url": "https://www.fool.com/investing/2025/08/01/merging-ai-and-quantum-computing-heres-the-stock-t/",
+                "description": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... With its cutting-edge GPUs, Nvidia is a formidable force in the AI industry. Collaborating with quantum computer developers and Japanese ...",
+                "age": "2 days ago",
+                "page_age": "2025-08-01T21:24:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 01  \u203a merging-ai-and-quantum-computing-heres-the-stock-t"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Pk8K2OGq8IqftAPISXtL7etWwccB9jYXryG8JAGv4b8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI2NTUyL2Fp/LXN5bWJvbC1vbi1h/LWRpZ2l0YWwtY2ly/Y3VpdGJvYXJkLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "10 Top AI and Quantum Computing Penny Stocks for August 2025",
+                "url": "https://www.timothysykes.com/blog/ai-penny-stocks/",
+                "description": "Penny stock trading is all about hot sectors \u2014 artificial intelligence and quantum computing are the hottest ones right now!",
+                "age": "3 days ago",
+                "page_age": "2025-08-01T04:00:36",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "timothysykes.com",
+                    "hostname": "www.timothysykes.com",
+                    "favicon": "https://imgs.search.brave.com/HEzzmWE4elgIL-EntM23sJsh6yuRFw_ez526TpiI6j0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUzMDg0MGFh/Yjk5MzE0Y2RmNDYw/NGQ2OGY1NDM4MmJm/MzY3ODBkM2ZmZjc2/Zjc1YTI0ZTI2NDlh/NDJmZmRmNC93d3cu/dGltb3RoeXN5a2Vz/LmNvbS8",
+                    "path": "\u203a blog  \u203a ai-penny-stocks"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/bTRZpcwXnqHTwlLqyPe0NeB1I-yoNW0PFF-DhmiDgBg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LnRpbW90aHlz/eWtlcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDgv/dG9wX2FpX3N0b2Nr/c19hdWd1c3RfQkxP/Ry5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "World Day Against Trafficking in Persons: Can AI and quantum computing turn the tide?",
+                "url": "https://www.finextra.com/the-long-read/1413/world-day-against-trafficking-in-persons-can-ai-and-quantum-computing-turn-the-tide",
+                "description": "Marked on 30 July, International Human Trafficking Day, otherwise known as World Day Against Traffic...",
+                "age": "5 days ago",
+                "page_age": "2025-07-30T12:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finextra.com",
+                    "hostname": "www.finextra.com",
+                    "favicon": "https://imgs.search.brave.com/cVdj52qQjUH-69TGgscKXyRtLrTHei7xOeOj6E3Epho/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODNmMGFiZGQ0/N2I0NGRmZmJhYzVh/NTk3NjgzMDIxNDQ5/MTg0OWJjMDJjNzFm/ZDlmOGZlOGE1ZTc2/Y2VlNWJjZi93d3cu/ZmluZXh0cmEuY29t/Lw",
+                    "path": "\u203a the-long-read  \u203a 1413  \u203a world-day-against-trafficking-in-persons-can-ai-and-quantum-computing-turn-the-tide"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/YzF0xVbEXKf2vsqRsgxM-UnIPqCYWXsh5FwxCSybGGU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZmluZXh0cmEuY29t/L2ZpbmV4dHJhLWlt/YWdlcy9tZW1iZXJf/cGhvdG9zL3RodW1i/XzEwNTAyN19tYWRo/dmlfbWF2YWRpeWEu/anBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Keysight Installs Quantum Control System Supporting Over 1,000 Qubits at AIST\u2019s G-QuAT Center in Japan - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/keysight-installs-quantum-control-system-supporting-over-1000-qubits-at-aists-g-quat-center-in-japan/",
+                "description": "The delivered QCS is intended to translate classical code into quantum operations, a function that becomes more complex as quantum computers grow in size. Extensive testing indicated that requirements for noise, time alignment, and phase coherence are maintained across the system.",
+                "age": "4 days ago",
+                "page_age": "2025-07-30T22:32:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a keysight-installs-quantum-control-system-supporting-over-1000-qubits-at-aists-g-quat-center-in-japan"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            }
+        ]
+    }
+}
