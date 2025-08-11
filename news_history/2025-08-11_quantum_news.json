@@ -1,0 +1,129 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-08-11T01:43:16.492976"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "2025 Tech Trends: AI Agents, Quantum Computing, and Green Innovations",
+                "url": "https://www.webpronews.com/2025-tech-trends-ai-agents-quantum-computing-and-green-innovations/",
+                "description": "In 2025, AI advances to strategic decision-making via agentic systems, integrating with IoT and blockchain for efficiency in healthcare and finance. Quantum computing tackles complex issues amid geopolitical races, while green innovations and 6G enable sustainable tech.",
+                "age": "3 hours ago",
+                "page_age": "2025-08-10T22:43:18",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "www.webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/suojK4VhkzRRy_isSVjhgEHtSBzCNTEP1B2Hb9MF0HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU2NmYzZWNj/MDllODg5NjA2MjQ1/YWE4OWIyN2VlMjFm/NTY3ODRlYmVkMjQx/NDYwZmE5YTExZTAy/YmYwMDFmMS93d3cu/d2VicHJvbmV3cy5j/b20v",
+                    "path": "\u203a 2025-tech-trends-ai-agents-quantum-computing-and-green-innovations"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5rqx88kg8LMzPKTJY7NlNAmftW6kd1rxOrcYqnVPTMc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDgveGFpLXRt/cC1pbWdlbi1kNDk1/MTUzYy1hYzkzLTQw/YjctODY4Mi1iMzdl/NmQyNWVkYWUuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Could Surpass AI by 2033, Says Bank of America Strategist - TipRanks.com",
+                "url": "https://www.tipranks.com/news/quantum-computing-could-surpass-ai-by-2033-says-bank-of-america-strategist",
+                "description": "Unlock powerful investing tools, advanced data, and expert analyst insights to help you invest with confidence. This time, it was BofA\u2019s strategist, Haim Israel, who said quantum computing could reach practical use by 2033 and may have a greater impact on global markets than artificial ...",
+                "age": "5 days ago",
+                "page_age": "2025-08-06T01:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tipranks.com",
+                    "hostname": "www.tipranks.com",
+                    "favicon": "https://imgs.search.brave.com/Fy8mK1OL8AsqdTw9wP8nQlPqSoVi1CnSJLGsrm1tqnU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODNlNWE3OGM1/YmE3YzAwYTQxZDA3/ZDE2NzZjYWEyOWYy/MWVlMGJkOTA5NmRh/NTQzZDg2OGFmNTRm/ZDZiMTY2NC93d3cu/dGlwcmFua3MuY29t/Lw",
+                    "path": "\u203a news  \u203a quantum-computing-could-surpass-ai-by-2033-says-bank-of-america-strategist"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Vpceuu3aVBcTTucZ1K6jMtGrPg1dsMr-jlkkrtgOc7E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wNi9xdWFudHVt/LWNvbXB1dGluZy03/NTB4NDA2LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "D-Wave releases open-source toolkit to integrate quantum computing into AI training - SiliconANGLE",
+                "url": "https://siliconangle.com/2025/08/04/d-wave-releases-open-source-toolkit-integrate-quantum-computing-ai-training/",
+                "description": "D-Wave Quantum Inc., a leader in quantum computing systems, software and services, today announced the release of a collection of open-source tools for developers that advance quantum computing integration with machine learning technology.",
+                "age": "1 week ago",
+                "page_age": "2025-08-04T16:10:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "siliconangle.com",
+                    "hostname": "siliconangle.com",
+                    "favicon": "https://imgs.search.brave.com/Bl_eqvYqFDeYiQUxMSi9yvnZW31JmVPENHwU48gCz28/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNmZWRmYWI0/ZTliZjc3OTVjODE4/OGFiNDgzNDkzMmE4/M2E0M2Y0MTM2OWUx/OTdiMTE5NzI4YTg2/YzdlMWVjMC9zaWxp/Y29uYW5nbGUuY29t/Lw",
+                    "path": "\u203a 2025  \u203a 08  \u203a 04  \u203a d-wave-releases-open-source-toolkit-integrate-quantum-computing-ai-training"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VhLufm3N3CO0em6NXyIl5wezYCfzpMq31EUXaV7TT1U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMTVz/aGxsa3N3a2N0MC5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L2Jsb2dzLmRpci8x/L2ZpbGVzLzIwMjQv/MDYvcXVhbnR1bS1j/b21wdXRlci1taWNy/b3NvZnQtZGVzaWdu/ZXIucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Council Post: The Overlapping Challenges That AI And Quantum Computing Present",
+                "url": "https://forbes.com/councils/forbestechcouncil/2025/08/07/the-overlapping-challenges-that-ai-and-quantum-computing-present",
+                "description": "When it comes to ensuring AI is ... with investment in training and skilling. This will be even more essential in the near future as the impact of AI is compounded by another technological sea change\u2014the arrival of quantum computing....",
+                "age": "4 days ago",
+                "page_age": "2025-08-07T11:45:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "forbes.com",
+                    "hostname": "forbes.com",
+                    "favicon": "https://imgs.search.brave.com/3H2YLZf1BpiKMUuzUF67-uu01Z1HBFeJ0q74dreksHY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQ5ODIyYjJl/NWVkNmIxZTRiNTFj/MjZjNjlkNmU3NDhi/YjBjM2Q4OWZkNzY2/MWFlYjZmNGU4NTM1/NjczOWE5Ni9mb3Ji/ZXMuY29tLw",
+                    "path": "\u203a councils  \u203a forbestechcouncil  \u203a 2025  \u203a 08  \u203a 07  \u203a the-overlapping-challenges-that-ai-and-quantum-computing-present"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "The Future of Quantum Computing and AI - Eduwik",
+                "url": "https://eduwik.com/the-future-of-quantum-computing-and-ai",
+                "description": "Introduction: The Dawn of a New Technological Era The 21st century has witnessed transformative leaps in technology, none more promising and potentially disruptive than artificial\u2026",
+                "age": "5 days ago",
+                "page_age": "2025-08-06T10:13:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "eduwik.com",
+                    "hostname": "eduwik.com",
+                    "favicon": "https://imgs.search.brave.com/Qmc34j6bTfiY2mWhvfGQEYNsoR8vZWmCNdbazQeCW2w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjgxNGM2MjAz/NGM1ZTI3NzY0NzVj/Yzk3NTg0YmE2ODE4/ZjQyY2M3NTE3ZjVk/ZDJjMThlYmQ4OWZm/ZDU5Y2RkZS9lZHV3/aWsuY29tLw",
+                    "path": "\u203a the-future-of-quantum-computing-and-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/c4nh1DFCd38bIMDo2nQDoAySp37gvckSi4FV1DzRrZY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lZHV3/aWsuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI1LzA4LzQx/Li1UaGUtRnV0dXJl/LW9mLVF1YW50dW0t/Q29tcHV0aW5nLWFu/ZC1BSS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Prediction: This Quantum Computing Stock Will Be Worth More Than Berkshire Hathaway, Palantir, and Tesla Combined by 2030 - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/stocks/BRK-B-N/pressreleases/33852146/prediction-this-quantum-computing-stock-will-be-worth-more-than-berkshire-hathaway-palantir-and-tesla-combined-by-2030/",
+                "description": "Google parent Alphabet is already nearly worth more than Berkshire, Palantir, and Tesla combined. If a few key assumptions hold up, the stock should be larger than these three companies within the near future. Quantum computing probably won't be Alphabet's biggest growth driver, though.",
+                "age": "1 week ago",
+                "page_age": "2025-08-04T07:55:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a BRK-B-N  \u203a pressreleases  \u203a 33852146  \u203a prediction-this-quantum-computing-stock-will-be-worth-more-than-berkshire-hathaway-palantir-and-tesla-combined-by-2030"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}

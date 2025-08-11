@@ -5,27 +5,27 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 ## Latest Updates (Past 7 Days)
 
 
+### Major Model Releases & Improvements
+
+- **D-Wave releases open-source toolkit to integrate quantum computing into AI training - SiliconANGLE**
+  - D-Wave Quantum Inc., a leader in quantum computing systems, software and services, today announced the release of a collection of open-source tools for developers that advance quantum computing integration with machine learning technology.
+  - [Source](https://siliconangle.com/2025/08/04/d-wave-releases-open-source-toolkit-integrate-quantum-computing-ai-training/)
+
 ### Notable Innovations
 
-- **Bitcoin News Today: Grok AI Cuts Quantum Computing Risk to Bitcoin at 0% in 5 Years**
-  - In a recent conversation prompted ... quantum computers breaking Bitcoin’s SHA-256 algorithm within five years as "essentially zero." Even by 2035, Grok calculated the risk would remain in single digits unless a major technological breakthrough occurs [1]. The primary obstacle lies in the scale required to break Bitcoin’s encryption. Such an attack would necessitate millions of fully error-corrected qubits—far beyond the capabilities of current quantum systems. While IBM and Google have ...
-  - [Source](https://www.ainvest.com/news/bitcoin-news-today-grok-ai-cuts-quantum-computing-risk-bitcoin-0-5-years-2508/)
+- **2025 Tech Trends: AI Agents, Quantum Computing, and Green Innovations**
+  - In 2025, AI advances to strategic decision-making via agentic systems, integrating with IoT and blockchain for efficiency in healthcare and finance. Quantum computing tackles complex issues amid geopolitical races, while green innovations and 6G enable sustainable tech.
+  - [Source](https://www.webpronews.com/2025-tech-trends-ai-agents-quantum-computing-and-green-innovations/)
 
-- **This Quantum Computing Company Just Unlocked a New AI Breakthrough**
-  - This could pave the way for quantum computers with more qubits that can be used for AI. There's still a long way to go, though -- and Rigetti's stock remains a speculative bet.
-  - [Source](https://finance.yahoo.com/news/quantum-computing-company-just-unlocked-085200558.html)
+### Market Trends
 
-- **Microsoft Says Quantum Computing Will Soon Accelerate AI Cloud - CoinCentral**
-  - Microsoft CEO Satya Nadella unveils a bold pivot toward quantum computing, calling it the next major force driving AI cloud innovation. ... Microsoft CEO Nadella says quantum computing will soon drive cloud and AI acceleration.
-  - [Source](https://coincentral.com/microsoft-says-quantum-computing-will-soon-accelerate-ai-cloud/)
+- **Quantum Computing Could Surpass AI by 2033, Says Bank of America Strategist - TipRanks.com**
+  - Unlock powerful investing tools, advanced data, and expert analyst insights to help you invest with confidence. This time, it was BofA’s strategist, Haim Israel, who said quantum computing could reach practical use by 2033 and may have a greater impact on global markets than artificial ...
+  - [Source](https://www.tipranks.com/news/quantum-computing-could-surpass-ai-by-2033-says-bank-of-america-strategist)
 
-- **This Quantum Computing Company Just Unlocked a New AI Breakthrough @themotleyfool #stocks $RGTI**
-  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Rigetti has achieved a significant error rate reduction with a 36-qubit system. This could pave the way for quantum computers with more ...
-  - [Source](https://www.fool.com/investing/2025/08/02/this-quantum-computing-company-just-unlocked-a-new/)
-
-- **Merging AI and Quantum Computing: Here's the Stock to Watch**
-  - With its cutting-edge GPUs, Nvidia is a formidable force in the AI industry. Collaborating with quantum computer developers and Japanese researchers, Nvidia is applying its AI capabilities to advance quantum computing.
-  - [Source](https://finance.yahoo.com/news/merging-ai-quantum-computing-heres-212400385.html)
+- **Prediction: This Quantum Computing Stock Will Be Worth More Than Berkshire Hathaway, Palantir, and Tesla Combined by 2030 - The Globe and Mail**
+  - Google parent Alphabet is already nearly worth more than Berkshire, Palantir, and Tesla combined. If a few key assumptions hold up, the stock should be larger than these three companies within the near future. Quantum computing probably won't be Alphabet's biggest growth driver, though.
+  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/BRK-B-N/pressreleases/33852146/prediction-this-quantum-computing-stock-will-be-worth-more-than-berkshire-hathaway-palantir-and-tesla-combined-by-2030/)
 
 
 ## News Archive
