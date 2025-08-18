@@ -7,25 +7,31 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **D-Wave releases open-source toolkit to integrate quantum computing into AI training - SiliconANGLE**
-  - D-Wave Quantum Inc., a leader in quantum computing systems, software and services, today announced the release of a collection of open-source tools for developers that advance quantum computing integration with machine learning technology.
-  - [Source](https://siliconangle.com/2025/08/04/d-wave-releases-open-source-toolkit-integrate-quantum-computing-ai-training/)
+- **Researchers use AI to speed up quantum computing experiments | Digital Watch Observatory**
+  - AI has been used to rapidly assemble arrays of atoms that could one day power quantum computers. A team led by physicist Jian-Wei Pan at the University of Science and Technology of China demonstrated how an AI model can calculate the best way to arrange neutral atoms, a long-standing challenge ...
+  - [Source](https://dig.watch/updates/researchers-use-ai-to-speed-up-quantum-computing-experiments)
+
+- **AI and Quantum Computing Advance Drug Discovery Amid Challenges**
+  - Advancements in AI and quantum computing, led by Google and IBM, promise faster solutions for drug discovery and climate modeling amid $200B+ investments. Challenges include regulations, ethics, job displacement, and sustainability demands. Geopolitical tensions spur competition, urging strategic ...
+  - [Source](https://webpronews.com/ai-and-quantum-computing-advance-drug-discovery-amid-challenges)
+
+- **5 Brilliant Quantum Computing Stocks to Buy Right Now - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Some of the legacy tech giants are participating in quantum computing.
+  - [Source](https://theglobeandmail.com/investing/markets/markets-news/Motley Fool/34199254/5-brilliant-quantum-computing-stocks-to-buy-right-now)
 
 ### Notable Innovations
 
-- **2025 Tech Trends: AI Agents, Quantum Computing, and Green Innovations**
-  - In 2025, AI advances to strategic decision-making via agentic systems, integrating with IoT and blockchain for efficiency in healthcare and finance. Quantum computing tackles complex issues amid geopolitical races, while green innovations and 6G enable sustainable tech.
-  - [Source](https://www.webpronews.com/2025-tech-trends-ai-agents-quantum-computing-and-green-innovations/)
+- **2025 Tech Trends: AI, Quantum Computing, and Green Innovations**
+  - In 2025, tech trends emphasize agentic AI integrating with IoT and blockchain for business efficiency, quantum computing breakthroughs in drug discovery and energy, and sustainable green innovations like AI-driven energy management. Governance addresses ethics and privacy, while startups drive ...
+  - [Source](https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-green-innovations/)
 
-### Market Trends
+- **This Startup Wants to Harness Quantum Computing to Make AI More Affordable**
+  - Quantum computing is capable of mind-bending tricks. With Sygaldry, Chad Rigetti hopes it can lower the costs for AI development. ... Chad Rigetti. Photo: Courtesy company ... One of the major barriers to innovation in artificial intelligence is the sheer cost. Companies need millions of dollars in funding to buy the highest-end chips, or GPUs, that are required to develop, train, and ...
+  - [Source](https://www.inc.com/claire-cameron/this-startup-wants-to-harness-quantum-computing-to-make-ai-more-affordable/91221377)
 
-- **Quantum Computing Could Surpass AI by 2033, Says Bank of America Strategist - TipRanks.com**
-  - Unlock powerful investing tools, advanced data, and expert analyst insights to help you invest with confidence. This time, it was BofA’s strategist, Haim Israel, who said quantum computing could reach practical use by 2033 and may have a greater impact on global markets than artificial ...
-  - [Source](https://www.tipranks.com/news/quantum-computing-could-surpass-ai-by-2033-says-bank-of-america-strategist)
-
-- **Prediction: This Quantum Computing Stock Will Be Worth More Than Berkshire Hathaway, Palantir, and Tesla Combined by 2030 - The Globe and Mail**
-  - Google parent Alphabet is already nearly worth more than Berkshire, Palantir, and Tesla combined. If a few key assumptions hold up, the stock should be larger than these three companies within the near future. Quantum computing probably won't be Alphabet's biggest growth driver, though.
-  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/BRK-B-N/pressreleases/33852146/prediction-this-quantum-computing-stock-will-be-worth-more-than-berkshire-hathaway-palantir-and-tesla-combined-by-2030/)
+- **Quantum Computing Market Detailed In New Research Report 2025 - Newstrail**
+  - Global Quantum Computing Market size was valued at USD 1.2 billion in 2023 and is poised to grow from USD 1.54 billion in 2024 to USD 11.3 billion by 2032, growing at a CAGR of 28.3% during the forecast period (2025-2032).
+  - [Source](https://newstrail.com/quantum-computing-market-detailed-in-new-research-report-2025-2)
 
 
 ## News Archive

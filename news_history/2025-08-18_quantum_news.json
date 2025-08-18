@@ -1,0 +1,291 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-08-18T01:41:15.390797"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Researchers use AI to speed up quantum computing experiments | Digital Watch Observatory",
+                "url": "https://dig.watch/updates/researchers-use-ai-to-speed-up-quantum-computing-experiments",
+                "description": "AI has been used to rapidly assemble arrays of atoms that could one day power quantum computers. A team led by physicist Jian-Wei Pan at the University of Science and Technology of China demonstrated how an AI model can calculate the best way to arrange neutral atoms, a long-standing challenge ...",
+                "age": "12 hours ago",
+                "page_age": "2025-08-17T13:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "dig.watch",
+                    "hostname": "dig.watch",
+                    "favicon": "https://imgs.search.brave.com/d6TfFS5ZEMglhmG5OKwuHEQXa-L8qsEtdP3_1sBBXIs/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjAzM2FkNjU4/NzI2YTUyYmI3YmI2/OWJlN2MwOTM0NDcx/Yjg3ZDJiNWJiZWQw/ZjZkYzU1NDIwZGZm/MjE3ZWY5My9kaWcu/d2F0Y2gv",
+                    "path": "\u203a updates  \u203a researchers-use-ai-to-speed-up-quantum-computing-experiments"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/cxBL7Sel7Wxz3w2m6qAl2F2vEYQRqrwZkvAT6m-G3Vw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kaXBs/by1tZWRpYS5zMy5l/dS1jZW50cmFsLTEu/YW1hem9uYXdzLmNv/bS8yMDIzLzExL3F1/YW50dW0tY29tcHV0/ZXItZnV0dXJpc3Rp/Yy1kaWdpdGFsLWNv/bXB1dGVyLWRlc2ln/bi0xLTEwMjR4NTg1/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "2025 Tech Trends: AI, Quantum Computing, and Green Innovations",
+                "url": "https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-green-innovations/",
+                "description": "In 2025, tech trends emphasize agentic AI integrating with IoT and blockchain for business efficiency, quantum computing breakthroughs in drug discovery and energy, and sustainable green innovations like AI-driven energy management. Governance addresses ethics and privacy, while startups drive ...",
+                "age": "15 hours ago",
+                "page_age": "2025-08-17T10:33:39",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "www.webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/suojK4VhkzRRy_isSVjhgEHtSBzCNTEP1B2Hb9MF0HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU2NmYzZWNj/MDllODg5NjA2MjQ1/YWE4OWIyN2VlMjFm/NTY3ODRlYmVkMjQx/NDYwZmE5YTExZTAy/YmYwMDFmMS93d3cu/d2VicHJvbmV3cy5j/b20v",
+                    "path": "\u203a 2025-tech-trends-ai-quantum-computing-and-green-innovations"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nkSffzmG67FIqpx8P4SNmkTuw5ojWG6wpKi3zwCBS90/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDgveGFpLXRt/cC1pbWdlbi0xYjk2/OGQ5MC1hZGNiLTQ3/MDItOTc5ZS01MjZi/NWQwMTEyZjAuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Double the Disruption: The 3 Best Stocks to Buy Now to Profit From Both AI and Quantum Computing - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/34199026/double-the-disruption-the-3-best-stocks-to-buy-now-to-profit-from-both-ai-and-quantum-computing/",
+                "description": "However, others flourish and make smart investors a lot of money over time. I believe we're currently in the early stages of two massive disruptions. Artificial intelligence (AI) holds the potential to transform our world in too many ways to count. Quantum computing could accelerate AI advances ...",
+                "age": "2 days ago",
+                "page_age": "2025-08-16T01:55:12",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 34199026  \u203a double-the-disruption-the-3-best-stocks-to-buy-now-to-profit-from-both-ai-and-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Double the Disruption: The 3 Best Stocks to Buy Now to Profit From Both AI and Quantum Computing @themotleyfool #stocks $NVDA $MSFT $GOOGL $GOOG",
+                "url": "https://www.fool.com/investing/2025/08/16/disruption-best-stocks-buy-profit-ai-quantum/",
+                "description": "Investors can have the best of both worlds with these AI and quantum computing stocks.",
+                "age": "2 days ago",
+                "page_age": "2025-08-16T08:44:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 16  \u203a disruption-best-stocks-buy-profit-ai-quantum"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VQyqtWSBFkSkQ--bhKocLag-EFxtTzpwtSmarKSBaMA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI5MzE5L2Fy/dGlmaWNpYWwtaW50/ZWxsaWdlbmNlLWlu/dmVzdGluZy1hbGdv/cml0aG1zLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Artificial Intelligence (AI) Stock Could Be the Nvidia of Quantum Computing",
+                "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-could-002200919.html",
+                "description": "In a similar fashion, internet and cloud computing juggernaut Alphabet (NASDAQ: GOOG) (NASDAQ: GOOGL) has been quietly pushing the envelope in a new pocket of the AI realm that's gaining attention: quantum computing.",
+                "age": "5 days ago",
+                "page_age": "2025-08-13T00:22:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a artificial-intelligence-ai-stock-could-002200919.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Artificial Intelligence (AI) Stock Could Be the Nvidia of Quantum Computing @themotleyfool #stocks $GOOGL $GOOG",
+                "url": "https://www.fool.com/investing/2025/08/12/this-artificial-intelligence-ai-stock-could-be-the/",
+                "description": "Price as of August 15, 2025, 3:40 p.m. ET \u00b7 While IonQ, Rigetti Computing, and D-Wave Quantum are central figures in the quantum computing spotlight, I see a member of the \"Magnificent Seven\" as the superior choice.",
+                "age": "5 days ago",
+                "page_age": "2025-08-13T00:22:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 12  \u203a this-artificial-intelligence-ai-stock-could-be-the"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wxUPVItyGpy3F9c-n_Tz-9lGVnp6ANi-AU-lq415aPI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI4NzU5L2dl/dHR5aW1hZ2VzLTIx/NTY2MTU4NjItOS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Startup Wants to Harness Quantum Computing to Make AI More Affordable",
+                "url": "https://www.inc.com/claire-cameron/this-startup-wants-to-harness-quantum-computing-to-make-ai-more-affordable/91221377",
+                "description": "Quantum computing is capable of mind-bending tricks. With Sygaldry, Chad Rigetti hopes it can lower the costs for AI development. ... Chad Rigetti. Photo: Courtesy company ... One of the major barriers to innovation in artificial intelligence is the sheer cost. Companies need millions of dollars in funding to buy the highest-end chips, or GPUs, that are required to develop, train, and ...",
+                "age": "6 days ago",
+                "page_age": "2025-08-12T13:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "inc.com",
+                    "hostname": "www.inc.com",
+                    "favicon": "https://imgs.search.brave.com/pH1UR317cqrL2ovxE2PXOdtWowzKoaEwADBpJyCv2zU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmI0YWJlYzJl/MWNmNGZkYTQ3MjEz/ZThkODJmNTM1MGJm/OGUzY2Q0ZTM1ODk0/ZDEzODlkZWUwYjZj/YmMyYzhlYS93d3cu/aW5jLmNvbS8",
+                    "path": "\u203a claire-cameron  \u203a this-startup-wants-to-harness-quantum-computing-to-make-ai-more-affordable  \u203a 91221377"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ROye_ze8dwA3CVH2q8hx-W6Ul3aosqkAX4UOfeG5DK8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLmluYy5jb20v/aW1hZ2UvdXBsb2Fk/L2Zfd2VicCxxX2F1/dG8sY19maXQvdmlw/LzIwMjUvMDcvY2hh/ZC1yaWdldHRpLXN5/Z2FsZHJ5LWluYy5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing could be commercial real estate\u2019s next big tailwind",
+                "url": "https://cnbc.com/2025/08/12/quantum-computing-commercial-real-estate-tailwind.html",
+                "description": "Property Play covers new and evolving ... institutional investors and large public companies. Sign up to receive future editions, straight to your inbox. Just as artificial intelligence turned the data center sector into a gold mine, quantum computing is already ramping up to its ...",
+                "age": "5 days ago",
+                "page_age": "2025-08-12T16:55:45",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cnbc.com",
+                    "hostname": "cnbc.com",
+                    "favicon": "https://imgs.search.brave.com/iFG5Nce81DeFKr5aIank-fcarwD9a1vSjwyEgYjyWCU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzRmZWIyMTc5/ZDdlZWUzYWRiNmJl/MzA3NjUwY2RlODU4/YWNkNGQ5NWE4MTQ4/NDU0ODk2NmJmOTk3/NzQ1ZTAwOC9jbmJj/LmNvbS8",
+                    "path": "\u203a 2025  \u203a 08  \u203a 12  \u203a quantum-computing-commercial-real-estate-tailwind.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/GugCHuyvWc5jKU1uiVQjbTHS07eLSshQwbTskSCPodY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5jbmJjZm0uY29t/L2FwaS92MS9pbWFn/ZS8xMDgxODI0MDIt/MTc1NDQ5MzA4Nzg0/Mi1JUU1QX0NpdHlf/Vmlldy5qcGc_dj0x/NzU0NDkzMTk2JmFt/cDt3PTE5MjAmYW1w/O2g9MTA4MA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "In boost to quantum computing, AI makes atoms dance with lasers - The Hindu",
+                "url": "https://www.thehindu.com/sci-tech/science/in-boost-to-quantum-computing-ai-makes-atoms-dance-with-lasers/article69915961.ece",
+                "description": "The Hindu On Books Books of the ... titles and features. SEE ALL NEWSLETTERS Children Elections ... Search for topics, people, articles... India World Movies Sport Data Health Opinion Science Business Premium ... Clockwise from top-left: nearly defect-free 2D square array with 2,024 atoms; 2D pattern of the letters \u2018USTC\u2019 with 723 atoms; trilayer cuboid array with 1,077 atoms; trilayer twisted graphene structure with 752 atoms. | Photo Credit: arxiv:2412.14647 \u00b7 Quantum computing holds the ...",
+                "age": "1 week ago",
+                "page_age": "2025-08-11T05:16:05",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thehindu.com",
+                    "hostname": "www.thehindu.com",
+                    "favicon": "https://imgs.search.brave.com/7nMEtreJNappZ3K0yP6ovEhbEphNWRh8gQdd737CcXU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZThkMTk4NWZl/YjBiYjYzYjQ5MjNm/YmNhNDM2ZDlkZTAz/Y2FiODM5ZjAwNWRi/MmUyY2RmMTIwNDk5/ZWE0YmQ2Yi93d3cu/dGhlaGluZHUuY29t/Lw",
+                    "path": "\u203a sci-tech  \u203a science  \u203a in-boost-to-quantum-computing-ai-makes-atoms-dance-with-lasers  \u203a article69915961.ece"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/WUMAV2yr5JfW40sdHAyE-ym2Y-fF5vN3YMlpw-W--Qs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aC1p/LnRoZ2ltLmNvbS9w/dWJsaWMvc2NpLXRl/Y2gvc2NpZW5jZS94/NHNmY3ovYXJ0aWNs/ZTY5OTE1OTU4LmVj/ZS9hbHRlcm5hdGVz/L0xBTkRTQ0FQRV8x/MjAwL1NjcmVlbnNo/b3QlMjAyMDI1LTA4/LTEwJTIwYXQlMjAx/MS4xMC4zMSVFMiU4/MCVBRkFNLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI and Quantum Computing Advance Drug Discovery Amid Challenges",
+                "url": "https://webpronews.com/ai-and-quantum-computing-advance-drug-discovery-amid-challenges",
+                "description": "Advancements in AI and quantum computing, led by Google and IBM, promise faster solutions for drug discovery and climate modeling amid $200B+ investments. Challenges include regulations, ethics, job displacement, and sustainability demands. Geopolitical tensions spur competition, urging strategic ...",
+                "age": "1 week ago",
+                "page_age": "2025-08-11T13:30:44",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/Tp-mqvgaJbUc4uV77RL8kYTPAmLvayWF506H3fJOhnE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBkN2JlYzk1/YTEwZDNjMmUzNjFk/Y2IxZWU1ZjkxMjE5/YTJlZWRkN2QyZjU5/ODhiMGRjY2MyNDEw/NmRkNmU3Ni93ZWJw/cm9uZXdzLmNvbS8",
+                    "path": "\u203a ai-and-quantum-computing-advance-drug-discovery-amid-challenges"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/hTmUAoBfzjnoZdBqAvKf-y5sP1UWoEmu3ix-eEEavk8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDgveGFpLXRt/cC1pbWdlbi1mZjg5/MjcwMy1hYjkxLTQ2/NWQtOTI4ZC04NzNl/MGE2NzBhMmEuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Why Quantum Computing Could Be Bigger Than AI \u2014 If It Overcomes These Hurdles | by Kory Becker | Aug, 2025 | ITNEXT",
+                "url": "https://itnext.io/will-quantum-computing-be-the-next-ai-a1bb21625653?gi=de504cb8b5f0",
+                "description": "ITNEXT is a platform for IT developers & software engineers to share knowledge, connect, collaborate, learn and experience next-gen technologies. ... Photo by Kory Becker. Not so long ago, artificial intelligence was a dream amongst computer enthusiasts. In a lot of ways, quantum computing ...",
+                "age": "2 days ago",
+                "page_age": "2025-08-16T01:24:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "itnext.io",
+                    "hostname": "itnext.io",
+                    "favicon": "https://imgs.search.brave.com/KpQW37_oMMe6__rAO63hQE-EH-zrOVykgawteEKFNSg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTI5MzBiMTJl/MDEzMmIxMjdkN2U3/YTgzNzUwZDBlMjQy/MTQxZmU1ZWYxNWUz/YmEwODY1NDc0OTQy/M2NlMTYwNC9pdG5l/eHQuaW8v",
+                    "path": "\u203a will-quantum-computing-be-the-next-ai-a1bb21625653"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/SbnM_WnwpaJUqbRYS2-eefZ-raNeQIzMxJyejfA_r5E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqV2Fi/WWRDQXk1bFJhemFG/R1l1Sk9Xdy5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "From AI to quantum computing, here\u2019s why now is the best time in history to be an investor",
+                "url": "https://biztoc.com/x/8d7395e097156f47",
+                "description": "Why did Nvidia and AMD strike chip sales deal with China? How is Amazon expanding same-day grocery delivery? What caused Ibotta's stock to plummet after earnings? Why is Spirit Airlines at risk of going out of business? How will Trump-Putin Alaska summit impact oil prices? Why did Tapestry forecast annual profit below estimates? What are Fed officials saying about September rate cuts? ... From AI to quantum computing...",
+                "age": "4 days ago",
+                "page_age": "2025-08-14T12:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "biztoc.com",
+                    "hostname": "biztoc.com",
+                    "favicon": "https://imgs.search.brave.com/sdV-Q5tg0ETJtOXj_ftRs2XNpSMpM95Ael4gwDAxBkI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRmMDQxZDg4/MDQxZGYwOTQzOTBl/YmRlNjQ2ZDJjNGM0/NTQ3YTk1MGQ5ODY0/ZTZlNDA1OWJiNzJj/OGM0OTE4ZS9iaXp0/b2MuY29tLw",
+                    "path": "\u203a x  \u203a 8d7395e097156f47"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/i7wT2wTYjrEQ_A02Lfnl9CnHoEJfrwQK3Cv_O4Z0sWU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9iaXp0/b2MuY29tL2Nkbi84/ZDczOTVlMDk3MTU2/ZjQ3X3Mud2VicA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Market Detailed In New Research Report 2025 - Newstrail",
+                "url": "https://newstrail.com/quantum-computing-market-detailed-in-new-research-report-2025-2",
+                "description": "Global Quantum Computing Market size was valued at USD 1.2 billion in 2023 and is poised to grow from USD 1.54 billion in 2024 to USD 11.3 billion by 2032, growing at a CAGR of 28.3% during the forecast period (2025-2032).",
+                "age": "5 days ago",
+                "page_age": "2025-08-13T06:33:49",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "newstrail.com",
+                    "hostname": "newstrail.com",
+                    "favicon": "https://imgs.search.brave.com/rG6bDvnEaJb9K1wY-f5MjoPflouYwRLTzOIbnXjZWsE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmNmMmE4MTkz/NTI1MDg0NjU3YjVm/MGYyODg5ZmExNGNk/ZTc3ZGEwNTJlMjNj/ZmQxNDczZTQ2ZmFi/ZDQ5Y2YzMy9uZXdz/dHJhaWwuY29tLw",
+                    "path": "\u203a quantum-computing-market-detailed-in-new-research-report-2025-2"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HJo-RCzePpUr7BTCa1Vu5u5bL7QLxfVo-I1Vwz3ASnI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c3RyYWlsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wOC9TUS0yLTEw/LXI3d3gyNjdiMmFj/eGMzcWx6aGc2ZzNj/NDVoZ3M0YWtla25z/N3BlZXg2OC0zLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "5 Brilliant Quantum Computing Stocks to Buy Right Now - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/markets-news/Motley Fool/34199254/5-brilliant-quantum-computing-stocks-to-buy-right-now",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Some of the legacy tech giants are participating in quantum computing.",
+                "age": "2 days ago",
+                "page_age": "2025-08-16T05:44:19",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a markets-news  \u203a Motley Fool  \u203a 34199254  \u203a 5-brilliant-quantum-computing-stocks-to-buy-right-now"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This simple magnetic trick could change quantum computing forever | ScienceDaily",
+                "url": "https://sciencedaily.com/releases/2025/08/250816113508.htm",
+                "description": "Combined with a new computational ... disturbance-resistant quantum computers. ... Illustration of a new strategy to create materials with robust quantum properties, by harnessing magnetic interactions (represented by the red and blue arrows)....",
+                "age": "1 day ago",
+                "page_age": "2025-08-17T03:45:05",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sciencedaily.com",
+                    "hostname": "sciencedaily.com",
+                    "favicon": "https://imgs.search.brave.com/QMxzIRv3nUYelI4Sg8j6d5I7a8NPHLMLzgb3BEtREZk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjczYzIzZjhj/MmJlZDY4ZjYyY2Rk/MDQ4MGQ0ZWUxOGIx/YmY5OGNiN2FjMGQ1/MzEzNTA0YmJlMTM4/ZmNkYTdhOC9zY2ll/bmNlZGFpbHkuY29t/Lw",
+                    "path": "\u203a releases  \u203a 2025  \u203a 08  \u203a 250816113508.htm"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/EBPqFZB3kWSYpehlo9fI7V2n1kXNl97dBPikTKrkwgo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZWRhaWx5/LmNvbS9pbWFnZXMv/MTkyMC9tYWduZXRp/c20tcXVhbnR1bS1w/cm9wZXJ0aWVzLndl/YnA"
+                }
+            }
+        ]
+    }
+}
