@@ -1,0 +1,291 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-08-25T01:24:15.507134"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "The Next Artificial Intelligence (AI) Evolution Could Send This Quantum Computing Stock Soaring",
+                "url": "https://finance.yahoo.com/news/next-artificial-intelligence-ai-evolution-142400152.html",
+                "description": "Current artificial intelligence applications are pushing the limits of typical silicon and its underlying binary bits. New kinds of computers built to take advantage of quantum mechanical properties promise vastly better performance on some tough-to-handle problems.",
+                "age": "1 day ago",
+                "page_age": "2025-08-23T14:24:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a next-artificial-intelligence-ai-evolution-142400152.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "The Next Artificial Intelligence (AI) Evolution Could Send This Quantum Computing Stock Soaring @themotleyfool #stocks $QUBT $NVDA $IONQ $RGTI",
+                "url": "https://www.fool.com/investing/2025/08/23/the-next-artificial-intelligence-ai-evolution-coul/",
+                "description": "Current artificial intelligence applications are pushing the limits of typical silicon and its underlying binary bits. New kinds of computers built to take advantage of quantum mechanical properties promise vastly better performance on some tough-to-handle problems.",
+                "age": "1 day ago",
+                "page_age": "2025-08-23T14:24:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 23  \u203a the-next-artificial-intelligence-ai-evolution-coul"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ybe1m9rUzB2VEHzJXh50SdyuBvs-zYEzbhc27QCoZQ0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI5MjU0L2xh/c2VyLXRlY2hub2xv/Z3kuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Alphabet's Quantum Computing and AI Ambitions: Can It Outpace Berkshire, Palantir, and Tesla by 2030?",
+                "url": "https://www.ainvest.com/news/alphabet-quantum-computing-ai-ambitions-outpace-berkshire-palantir-tesla-2030-2508/",
+                "description": "Alphabet's Quantum Computing and AI Ambitions: Can It Outpace Berkshire, Palantir, and Tesla by 2030?",
+                "age": "1 day ago",
+                "page_age": "2025-08-23T17:27:25",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a alphabet-quantum-computing-ai-ambitions-outpace-berkshire-palantir-tesla-2030-2508"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X91m6Dnn7qP_kmXRdSQHiIsneFuOJrNVuNaMQaq4Bkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWludmVzdC5jb20v/d2VuY2FpLXNzci9v/Zy1pbWFnZS1uZXdz/LTIwMjQwMjI2LnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Stock Just Made an AI Breakthrough",
+                "url": "https://finance.yahoo.com/news/quantum-computing-stock-just-made-003300968.html",
+                "description": "That's what makes the release of AI tools by D-Wave Quantum (NYSE: QBTS) a significant development. The tool set enables integration with D-Wave's quantum computers. Does this melding of AI and quantum tech suggest D-Wave stock is worth investing in?",
+                "age": "5 days ago",
+                "page_age": "2025-08-20T00:33:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-stock-just-made-003300968.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Stock Just Made an AI Breakthrough @themotleyfool #stocks $QBTS",
+                "url": "https://www.fool.com/investing/2025/08/19/this-quantum-computing-stock-just-made-an-ai-break/",
+                "description": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... The unique capabilities of quantum computers could accelerate the evolution of artificial intelligence (AI).",
+                "age": "5 days ago",
+                "page_age": "2025-08-20T00:33:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 08  \u203a 19  \u203a this-quantum-computing-stock-just-made-an-ai-break"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5gsMwXjf9No_1WakJ_TSe2zuCfxzc76X1TdXA-7jCHw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI4MzYyL2Fp/LWNoaXAtZ2xvd2lu/Zy1vbi1jaXJjdWl0/LWJvYXJkLWdldHR5/aW1hZ2VzLTE0NzI1/MTgwODktMTIwMXg2/NzUtYzJiNWZmMi5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing | AI (@quantumcomputing.ai) on Threads",
+                "url": "https://www.threads.com/@quantumcomputing.ai/post/DNqsl8lty8S/scientists-managed-to-go-one-second-back-in-time-using-a-quantum-computer",
+                "description": "Researchers at the Moscow Institute of Physics and Technology (MIPT), in collaboration with ETH Zurich and Argonne National Laboratory, have achieved a landmark experiment in quantum physics\u2014briefly reversing the flow of time on a quantum computer.",
+                "age": "2 days ago",
+                "page_age": "2025-08-22T22:40:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "threads.com",
+                    "hostname": "www.threads.com",
+                    "favicon": "https://imgs.search.brave.com/6Fsrmcvd-X2b1egg5Bb7MtK584Wvkyjo8lmT8xQuw_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWQwMmFiMDM2/NWM0YTNmMTM5Y2Zj/MTRmNTgxNTlkZDJk/MWRhODJlMGQ2NjRl/Y2U1Zjg2YzU4N2Ux/MWQwODUwYS93d3cu/dGhyZWFkcy5jb20v",
+                    "path": "\u203a @quantumcomputing.ai  \u203a post  \u203a DNqsl8lty8S  \u203a scientists-managed-to-go-one-second-back-in-time-using-a-quantum-computer"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/V0xydacSs3HuqpDYjvf5YN6jXMqF2tgmwUnriTL4tMo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY29u/dGVudC1vcmQ1LTMu/Y2RuaW5zdGFncmFt/LmNvbS92L3Q1MS4y/ODg1LTE1LzUzNzUy/NDY3M18xNzg1NzYz/Mzk4MDQ4NDM2Nl84/OTc4MzA0OTM5NzI3/NzgzMzUzX24ud2Vi/cD9lZmc9ZXlKMlpX/NWpiMlJsWDNSaFp5/STZJblJvY21WaFpI/TXVSa1ZGUkM1cGJX/Rm5aVjkxY214blpX/NHVNVFV6TjNneE9U/SXdMbk5rY2k1bU9E/STNPRGN1WkdWbVlY/VnNkRjlwYldGblpT/NWpNaUo5JmFtcDtf/bmNfaHQ9c2NvbnRl/bnQtb3JkNS0zLmNk/bmluc3RhZ3JhbS5j/b20mYW1wO19uY19j/YXQ9MTEwJmFtcDtf/bmNfb2M9UTZjWjJR/R3d2TDZiTExYbGp5/SFdkdTl1alFMMWdN/MUF2TXJRR3BpTmlL/QUpvLV9BUnBXY0xl/eFhTZjVjaUNSc2pU/Q19QT0kmYW1wO19u/Y19vaGM9UTh0TndR/MlRHdWtRN2tOdndH/QTM2RFEmYW1wO19u/Y19naWQ9UHhZTHFK/Q2tVNXBreFZCWVc1/amJyUSZhbXA7ZWRt/PUFQczE3Q1VCQUFB/QSZhbXA7Y2NiPTct/NSZhbXA7aWdfY2Fj/aGVfa2V5PU16Y3dO/RGsyT1RjMk5URTVN/REExTXpZMU1BJTNE/JTNELjMtY2NiNy01/JmFtcDtvaD0wMF9B/ZldJMlZzN3JHQ0V3/ZGwwclFMQjJ4Qk9f/aHpjdUdNbnFVTGxI/X0pPZnNoVTZnJmFt/cDtvZT02OEIwMDUx/RCZhbXA7X25jX3Np/ZD0xMGQxM2I"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "D-Wave Quantum's AI Breakthrough: Unlocking the Potential of Quantum Computing in Artificial Intelligence.",
+                "url": "https://www.ainvest.com/news/wave-quantum-ai-breakthrough-unlocking-potential-quantum-computing-artificial-intelligence-2508/",
+                "description": "The integration of quantum computers with AI has the potential to offer scalable and energy-efficient solutions, enhancing AI capabilities and driving growth in the sector.D-Wave Quantum has made a significant stride in the realm of artificial intelligence (AI) by developing a new tool kit ...",
+                "age": "4 days ago",
+                "page_age": "2025-08-21T11:22:23",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a wave-quantum-ai-breakthrough-unlocking-potential-quantum-computing-artificial-intelligence-2508"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X91m6Dnn7qP_kmXRdSQHiIsneFuOJrNVuNaMQaq4Bkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWludmVzdC5jb20v/d2VuY2FpLXNzci9v/Zy1pbWFnZS1uZXdz/LTIwMjQwMjI2LnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Lands Deals With Top Bank, Automaker, NASA Amid AI Boom - Quantum Computing (NASDAQ:QUBT) - Benzinga",
+                "url": "https://benzinga.com/markets/earnings/25/08/47227540/quantum-computing-lands-deals-with-top-bank-automaker-nasa-amid-ai-boom",
+                "description": "Quantum Computing Inc. QUBT is translating quantum theory into commercial reality, securing a string of significant contracts with a top U.S. bank, a major global automaker and NASA, signaling a pivotal shift from research to real-world application.",
+                "age": "5 days ago",
+                "page_age": "2025-08-20T07:16:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "benzinga.com",
+                    "hostname": "benzinga.com",
+                    "favicon": "https://imgs.search.brave.com/tp5BZiSIDbw225328qvFC-qEOp164kHCu0d57ERMaB0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzYxMTIwMDEw/MDQzMWE2NGUzY2U5/YjA1NDdkN2QyMWM1/ZTRmMGQ0N2QxNzIy/YzBhYzkzMWYyN2Uw/MjlkYmVlYi9iZW56/aW5nYS5jb20v",
+                    "path": "\u203a markets  \u203a earnings  \u203a 25  \u203a 08  \u203a 47227540  \u203a quantum-computing-lands-deals-with-top-bank-automaker-nasa-amid-ai-boom"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ZITchQjR85uFjcrlfJE8cPQ3cURYpAImtQHJu2SaTAg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmVuemluZ2EuY29t/L2ZpbGVzL2ltYWdl/cy9zdG9yeS8yMDI1/LzA4LzIwL1F1YW50/dW0tQ29tcHV0aW5n/LUluYy5qcGVnP3dp/ZHRoPTEyMDAmYW1w/O2hlaWdodD04MDAm/YW1wO2ZpdD1jcm9w"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What is the Difference Between Quantum Computing and AI?",
+                "url": "https://www.analyticsinsight.net/artificial-intelligence/what-is-the-difference-between-quantum-computing-and-ai",
+                "description": "Quantum Computing and Artificial intelligence are reshaping the technology space. Explore the various AI models, breakthroughs in cryptography, and rising cybersecurity challenges.",
+                "age": "1 week ago",
+                "page_age": "2025-08-18T09:25:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "analyticsinsight.net",
+                    "hostname": "www.analyticsinsight.net",
+                    "favicon": "https://imgs.search.brave.com/IZxcZxYaltFYkchQ2sNNCyUjxbUmVLPqNTB_PDs6VtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI0MGUzMDlm/MTY4YjJlMDdjZWUy/Nzc0ZDg0ZmE0OGU5/MjNmMmJlNDViZjcw/MTY0MjBhMDA5MTkw/MWY2ZmJlYy93d3cu/YW5hbHl0aWNzaW5z/aWdodC5uZXQv",
+                    "path": "\u203a artificial-intelligence  \u203a what-is-the-difference-between-quantum-computing-and-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X44iCSS7RYMIgrEACkJWrqWFkxeXFeokkxWGBROuKQo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2FuYWx5dGlj/c2luc2lnaHQlMkYy/MDI1LTA4LTE4JTJG/NHFpNGVsbXYlMkZX/aGF0LWlzLXRoZS1E/aWZmZXJlbmNlLUJl/dHdlZW4tUXVhbnR1/bS1Db21wdXRpbmct/YW5kLUFJLTEuanBn/P3c9MTIwMCZhbXA7/YXI9NDAlM0EyMSZh/bXA7YXV0bz1mb3Jt/YXQlMkNjb21wcmVz/cyZhbXA7b2dJbWFn/ZT10cnVlJmFtcDtt/b2RlPWNyb3AmYW1w/O2VubGFyZ2U9dHJ1/ZSZhbXA7b3Zlcmxh/eT1mYWxzZSZhbXA7/b3ZlcmxheV9wb3Np/dGlvbj1ib3R0b20m/YW1wO292ZXJsYXlf/d2lkdGg9MTAw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI CERTs\u00ae Rolls Out Quantum Computing Specialist Certification Bundle to Empower Future-Ready Professionals",
+                "url": "https://aithority.com/machine-learning/ai-certs-rolls-out-quantum-computing-specialist-certification-bundle-to-empower-future-ready-professionals/",
+                "description": "AI CERTs\u00ae, a leading global provider of vendor-aligned, role-focused certifications, has launched the Quantum Computing Specialist Bundle, a five-in-one certification suite tailored for professionals, researchers, and innovators seeking to master the frontier of quantum-enhanced AI.",
+                "age": "6 days ago",
+                "page_age": "2025-08-19T13:22:01",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "aithority.com",
+                    "hostname": "aithority.com",
+                    "favicon": "https://imgs.search.brave.com/jOanU_ZlFKogmd8MmioTBMbppvF4GwaohprgwJxp3pU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTU0MjQwMTQ0/NTYxOWNlMWQ2NTEy/MzhkYWJjZmJkY2Iz/OThkMTk2ZjNmMGU2/ZDI0NDg1YTJjZmNk/NDljMzVlZS9haXRo/b3JpdHkuY29tLw",
+                    "path": "\u203a machine-learning  \u203a ai-certs-rolls-out-quantum-computing-specialist-certification-bundle-to-empower-future-ready-professionals"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/sinY-AHYVmAGC1cYTMGkO-jaPPAo8zQzpcSyRsszUYY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9haXRo/b3JpdHkuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA4/Lzd4bS54eXo3Mzc0/OTUuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Gia Lai hosts first summer school on AI, quantum computing | Vietnam+ (VietnamPlus)",
+                "url": "https://en.vietnamplus.vn/gia-lai-hosts-first-summer-school-on-ai-quantum-computing-post324842.vnp",
+                "description": "The programme aims to provide a comprehensive and up-to-date overview of cutting-edge advances in AI and quantum computing.",
+                "age": "1 week ago",
+                "page_age": "2025-08-18T11:40:43",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "en.vietnamplus.vn",
+                    "hostname": "en.vietnamplus.vn",
+                    "favicon": "https://imgs.search.brave.com/5M7rIQPbFLpUxLSzAr9f_R6JJrsEa1T5686TB0A5mLg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzAzZTQzMzU3/MWVhYjQxYzFmNWZj/MGYyNzU4ZGJiOTBm/MTQ3M2NhMTEwZDdk/YjE0Y2YxOGUwZWQ3/OTAzNDI0NS9lbi52/aWV0bmFtcGx1cy52/bi8",
+                    "path": "\u203a gia-lai-hosts-first-summer-school-on-ai-quantum-computing-post324842.vnp"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3ycY4Rp1nP07PIh7sCUiF7MeNWydijgBdFt7yJHbmLA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YWVuLnZpZXRuYW1w/bHVzLnZuL2ltYWdl/cy9mNTc5YTY3OGNm/OWU5MDg3OTU0MTc1/MjA3M2MyNjAwNWEy/N2Y5YzE3NjZlNmQ2/ZmUwZjVkMDUyNWJj/M2I2MjBjOTY4MzMw/YTM1OTA0MzBhYmNk/Zjk1YjdjM2IyNGNh/MjEvaW1hZ2UuanBn/LndlYnA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing meets AI to fight cancer",
+                "url": "https://cen.acs.org/physical-chemistry/computational-chemistry/Quantum-computing-meets-AI-fight/103/web/2025/08",
+                "description": "Jude Children\u2019s Research Hospital, described how quantum computing, combined with artificial intelligence, found two candidates that could shut down KRas (Nat. Biotechnol. 2025, DOI: 10.1038/s41587-024-02526-3.) Gorgulla presented the data during a talk on Monday at the American Chemical Society Fall 2025 meeting during a session organized by the Committee of Science. Unlike classical computers, which use zeros and ...",
+                "age": "4 days ago",
+                "page_age": "2025-08-21T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cen.acs.org",
+                    "hostname": "cen.acs.org",
+                    "favicon": "https://imgs.search.brave.com/_yuAJoIOK-_V_tm27djKeJu-i0HCISxN-qL2XlGW-VM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYwMTI3MTNi/MGZlY2I0NmJmMzA2/OWMxNzRlMGFlYzRh/ZTY1NTI1ZDk3NzQ4/YTgyNjNmNzgzMDVj/NzdmMDlmNy9jZW4u/YWNzLm9yZy8",
+                    "path": "\u203a physical-chemistry  \u203a computational-chemistry  \u203a Quantum-computing-meets-AI-fight  \u203a 103  \u203a web  \u203a 2025  \u203a 08"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QgeSf4Zc4z687IjIj6d8mJ2cAmVIUrWaID6Cw7yp43M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zN2Qx/LnNjZW5lNy5jb20v/aXMvaW1hZ2UvQ0VO/T0RTL0h5YnJpZC1x/dWFudHVtLW1vZGVs/LXRhcmdldHMtaGFy/ZC10by1kcnVnLXBy/b3RlaW4tLS0xNDIx/NDM6V2lkZXNjcmVl/bj8kcmVzcG9uc2l2/ZSQmYW1wO3FsdCYj/NjE7OTAsMCZhbXA7/cmVzTW9kZSYjNjE7/c2hhcnAyJmFtcDtm/bXQmIzYxO3dlYnA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "USTC's Quantum Leap: Unlocking High-Growth Opportunities in AI and Quantum Computing",
+                "url": "https://ainvest.com/news/ustc-quantum-leap-unlocking-high-growth-opportunities-ai-quantum-computing-2508",
+                "description": "This article dissects the technical ... advancements\u2014and how investors can position themselves to capitalize on the next wave of high-growth opportunities. The ticker \"USTC\" refers to USA Real Estate Holding Company, a development-stage real estate firm with no direct ties to quantum computing...",
+                "age": "4 days ago",
+                "page_age": "2025-08-21T07:44:11",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/FrqQuEsQUnCxSbWA6L3x3Da1qsUvMPGRkU2XDP8p_w4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTgyODEwMDdi/MzA4YWEwZjhhNWNm/MmU3YjhhMDRjNDFl/MTQzM2M2MGI3YTA0/NjM0MjkyY2I3YzNj/M2RkNjRhOS9haW52/ZXN0LmNvbS8",
+                    "path": "\u203a news  \u203a ustc-quantum-leap-unlocking-high-growth-opportunities-ai-quantum-computing-2508"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X91m6Dnn7qP_kmXRdSQHiIsneFuOJrNVuNaMQaq4Bkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWludmVzdC5jb20v/d2VuY2FpLXNzci9v/Zy1pbWFnZS1uZXdz/LTIwMjQwMjI2LnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing in Asia: Powering the Region\u2019s Energy and Business Transformation - Thailand Business News",
+                "url": "https://thailand-business-news.com/tech/239701-quantum-computing-in-asia-powering-the-regions-energy-and-business-transformation",
+                "description": "The global energy transition is converging with the rise of quantum computing, and Asia stands at the center of this intersection. This convergence presents a unique opportunity for Asia to leverage quantum computing advancements to accelerate sustainable energy solutions.",
+                "age": "1 week ago",
+                "page_age": "2025-08-19T02:33:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thailand-business-news.com",
+                    "hostname": "thailand-business-news.com",
+                    "favicon": "https://imgs.search.brave.com/yuldyNBgA9shY9O7--fQYsJfouySEyY2M-RJKPoXeLo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTcxNTk0YmVj/YTI5MzY0MzJiZjJj/YTA4YWFjNWRkNTg0/NDc1ODBmMDlhYTM1/MDU2YjgzMjVmNDE1/YWNiMTAwOC90aGFp/bGFuZC1idXNpbmVz/cy1uZXdzLmNvbS8",
+                    "path": "\u203a tech  \u203a 239701-quantum-computing-in-asia-powering-the-regions-energy-and-business-transformation"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/bXDEvdz5obULvqoL3dYnnw_0QRx7JJd7c2rnX6KBlb8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vd3d3LnRo/YWlsYW5kLWJ1c2lu/ZXNzLW5ld3MuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA4L1F1YW50dW0t/Y29tcHV0aW5nLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing explained: what it means for cybersecurity \u2014 and why it's coming faster than you think | TechRadar",
+                "url": "https://www.techradar.com/pro/quantum-computing-explained-what-it-means-for-cybersecurity-and-why-its-coming-faster-than-you-think",
+                "description": "Security Breaking encryption with quantum computers may be easier than we thought \u00b7 Pro Securing the future: why cybersecurity must be secure by design \u2013 and by default ... When you purchase through links on our site, we may earn an affiliate commission.",
+                "age": "3 days ago",
+                "page_age": "2025-08-22T06:47:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "techradar.com",
+                    "hostname": "www.techradar.com",
+                    "favicon": "https://imgs.search.brave.com/H4LQbKMziB2aJiW2ywU_BACFlpypsNUE3WcnMA2cIkg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNiNmY2MmM5/ZjVmZGFhZGVlNGU4/ZDM5ZGNjYjUxMGEz/ZTNkNzFmZTM4M2Iy/OTJlOWJlNzE0ZmZi/MjE5NmJjOC93d3cu/dGVjaHJhZGFyLmNv/bS8",
+                    "path": "\u203a pro  \u203a quantum-computing-explained-what-it-means-for-cybersecurity-and-why-its-coming-faster-than-you-think"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3JslIpjNbdsQXI_L2K7SrHCeD6rjoGpRpzHJw8kJVao/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L3BO/dlpuUzRFUUNvWUJH/MmlucUNxNUwuanBn"
+                }
+            }
+        ]
+    }
+}

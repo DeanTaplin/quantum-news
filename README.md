@@ -7,31 +7,45 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Researchers use AI to speed up quantum computing experiments | Digital Watch Observatory**
-  - AI has been used to rapidly assemble arrays of atoms that could one day power quantum computers. A team led by physicist Jian-Wei Pan at the University of Science and Technology of China demonstrated how an AI model can calculate the best way to arrange neutral atoms, a long-standing challenge ...
-  - [Source](https://dig.watch/updates/researchers-use-ai-to-speed-up-quantum-computing-experiments)
+- **This Quantum Computing Stock Just Made an AI Breakthrough**
+  - That's what makes the release of AI tools by D-Wave Quantum (NYSE: QBTS) a significant development. The tool set enables integration with D-Wave's quantum computers. Does this melding of AI and quantum tech suggest D-Wave stock is worth investing in?
+  - [Source](https://finance.yahoo.com/news/quantum-computing-stock-just-made-003300968.html)
 
-- **AI and Quantum Computing Advance Drug Discovery Amid Challenges**
-  - Advancements in AI and quantum computing, led by Google and IBM, promise faster solutions for drug discovery and climate modeling amid $200B+ investments. Challenges include regulations, ethics, job displacement, and sustainability demands. Geopolitical tensions spur competition, urging strategic ...
-  - [Source](https://webpronews.com/ai-and-quantum-computing-advance-drug-discovery-amid-challenges)
+- **What is the Difference Between Quantum Computing and AI?**
+  - Quantum Computing and Artificial intelligence are reshaping the technology space. Explore the various AI models, breakthroughs in cryptography, and rising cybersecurity challenges.
+  - [Source](https://www.analyticsinsight.net/artificial-intelligence/what-is-the-difference-between-quantum-computing-and-ai)
 
-- **5 Brilliant Quantum Computing Stocks to Buy Right Now - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Some of the legacy tech giants are participating in quantum computing.
-  - [Source](https://theglobeandmail.com/investing/markets/markets-news/Motley Fool/34199254/5-brilliant-quantum-computing-stocks-to-buy-right-now)
+- **AI CERTs® Rolls Out Quantum Computing Specialist Certification Bundle to Empower Future-Ready Professionals**
+  - AI CERTs®, a leading global provider of vendor-aligned, role-focused certifications, has launched the Quantum Computing Specialist Bundle, a five-in-one certification suite tailored for professionals, researchers, and innovators seeking to master the frontier of quantum-enhanced AI.
+  - [Source](https://aithority.com/machine-learning/ai-certs-rolls-out-quantum-computing-specialist-certification-bundle-to-empower-future-ready-professionals/)
 
 ### Notable Innovations
 
-- **2025 Tech Trends: AI, Quantum Computing, and Green Innovations**
-  - In 2025, tech trends emphasize agentic AI integrating with IoT and blockchain for business efficiency, quantum computing breakthroughs in drug discovery and energy, and sustainable green innovations like AI-driven energy management. Governance addresses ethics and privacy, while startups drive ...
-  - [Source](https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-green-innovations/)
+- **This Quantum Computing Stock Just Made an AI Breakthrough @themotleyfool #stocks $QBTS**
+  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... The unique capabilities of quantum computers could accelerate the evolution of artificial intelligence (AI).
+  - [Source](https://www.fool.com/investing/2025/08/19/this-quantum-computing-stock-just-made-an-ai-break/)
 
-- **This Startup Wants to Harness Quantum Computing to Make AI More Affordable**
-  - Quantum computing is capable of mind-bending tricks. With Sygaldry, Chad Rigetti hopes it can lower the costs for AI development. ... Chad Rigetti. Photo: Courtesy company ... One of the major barriers to innovation in artificial intelligence is the sheer cost. Companies need millions of dollars in funding to buy the highest-end chips, or GPUs, that are required to develop, train, and ...
-  - [Source](https://www.inc.com/claire-cameron/this-startup-wants-to-harness-quantum-computing-to-make-ai-more-affordable/91221377)
+- **Quantum Computing | AI (@quantumcomputing.ai) on Threads**
+  - Researchers at the Moscow Institute of Physics and Technology (MIPT), in collaboration with ETH Zurich and Argonne National Laboratory, have achieved a landmark experiment in quantum physics—briefly reversing the flow of time on a quantum computer.
+  - [Source](https://www.threads.com/@quantumcomputing.ai/post/DNqsl8lty8S/scientists-managed-to-go-one-second-back-in-time-using-a-quantum-computer)
 
-- **Quantum Computing Market Detailed In New Research Report 2025 - Newstrail**
-  - Global Quantum Computing Market size was valued at USD 1.2 billion in 2023 and is poised to grow from USD 1.54 billion in 2024 to USD 11.3 billion by 2032, growing at a CAGR of 28.3% during the forecast period (2025-2032).
-  - [Source](https://newstrail.com/quantum-computing-market-detailed-in-new-research-report-2025-2)
+- **D-Wave Quantum's AI Breakthrough: Unlocking the Potential of Quantum Computing in Artificial Intelligence.**
+  - The integration of quantum computers with AI has the potential to offer scalable and energy-efficient solutions, enhancing AI capabilities and driving growth in the sector.D-Wave Quantum has made a significant stride in the realm of artificial intelligence (AI) by developing a new tool kit ...
+  - [Source](https://www.ainvest.com/news/wave-quantum-ai-breakthrough-unlocking-potential-quantum-computing-artificial-intelligence-2508/)
+
+- **Quantum Computing Lands Deals With Top Bank, Automaker, NASA Amid AI Boom - Quantum Computing (NASDAQ:QUBT) - Benzinga**
+  - Quantum Computing Inc. QUBT is translating quantum theory into commercial reality, securing a string of significant contracts with a top U.S. bank, a major global automaker and NASA, signaling a pivotal shift from research to real-world application.
+  - [Source](https://benzinga.com/markets/earnings/25/08/47227540/quantum-computing-lands-deals-with-top-bank-automaker-nasa-amid-ai-boom)
+
+- **Quantum computing meets AI to fight cancer**
+  - Jude Children’s Research Hospital, described how quantum computing, combined with artificial intelligence, found two candidates that could shut down KRas (Nat. Biotechnol. 2025, DOI: 10.1038/s41587-024-02526-3.) Gorgulla presented the data during a talk on Monday at the American Chemical Society Fall 2025 meeting during a session organized by the Committee of Science. Unlike classical computers, which use zeros and ...
+  - [Source](https://cen.acs.org/physical-chemistry/computational-chemistry/Quantum-computing-meets-AI-fight/103/web/2025/08)
+
+### Market Trends
+
+- **USTC's Quantum Leap: Unlocking High-Growth Opportunities in AI and Quantum Computing**
+  - This article dissects the technical ... advancements—and how investors can position themselves to capitalize on the next wave of high-growth opportunities. The ticker "USTC" refers to USA Real Estate Holding Company, a development-stage real estate firm with no direct ties to quantum computing...
+  - [Source](https://ainvest.com/news/ustc-quantum-leap-unlocking-high-growth-opportunities-ai-quantum-computing-2508)
 
 
 ## News Archive
