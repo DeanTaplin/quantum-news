@@ -1,0 +1,93 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-09-01T01:39:36.893130"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Quantum Research Sciences and Purdue Partner to Develop AI Platform for Air Force Industry Connections - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/qrs-and-purdue-partner-to-develop-ai-platform-for-air-force-industry-connections/",
+                "description": "The platform is also designed to ... that the Air Force needs, with the goal of enabling them to create more effective proposals. QRS is the creator of the Department of Defense\u2019s first operational quantum software and collaborates on quantum computer software with Purdue ...",
+                "age": "2 days ago",
+                "page_age": "2025-08-30T08:34:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a qrs-and-purdue-partner-to-develop-ai-platform-for-air-force-industry-connections"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "The dual threat of AI and quantum computing: IT leaders brace for the next data security era | CIO",
+                "url": "https://www.cio.com/article/4046977/the-dual-threat-of-ai-and-quantum-computing-it-leaders-brace-for-the-next-data-security-era.html",
+                "description": "Industry experts warn that organizations must fight today\u2019s AI-enabled threats while preparing for quantum\u2019s future impact on encryption.",
+                "age": "4 days ago",
+                "page_age": "2025-08-28T00:16:04",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cio.com",
+                    "hostname": "www.cio.com",
+                    "favicon": "https://imgs.search.brave.com/y5NT9KGOGFvDBqRbUdz_TeJNQq4zBmBrKi0uMKBhm-w/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjc1ODVhMjZi/ZWJjZjhhN2ExZDll/ODgxYzhjNjExMzZk/ODYxN2U3YmZhZGE4/NWMyZWY3N2Q2OGNh/NmJmMWVjNS93d3cu/Y2lvLmNvbS8",
+                    "path": "\u203a article  \u203a 4046977  \u203a the-dual-threat-of-ai-and-quantum-computing-it-leaders-brace-for-the-next-data-security-era.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/GMyHzjulkjQ9cKJGR_QkxL8EkRdTgLf1RXQvYwamb0s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2lvLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNS8wOC80/MDQ2OTc3LTAtNjMz/OTA0MDAtMTc1NjMx/NTQ4NS1zaHV0dGVy/c3RvY2tfMjYxNTg5/NjE4MV8xYTVmMzEu/anBnP3F1YWxpdHk9/NTAmYW1wO3N0cmlw/PWFsbCZhbXA7dz0x/MDI0"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI, Quantum Computing, and Sustainable Tech: Business Trends and Challenges",
+                "url": "https://webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges",
+                "description": "AI is rapidly integrating into business operations for efficiency and innovation, alongside quantum computing advancements and sustainable tech synergies in sectors like healthcare and finance. Challenges include ethical AI, cybersecurity, and regulations. Businesses must adapt responsibly ...",
+                "age": "6 days ago",
+                "page_age": "2025-08-26T13:04:26",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/Tp-mqvgaJbUc4uV77RL8kYTPAmLvayWF506H3fJOhnE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBkN2JlYzk1/YTEwZDNjMmUzNjFk/Y2IxZWU1ZjkxMjE5/YTJlZWRkN2QyZjU5/ODhiMGRjY2MyNDEw/NmRkNmU3Ni93ZWJw/cm9uZXdzLmNvbS8",
+                    "path": "\u203a ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/8rlM0WawsP8-efYV6Nyvv5imLsgE0xdpkTykyHBH9zA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDgveGFpLXRt/cC1pbWdlbi02ZTAy/ZGEyOC04ZjEwLTRi/Y2MtYTYzZi05ZWJj/N2U0NDA1MDAuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing's Breakout Contenders: Can D-Wave and IonQ Replicate NVIDIA's AI Success?",
+                "url": "https://ainvest.com/news/quantum-computing-breakout-contenders-wave-ionq-replicate-nvidia-ai-success-2508",
+                "description": "Quantum Computing's Breakout Contenders: Can D-Wave and IonQ Replicate NVIDIA's AI Success?",
+                "age": "4 days ago",
+                "page_age": "2025-08-28T10:17:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/FrqQuEsQUnCxSbWA6L3x3Da1qsUvMPGRkU2XDP8p_w4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTgyODEwMDdi/MzA4YWEwZjhhNWNm/MmU3YjhhMDRjNDFl/MTQzM2M2MGI3YTA0/NjM0MjkyY2I3YzNj/M2RkNjRhOS9haW52/ZXN0LmNvbS8",
+                    "path": "\u203a news  \u203a quantum-computing-breakout-contenders-wave-ionq-replicate-nvidia-ai-success-2508"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X91m6Dnn7qP_kmXRdSQHiIsneFuOJrNVuNaMQaq4Bkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YWludmVzdC5jb20v/d2VuY2FpLXNzci9v/Zy1pbWFnZS1uZXdz/LTIwMjQwMjI2LnBu/Zw"
+                }
+            }
+        ]
+    }
+}
