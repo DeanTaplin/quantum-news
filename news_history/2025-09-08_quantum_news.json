@@ -1,0 +1,129 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-09-08T01:21:01.316994"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Meets AI: What Breakthroughs to Expect",
+                "url": "https://www.sciencenewstoday.org/quantum-computing-meets-ai-what-breakthroughs-to-expect",
+                "description": "Fire, the printing press, electricity, the internet\u2014each of these breakthroughs reshaped society, expanding what humans could achieve. Today, we stand at the threshold of another such transformation: the union of quantum computing and artificial intelligence.",
+                "age": "2 days ago",
+                "page_age": "2025-09-06T03:51:23",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sciencenewstoday.org",
+                    "hostname": "www.sciencenewstoday.org",
+                    "favicon": "https://imgs.search.brave.com/WZM_6Q4zsVu2nmbLPPTS1vipFGeK0xV1ZIokR6kPbOw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjFhYjk1OTQ0/OGIxNzFjYTlmOTFl/NTcyYjg3YmUyZmRh/N2U2ZWE2MWZjYTg0/ZjE2ZTVmNWIzOTlm/NjU1NDlmOS93d3cu/c2NpZW5jZW5ld3N0/b2RheS5vcmcv",
+                    "path": "\u203a quantum-computing-meets-ai-what-breakthroughs-to-expect"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/if82pn41Cowi8fr3_UH9XFO17Wm-Pwj77S6AfdEJoE8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZW5ld3N0/b2RheS5vcmcvd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/M2IxN2JlM2ItNGE1/Ny00MDNhLTk4MDQt/MjFiOTkyMDU2NmUz/LmpwZWc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AITAM inks MoU with QpiAI on quantum computing - The Hindu",
+                "url": "https://thehindu.com/news/national/andhra-pradesh/aitam-inks-mou-with-qpiai-on-quantum-computing/article70019474.ece",
+                "description": "Aditya Institute of Technology and Management (AITAM) signed a Memorandum of Understanding (MoU) with QpiAI, a global quantum computing company, at its campus on Saturday. The MoU was exchanged by college Director V.V. Nageswara Rao and QpiAI Vice-President Lakshya Priyadarshi, along with Product ...",
+                "age": "2 days ago",
+                "page_age": "2025-09-06T13:01:01",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thehindu.com",
+                    "hostname": "thehindu.com",
+                    "favicon": "https://imgs.search.brave.com/tg3fKphZAprRPb4L-4jJW3Yntvj9K9jH2rajIJtITh8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JlYWQ4N2Ez/Y2QwNWFjNTk2NGY5/M2Q1MWFlYWMyYTcy/NjRlOWE0ODNlMjIx/ODg4ZTY0NTZjMjk2/YjM2ZmE1Mi90aGVo/aW5kdS5jb20v",
+                    "path": "\u203a news  \u203a national  \u203a andhra-pradesh  \u203a aitam-inks-mou-with-qpiai-on-quantum-computing  \u203a article70019474.ece"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/llajowBpmgWaVpuUx0Kw-DZmR0pl3GHEUnH8UFCou-g/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlaGluZHUuY29t/L3RoZW1lL2ltYWdl/cy9vZy1pbWFnZS5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Meets AI: How Qubits Could Supercharge Machine Learning | by Mehmet \u00d6zel | Write A Catalyst | Sep, 2025 | Medium",
+                "url": "https://medium.com/write-a-catalyst/quantum-computing-meets-ai-how-qubits-could-supercharge-machine-learning-7cbc84fc04b5",
+                "description": "Discover how quantum computing and AI intersect, why Qiskit matters, and what the future of Quantum Machine Learning (QML) looks like.",
+                "age": "6 days ago",
+                "page_age": "2025-09-02T12:53:09",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a write-a-catalyst  \u203a quantum-computing-meets-ai-how-qubits-could-supercharge-machine-learning-7cbc84fc04b5"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VIC_lNA68UCgfP8O78BIpu9uSEu2Vk0BFSSnTxiRhu4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzAqX3o1/VGl1U1VDc2hEZC1r/bC5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "New Study Reveals AI Replacing Entry-Level Employees as Quantum Computing Advances - citybuzz",
+                "url": "https://www.citybuzz.co/2025/09/04/new-study-reveals-ai-replacing-entry-level-employees-as-quantum-computing-advances/",
+                "description": "The research indicates that as technologies like quantum computing continue to achieve development milestones at companies such as D-Wave Quantum Inc. (NYSE: QBTS), more job positions across various industries face potential automation. The findings highlight a significant shift in the employment landscape, particularly affecting workers in early career stages. Generative AI systems, which can create content, analyze data, and ...",
+                "age": "3 days ago",
+                "page_age": "2025-09-04T14:05:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "citybuzz.co",
+                    "hostname": "www.citybuzz.co",
+                    "favicon": "https://imgs.search.brave.com/9vPgjnki-JC2T3gSJ0t0WES_OZUXGeWXqhAvKosS928/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDc2ZGE4MTlh/ZDYyYjRjZDk3OGQ5/NzRiN2RmNjMwN2Mx/NTgzNzZiOWIwMmY4/NzUwMjljYmQzZDQx/OGE3ZGIyYy93d3cu/Y2l0eWJ1enouY28v",
+                    "path": "\u203a 2025  \u203a 09  \u203a 04  \u203a new-study-reveals-ai-replacing-entry-level-employees-as-quantum-computing-advances"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/TTC6_d0HdSWFbUnsabgfMpwT92cnpuFwdZiZy2tLA7w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV3c3JhbXAubmV0/L3FyY29kZS80MjIy/YjE0ZjE1ZWQ5M2Zi/MjVmODJkNWVlOGVj/ZGE0MC53ZWJw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Better Artificial Intelligence Stock: Quantum Computing Inc. vs. IonQ - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/34618652/better-artificial-intelligence-stock-quantum-computing-inc-vs-ionq/",
+                "description": "The Globe and Mail has not reviewed this content. Please see disclaimer. ... QCi\u2019s photonic chips could reduce the cost of quantum computers. IonQ\u2019s trapped ion technology could shrink quantum processing units. Both of these companies are growing, but one is grossly overvalued.",
+                "age": "3 days ago",
+                "page_age": "2025-09-05T08:08:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a IBM  \u203a pressreleases  \u203a 34618652  \u203a better-artificial-intelligence-stock-quantum-computing-inc-vs-ionq"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing firm Quantinuum raises $600M at a $10B pre-money valuation - SiliconANGLE",
+                "url": "https://siliconangle.com/2025/09/04/quantum-computing-firm-quantinuum-raises-600m-10b-pre-money-valuation",
+                "description": "Quantinuum Ltd., an integrated quantum computing company majority-owned by Honeywell International Inc., announced today it has raised $600 million in equity capital to advance and scale up its cutting-edge trapped-ion quantum computer technology stack.",
+                "age": "3 days ago",
+                "page_age": "2025-09-04T15:45:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "siliconangle.com",
+                    "hostname": "siliconangle.com",
+                    "favicon": "https://imgs.search.brave.com/Bl_eqvYqFDeYiQUxMSi9yvnZW31JmVPENHwU48gCz28/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGNmZWRmYWI0/ZTliZjc3OTVjODE4/OGFiNDgzNDkzMmE4/M2E0M2Y0MTM2OWUx/OTdiMTE5NzI4YTg2/YzdlMWVjMC9zaWxp/Y29uYW5nbGUuY29t/Lw",
+                    "path": "\u203a 2025  \u203a 09  \u203a 04  \u203a quantum-computing-firm-quantinuum-raises-600m-10b-pre-money-valuation"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nWc_GILGSBFrl3P4carONvH0EYG53mu9Ps80P-q7yeM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMTVz/aGxsa3N3a2N0MC5j/bG91ZGZyb250Lm5l/dC93cC1jb250ZW50/L2Jsb2dzLmRpci8x/L2ZpbGVzLzIwMjUv/MDkvcXVhbnR1bS1w/aHlzaWNzLTg4OTg2/NTZfMTI4MC5qcGc"
+                }
+            }
+        ]
+    }
+}

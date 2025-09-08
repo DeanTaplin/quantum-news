@@ -7,19 +7,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Notable Innovations
 
-- **Quantum Research Sciences and Purdue Partner to Develop AI Platform for Air Force Industry Connections - Quantum Computing Report**
-  - The platform is also designed to ... that the Air Force needs, with the goal of enabling them to create more effective proposals. QRS is the creator of the Department of Defense’s first operational quantum software and collaborates on quantum computer software with Purdue ...
-  - [Source](https://quantumcomputingreport.com/qrs-and-purdue-partner-to-develop-ai-platform-for-air-force-industry-connections/)
+- **Quantum Computing Meets AI: What Breakthroughs to Expect**
+  - Fire, the printing press, electricity, the internet—each of these breakthroughs reshaped society, expanding what humans could achieve. Today, we stand at the threshold of another such transformation: the union of quantum computing and artificial intelligence.
+  - [Source](https://www.sciencenewstoday.org/quantum-computing-meets-ai-what-breakthroughs-to-expect)
 
-- **AI, Quantum Computing, and Sustainable Tech: Business Trends and Challenges**
-  - AI is rapidly integrating into business operations for efficiency and innovation, alongside quantum computing advancements and sustainable tech synergies in sectors like healthcare and finance. Challenges include ethical AI, cybersecurity, and regulations. Businesses must adapt responsibly ...
-  - [Source](https://webpronews.com/ai-quantum-computing-and-sustainable-tech-business-trends-and-challenges)
+- **Quantum Computing Meets AI: How Qubits Could Supercharge Machine Learning | by Mehmet Özel | Write A Catalyst | Sep, 2025 | Medium**
+  - Discover how quantum computing and AI intersect, why Qiskit matters, and what the future of Quantum Machine Learning (QML) looks like.
+  - [Source](https://medium.com/write-a-catalyst/quantum-computing-meets-ai-how-qubits-could-supercharge-machine-learning-7cbc84fc04b5)
 
-### Market Trends
-
-- **The dual threat of AI and quantum computing: IT leaders brace for the next data security era | CIO**
-  - Industry experts warn that organizations must fight today’s AI-enabled threats while preparing for quantum’s future impact on encryption.
-  - [Source](https://www.cio.com/article/4046977/the-dual-threat-of-ai-and-quantum-computing-it-leaders-brace-for-the-next-data-security-era.html)
+- **New Study Reveals AI Replacing Entry-Level Employees as Quantum Computing Advances - citybuzz**
+  - The research indicates that as technologies like quantum computing continue to achieve development milestones at companies such as D-Wave Quantum Inc. (NYSE: QBTS), more job positions across various industries face potential automation. The findings highlight a significant shift in the employment landscape, particularly affecting workers in early career stages. Generative AI systems, which can create content, analyze data, and ...
+  - [Source](https://www.citybuzz.co/2025/09/04/new-study-reveals-ai-replacing-entry-level-employees-as-quantum-computing-advances/)
 
 
 ## News Archive
