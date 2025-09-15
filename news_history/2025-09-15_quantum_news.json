@@ -1,0 +1,165 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-09-15T01:22:07.234882"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Stock Could Be the Secret AI Winner by 2035",
+                "url": "https://finance.yahoo.com/news/quantum-computing-stock-could-secret-081000552.html",
+                "description": "One of the companies best-positioned for this is IonQ (NYSE: IONQ), which is working to make quantum computing a reality. While that isn't going to happen tomorrow, it's making strong progress. And its effects on AI could be huge.",
+                "age": "3 days ago",
+                "page_age": "2025-09-12T08:10:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-stock-could-secret-081000552.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Artificial Intelligence (AI) Stock Could Be the Nvidia of Quantum Computing",
+                "url": "https://finance.yahoo.com/news/artificial-intelligence-ai-stock-could-123700554.html",
+                "description": "By offering a comprehensive ecosystem across hardware and software, Nvidia has become the go-to ecosystem for generative AI development. Alphabet is following a similar playbook tailored for the rise of quantum computing.",
+                "age": "6 days ago",
+                "page_age": "2025-09-09T12:37:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a artificial-intelligence-ai-stock-could-123700554.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Quantum Computing Stock Could Be the Secret AI Winner by 2035 @themotleyfool #stocks $IONQ",
+                "url": "https://www.fool.com/investing/2025/09/12/quantum-computing-stock-secret-ai-win-2035/",
+                "description": "One of the companies best-positioned for this is IonQ (IONQ 18.36%), which is working to make quantum computing a reality. While that isn't going to happen tomorrow, it's making strong progress. And its effects on AI could be huge.",
+                "age": "3 days ago",
+                "page_age": "2025-09-12T08:10:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 09  \u203a 12  \u203a quantum-computing-stock-secret-ai-win-2035"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/tUzIBIIyQygHBBHemvTkJYur8b2H1JKSH2-e1uKFRuk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODMxOTE4L2dl/dHR5aW1hZ2VzLTE2/NDg2MTcxMDkuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Artificial Intelligence (AI) Stock Could Be the Nvidia of Quantum Computing @themotleyfool #stocks $GOOGL $NVDA $MSFT $GOOG $IONQ",
+                "url": "https://www.fool.com/investing/2025/09/09/this-ai-stock-could-be-the-next-nvidia/",
+                "description": "By offering a comprehensive ecosystem across hardware and software, Nvidia has become the go-to ecosystem for generative AI development. Alphabet is following a similar playbook tailored for the rise of quantum computing.",
+                "age": "6 days ago",
+                "page_age": "2025-09-09T12:37:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 09  \u203a 09  \u203a this-ai-stock-could-be-the-next-nvidia"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/NQSGShiLG53vX9S-QX3vjtJERP4Xir6k1fdwgVuDreQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODI4MzUxL3F1/YW50dW0tY29tcHV0/aW5nLWNlbGwuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google Quantum AI Joins DARPA to Benchmark Path to Utility-Scale Fault-Tolerant Computing - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/google-quantum-ai-joins-darpa-to-benchmark-path-to-utility-scale-fault-tolerant-computing/",
+                "description": "The QBI aims to assess quantum computing approaches to determine if a utility-scale, fault-tolerant computer can be built by 2033. The program provides rigorous, third-party benchmarking, a specialized capability for the quantum industry. Google Quantum AI will partner with DARPA and its technical ...",
+                "age": "4 days ago",
+                "page_age": "2025-09-10T17:09:20",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a google-quantum-ai-joins-darpa-to-benchmark-path-to-utility-scale-fault-tolerant-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Cybersecurity, AI e quantum computing: come navigare in sicurezza tra promesse e minacce? - Data Manager Online",
+                "url": "https://www.datamanager.it/2025/09/cybersecurity-ai-e-quantum-computing-come-navigare-in-sicurezza-tra-promesse-e-minacce/",
+                "description": "Le innovazioni tecnologiche ridefiniscono costantemente i confini della cybersecurity. In particolare, intelligenza artificiale e quantum computing, teorizzati quasi 50 anni fa, stanno avviando una profonda democratizzazione nello spazio digitale.",
+                "age": "4 days ago",
+                "page_age": "2025-09-11T07:30:32",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "datamanager.it",
+                    "hostname": "www.datamanager.it",
+                    "favicon": "https://imgs.search.brave.com/G8BTYWBYlVUx_pdqnZsUPH1-4Qmve8XcI-dPraCGc6I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTU5ZTYxYjdm/MTk1NDdhYmQzYTA5/NWQ5OTlhZWJjYTlj/Yjg1MDQwYmNjYzUw/MjhmMjY1ZjEwZDE5/MjBmNzQ5My93d3cu/ZGF0YW1hbmFnZXIu/aXQv",
+                    "path": "\u203a 2025  \u203a 09  \u203a cybersecurity-ai-e-quantum-computing-come-navigare-in-sicurezza-tra-promesse-e-minacce"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/FH-mU34SxrSN8wIGB9z1P4uwbC1-vRPf98VVK-4SNQ4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZGF0YW1hbmFnZXIu/aXQvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDkvUEZQVF9M/b2nMiGMtR3VlzIF6/by5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Meet the Once-in-a-Generation Stock That Could Dominate Quantum Computing - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/IONQ-N/pressreleases/34790392/meet-the-once-in-a-generation-stock-that-could-dominate-quantum-computing",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing is an incredibly risky investment sector. IonQ's trapped-ion approach has benefits and drawbacks ...",
+                "age": "2 days ago",
+                "page_age": "2025-09-13T10:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a IONQ-N  \u203a pressreleases  \u203a 34790392  \u203a meet-the-once-in-a-generation-stock-that-could-dominate-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "\u201cPush the limits\u201d: A Look into the Cornell Quantum Computing Association - The Cornell Daily Sun",
+                "url": "https://cornellsun.com/article/2025/09/push-the-limits-a-look-into-the-cornell-quantum-computing-association",
+                "description": "Two years ago, the Cornell Quantum Computing Association did not exist. Flash forward to today, QCA is at the forefront of cutting-edge work in quantum hardware, standing out as one of the few undergraduate groups in the nation building and publishing their own findings.",
+                "age": "5 days ago",
+                "page_age": "2025-09-09T16:49:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cornellsun.com",
+                    "hostname": "cornellsun.com",
+                    "favicon": "https://imgs.search.brave.com/0VJyR2dvX9p869abU7kxDAyjgG6u8xG-WkQF7JmxjRU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjY3NThhMDIy/YjRmM2I2MGY3N2Mw/NjIzMDRlMWVhZjUw/M2NmNzM5MzYyMjc5/M2YzMjkwOTE1ZTE4/N2MzMDY3Yi9jb3Ju/ZWxsc3VuLmNvbS8",
+                    "path": "\u203a article  \u203a 2025  \u203a 09  \u203a push-the-limits-a-look-into-the-cornell-quantum-computing-association"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/MdrYwoOAX4WeKcZ5f1XiMgztUdiT1qa4OGleIeyd2yo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zbndv/cmtzY2VvLmltZ2l4/Lm5ldC9jZHMvZWU0/NGJkY2EtNjllMi00/YTFhLTg5Y2EtZDli/MmYyZmE1ODQxLnNp/emVkLTEwMDB4MTAw/MC5qcGc_dz04MDAm/YW1wO2g9NjAw"
+                }
+            }
+        ]
+    }
+}
