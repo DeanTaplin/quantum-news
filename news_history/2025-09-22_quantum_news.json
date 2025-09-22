@@ -1,0 +1,219 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-09-22T00:20:24.400363"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Is the Missing Piece for AI, and These Stocks Could Benefit Most",
+                "url": "https://finance.yahoo.com/news/quantum-computing-missing-piece-ai-112500979.html",
+                "description": "The synergy between AI and quantum computing presents significant opportunities for this trio of companies.",
+                "age": "5 days ago",
+                "page_age": "2025-09-17T11:25:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-missing-piece-ai-112500979.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Is the Missing Piece for AI, and These Stocks Could Benefit Most @themotleyfool #stocks $IBM $NVDA $GOOGL $GOOG $IONQ",
+                "url": "https://www.fool.com/investing/2025/09/17/quantum-computing-is-the-missing-piece-for-ai-and/",
+                "description": "The synergy between AI and quantum computing presents significant opportunities for this trio of companies.",
+                "age": "5 days ago",
+                "page_age": "2025-09-17T11:25:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 09  \u203a 17  \u203a quantum-computing-is-the-missing-piece-for-ai-and"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/n_hglyhaawVtE5ILUq849lCxLDowpIi6K1a9xm-4c_A/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODMxOTE5L2Fp/LXJvYm90LXdyaXRp/bmctY2FsY3VsYXRp/b25zLW9uLWEtY2hh/bGtib2FyZF9nZXR0/eWltYWdlcy04Mjgy/NDE0NDgtMTIwMXg4/MDAtOWI5ZjE4NS5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing and Its Emerging Influence on Data Science and AI in 2025 - DEV Community",
+                "url": "https://dev.to/donazacharias/quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2",
+                "description": "From financial institutions optimizing investment portfolios to pharmaceutical companies accelerating drug discovery, quantum computing is transitioning from theoretical possibility to practical reality. This transformation has profound implications for data science and artificial intelligence.",
+                "age": "4 days ago",
+                "page_age": "2025-09-18T07:58:22",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "dev.to",
+                    "hostname": "dev.to",
+                    "favicon": "https://imgs.search.brave.com/UUpF8I85K--vkQzrhameM7iRPRU5VCTXyWbS4sk6G2g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTg5MTcxNDBh/N2U4ODc4MDg0NWQ4/MzU0YWJkNDY3ZWRm/MjUxY2U1YjY5MzJm/YWRlOTI4YjAyZDI1/ZjU0MmJjNi9kZXYu/dG8v",
+                    "path": "\u203a donazacharias  \u203a quantum-computing-and-its-emerging-influence-on-data-science-and-ai-in-2025-4pn2"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QGm0mVDrg15YWZVEvg0ZFuZn0MvO2UbtsZDS_NYAIjw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZGV2LnRvL2R5/bmFtaWMvaW1hZ2Uv/d2lkdGg9MTAwMCxo/ZWlnaHQ9NTAwLGZp/dD1jb3ZlcixncmF2/aXR5PWF1dG8sZm9y/bWF0PWF1dG8vaHR0/cHMlM0ElMkYlMkZk/ZXYtdG8tdXBsb2Fk/cy5zMy5hbWF6b25h/d3MuY29tJTJGdXBs/b2FkcyUyRmFydGlj/bGVzJTJGYm9oZ2o0/c3poY2Z3d3hrZng5/bGkucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Meet Quantum Computing's Potential Monster Stocks of the Next Decade (Hint: Not IonQ) - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/34866686/meet-quantum-computing-s-potential-monster-stocks-of-the-next-decade-hint-not-ionq",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing has attracted growth investors due to its disruptive potential within the broader AI narrative.",
+                "age": "4 days ago",
+                "page_age": "2025-09-17T14:15:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a NVDA-Q  \u203a pressreleases  \u203a 34866686  \u203a meet-quantum-computing-s-potential-monster-stocks-of-the-next-decade-hint-not-ionq"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How AI will Evolve with Quantum Computing in the Next Decade?",
+                "url": "https://www.analyticsinsight.net/artificial-intelligence/how-ai-will-evolve-with-quantum-computing-in-the-next-decade",
+                "description": "Overview Quantum computing will enhance AI\u2019s speed and accuracy in solving complex problems.Industries such as healthcare, finance, and cybersecurity will under",
+                "age": "5 days ago",
+                "page_age": "2025-09-16T15:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "analyticsinsight.net",
+                    "hostname": "www.analyticsinsight.net",
+                    "favicon": "https://imgs.search.brave.com/IZxcZxYaltFYkchQ2sNNCyUjxbUmVLPqNTB_PDs6VtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI0MGUzMDlm/MTY4YjJlMDdjZWUy/Nzc0ZDg0ZmE0OGU5/MjNmMmJlNDViZjcw/MTY0MjBhMDA5MTkw/MWY2ZmJlYy93d3cu/YW5hbHl0aWNzaW5z/aWdodC5uZXQv",
+                    "path": "\u203a artificial-intelligence  \u203a how-ai-will-evolve-with-quantum-computing-in-the-next-decade"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/kQVUQv64eW3267sK4mQ86g4FQ4soMf3lCIruLJuvhKg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2FuYWx5dGlj/c2luc2lnaHQlMkYy/MDI1LTA5LTE2JTJG/azh4dWQ5aWklMkZI/b3ctQUktV2lsbC1F/dm9sdmUtd2l0aC1R/dWFudHVtLUNvbXB1/dGluZy1pbi10aGUt/TmV4dC1EZWNhZGUu/anBnP3c9MTIwMCZh/bXA7YXI9NDAlM0Ey/MSZhbXA7YXV0bz1m/b3JtYXQlMkNjb21w/cmVzcyZhbXA7b2dJ/bWFnZT10cnVlJmFt/cDttb2RlPWNyb3Am/YW1wO2VubGFyZ2U9/dHJ1ZSZhbXA7b3Zl/cmxheT1mYWxzZSZh/bXA7b3ZlcmxheV9w/b3NpdGlvbj1ib3R0/b20mYW1wO292ZXJs/YXlfd2lkdGg9MTAw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Impressed By AI? Brace Yourself\u2014Quantum Computing Is Coming",
+                "url": "https://blog.lumen.com/impressed-by-ai-brace-yourself-quantum-computing-is-coming",
+                "description": "Just a few short years ago, generative artificial intelligence (GenAI) exploded onto the scene and revolutionized the computing world overnight. Now, as businesses adapt into the paradigm shift created by AI, another game-changing technology is about to upend things all over again. Quantum ...",
+                "age": "4 days ago",
+                "page_age": "2025-09-17T14:15:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "blog.lumen.com",
+                    "hostname": "blog.lumen.com",
+                    "favicon": "https://imgs.search.brave.com/L2wvoBE2ABxWD_RCfmsP32ecVzrKe7YVB1LDFw4hBxw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzEzZTBiYjgy/Y2M5Yjk2MmI0ZjNi/YzJjMWI3NTFjMzhh/ZjBmZDk0NmNkZDdl/MTZlNTAxODk4YjVm/N2VkNzgxNC9ibG9n/Lmx1bWVuLmNvbS8",
+                    "path": "\u203a impressed-by-ai-brace-yourself-quantum-computing-is-coming"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/9BGXsChhvYw8QEy2ISCEfxpPMTs8oMoaN_eYDEbd9po/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/YXNzZXRzLmx1bWVu/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8wOS9RdWFu/dHVtLUNvbXB1dGlu/Zy1CbG9nLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google Quantum AI Researchers Demonstrate Generative Quantum Advantage for Classical and Quantum Problems - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/google-quantum-ai-researchers-demonstrate-generative-quantum-advantage-for-classical-and-quantum-problems/",
+                "description": "The research addresses a key challenge ... both learning and sampling can be performed efficiently in the beyond-classical regime. The ability to efficiently identify a constant-depth circuit representation for a general circuit is shown to require a quantum computer....",
+                "age": "5 days ago",
+                "page_age": "2025-09-16T14:03:44",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a google-quantum-ai-researchers-demonstrate-generative-quantum-advantage-for-classical-and-quantum-problems"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Cybersecurity: AI e Quantum Computing riscrivono le regole - BitMat",
+                "url": "https://www.bitmat.it/sicurezza/cybersecurity-ai-e-quantum-computing-cambiano-le-regole-del-gioco/",
+                "description": "Loic Gu\u00e9zo di Proofpoint analizza le sfide emergenti della cybersecurity legate a AI, quantum computing e fattore umano",
+                "age": "1 week ago",
+                "page_age": "2025-09-15T13:30:21",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "bitmat.it",
+                    "hostname": "www.bitmat.it",
+                    "favicon": "https://imgs.search.brave.com/--eo04BComI-36OQjS94LZbWWvGNaJGGne7LK21wUvo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjA4NDk2MDUz/NTIzZGJkMWNhNDdj/Y2M3OGJjY2U1ZjYz/NmQ4OTE5YjM1Yjk3/ODAwNDllMTdkYjll/ODllNTcyOC93d3cu/Yml0bWF0Lml0Lw",
+                    "path": "\u203a sicurezza  \u203a cybersecurity-ai-e-quantum-computing-cambiano-le-regole-del-gioco"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/zlxIVliJiFS1iudWsK-qv_XayQ3bDLy4fl-ZdaYI8jk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Yml0bWF0Lml0L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA5/L2N5YmVyc2VjdXJp/dHktMi1zY2FsZWQu/anBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing And AI: Synergy Or Rivalry? | CIO Africa",
+                "url": "https://cioafrica.co/quantum-computing-and-ai-synergy-or-rivalry/",
+                "description": "For years, the quantum industry has faced talent shortages due to the technical intensity of the field and a limited pool of specialists to recruit from.",
+                "age": "3 days ago",
+                "page_age": "2025-09-19T08:55:16",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cioafrica.co",
+                    "hostname": "cioafrica.co",
+                    "favicon": "https://imgs.search.brave.com/lBqX6PBoJMaszCmiPQUYfE9SFd7qi6KcjfUZn9xL5ro/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTg4NzJmM2Y1/NTFkNWYyMjllMzNj/NGNiMjBhNjA2NGMx/ZmU3NDBhOTdmNzM2/NTYwNjE1MzY0ODc1/NWZjZTY0NC9jaW9h/ZnJpY2EuY28v",
+                    "path": "\u203a quantum-computing-and-ai-synergy-or-rivalry"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Qw_H9wF0-6C615nGDMIZ7pnpPQaG56t2T5fvDJhqDyM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jaW9h/ZnJpY2EuY28vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/cXVhbnR1bS1jb21w/dXRpbmctYW5kLWFp/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Stocks Surge on Air Force Deal & Strong Earnings - News and Statistics - IndexBox",
+                "url": "https://indexbox.io/blog/quantum-stocks-soar-on-58m-us-air-force-contract-d-wave-earnings",
+                "description": "We use cookies to improve your experience and for marketing. Read our cookie policy or manage cookies. ... Stocks in the quantum computing sector rose on Thursday, driven by a new $5.8 million contract from the US Air Force, as reported by Yahoo Finance. Rigetti Computing will use the three-year ...",
+                "age": "3 days ago",
+                "page_age": "2025-09-19T11:11:58",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "indexbox.io",
+                    "hostname": "indexbox.io",
+                    "favicon": "https://imgs.search.brave.com/cBq3xpyJp1jbGDTIseRvCmp7RkEyP25MvgIKZByqc_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWUzM2Q1YjM3/NDA5ZTJjMzA0OThj/NTZjYjhmZWQ3YWMw/OGQwNzUxY2EyM2E3/ZTUxM2VmOGM1NGU5/YjJiNGMxZS9pbmRl/eGJveC5pby8",
+                    "path": "\u203a blog  \u203a quantum-stocks-soar-on-58m-us-air-force-contract-d-wave-earnings"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/LWz5aCRYu6y4ie6k3UGTtjCbhRHJMykKtaMS6oT3vKg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kZXhib3guaW8v/bGFuZGluZy9pbWcv/RGVmYXVsdC53ZWJw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "The Air Force wants more research on quantum computing, and it's sending stocks in the sector soaring",
+                "url": "https://businessinsider.com/quantum-stocks-rigetti-air-force-research-contract-rgti-qbts-2025-9",
+                "description": "Quantum computing microchip. Universal Quantum ... This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. Have an account?",
+                "age": "3 days ago",
+                "page_age": "2025-09-18T19:17:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "businessinsider.com",
+                    "hostname": "businessinsider.com",
+                    "favicon": "https://imgs.search.brave.com/KG8sZWD07i0vgh_LOhkJSFLhwrFwZ923c89Dzo5ZjEI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzUzNDU2ZmZl/ODMxMWE4OWExY2Nh/M2UyMzQyOWRkZDBi/ODc3ZGNmN2I5ZmI3/YjQ2MWZkNzJjMGVj/MmY1Y2Q2NC9idXNp/bmVzc2luc2lkZXIu/Y29tLw",
+                    "path": "\u203a quantum-stocks-rigetti-air-force-research-contract-rgti-qbts-2025-9"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/sbnEFVKppqLZ_jne387guPQqJZgkrzV7vwSz-1eDtm0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzY4/Y2M1YTUzNTdkMzYy/ZDM3NWU4NzIzMz93/aWR0aD0xMjAwJmZv/cm1hdD1qcGVn"
+                }
+            }
+        ]
+    }
+}
