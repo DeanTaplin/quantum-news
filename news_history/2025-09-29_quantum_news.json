@@ -1,0 +1,234 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-09-29T00:19:39.346222"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "D-Wave Quantum (QBTS) Hits New 52-Week High on AI, Quantum Computing Boom",
+                "url": "https://finance.yahoo.com/news/d-wave-quantum-qbts-hits-130659453.html",
+                "description": "D-Wave Quantum (QBTS) Hits New 52-Week High on AI, Quantum Computing Boom ... Being the linchpin of the AI and high-performance computing industries, announcements and developments from Nvidia Corp.",
+                "age": "4 days ago",
+                "page_age": "2025-09-24T13:06:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a d-wave-quantum-qbts-hits-130659453.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Quantum Computing Stocks That Could Make a Millionaire",
+                "url": "https://finance.yahoo.com/news/3-quantum-computing-stocks-could-090000995.html",
+                "description": "Quantum computing is the next big investment trend in the tech world. While artificial intelligence (AI) is still driving the market forward, the quantum computing arms race is heating up and could start to shape up over the next few years.",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T09:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a 3-quantum-computing-stocks-could-090000995.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "A survey on quantum computing: Transforming cryptography, AI/ML, blockchain, and network communication - ScienceDirect",
+                "url": "https://sciencedirect.com/science/article/pii/S2773186325001598",
+                "description": "Quantum computing stands poised to transform numerous fields of modern technology by offering computational capabilities beyond those of classical systems. This survey offers a detailed analysis of major fields, such as artificial intelligence and machine learning (AI/ML), blockchain, ...",
+                "age": "4 days ago",
+                "page_age": "2025-09-25T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sciencedirect.com",
+                    "hostname": "sciencedirect.com",
+                    "favicon": "https://imgs.search.brave.com/ouYwj5IQ5WsfO5De-u2i_yKFhidxmYpQmhbwy0uhLAA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjBiNDUxNzEx/ZmI0ZmNjMjIwNjhi/MmQ1YTYyYzc0Mjkz/MjQ1ZWExN2YxZTY1/NDFjMTU1NTJlOTdk/Mjk1NTI5Mi9zY2ll/bmNlZGlyZWN0LmNv/bS8",
+                    "path": "\u203a science  \u203a article  \u203a pii  \u203a S2773186325001598"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/we3JfddfeHpL2kG4snPEy2PYfrpa-2si4h6DXjj43Qg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcnMu/ZWxzLWNkbi5jb20v/Y29udGVudC9pbWFn/ZS8xLXMyLjAtUzI3/NzMxODYzMjVYMDAw/MjUtY292MTUwaC5n/aWY.jpeg"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Corp: Not A Good Play For Either AI Or Quantum Computing (NASDAQ:QMCO) | Seeking Alpha",
+                "url": "https://seekingalpha.com/article/4824761-quantum-not-good-play-for-either-ai-or-quantum-computing",
+                "description": "The recent stock surge appears to be driven by sector-wide quantum computing trends rather than fundamentals. The company faces stiff competition from industry giants. It also has negative book value and significant debt concerns.",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T12:45:16",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "seekingalpha.com",
+                    "hostname": "seekingalpha.com",
+                    "favicon": "https://imgs.search.brave.com/Vlj2pnYV-5jX9naNLppkPkWwLBLiVzsauFEl21cB0_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMzN2JkNjhl/ODdiNGFiYzQyOThi/NzM3ZTBhMDExYmM5/ODM2M2U3ZjRkZGJj/MWQxYzkxYzJiYzdk/ZTQ3MjhkMS9zZWVr/aW5nYWxwaGEuY29t/Lw",
+                    "path": "\u203a article  \u203a 4824761-quantum-not-good-play-for-either-ai-or-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/7E_q8rUdYHAXeKnzGReFjx-gq4RQTn9-DFaAhlf2wGM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2Vla2luZ2Fs/cGhhLmNvbS9jZG4v/czMvdXBsb2Fkcy9n/ZXR0eV9pbWFnZXMv/MTcyMTY0MjgwL2lt/YWdlXzE3MjE2NDI4/MC5qcGc_aW89Z2V0/dHktYy13MTUzNg"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "OpenAI CEO Sam Altman says GPT-8 will be true AGI if it solves quantum gravity \u2014 the father of quantum computing agrees",
+                "url": "https://www.windowscentral.com/artificial-intelligence/sam-altman-says-gpt-8-could-achieve-true-agi-if-it-solves-quantum-gravity",
+                "description": "David Deutsch, the father of quantum computing, agrees that this would be a valid benchmark for determining whether machines have achieved true intelligence.",
+                "age": "2 days ago",
+                "page_age": "2025-09-26T19:22:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "windowscentral.com",
+                    "hostname": "www.windowscentral.com",
+                    "favicon": "https://imgs.search.brave.com/WQx56naABKStzY5kc3kDd4conPh8qIK2jwUCt3ROeR0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODFhZDRiYmUy/ZGMwOTM0YjRmM2Iy/MmZhNmNjZmZjYjU0/Y2RhMDhlODhhYjg0/MmE5N2ExZjAzMzU3/NGRhOTRlMy93d3cu/d2luZG93c2NlbnRy/YWwuY29tLw",
+                    "path": "\u203a artificial-intelligence  \u203a sam-altman-says-gpt-8-could-achieve-true-agi-if-it-solves-quantum-gravity"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4pWPaHgE_adAyEwwSQuzCv-38WjraYUFlsw_2oh-zSs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2ND/RzYzdTdIZW9xbnVN/Q0tkQTV2N00uanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing and AI: Synergy or rivalry? - IT-Online",
+                "url": "https://it-online.co.za/2025/09/22/quantum-computing-and-ai-synergy-or-rivalry/",
+                "description": "Quantum computing and artificial intelligence (AI) are two technologies touted to revolutionise modern computing. In 2022, AI emerged from deep tech to a household name through the release of ChatGPT and other large language models (LLMs). Meanwhile, quantum computers are expected to start ...",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T09:17:45",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "it-online.co.za",
+                    "hostname": "it-online.co.za",
+                    "favicon": "https://imgs.search.brave.com/vfLqzDpWl6CdbEGS4D5U2i-KVN13tC60NSfROTOY648/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTFiYTFiZTll/NjBlNWZkMzRhZDNm/MWY2NGZmYzcwYWI3/YTdjNTQ1ZjA3ZmM3/YzZiMTIxNDI5MTli/NDRjOWY4Yi9pdC1v/bmxpbmUuY28uemEv",
+                    "path": "\u203a 2025  \u203a 09  \u203a 22  \u203a quantum-computing-and-ai-synergy-or-rivalry"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Inc. Announces $500 Million Private Placement, Bringing Total Capital Raised to $900 Million - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/quantum-computing-inc-announces-500-million-private-placement-bringing-total-capital-raised-to-900-million",
+                "description": "Quantum Computing Inc. (QCi) (Nasdaq: QUBT) has entered into securities purchase agreements for an oversubscribed private placement of common stock, which is expected to result in gross proceeds of $500 million. The offering was led by several large existing shareholders alongside a first-time ...",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T21:57:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a quantum-computing-inc-announces-500-million-private-placement-bringing-total-capital-raised-to-900-million"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Explained: What Professionals Need to Learn Now | Cognixia",
+                "url": "https://www.cognixia.com/blog/quantum-computing-explained-professionals/",
+                "description": "The rapid advancement of technology is reshaping industries, and one of the most revolutionary innovations on the horizon is Quantum Computing. Unlike traditional computing, which uses binary bits, quantum computers leverage qubits that can exist in multiple states simultaneously.",
+                "age": "5 days ago",
+                "page_age": "2025-09-24T03:09:03",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cognixia.com",
+                    "hostname": "www.cognixia.com",
+                    "favicon": "https://imgs.search.brave.com/RCCcc6UUf1ivqwWsCxuDr_JONIqSnwPC_pIyy4R73TM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWRlNGI5YzY5/Nzk1YjVmMDhkMmVl/NDhmNzBhOTQ5Yzcw/MmI2YTBmNGNhNzU2/MDY2MTBiMjJiMmU2/ODRiNmVlOS93d3cu/Y29nbml4aWEuY29t/Lw",
+                    "path": "\u203a blog  \u203a quantum-computing-explained-professionals"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/TEqSWSMmxajjScuUWKJr9i__Qq_Ppc8yeGjsZczyP3s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y29nbml4aWEuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA5L3F1YW50dW0t/Y29tcHV0aW5nLWV4/cGxhaW5lZC1wcm9m/ZXNzaW9uYWxzLWJs/b2dAY29nbml4aWEt/NjAweDMwMC53ZWJw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Bulls Enjoy Sizable Gains Thanks to Quantum Computing Stock - Schaeffer's Investment Research",
+                "url": "https://schaeffersresearch.com/content/options/2025/09/23/bulls-enjoy-sizable-gains-thanks-to-quantum-computing-stock",
+                "description": "Schaeffer's subscribers enjoyed a 308% gain thanks to our Quantum Computing (QUBT) call recommendation",
+                "age": "6 days ago",
+                "page_age": "2025-09-23T05:48:42",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "schaeffersresearch.com",
+                    "hostname": "schaeffersresearch.com",
+                    "favicon": "https://imgs.search.brave.com/RUbFrql-jYO84e_sndIdm7aZS6PWlB59L0MZHcjpfJE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzc4MTEwNTdi/Y2NkNDFiMWZiOWYx/ZjFjYjJkMzAyMjM5/YzE5NTBiNDkzN2Yw/NTA0N2Y2Mjc1YzRm/MTI0NTliZC9zY2hh/ZWZmZXJzcmVzZWFy/Y2guY29tLw",
+                    "path": "\u203a content  \u203a options  \u203a 2025  \u203a 09  \u203a 23  \u203a bulls-enjoy-sizable-gains-thanks-to-quantum-computing-stock"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/N-CTkiZGyjSsDvcT_Tfm4b8GN151uvjL3M8M4ZliAPk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zY2hh/ZWZmZXJzLWNkbi5z/My5hbWF6b25hd3Mu/Y29tL2ltYWdlcy9k/ZWZhdWx0LXNvdXJj/ZS9zY2hhZWZmZXJz/LWNkbi1pbWFnZXMv/ZGVmYXVsdC1pbWFn/ZXMvY2hhcnRzL2Jp/Z3N0b2NrLWFycm93/LWNvbmNlcHQtODA5/ODAzMDcuanBnP3Nm/dnJzbj1lMzA4ZDgw/Nl80"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Moves from Theoretical to Inevitable | Bain & Company",
+                "url": "https://www.bain.com/insights/quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025/",
+                "description": "Quantum will likely become part of a mosaic, working with classical computing to solve big problems. By Gabe Dunn, Velu Sinha, Laurent-Pierre Baculard, Syed Ali, and Willy Chang",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T20:10:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "bain.com",
+                    "hostname": "www.bain.com",
+                    "favicon": "https://imgs.search.brave.com/eO7deCwU__nz5L17oyvn57tYRx7WC9b-qU1tcAgFm04/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWRmYTk1NjAz/M2VhODE0NGJkN2Q3/ZWIyYjVmZTAwY2Ni/ODc4ZmRmNWU2MzZk/MGQwYTBjZjAzN2E5/YjBiOTkwMy93d3cu/YmFpbi5jb20v",
+                    "path": "\u203a insights  \u203a quantum-computing-moves-from-theoretical-to-inevitable-technology-report-2025"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/2DLNIUN1nUWKFiroRRhT2EAV7CTdQRrtP6NePC6f0iI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/YmFpbi5jb20vY29u/dGVudGFzc2V0cy9h/YzIwODI1ZmQ2YTY0/ZWYwOWVkMWRhM2Y4/ZTFlZTBjZS83LTM5/NzY4LXF1YW50dW1j/b21wdXRpbmctMTQ0/MHg4MTAuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Quantum Computing Stocks That Could Make a Millionaire @themotleyfool #stocks $IONQ $QBTS $RGTI",
+                "url": "https://fool.com/investing/2025/09/22/3-quantum-computing-stocks-that-could-make-a-milli",
+                "description": "Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... IonQ is seeing huge success with its trapped ion approach. D-Wave Quantum is taking a different approach to quantum computing than its peers.",
+                "age": "1 week ago",
+                "page_age": "2025-09-22T09:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 09  \u203a 22  \u203a 3-quantum-computing-stocks-that-could-make-a-milli"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/pOjQV-wnPhMRrY7ernQ9cGWGQ0u8ty_yi_LCZaViAms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODMxNTE5L3F1/YW50dW0tY29tcHV0/aW5nLWNlbGwuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Cisco claims 'breakthrough' in distributed quantum computing",
+                "url": "https://digit.fyi/cisco-claims-breakthrough-in-distributed-quantum-computing",
+                "description": "It does this through quantum circuit ... pieces, and then carefully timing how the networked machines share information, so they can pass quantum data between them. According to Cisco, what makes this \u2018breakthrough\u2019 unique is that it\u2019s the first to handle quantum error correction across a network. Most compilers today can only work with one machine at a time, but this new model can build quantum programs that run across multiple connected computers, even if they ...",
+                "age": "3 days ago",
+                "page_age": "2025-09-26T10:40:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "digit.fyi",
+                    "hostname": "digit.fyi",
+                    "favicon": "https://imgs.search.brave.com/-F-hHZ1gMZAyQz452U7pF59S489FcdOttLxUON-6qm0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTg2MjZmOGE2/MTZhODMyY2JkMjNh/NmU0MjllZjQ1MWMy/NTY1OWY0ZGI1ZjJl/YzllOTAzOWFjZjhj/ZGRjNGYwYy9kaWdp/dC5meWkv",
+                    "path": "\u203a cisco-claims-breakthrough-in-distributed-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/O5xhMPYzDRezGdU0sGgI2aiibbLV3WtiCDjqWiikOBI/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5k/aWdpdC5meWkvd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/VW50aXRsZWQtZGVz/aWduLTIwMjUtMDkt/MjZUMTE0ODQ3LjU3/NC5qcGc"
+                }
+            }
+        ]
+    }
+}
