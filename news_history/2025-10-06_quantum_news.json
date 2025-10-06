@@ -1,0 +1,273 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-10-06T00:19:05.946728"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "These Quantum Computing Stocks Could Be the Secret Winners of the AI Boom",
+                "url": "https://biztoc.com/x/4587b6d23a98d5fe",
+                "description": "Quantum computing isn't as big an investment theme as artificial intelligence (AI). AI is currently the market's fixation, and for good reason, as that's\u2026",
+                "age": "5 hours ago",
+                "page_age": "2025-10-05T19:24:46",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "biztoc.com",
+                    "hostname": "biztoc.com",
+                    "favicon": "https://imgs.search.brave.com/sdV-Q5tg0ETJtOXj_ftRs2XNpSMpM95Ael4gwDAxBkI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRmMDQxZDg4/MDQxZGYwOTQzOTBl/YmRlNjQ2ZDJjNGM0/NTQ3YTk1MGQ5ODY0/ZTZlNDA1OWJiNzJj/OGM0OTE4ZS9iaXp0/b2MuY29tLw",
+                    "path": "\u203a x  \u203a 4587b6d23a98d5fe"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/lMspJmZKgx_kh5_PeWjQzx_nAHNqCBqWynmy6xJdzZU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9iaXp0/b2MuY29tL2Nkbi80/NTg3YjZkMjNhOThk/NWZlX3Mud2VicA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "These Quantum Computing Stocks Could Be the Secret Winners of the AI Boom @themotleyfool #stocks $IONQ $GOOGL $GOOG",
+                "url": "https://www.fool.com/investing/2025/10/04/these-quantum-computing-stocks-could-be-the-secret/",
+                "description": "You're reading a free article with ... Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... IonQ has leading technology in the quantum computing realm....",
+                "age": "1 day ago",
+                "page_age": "2025-10-04T22:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 10  \u203a 04  \u203a these-quantum-computing-stocks-could-be-the-secret"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ShHUZdhqyI9jJ_jkLabiToyorY9u-PjEzrT_kP_uQNk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODM0MDc1L3F1/YW50dW0tY29tcHV0/aW5nLWNlbGwuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Can Generate $1 Trillion Economic Value by 2035: 2 Quantum Artificial Intelligence (AI) Stocks to Buy Now",
+                "url": "https://finance.yahoo.com/news/quantum-computing-generate-1-trillion-000000777.html",
+                "description": "Together, these companies can give investors a solid chance to ride the $1 trillion quantum computing wave. 10 stocks we like better than International Business Machines \u203a \u00b7 Artificial intelligence (AI) has been rapidly transforming industries and reshaping our daily lives, positioning itself ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-02T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a quantum-computing-generate-1-trillion-000000777.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing is a path to energy-efficient AI - Fast Company",
+                "url": "https://www.fastcompany.com/91416282/quantum-computing-is-a-path-to-energy-efficient-ai",
+                "description": "Unlike traditional computers that ... a time, quantum computers are designed to explore complex problem landscapes more efficiently, making them well-suited for tackling certain challenges that can be difficult, time-consuming, or costly for classical systems. This enables them to potentially provide solutions faster, at higher quality, and with greater ...",
+                "age": "2 days ago",
+                "page_age": "2025-10-03T22:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fastcompany.com",
+                    "hostname": "www.fastcompany.com",
+                    "favicon": "https://imgs.search.brave.com/wOKFFTkHLtUhxUChtnJchtMHFTEpXlqSzgL355HSyak/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmY5NzAyMDAz/ODY4YWVmYTNlMTdj/ODQ1ZGI1MDIyYjlm/ZDQzZTAzMzdmY2Yx/YjUzZTg0NTQ4ZGEx/YmI4MzJjMy93d3cu/ZmFzdGNvbXBhbnku/Y29tLw",
+                    "path": "\u203a 91416282  \u203a quantum-computing-is-a-path-to-energy-efficient-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/UQ00q4RiIzHVRyobUZbehYSCM69OGQaMbgH2_1pcPWA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmFzdGNvbXBh/bnkuY29tL2ltYWdl/L3VwbG9hZC9mX3dl/YnAscV9hdXRvLGNf/Zml0L3dwLWNtcy0y/LzIwMjUvMTAvSU5D/LU1hc3RlcnMtRmFz/dC1Db21wYW55LXB1/Ymxpc2hpbmctMjYu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Harnessing the complementary power of AI and Quantum Computing - Boston Business Journal",
+                "url": "https://bizjournals.com/boston/news/2025/10/01/how-ai-quantum-computing-work-together.html",
+                "description": "In this article, we will discuss quantum computing and how it complements AI, including its ability to enhance AI models, and conversely, also explore AI\u2019s ability to strengthen the power of quantum computing.",
+                "age": "4 days ago",
+                "page_age": "2025-10-01T19:55:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "bizjournals.com",
+                    "hostname": "bizjournals.com",
+                    "favicon": "https://imgs.search.brave.com/hXPK1RE1jBcfCghgP00e_pqxVV-l2d7_GHb4nfWQp0Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjQwNzlhYzIy/MTc1Y2ZiNzYwMmUy/MDBiNmRjMzhkMTM1/OTZhMjIxYjU4OWIw/NWEzZGI5ZmQwZmEy/ZGRmNWEzNS9iaXpq/b3VybmFscy5jb20v",
+                    "path": "\u203a boston  \u203a news  \u203a 2025  \u203a 10  \u203a 01  \u203a how-ai-quantum-computing-work-together.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/uGeeCUNhBZvx3q80Dv3cd18qx3Nqj_l33QsqpShxzwM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5iaXpqLnVzL3Zp/ZXcvaW1nLzEzMDYw/ODc4L2dldHR5aW1h/Z2VzLTE0NjQ1NjE5/ODAqMTIwMHh4MjMw/OS0xMjk5LTAtMC5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Introducing CHPX: The Case For AI Semiconductors And Quantum Computing | Seeking Alpha",
+                "url": "https://seekingalpha.com/article/4827377-introducing-chpx-case-ai-semiconductors-quantum-computing",
+                "description": "The semiconductor industry is facing ... reshapes computing needs. AI is poised to drive most of the industry\u2019s growth over the next two decades. Beyond AI chips, memory, and networking providers, specialized developers of AI supercomputing clusters are critical to building the infrastructure of the future. The Global X AI Semiconductor & Quantum ETF provides ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-02T08:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "seekingalpha.com",
+                    "hostname": "seekingalpha.com",
+                    "favicon": "https://imgs.search.brave.com/Vlj2pnYV-5jX9naNLppkPkWwLBLiVzsauFEl21cB0_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMzN2JkNjhl/ODdiNGFiYzQyOThi/NzM3ZTBhMDExYmM5/ODM2M2U3ZjRkZGJj/MWQxYzkxYzJiYzdk/ZTQ3MjhkMS9zZWVr/aW5nYWxwaGEuY29t/Lw",
+                    "path": "\u203a article  \u203a 4827377-introducing-chpx-case-ai-semiconductors-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/hVgjfyML2L2udY0X1b_6aSDsx2YDsmpd-3CTUbLq8IA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2Vla2luZ2Fs/cGhhLmNvbS9jZG4v/czMvdXBsb2Fkcy9n/ZXR0eV9pbWFnZXMv/MjE4MjcxOTcwNi9p/bWFnZV8yMTgyNzE5/NzA2LmpwZz9pbz1n/ZXR0eS1jLXcxNTM2"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Meets Railway Safety: Rail Vision's Strategic 51% Acquisition of Transport AI Pioneer",
+                "url": "https://www.stocktitan.net/news/RVSN/rail-vision-signs-term-sheet-to-acquire-51-stake-in-quantum-3rnyrjjyfs2k.html",
+                "description": "Rail Vision Signs Term Sheet to Acquire 51% Stake in Quantum Computing AI Company for the Transportation Industry ... Taysha Gene Therapies Announces FDA Breakthrough Therapy Designat... ... Rivian Releases Q3 2025 Production and Delivery Figures and Sets ...",
+                "age": "6 days ago",
+                "page_age": "2025-09-30T11:26:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "stocktitan.net",
+                    "hostname": "www.stocktitan.net",
+                    "favicon": "https://imgs.search.brave.com/oVbJYXQ1fMa7E7nV4NEgJIoaJed1n-Yg3MKop6cU2fw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQxYTVjN2Y3/YTdkZjQ0NWYzNDRm/NzFjNjUyZGNmYjJl/Y2VhNGUxNDlhNzgx/OWZlOTAyYTE5Yjhk/MDBjOTE4Zi93d3cu/c3RvY2t0aXRhbi5u/ZXQv",
+                    "path": "\u203a news  \u203a RVSN  \u203a rail-vision-signs-term-sheet-to-acquire-51-stake-in-quantum-3rnyrjjyfs2k.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/YUUXEv4N37WELlDpMgbUbIdli7Fe9R0nLyQrCvShojM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c3RvY2t0aXRhbi5u/ZXQvbmV3c19jb3Zl/cnMvUmFpbF9WaXNp/b25fU2lnbnNfVGVy/bV9TaGVldF90b19B/Y3F1aXJlXzUxX1N0/YWtlX2luX1F1YW50/dW1fQ29tcHV0aW5n/X0FJX0NvbXBhbnlf/Zm9yX3RoZV9UcmFu/c3BvcnRhXzkxMTA4/Ni5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Atlantic Quantum and Google Quantum AI are \"Joining Up\" - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/atlantic-quantum-and-google-quantum-ai-are-joining-up/amp",
+                "description": "Atlantic Quantum has announced ... Quantum AI to accelerate the team\u2019s progress in creating fault tolerant quantum computers. It is not yet known right now what is exactly meant by \u201cJoining Up\u201d as it could indicate an acquisition, a development partnership, employee hire and asset purchase, ...",
+                "age": "3 days ago",
+                "page_age": "2025-10-03T05:33:41",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a atlantic-quantum-and-google-quantum-ai-are-joining-up  \u203a amp"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/_T_mEvcozc7tCUwizfnuOUrGCQ1YS-5v65le-Qn1pG8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/MC9pbWFnZS0xNC5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI quantum computing: from challenges to real-world applications - QuantumNet",
+                "url": "https://quantum-net.it/ai-e-quantum-computing-dalle-sfide-allesperienza-sul-campo",
+                "description": "Discover how AI quantum computing is evolving through real use cases, challenges, and applications: our analysis",
+                "age": "1 week ago",
+                "page_age": "2025-09-29T08:07:04",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantum-net.it",
+                    "hostname": "quantum-net.it",
+                    "favicon": "https://imgs.search.brave.com/X345RS6uVoS97oIZEulonxXg5uB8SSJqczHQSlNCbVI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWRmMjNlOWY4/NjU0YWZiOTY3NDMw/NDU3YjQ1YWUzMjA1/NzFkMjYxYWVhOTRm/YjE2MWJhZTRiOWQ4/NWExOGJjOC9xdWFu/dHVtLW5ldC5pdC8",
+                    "path": "\u203a ai-e-quantum-computing-dalle-sfide-allesperienza-sul-campo"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/EUHjX8J5bHUw3FQTGsjxSEG8CWSoeWYGMR_DzklqBCg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cXVhbnR1bS1uZXQu/aXQvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMDkvSU0tMjct/MTAyNHg3MjQucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "10 Top AI and Quantum Computing Penny Stocks for Oct. 2025",
+                "url": "https://www.timothysykes.com/blog/ai-penny-stocks/",
+                "description": "Penny stock trading is all about hot sectors \u2014 artificial intelligence and quantum computing are the hottest ones right now!",
+                "age": "5 days ago",
+                "page_age": "2025-10-01T04:00:36",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "timothysykes.com",
+                    "hostname": "www.timothysykes.com",
+                    "favicon": "https://imgs.search.brave.com/HEzzmWE4elgIL-EntM23sJsh6yuRFw_ez526TpiI6j0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUzMDg0MGFh/Yjk5MzE0Y2RmNDYw/NGQ2OGY1NDM4MmJm/MzY3ODBkM2ZmZjc2/Zjc1YTI0ZTI2NDlh/NDJmZmRmNC93d3cu/dGltb3RoeXN5a2Vz/LmNvbS8",
+                    "path": "\u203a blog  \u203a ai-penny-stocks"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5S_DBrVreq-tYH8c1gJGTh3BVyQ00XTKSjEJ--tvpG8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jb250/ZW50LnRpbW90aHlz/eWtlcy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjUvMDkv/dG9wX2FpX3N0b2Nr/c19zZXB0ZW1iZXJf/QkxPRy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Five Hot Quantum Computing Stocks You May Want to Consider Today - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/35128044/five-hot-quantum-computing-stocks-you-may-want-to-consider-today",
+                "description": "The Globe and Mail has not reviewed this content. Please see disclaimer. ... Distributed on behalf of ZenaTech. Quantum computing is expected to be a massive game-changer for just about every industry, creating incredible opportunities for stocks, such as ZenaTech Inc.",
+                "age": "5 days ago",
+                "page_age": "2025-09-30T13:24:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a BAC  \u203a pressreleases  \u203a 35128044  \u203a five-hot-quantum-computing-stocks-you-may-want-to-consider-today"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How Quantum Computing Is Positioned to Drive Long-Term Growth - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/35131716/how-quantum-computing-is-positioned-to-drive-long-term-growth",
+                "description": "The Globe and Mail has not reviewed this content. Please see disclaimer. Zacks Investment Research, Inc. - Zacks Investment Research - Tue Sep 30, 9:50AM CDT \u00b7 Quantum Computing Inc.QUBT or OCi\u2019s long-term growth is primarily driven by two areas \u2013 its quantum computing systems and thin-film ...",
+                "age": "5 days ago",
+                "page_age": "2025-09-30T14:50:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a QBTS  \u203a pressreleases  \u203a 35131716  \u203a how-quantum-computing-is-positioned-to-drive-long-term-growth"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Harvard researchers hail quantum computing breakthrough with machine that can run for two hours \u2014 atomic loss quashed by experimental design, systems that can run forever just 3 years away | Tom's Hardware",
+                "url": "https://tomshardware.com/tech-industry/quantum-computing/harvard-researchers-hail-quantum-computing-breakthrough-with-machine-that-can-run-for-two-hours-atomic-loss-quashed-by-experimental-design-systems-that-can-run-forever-just-3-years-away",
+                "description": "A group of physicists from Harvard and MIT just built a quantum computer that ran continuously for more than two hours. Although it doesn\u2019t sound like much versus regular computers (like servers that run 24/7 for months, if not years), this is a huge breakthrough in quantum computing.",
+                "age": "3 days ago",
+                "page_age": "2025-10-02T15:59:21",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tomshardware.com",
+                    "hostname": "tomshardware.com",
+                    "favicon": "https://imgs.search.brave.com/XKbr_7WAAvlRgbiWL7FUy0s8LdzvQbpxJd95zgquDsU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJmNjMxODIz/NWQxYjBmOTgxNmQ4/MzQxZWU4MTU1MjRl/ZWQ0ZmVkNWE0Zjcy/MWNkNTQ3ODFhNGNj/NjYyNTFmZC90b21z/aGFyZHdhcmUuY29t/Lw",
+                    "path": "\u203a tech-industry  \u203a quantum-computing  \u203a harvard-researchers-hail-quantum-computing-breakthrough-with-machine-that-can-run-for-two-hours-atomic-loss-quashed-by-experimental-design-systems-that-can-run-forever-just-3-years-away"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/fbi3XBNN4VA7KGsZxEi460kRdYjNyzyg9R-3dB2M8Cw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L2lz/UFNEVUJWdUc3bktv/Z21vZm5pY20tMjAw/MC04MC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Investing in These 3 Quantum Computing Stocks Could Be a Once-in-a-Lifetime Opportunity - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/MCO/pressreleases/35210039/investing-in-these-3-quantum-computing-stocks-could-be-a-once-in-a-lifetime-opportunity",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... IonQ recently achieved two quantum computing milestones.",
+                "age": "3 days ago",
+                "page_age": "2025-10-03T08:46:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a MCO  \u203a pressreleases  \u203a 35210039  \u203a investing-in-these-3-quantum-computing-stocks-could-be-a-once-in-a-lifetime-opportunity"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}
