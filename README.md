@@ -7,49 +7,45 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Harnessing the complementary power of AI and Quantum Computing - Boston Business Journal**
-  - In this article, we will discuss quantum computing and how it complements AI, including its ability to enhance AI models, and conversely, also explore AI’s ability to strengthen the power of quantum computing.
-  - [Source](https://bizjournals.com/boston/news/2025/10/01/how-ai-quantum-computing-work-together.html)
+- **Quantum computing is the next AI: are you ready for it? - Fast Company**
+  - Unlike traditional computers that process information in a linear, step-by-step fashion, quantum computers use quantum bits, or qubits, which can represent multiple states simultaneously. This leads to breakthroughs in areas such as drug discovery, financial modeling, and cybersecurity by ...
+  - [Source](https://www.fastcompany.com/91418318/quantum-computing-is-the-next-ai-are-you-ready-for-it)
 
-- **Quantum Computing Meets Railway Safety: Rail Vision's Strategic 51% Acquisition of Transport AI Pioneer**
-  - Rail Vision Signs Term Sheet to Acquire 51% Stake in Quantum Computing AI Company for the Transportation Industry ... Taysha Gene Therapies Announces FDA Breakthrough Therapy Designat... ... Rivian Releases Q3 2025 Production and Delivery Figures and Sets ...
-  - [Source](https://www.stocktitan.net/news/RVSN/rail-vision-signs-term-sheet-to-acquire-51-stake-in-quantum-3rnyrjjyfs2k.html)
+- **Orientum Aims to Build Quantum Finance Middleware Platform by 2030 - Quantum Computing Report**
+  - Orientum, a developer of quantum ... by 2030. The announcement, made at the AI Festa Quantum 3.0 Forum, outlines a strategy to address the computational limitations of traditional models for derivatives pricing and risk management....
+  - [Source](https://quantumcomputingreport.com/orientum-aims-to-build-quantum-finance-middleware-platform-by-2030/)
 
-- **Investing in These 3 Quantum Computing Stocks Could Be a Once-in-a-Lifetime Opportunity - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... IonQ recently achieved two quantum computing milestones.
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/MCO/pressreleases/35210039/investing-in-these-3-quantum-computing-stocks-could-be-a-once-in-a-lifetime-opportunity)
+- **Quantum Computing Sector Size, Share, Growth, Forecast 2025–2035 - Newstrail**
+  - Prophecy Market Insights has released its latest research report on the Quantum Computing Market, offering an in-depth study of market dynamics, growth drivers, opportunities, challenges, and competitive landscape shaping the industry’s future. The report provides detailed segmentation across ...
+  - [Source](https://newstrail.com/quantum-computing-sector-size-share-growth-forecast-2025-2035)
 
 ### Notable Innovations
 
-- **These Quantum Computing Stocks Could Be the Secret Winners of the AI Boom @themotleyfool #stocks $IONQ $GOOGL $GOOG**
-  - You're reading a free article with ... Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... IonQ has leading technology in the quantum computing realm....
-  - [Source](https://www.fool.com/investing/2025/10/04/these-quantum-computing-stocks-could-be-the-secret/)
+- **Prediction: This Artificial Intelligence (AI) Stock Will Be the Nvidia of Quantum Computing by 2035**
+  - Quantum computing is gaining momentum as the next frontier of artificial intelligence (AI) development. Alphabet has a unique ecosystem spanning hardware, software, and research geared toward quantum applications.
+  - [Source](https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-000000009.html)
 
-- **AI quantum computing: from challenges to real-world applications - QuantumNet**
-  - Discover how AI quantum computing is evolving through real use cases, challenges, and applications: our analysis
-  - [Source](https://quantum-net.it/ai-e-quantum-computing-dalle-sfide-allesperienza-sul-campo)
+- **Prediction: This Artificial Intelligence (AI) Stock Will Be the Nvidia of Quantum Computing by 2035 @themotleyfool #stocks $GOOGL $GOOG**
+  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Quantum computing is gaining momentum as the next frontier of artificial intelligence (AI) development.
+  - [Source](https://www.fool.com/investing/2025/10/07/prediction-this-artificial-intelligence-ai-stock-w/)
 
-- **How Quantum Computing Is Positioned to Drive Long-Term Growth - The Globe and Mail**
-  - The Globe and Mail has not reviewed this content. Please see disclaimer. Zacks Investment Research, Inc. - Zacks Investment Research - Tue Sep 30, 9:50AM CDT · Quantum Computing Inc.QUBT or OCi’s long-term growth is primarily driven by two areas – its quantum computing systems and thin-film ...
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/35131716/how-quantum-computing-is-positioned-to-drive-long-term-growth)
+- **How quantum computing can revolutionise energy efficiency in AI**
+  - Discover how quantum computing could be the key to addressing the rising energy demands of AI, transforming technology and infrastructure for a sustainable future.
+  - [Source](https://fastcompany.co.za/tech/2025-10-07-how-quantum-computing-can-revolutionise-energy-efficiency-in-ai/)
 
-- **Harvard researchers hail quantum computing breakthrough with machine that can run for two hours — atomic loss quashed by experimental design, systems that can run forever just 3 years away | Tom's Hardware**
-  - A group of physicists from Harvard and MIT just built a quantum computer that ran continuously for more than two hours. Although it doesn’t sound like much versus regular computers (like servers that run 24/7 for months, if not years), this is a huge breakthrough in quantum computing.
-  - [Source](https://tomshardware.com/tech-industry/quantum-computing/harvard-researchers-hail-quantum-computing-breakthrough-with-machine-that-can-run-for-two-hours-atomic-loss-quashed-by-experimental-design-systems-that-can-run-forever-just-3-years-away)
+- **Harvard’s Quantum Computing Breakthrough: A Machine That Never Needs to Restart | by Faisal Khan | Technicity | Oct, 2025 | Medium**
+  - In a groundbreaking achievement ... without needing to be reset or restarted. This breakthrough marks a monumental shift in quantum computing, a field long plagued by fragility and instability, and could open pathways to revolutionary applications in medical research, finance, ...
+  - [Source](https://medium.com/technicity/harvards-quantum-computing-breakthrough-a-machine-that-never-needs-to-restart-fc95eebe3e4f)
 
 ### Market Trends
 
-- **These Quantum Computing Stocks Could Be the Secret Winners of the AI Boom**
-  - Quantum computing isn't as big an investment theme as artificial intelligence (AI). AI is currently the market's fixation, and for good reason, as that's…
-  - [Source](https://biztoc.com/x/4587b6d23a98d5fe)
+- **3 Genius Ways to Invest in Quantum Computing and Artificial Intelligence (AI)**
+  - Nvidia is bridging the gap between traditional computing and quantum computing. ... Right now, artificial intelligence (AI) investing is all the rage. AI hyperscalers are spending billions of dollars on AI computing equipment, and that trend doesn't appear to be slowing anytime soon.
+  - [Source](https://finance.yahoo.com/news/3-genius-ways-invest-quantum-130700286.html)
 
-- **Introducing CHPX: The Case For AI Semiconductors And Quantum Computing | Seeking Alpha**
-  - The semiconductor industry is facing ... reshapes computing needs. AI is poised to drive most of the industry’s growth over the next two decades. Beyond AI chips, memory, and networking providers, specialized developers of AI supercomputing clusters are critical to building the infrastructure of the future. The Global X AI Semiconductor & Quantum ETF provides ...
-  - [Source](https://seekingalpha.com/article/4827377-introducing-chpx-case-ai-semiconductors-quantum-computing)
-
-- **Five Hot Quantum Computing Stocks You May Want to Consider Today - The Globe and Mail**
-  - The Globe and Mail has not reviewed this content. Please see disclaimer. ... Distributed on behalf of ZenaTech. Quantum computing is expected to be a massive game-changer for just about every industry, creating incredible opportunities for stocks, such as ZenaTech Inc.
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/BAC/pressreleases/35128044/five-hot-quantum-computing-stocks-you-may-want-to-consider-today)
+- **Harnessing the complementary power of AI and Quantum Computing - LexBlog**
+  - Artificial Intelligence (“AI”) continues to command attention as today’s prominent technological asset, revolutionizing key markets and sectors. Simultaneously, discussions of another advanced technology known as quantum computing have gained traction. Because both technologies expand ...
+  - [Source](https://www.lexblog.com/2025/10/10/harnessing-the-complementary-power-of-ai-and-quantum-computing/)
 
 
 ## News Archive
