@@ -1,0 +1,237 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-10-20T00:20:43.619373"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "It\u2019s Time for the Crypto Industry to Take the Threat of AI and Quantum Computing Seriously",
+                "url": "https://www.coindesk.com/opinion/2025/10/17/it-s-time-for-the-crypto-industry-to-take-the-threat-of-ai-and-quantum-computing-seriously",
+                "description": "If an AI system were to ever successfully attack or otherwise disrupt the cryptography of a respected blockchain \u2013 even in a white hat research setting \u2013 every panic sell-off crypto has seen before that moment would feel small. If a quantum computer ever broke a blockchain, we might as ...",
+                "age": "11 hours ago",
+                "page_age": "2025-10-19T13:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "coindesk.com",
+                    "hostname": "www.coindesk.com",
+                    "favicon": "https://imgs.search.brave.com/Oo785wRCRG91FzJElNSY8kuYN7BU1o0qew2eftRPaig/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWJlMGZlZTkx/MzI4YTQyZTU2YzJh/MjZjYTBiYTQ1Y2Nh/MWY1OTdlY2IzNTdi/OTQzZDI1ZDI3ODg2/M2QzYjk0NC93d3cu/Y29pbmRlc2suY29t/Lw",
+                    "path": "\u203a opinion  \u203a 2025  \u203a 10  \u203a 17  \u203a it-s-time-for-the-crypto-industry-to-take-the-threat-of-ai-and-quantum-computing-seriously"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HrQIxiqOp25w3zp_bdm1J6NaRGD5S0GE4zNr5iKjPxo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/c2FuaXR5LmlvL2lt/YWdlcy9zM3kzdmNu/by9wcm9kdWN0aW9u/Lzg1ODEwZDRiZjU3/ZjhmMmU0NzRjYWE1/YmU3Y2M1NDk4ODg1/M2UxMzYtMTkyMHgx/MDgwLmpwZz9hdXRv/PWZvcm1hdA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI and quantum computing are converging. Both could get a boost",
+                "url": "https://qz.com/quantum-computing-ai-tech",
+                "description": "It's less a merger than a mutual assistance pact between technologies that excel at different problems. The benefits flow in both directions",
+                "age": "5 days ago",
+                "page_age": "2025-10-15T09:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "qz.com",
+                    "hostname": "qz.com",
+                    "favicon": "https://imgs.search.brave.com/7wGrKnBkI8OLIePZ2_OjZoLDP-W0FRrjUdj6dyKj2LI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTY1ZWZmZTZh/MDYyYzM5OWY5YzAw/NWI3YzNlMjYxNmZm/NjZiYmIwYTU1Zjcw/NDRjYWI5ZGI1YTNh/NGNiYzNmZi9xei5j/b20v",
+                    "path": "\u203a quantum-computing-ai-tech"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3ozgIV0vsDbUEBiGJiha_COfnlnf4jQUuEe36gsPt38/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xei5j/b20vY2RuLWNnaS9p/bWFnZS93aWR0aD0z/MDAscXVhbGl0eT04/NSxmb3JtYXQ9YXV0/by9odHRwczovL2Fz/c2V0cy5xei5jb20v/bWVkaWEvcXVhbnR1/bSUyMGNvbXB1dGlu/Zy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Q+AI 2.0 Returns to New York, October 19-21, Spotlighting the Convergence of Quantum Computing and Artificial Intelligence",
+                "url": "https://www.prnewswire.com/news-releases/qai-2-0-returns-to-new-york-october-1921--spotlighting-the-convergence-of-quantum-computing-and-artificial-intelligence-302582926.html",
+                "description": "In addition to comprehensive coverage of quantum and AI convergence, Q+AI 2.0 features a full-day Q+Crypto program - a \"conference within a conference\" - focused on cryptocurrency's vulnerabilities in the age of quantum computers.",
+                "age": "5 days ago",
+                "page_age": "2025-10-14T12:38:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "prnewswire.com",
+                    "hostname": "www.prnewswire.com",
+                    "favicon": "https://imgs.search.brave.com/ngor7d1kk07rJ8pY90YDI7ODv5z9i_-Ir6XdLmXti_Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlMGNkOTM5/MzliMWNkNWM0YzZj/Y2IyN2U4ZWU2YTUw/YTljMzFjYjkwZmFj/MjU2MWM0OTA3MDFi/NmIxYTk2Yi93d3cu/cHJuZXdzd2lyZS5j/b20v",
+                    "path": "\u203a news-releases  \u203a qai-2-0-returns-to-new-york-october-1921--spotlighting-the-convergence-of-quantum-computing-and-artificial-intelligence-302582926.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/SNuYP6Vi4S2xJM12jgUhtsvLHNYbAJxBeLQa5RbjCfU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tbWEu/cHJuZXdzd2lyZS5j/b20vbWVkaWEvMjc5/NDY3MC9RX0FJX0xv/Z28uanBnP3A9ZmFj/ZWJvb2s"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI, Quantum Computing Bring New Cybersecurity Concerns for Financial Services | South China Morning Post",
+                "url": "https://scmp.com/presented/business/topics/ai-and-quantum-computing-future-trust-financial-services/article/3328496/ai-quantum-computing-bring-new-cybersecurity-concerns-financial-services",
+                "description": "Yet, threats evolve with the changing landscape. Financial services firms are increasingly concerned about new cybersecurity threats that may be more significant than before. While the cloud remains the key concern today, AI and quantum computing are two increasingly important areas of focus.",
+                "age": "1 week ago",
+                "page_age": "2025-10-13T16:00:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "scmp.com",
+                    "hostname": "scmp.com",
+                    "favicon": "https://imgs.search.brave.com/dJ6kiJ2AxsXhEx17QGYnJyVZOzLk94er0ff_S9taAV0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjA4NzVkNTBm/ZGRiNmJkZDE2MzM5/Zjc1ZDczM2ZiM2M3/YmU4MzY1MjVkNzI1/YTJkZTJjZGQ1MmMz/YTNkMjlhZS9zY21w/LmNvbS8",
+                    "path": "\u203a presented  \u203a business  \u203a topics  \u203a ai-and-quantum-computing-future-trust-financial-services  \u203a article  \u203a 3328496  \u203a ai-quantum-computing-bring-new-cybersecurity-concerns-financial-services"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/dtPT1Vqw2X3oD14-ZUYbCPN-_rS6Nn7VIhWQcdPZU6k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/aS1zY21wLmNvbS9z/aXRlcy9kZWZhdWx0/L2ZpbGVzL3N0eWxl/cy9vZ19pbWFnZV9z/Y21wX2dlbmVyaWMv/cHVibGljL2Q4L2lt/YWdlcy8yMDI1LzEw/LzEwL1NvY2lhbF9D/YXJkX1NDTVBfYXJ0/aWNsZV9fXzMzNDMw/XzEyMDB4ODAwX3B4/X01heF9RdWFsaXR5/LmpwZz9pdG9rPTd1/aDd1U2JL"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Harnessing the complementary power of AI and Quantum Computing - LexBlog",
+                "url": "https://www.lexblog.com/2025/10/15/harnessing-the-complementary-power-of-ai-and-quantum-computing-3/",
+                "description": "Artificial Intelligence (\u201cAI\u201d) continues to command attention as today\u2019s prominent technological asset, revolutionizing key markets and sectors. Simultaneously, discussions of another advanced technology known as quantum computing have gained traction. Because both technologies expand ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-16T02:01:31",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "lexblog.com",
+                    "hostname": "www.lexblog.com",
+                    "favicon": "https://imgs.search.brave.com/Dck3XNR7unKOD7ZZiXtpihGkpzFDiYq6hpWafd5wWHQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzk4NGIxM2E1/NGNjMTBiZDA0Nzcy/OTRiMmY3YzEzM2Ux/ODIzYjBjZTU3MzUw/NDdkN2VlOGQyMTli/OGQxOTY5OC93d3cu/bGV4YmxvZy5jb20v",
+                    "path": "\u203a 2025  \u203a 10  \u203a 15  \u203a harnessing-the-complementary-power-of-ai-and-quantum-computing-3"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/1i9toJ7l8r-eG6Gy1kbiUNDlVgH3VK5BG0iCmkX15q4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bGV4YmxvZy5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDgvZGVmYXVsdC1z/b2NpYWwtc2hhcmUt/djEucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing QUBT Stock Crumbles as AI Hype Fades and Losses Deepen - Forex News by FX Leaders",
+                "url": "https://fxleaders.com/news/2025/10/16/quantum-computing-qubt-stock-crumbles-as-ai-hype-fades-and-losses-deepen",
+                "description": "Quantum Computing Inc. (NASDAQ: QUBT) is facing renewed selling pressure as investor confidence wanes. Despite breakthroughs in photonic chip production and key government contracts, the company\u2019s persistent losses and limited revenue growth have reignited skepticism, sending its stock sharply ...",
+                "age": "3 days ago",
+                "page_age": "2025-10-16T21:44:21",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fxleaders.com",
+                    "hostname": "fxleaders.com",
+                    "favicon": "https://imgs.search.brave.com/fXg-xvAbzX_NEII81Uw-UXHsg6jVFtNA7aXvCxKs5-0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODQzOTAyMjQ2/N2QzNWYxZTM2NjVk/MTJkMDg3N2NhOGQ2/M2I5MWY1ZjRlNGRh/ZmQwNGU0OGZlZDEw/OWVmODAyZS9meGxl/YWRlcnMuY29tLw",
+                    "path": "\u203a news  \u203a 2025  \u203a 10  \u203a 16  \u203a quantum-computing-qubt-stock-crumbles-as-ai-hype-fades-and-losses-deepen"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ge_O4reJ5BDL8ym7sZpU8D7qcw7MGlJ_xWnaRrtvwfQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kcjQ2/YXp4ZTVyZGN1LmNs/b3VkZnJvbnQubmV0/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzA2LzIzMjMxNTA3/L1F1YW50dW1fQ29t/cHV0aW5nX0xvZ29f/VjEtc2NhbGVkLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "BoE sets out AI, DLT and quantum computing strategy - Central Banking",
+                "url": "https://www.centralbanking.com/fintech/7973899/boe-sets-out-ai-dlt-and-quantum-computing-strategy",
+                "description": "Stablecoin limits may be temporary, deputy governor says",
+                "age": "2 days ago",
+                "page_age": "2025-10-17T14:46:24",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "centralbanking.com",
+                    "hostname": "www.centralbanking.com",
+                    "favicon": "https://imgs.search.brave.com/knzevl0e-tqb78Jtcb53Kv8aMI6gGxypxxcEeeLqHtM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzA0N2M0ZDhm/MWRkYWM0NzI2OWMx/NDJhZjg2ZDc0ZDc2/Mzk5N2FhNzg2MzQx/YmQ5MTUwZjI2ODAy/YzYxZjJiZC93d3cu/Y2VudHJhbGJhbmtp/bmcuY29tLw",
+                    "path": "\u203a fintech  \u203a 7973899  \u203a boe-sets-out-ai-dlt-and-quantum-computing-strategy"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-yg8HbyH51JR_ojpG_vkwXMvElLlTF-wHh3SRdCt7rA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y2VudHJhbGJhbmtp/bmcuY29tL3NpdGVz/L2RlZmF1bHQvZmls/ZXMvc3R5bGVzL21l/dGF0YWdfaW1hZ2Vf/bGFyZ2Vfd2VicC9w/dWJsaWMvYXJ0aWNs/ZV9jb3BpZWRfZmls/ZXMvQmFuay1vZi1F/bmdsYW5kLmpwZy53/ZWJwP2g9OGNkNDQx/NjYmYW1wO2l0b2s9/dnNIQUhBbGk"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Smith: China will determine what happens next with AI and quantum computing",
+                "url": "https://biztoc.com/x/c415093ee89461fe",
+                "description": "Mark Smith, Senior Vice President & Portfolio Manager at Wells Fargo Advisors, says investors should hedge with gold, stay ...",
+                "age": "1 week ago",
+                "page_age": "2025-10-13T12:43:24",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "biztoc.com",
+                    "hostname": "biztoc.com",
+                    "favicon": "https://imgs.search.brave.com/sdV-Q5tg0ETJtOXj_ftRs2XNpSMpM95Ael4gwDAxBkI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRmMDQxZDg4/MDQxZGYwOTQzOTBl/YmRlNjQ2ZDJjNGM0/NTQ3YTk1MGQ5ODY0/ZTZlNDA1OWJiNzJj/OGM0OTE4ZS9iaXp0/b2MuY29tLw",
+                    "path": "\u203a x  \u203a c415093ee89461fe"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ZCOkmkvft8JaOz0PW-cCRqxBxRmwDy54_ly5VZC8CSs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9iaXp0/b2MuY29tL2Nkbi9j/NDE1MDkzZWU4OTQ2/MWZlX3Mud2VicA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Market Revolutionizing Data Processing and Problem-Solving Capabilities - Newstrail",
+                "url": "https://newstrail.com/quantum-computing-market-revolutionizing-data-processing-and-problem-solving-capabilities",
+                "description": "Global Quantum Computing Market size was valued at USD 1.2 billion in 2023 and is poised to grow from USD 1.54 billion in 2024 to USD 11.3 billion by 2032, growing at a CAGR of 28.3% during the forecast period (2025-2032).",
+                "age": "4 days ago",
+                "page_age": "2025-10-16T07:20:58",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "newstrail.com",
+                    "hostname": "newstrail.com",
+                    "favicon": "https://imgs.search.brave.com/rG6bDvnEaJb9K1wY-f5MjoPflouYwRLTzOIbnXjZWsE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmNmMmE4MTkz/NTI1MDg0NjU3YjVm/MGYyODg5ZmExNGNk/ZTc3ZGEwNTJlMjNj/ZmQxNDczZTQ2ZmFi/ZDQ5Y2YzMy9uZXdz/dHJhaWwuY29tLw",
+                    "path": "\u203a quantum-computing-market-revolutionizing-data-processing-and-problem-solving-capabilities"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/W6VUKTVesN158aoObCAZFzHp83psdejGkd1drHXFcE0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV3c3RyYWlsLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8xMC9HZW1pbmlf/R2VuZXJhdGVkX0lt/YWdlX3k2a2Y0aHk2/a2Y0aHk2a2YtMi5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Is Quantum Computing a Millionaire-Maker Stock? @themotleyfool #stocks $QUBT",
+                "url": "https://fool.com/investing/2025/10/14/is-quantum-computing-a-millionaire-maker-stock",
+                "description": "Look past the hype and access whether it has strong fundamentals. With shares up 2,500% over the last 12 months, Quantum Computing (QUBT -11.63%) is sure to attract the attention of growth-focused investors. The stock is surging based on industrywide optimism.",
+                "age": "5 days ago",
+                "page_age": "2025-10-15T00:15:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 10  \u203a 14  \u203a is-quantum-computing-a-millionaire-maker-stock"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/H1JdisW5iH3rNohuoqdWHcm2BRmljsLzlb9WCsuYc5s/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODM3NDc1L21h/bi1zaG9ja2VkLWF0/LXN0b2NrLXByaWNl/cy1pbnZlc3Rvci1h/bmFseXN0LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What Is One of the Best Quantum Computing Stocks for the Next 10 Years? - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/35472953/what-is-one-of-the-best-quantum-computing-stocks-for-the-next-10-years",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... IBM has been working on quantum computing technology for decades. A strong quantum roadmap will deliver useful quantum ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-15T18:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a IBM  \u203a pressreleases  \u203a 35472953  \u203a what-is-one-of-the-best-quantum-computing-stocks-for-the-next-10-years"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Want to Invest in Quantum Computing? 5 Stocks That Are Great Buys Right Now - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/IONQ/pressreleases/35489142/want-to-invest-in-quantum-computing-5-stocks-that-are-great-buys-right-now",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing pure plays have huge upside, but are incredibly risky.",
+                "age": "4 days ago",
+                "page_age": "2025-10-16T10:03:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a IONQ  \u203a pressreleases  \u203a 35489142  \u203a want-to-invest-in-quantum-computing-5-stocks-that-are-great-buys-right-now"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}

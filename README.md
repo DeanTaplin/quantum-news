@@ -7,45 +7,37 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Quantum computing is the next AI: are you ready for it? - Fast Company**
-  - Unlike traditional computers that process information in a linear, step-by-step fashion, quantum computers use quantum bits, or qubits, which can represent multiple states simultaneously. This leads to breakthroughs in areas such as drug discovery, financial modeling, and cybersecurity by ...
-  - [Source](https://www.fastcompany.com/91418318/quantum-computing-is-the-next-ai-are-you-ready-for-it)
+- **What Is One of the Best Quantum Computing Stocks for the Next 10 Years? - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... IBM has been working on quantum computing technology for decades. A strong quantum roadmap will deliver useful quantum ...
+  - [Source](https://theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/35472953/what-is-one-of-the-best-quantum-computing-stocks-for-the-next-10-years)
 
-- **Orientum Aims to Build Quantum Finance Middleware Platform by 2030 - Quantum Computing Report**
-  - Orientum, a developer of quantum ... by 2030. The announcement, made at the AI Festa Quantum 3.0 Forum, outlines a strategy to address the computational limitations of traditional models for derivatives pricing and risk management....
-  - [Source](https://quantumcomputingreport.com/orientum-aims-to-build-quantum-finance-middleware-platform-by-2030/)
-
-- **Quantum Computing Sector Size, Share, Growth, Forecast 2025–2035 - Newstrail**
-  - Prophecy Market Insights has released its latest research report on the Quantum Computing Market, offering an in-depth study of market dynamics, growth drivers, opportunities, challenges, and competitive landscape shaping the industry’s future. The report provides detailed segmentation across ...
-  - [Source](https://newstrail.com/quantum-computing-sector-size-share-growth-forecast-2025-2035)
+- **Want to Invest in Quantum Computing? 5 Stocks That Are Great Buys Right Now - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing pure plays have huge upside, but are incredibly risky.
+  - [Source](https://theglobeandmail.com/investing/markets/stocks/IONQ/pressreleases/35489142/want-to-invest-in-quantum-computing-5-stocks-that-are-great-buys-right-now)
 
 ### Notable Innovations
 
-- **Prediction: This Artificial Intelligence (AI) Stock Will Be the Nvidia of Quantum Computing by 2035**
-  - Quantum computing is gaining momentum as the next frontier of artificial intelligence (AI) development. Alphabet has a unique ecosystem spanning hardware, software, and research geared toward quantum applications.
-  - [Source](https://finance.yahoo.com/news/prediction-artificial-intelligence-ai-stock-000000009.html)
+- **It’s Time for the Crypto Industry to Take the Threat of AI and Quantum Computing Seriously**
+  - If an AI system were to ever successfully attack or otherwise disrupt the cryptography of a respected blockchain – even in a white hat research setting – every panic sell-off crypto has seen before that moment would feel small. If a quantum computer ever broke a blockchain, we might as ...
+  - [Source](https://www.coindesk.com/opinion/2025/10/17/it-s-time-for-the-crypto-industry-to-take-the-threat-of-ai-and-quantum-computing-seriously)
 
-- **Prediction: This Artificial Intelligence (AI) Stock Will Be the Nvidia of Quantum Computing by 2035 @themotleyfool #stocks $GOOGL $GOOG**
-  - Become a Motley Fool member today to get instant access to our top analyst recommendations, in-depth research, investing resources, and more. Learn More ... Quantum computing is gaining momentum as the next frontier of artificial intelligence (AI) development.
-  - [Source](https://www.fool.com/investing/2025/10/07/prediction-this-artificial-intelligence-ai-stock-w/)
-
-- **How quantum computing can revolutionise energy efficiency in AI**
-  - Discover how quantum computing could be the key to addressing the rising energy demands of AI, transforming technology and infrastructure for a sustainable future.
-  - [Source](https://fastcompany.co.za/tech/2025-10-07-how-quantum-computing-can-revolutionise-energy-efficiency-in-ai/)
-
-- **Harvard’s Quantum Computing Breakthrough: A Machine That Never Needs to Restart | by Faisal Khan | Technicity | Oct, 2025 | Medium**
-  - In a groundbreaking achievement ... without needing to be reset or restarted. This breakthrough marks a monumental shift in quantum computing, a field long plagued by fragility and instability, and could open pathways to revolutionary applications in medical research, finance, ...
-  - [Source](https://medium.com/technicity/harvards-quantum-computing-breakthrough-a-machine-that-never-needs-to-restart-fc95eebe3e4f)
+- **Quantum Computing QUBT Stock Crumbles as AI Hype Fades and Losses Deepen - Forex News by FX Leaders**
+  - Quantum Computing Inc. (NASDAQ: QUBT) is facing renewed selling pressure as investor confidence wanes. Despite breakthroughs in photonic chip production and key government contracts, the company’s persistent losses and limited revenue growth have reignited skepticism, sending its stock sharply ...
+  - [Source](https://fxleaders.com/news/2025/10/16/quantum-computing-qubt-stock-crumbles-as-ai-hype-fades-and-losses-deepen)
 
 ### Market Trends
 
-- **3 Genius Ways to Invest in Quantum Computing and Artificial Intelligence (AI)**
-  - Nvidia is bridging the gap between traditional computing and quantum computing. ... Right now, artificial intelligence (AI) investing is all the rage. AI hyperscalers are spending billions of dollars on AI computing equipment, and that trend doesn't appear to be slowing anytime soon.
-  - [Source](https://finance.yahoo.com/news/3-genius-ways-invest-quantum-130700286.html)
-
 - **Harnessing the complementary power of AI and Quantum Computing - LexBlog**
   - Artificial Intelligence (“AI”) continues to command attention as today’s prominent technological asset, revolutionizing key markets and sectors. Simultaneously, discussions of another advanced technology known as quantum computing have gained traction. Because both technologies expand ...
-  - [Source](https://www.lexblog.com/2025/10/10/harnessing-the-complementary-power-of-ai-and-quantum-computing/)
+  - [Source](https://www.lexblog.com/2025/10/15/harnessing-the-complementary-power-of-ai-and-quantum-computing-3/)
+
+- **Quantum Computing Market Revolutionizing Data Processing and Problem-Solving Capabilities - Newstrail**
+  - Global Quantum Computing Market size was valued at USD 1.2 billion in 2023 and is poised to grow from USD 1.54 billion in 2024 to USD 11.3 billion by 2032, growing at a CAGR of 28.3% during the forecast period (2025-2032).
+  - [Source](https://newstrail.com/quantum-computing-market-revolutionizing-data-processing-and-problem-solving-capabilities)
+
+- **Is Quantum Computing a Millionaire-Maker Stock? @themotleyfool #stocks $QUBT**
+  - Look past the hype and access whether it has strong fundamentals. With shares up 2,500% over the last 12 months, Quantum Computing (QUBT -11.63%) is sure to attract the attention of growth-focused investors. The stock is surging based on industrywide optimism.
+  - [Source](https://fool.com/investing/2025/10/14/is-quantum-computing-a-millionaire-maker-stock)
 
 
 ## News Archive
