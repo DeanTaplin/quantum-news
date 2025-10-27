@@ -1,0 +1,345 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-10-27T00:21:16.680407"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "University Of Texas AI Lab Secures $25 Million Grant To Advance Quantum Computing",
+                "url": "https://quantumzeitgeist.com/university-of-texas-ai-lab-advance-quantum-computing/",
+                "description": "The University of Texas at Austin\u2019s AI lab received a $25 million grant to further quantum computing research. This investment supports national innovation and aligns with federal R&D priorities, solidifying UT\u2019s role in advancing critical technologies.",
+                "age": "11 hours ago",
+                "page_age": "2025-10-26T13:37:23",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a university-of-texas-ai-lab-advance-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/_YXUPXhidmloFLF3VwmCG8q-M2hyI_BC5HNMG4YcLfY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtemVpdGdlaXN0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/dXQuYXZpZg"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google says it has developed landmark quantum computing algorithm | The Straits Times",
+                "url": "https://straitstimes.com/world/united-states/google-says-it-has-developed-landmark-quantum-computing-algorithm",
+                "description": "The algorithm may help measure molecular structure for drug discovery and identify new materials, aiding material science. Quantum Echoes could generate unique data sets for AI in life sciences due to its verifiable data output. ... SAN FRANCISCO - Google said it has developed a computer algorithm ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-22T15:55:58",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "straitstimes.com",
+                    "hostname": "straitstimes.com",
+                    "favicon": "https://imgs.search.brave.com/MXBARtlQ4CKoqq0iRO1ALMS7QbsG2XbMYkFb09glQlE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmYyODUxMWZk/MTlkY2Y1ZTJmNDUw/ZGI5OGZmOWYyNjc5/YmU4OGQ5N2ZiZTk0/ZTRmNzc0ZDQ0OWQ4/NmJhMjFhMi9zdHJh/aXRzdGltZXMuY29t/Lw",
+                    "path": "\u203a world  \u203a united-states  \u203a google-says-it-has-developed-landmark-quantum-computing-algorithm"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/axUO6nhSFSyXxpta7W0aoOFqJtEnyMTg1vXBbvyHP3I/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jYXNz/ZXR0ZS5zcGhkaWdp/dGFsLmNvbS5zZy9p/bWFnZS9zdHJhaXRz/dGltZXMvNzFlYTQ4/NGI5MWMxZDliNDkx/MmUzNDY1MjkyZWQ2/YzkxNTdiMmI2NDM4/ZmNhNGI2ODY1Mjky/M2E1NTM5ODIzOA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Top Stocks to Buy to Benefit From the AI and Quantum Computing Revolution | The Motley Fool",
+                "url": "https://www.fool.com/investing/2025/10/20/3-top-stocks-to-buy-to-benefit-from-the-ai-and-qua/",
+                "description": "AI and quantum computing could revolutionize the way business is done.",
+                "age": "1 week ago",
+                "page_age": "2025-10-20T15:15:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 10  \u203a 20  \u203a 3-top-stocks-to-buy-to-benefit-from-the-ai-and-qua"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ngqMejRzaT6c1fHffXZfgneiH7-52fgsI2ZeFuu-Wfg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODM4NDQ3L2Fy/dGlmaWNpYWwtaW50/ZWxsaWdlbmNlLWFp/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google announces breakthrough in AI and quantum computing",
+                "url": "https://www.newsbytesapp.com/news/science/google-unveils-groundbreaking-quantum-computing-algorithm/story",
+                "description": "Google has developed Quantum Echoes, a new quantum algorithm that outperforms current supercomputers and could revolutionize artificial intelligence training.",
+                "age": "4 days ago",
+                "page_age": "2025-10-23T05:14:35",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "newsbytesapp.com",
+                    "hostname": "www.newsbytesapp.com",
+                    "favicon": "https://imgs.search.brave.com/IS4jIQUrqaNQ-apsmiBexKZ8pzELDqVKcK1s15rQx0U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDljNzAzZDI4/ZDY3YzkwNzUyYzYw/NTlhNzZmNjk2MTk3/ZTA4ODY1ZDE4ZDYw/MWM3OGEyZjMyZTQw/MDhmMTIzMC93d3cu/bmV3c2J5dGVzYXBw/LmNvbS8",
+                    "path": "\u203a news  \u203a science  \u203a google-unveils-groundbreaking-quantum-computing-algorithm  \u203a story"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/8_PEaitQ1S6jW8OgE9i7vciiHZegr98n6NRjaqhxUkg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmNk/bi5uZXdzYnl0ZXNh/cHAuY29tL2ltYWdl/cy9sMzc2MjAyNTEw/MjMxMDIwNTYuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing and AI join forces for particle physics \u2013 Physics World",
+                "url": "https://physicsworld.com/a/quantum-computing-and-ai-join-forces-for-particle-physics",
+                "description": "We explore how new computing technologies could guide future LHC experiments",
+                "age": "3 days ago",
+                "page_age": "2025-10-23T13:57:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "physicsworld.com",
+                    "hostname": "physicsworld.com",
+                    "favicon": "https://imgs.search.brave.com/hMYt2_d-Xc3z0P4edpeJ9n54aR7gYhoGywQ7DJOCysA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDVkZTk0ZTE3/OGRmYzRmZTNjOGRh/NTQyN2ZhMTQzMGM2/NTkwNGE2NzgyYjE2/YTE1M2EzMzViZWVi/Y2U3MjdhOC9waHlz/aWNzd29ybGQuY29t/Lw",
+                    "path": "\u203a a  \u203a quantum-computing-and-ai-join-forces-for-particle-physics"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/dHtRAkuEZrzrdowSKzoHszRxBA-L9O9tgojNauZuoLs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waHlz/aWNzd29ybGQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzEwLzIzLTEwLTI1/LWphdmllci10b2xl/ZG8tbWFyaW4tbGlz/dC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Automotive Quantum Computing Market Growth Fueled by AI, Cloud Integration, and EV Advancements",
+                "url": "https://openpr.com/news/4235696/automotive-quantum-computing-market-growth-fueled-by-ai-cloud",
+                "description": "Press release - Verified Market Reserach - Automotive Quantum Computing Market Growth Fueled by AI, Cloud Integration, and EV Advancements - published on openPR.com",
+                "age": "4 days ago",
+                "page_age": "2025-10-23T07:23:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "openpr.com",
+                    "hostname": "openpr.com",
+                    "favicon": "https://imgs.search.brave.com/-KsO1ZDO6CoG6wxMjkjOvPvIcfwWf0yJTul04ghDQGE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGIxMjRhMjk0/OTQyMjdiOWQ3MGFm/ZGI0ZjY5NGEwZDM2/MTNiZDIzNjQ0NjY4/YzEyMmNhYzBjODUy/OTgzY2MxNy9vcGVu/cHIuY29tLw",
+                    "path": "\u203a news  \u203a 4235696  \u203a automotive-quantum-computing-market-growth-fueled-by-ai-cloud"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wkTgIV0ZFDp6fUSOjgLh2YP57voWod5xz6HirHszO-Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/b3Blbi1wci5jb20v/TC9hL0xhMjM1Mjky/NTVfZy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google Quantum AI Achieves Verifiable Quantum Advantage on Willow Chip with Quantum Echoes Algorithm - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/google-quantum-ai-achieves-verifiable-quantum-advantage-on-willow-chip-with-quantum-echoes-algorithm",
+                "description": "This technique enables access to complex correlations that are otherwise scrambled by the system\u2019s dynamics. The experiment is described as \u201cquantum verifiable,\u201d meaning the result is repeatable and can be cross-benchmarked by other quantum computers of similar quality.",
+                "age": "4 days ago",
+                "page_age": "2025-10-22T23:00:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a google-quantum-ai-achieves-verifiable-quantum-advantage-on-willow-chip-with-quantum-echoes-algorithm"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Elements Launches AI-Native Platform for Quantum Software and Hardware Development - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/quantum-elements-launches-ai-native-platform-for-quantum-software-and-hardware-development",
+                "description": "Quantum Elements has already built partnerships with companies such as Amazon and Rigetti, and its tools are intended to support the development of enhanced error correction and reliable logical qubits. Dr. Subodh Kulkarni, CEO of Rigetti Computing, commented that the company has leveraged ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-22T19:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a quantum-elements-launches-ai-native-platform-for-quantum-software-and-hardware-development"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google Says Its New Quantum Computing Breakthrough Could Supercharge AI \u2014 And Future Innovation At Work",
+                "url": "https://allwork.space/2025/10/google-says-its-new-quantum-computing-breakthrough-could-supercharge-ai-and-future-innovation-at-work",
+                "description": "The new algorithm called Quantum ... sophisticated classical computing algorithm on supercomputers, Google said. ... In the future, the Quantum Echoes algorithm may be able to help measure molecular structure in molecules which could aid in drug discovery and help material science ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-22T19:55:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "allwork.space",
+                    "hostname": "allwork.space",
+                    "favicon": "https://imgs.search.brave.com/nx80ExG3bocI-0-8lpXEEd10W2UlHARKdyez9yBuBvo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2Y5YTU3Yjg0/YzY4ZmQ5NTU1ZTgx/OWUzYTI1ZTM4MGRm/MzIzZTg5ZTU1MjEx/YjExNWViZDViYjMw/YjlhMmRkYS9hbGx3/b3JrLnNwYWNlLw",
+                    "path": "\u203a 2025  \u203a 10  \u203a google-says-its-new-quantum-computing-breakthrough-could-supercharge-ai-and-future-innovation-at-work"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/EpkGtF5feuZ3gtVnIHX_IHYeDRUliD0BGe0zYw5Ow3E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hbGx3/b3JrLnNwYWNlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzEw/L0dvb2dsZS1TYXlz/LUl0cy1OZXctUXVh/bnR1bS1Db21wdXRp/bmctQnJlYWt0aHJv/dWdoLUNvdWxkLVN1/cGVyY2hhcmdlLUFJ/LeKAlC1BbmQtRnV0/dXJlLUlubm92YXRp/b24tQXQtV29yay5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers",
+                "url": "https://startupnews.fyi/2025/10/23/sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers",
+                "description": "Alphabet Inc.\u2019s Google has developed an algorithm called \u201cQuantum Echoes\u201d on its \u201cWillow\u201d quantum computing chip, which claims to replicate on similar systems and surpass the performance of classical supercomputers.",
+                "age": "4 days ago",
+                "page_age": "2025-10-23T01:54:03",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "startupnews.fyi",
+                    "hostname": "startupnews.fyi",
+                    "favicon": "https://imgs.search.brave.com/F7Q0pu3frIrVqqjJ_Ynut_Bp-9gxqzdGX8QaYQl0rV8/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGNjNDZmNmU3/MDY3OGU4OTM3NTY3/MTQ3OGIxYWIzZmIz/NmM2ZWQyNjY0MzMz/ZjdkZjkzMTJhZDQw/YTI0OTAwYi9zdGFy/dHVwbmV3cy5meWkv",
+                    "path": "\u203a 2025  \u203a 10  \u203a 23  \u203a sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/jlO3MPa1-1sU6yoGZvMPCI1Qivv-JMpvygBPPbyPyOM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGFy/dHVwbmV3cy5meWkv/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MTAvRzMzNWdPRVdV/QUFXVFU4XzE3NjEx/Nzk3NjU2MTVfMTc2/MTE3OTc3ODI4NS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM says quantum computing algorithm can run on commonly available AMD chips: What makes this 'important' - The Times of India",
+                "url": "https://timesofindia.indiatimes.com/technology/tech-news/ibm-says-quantum-computing-algorithm-can-run-on-commonly-available-amd-chips-what-makes-this-important/articleshow/124805684.cms",
+                "description": "This breakthrough demonstrates that stabilizing quantum systems doesn't require costly custom hardware, accelerating the development of powerful quantum computers. The company's algorithm proved ten times faster than necessary, exceeding expectations and advancing IBM's timeline for its large-scale ...",
+                "age": "2 days ago",
+                "page_age": "2025-10-25T12:09:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "timesofindia.indiatimes.com",
+                    "hostname": "timesofindia.indiatimes.com",
+                    "favicon": "https://imgs.search.brave.com/Oxsko4_I2N1R83KDQrS-hL6SqcSjQDGXF7txWj3lzbw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGRmMDA4Zjkw/NzE0ZmM5Y2QyNzMx/ZGNkOGQyMWRjODlm/MWQ0MDMzN2EyZjQ4/ODgwMzA1YTY2MTEw/MTRkMTAzYy90aW1l/c29maW5kaWEuaW5k/aWF0aW1lcy5jb20v",
+                    "path": "\u203a technology  \u203a tech-news  \u203a ibm-says-quantum-computing-algorithm-can-run-on-commonly-available-amd-chips-what-makes-this-important  \u203a articleshow  \u203a 124805684.cms"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3USX5u-Khc2oGYr0qqLdQJcAcWs27__1PRIpwRhwbZc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudG9paW1nLmNv/bS90aHVtYi9tc2lk/LTEyNDgwNTkxOSx3/aWR0aC0xMDcwLGhl/aWdodC01ODAsaW1n/c2l6ZS00ODQzMixy/ZXNpemVtb2RlLTc1/LG92ZXJsYXktdG9p/X3N3LHB0LTMyLHlf/cGFkLTQwL3Bob3Rv/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google CEO Sundar Pichai says his chip and algorithms have made a huge leap in quantum computing - Technology News | The Financial Express",
+                "url": "https://financialexpress.com/life/technology-google-ceo-sundar-pichai-says-his-chip-and-algorithms-have-made-a-huge-leap-in-quantum-computing-4018927",
+                "description": "In a public announcement on X, Google parent Alphabet CEO Sundar Pichai revealed a landmark breakthrough in the field of quantum computing \u2013 the company\u2019s Willow quantum chip has achieved the world\u2019s first verifiable quantum advantage.",
+                "age": "4 days ago",
+                "page_age": "2025-10-23T06:20:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "financialexpress.com",
+                    "hostname": "financialexpress.com",
+                    "favicon": "https://imgs.search.brave.com/JHkvjCfteUffuytoZB2HOBJHnx8wCgGAid-Z987Bk_c/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTViZDZlNmE5/Y2YwN2IyNDEwOGI4/ZDUwOGY1ZDMwOTcz/NTA5MmUyMmFlZDFl/MjMzN2U2ZGZmYzAz/Y2YxZDAzNi9maW5h/bmNpYWxleHByZXNz/LmNvbS8",
+                    "path": "\u203a life  \u203a technology-google-ceo-sundar-pichai-says-his-chip-and-algorithms-have-made-a-huge-leap-in-quantum-computing-4018927"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wW3cXd_C4XZkqTCZq5geeSEc82wNb6_CCrtvHtpYGH0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmluYW5jaWFs/ZXhwcmVzc2RpZ2l0/YWwuY29tLzIwMjUv/MTAvU3VuZGFyLVBp/Y2hhaS0zLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaires Are Piling Into This Quantum Computing Stock That Gained Over 2,640% in the Past Year | The Motley Fool",
+                "url": "https://fool.com/investing/2025/10/22/billionaire-pile-into-quantum-computing-stock",
+                "description": "Some pure-play quantum computing stocks have been massive multibaggers over the past year. Several billionaires and their hedge funds purchased these stocks as recently as the second quarter.",
+                "age": "5 days ago",
+                "page_age": "2025-10-22T08:25:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 10  \u203a 22  \u203a billionaire-pile-into-quantum-computing-stock"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Vc2oo5v5rAlPusoD1ZBl-D-SUn7RHOPWTyQnG40xfLg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2Vk/aXRvcmlhbC9pbWFn/ZXMvODM3ODA0L3Bl/cnNvbi1jb21wdXRl/ci03LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Musk to Pichai: Quantum computing is becoming relevant",
+                "url": "https://biztoc.com/x/2bd2a1b50920cce0",
+                "description": "Billionaire Elon Musk congratulated Alphabet Inc. CEO Sundar Pichai on Google's breakthrough in the field of quantum computation on Wednesday, noting that it appeared that quantum computing is \"becomi...",
+                "age": "4 days ago",
+                "page_age": "2025-10-22T17:29:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "biztoc.com",
+                    "hostname": "biztoc.com",
+                    "favicon": "https://imgs.search.brave.com/sdV-Q5tg0ETJtOXj_ftRs2XNpSMpM95Ael4gwDAxBkI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjRmMDQxZDg4/MDQxZGYwOTQzOTBl/YmRlNjQ2ZDJjNGM0/NTQ3YTk1MGQ5ODY0/ZTZlNDA1OWJiNzJj/OGM0OTE4ZS9iaXp0/b2MuY29tLw",
+                    "path": "\u203a x  \u203a 2bd2a1b50920cce0"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/GSiaiXRNPRcf-tM52be7BCVkcEQgwfgfVk7VXgJ6B9E/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9iaXp0/b2MuY29tL2Nkbi8y/YmQyYTFiNTA5MjBj/Y2UwX3Mud2VicA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Stocks Are on Fire: 3 to Watch Right Now - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/35676997/quantum-computing-stocks-are-on-fire-3-to-watch-right-now",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing stocks have erupted in recent months, with several names doubling or even tripling in value as ...",
+                "age": "2 days ago",
+                "page_age": "2025-10-24T13:25:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a NVDA-Q  \u203a pressreleases  \u203a 35676997  \u203a quantum-computing-stocks-are-on-fire-3-to-watch-right-now"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google claims it has made a 'major breakthrough' in quantum computing with an algorithm 13,000X faster than a traditional equivalent, although not everyone is convinced | PC Gamer",
+                "url": "https://pcgamer.com/hardware/google-claims-it-has-made-a-major-breakthrough-in-quantum-computing-with-an-algorithm-13-000x-faster-than-a-traditional-equivalent-although-not-everyone-is-convinced",
+                "description": "Hardware Quantum computing might get a morsel of the financial love the Trump administration gave Intel, as the US government reportedly considers becoming a shareholder in several companies \u00b7 Hardware Scientists have integrated 2D materials a few atoms thick into a working memory chip for the first time and ...",
+                "age": "3 days ago",
+                "page_age": "2025-10-23T12:34:51",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pcgamer.com",
+                    "hostname": "pcgamer.com",
+                    "favicon": "https://imgs.search.brave.com/X9BWqj3nsCpmPsZSz5mP1dMXZmlH8rG8187RqXvojnQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUyYmQ2ZDI2/YTliN2VkYzk4ZDNl/NTE1MDEyY2U0Njdm/MzQxZWNmN2VkZTI5/NzNjM2UzYTcyYWFk/ZjlmN2Q4ZC9wY2dh/bWVyLmNvbS8",
+                    "path": "\u203a hardware  \u203a google-claims-it-has-made-a-major-breakthrough-in-quantum-computing-with-an-algorithm-13-000x-faster-than-a-traditional-equivalent-although-not-everyone-is-convinced"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/SmpeqPGjx-8qCTNe90AXS5OirB4p_Z61ebFob-6w6Dg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L282/WVJDNU1Bckc1VEs3/Y3dKdmNvdzktMTky/MC04MC5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google CEO Sundar Pichai shares big quantum computing achievement, Elon Musk comments on willow chip success",
+                "url": "https://moneycontrol.com/technology/google-ceo-sundar-pichai-shares-big-quantum-computing-achievement-elon-musk-comments-on-willow-chip-success-article-13628958.html",
+                "description": "Even though this is an important step, experts say it will still take a few years before quantum computers are useful for everyday tasks. Right now, most of the work is still experimental and for testing purposes.",
+                "age": "4 days ago",
+                "page_age": "2025-10-23T08:28:57",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "moneycontrol.com",
+                    "hostname": "moneycontrol.com",
+                    "favicon": "https://imgs.search.brave.com/bCWrzhBCLf8l9RjSIHpLutUBleayAIOndi5u0TlQZ9I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjM1NWQxYmM3/ZmVmOTVkNzAzMDAw/YjhjNWRkOGI1ODBk/NGExN2E4YmMwZTFl/MTRkMWE5Y2YzMjlj/ZDI5MGY5Yy9tb25l/eWNvbnRyb2wuY29t/Lw",
+                    "path": "\u203a technology  \u203a google-ceo-sundar-pichai-shares-big-quantum-computing-achievement-elon-musk-comments-on-willow-chip-success-article-13628958.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/MwSVzOvWXy2Y2myQKtLenN-jlPw10ioHj7JREVrQWxQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMubW9uZXljb250/cm9sLmNvbS9zdGF0/aWMtbWNuZXdzLzIw/MjQvMDUvMjAyNDA1/MTgwNDEwMDdfTWl4/Q29sbGFnZS0xOC1N/YXktMjAyNC0wOS0z/Ny1BTS01NjU3Lmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google Announces Quantum Computing Breakthrough, but Real-World Applications Are Still Elusive - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/GOOG/pressreleases/35639061/google-announces-quantum-computing-breakthrough-but-real-world-applications-are-still-elusive",
+                "description": "The feat is repeatable, according to the company, and it paves the way toward real-world applications. For now, quantum computing is still not commercially viable.",
+                "age": "3 days ago",
+                "page_age": "2025-10-23T14:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a GOOG  \u203a pressreleases  \u203a 35639061  \u203a google-announces-quantum-computing-breakthrough-but-real-world-applications-are-still-elusive"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}
