@@ -7,39 +7,29 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Automotive Quantum Computing Market Growth Fueled by AI, Cloud Integration, and EV Advancements**
-  - Press release - Verified Market Reserach - Automotive Quantum Computing Market Growth Fueled by AI, Cloud Integration, and EV Advancements - published on openPR.com
-  - [Source](https://openpr.com/news/4235696/automotive-quantum-computing-market-growth-fueled-by-ai-cloud)
-
-- **Quantum Elements Launches AI-Native Platform for Quantum Software and Hardware Development - Quantum Computing Report**
-  - Quantum Elements has already built partnerships with companies such as Amazon and Rigetti, and its tools are intended to support the development of enhanced error correction and reliable logical qubits. Dr. Subodh Kulkarni, CEO of Rigetti Computing, commented that the company has leveraged ...
-  - [Source](https://quantumcomputingreport.com/quantum-elements-launches-ai-native-platform-for-quantum-software-and-hardware-development)
-
-- **Quantum Computing Stocks Are on Fire: 3 to Watch Right Now - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing stocks have erupted in recent months, with several names doubling or even tripling in value as ...
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/35676997/quantum-computing-stocks-are-on-fire-3-to-watch-right-now)
+- **Nvidia launches NVQLink interconnect system to integrate AI supercomputing with quantum computing | Bitget News**
+  - Jinse Finance reported, citing ... quantum computer, CEO Jensen Huang is betting that the company will play a key role in the future development of this technology. In his keynote speech at the GTC conference held in Washington, he officially launched the NVQLink interconnect system—a technology that can connect quantum processors with the AI supercomputers required for their efficient operation. "NVQLink is the 'Rosetta Stone' connecting quantum and classical ...
+  - [Source](https://bitget.com/news/detail/12560605035429)
 
 ### Notable Innovations
 
-- **University Of Texas AI Lab Secures $25 Million Grant To Advance Quantum Computing**
-  - The University of Texas at Austin’s AI lab received a $25 million grant to further quantum computing research. This investment supports national innovation and aligns with federal R&D priorities, solidifying UT’s role in advancing critical technologies.
-  - [Source](https://quantumzeitgeist.com/university-of-texas-ai-lab-advance-quantum-computing/)
+- **AI Meets Quantum Computing: The Next Leap in the Revolution | by Bushrazaheer | Oct, 2025 | Medium**
+  - AI Meets Quantum Computing: The Next Leap in the Revolution The best way to understand the future of AI isn’t by reading research papers it’s by building and experimenting with the ideas that …
+  - [Source](https://medium.com/@bushrazaheer424/ai-meets-quantum-computing-the-next-leap-in-the-revolution-a685f73e4401)
 
-- **Google says it has developed landmark quantum computing algorithm | The Straits Times**
-  - The algorithm may help measure molecular structure for drug discovery and identify new materials, aiding material science. Quantum Echoes could generate unique data sets for AI in life sciences due to its verifiable data output. ... SAN FRANCISCO - Google said it has developed a computer algorithm ...
-  - [Source](https://straitstimes.com/world/united-states/google-says-it-has-developed-landmark-quantum-computing-algorithm)
+- **How Quantum Computing Will Transform Data Security, AI, and Cloud Systems - Security Boulevard**
+  - Quantum computing is set to redefine data security, AI, and cloud infrastructure. This in-depth research explores how post-quantum cryptography, quantum AI acceleration, and hybrid quantum-cloud systems will reshape technology by 2035—and what developers can do to prepare.
+  - [Source](https://securityboulevard.com/2025/10/how-quantum-computing-will-transform-data-security-ai-and-cloud-systems/)
 
-- **Google announces breakthrough in AI and quantum computing**
-  - Google has developed Quantum Echoes, a new quantum algorithm that outperforms current supercomputers and could revolutionize artificial intelligence training.
-  - [Source](https://www.newsbytesapp.com/news/science/google-unveils-groundbreaking-quantum-computing-algorithm/story)
+### Market Trends
 
-- **Google Says Its New Quantum Computing Breakthrough Could Supercharge AI — And Future Innovation At Work**
-  - The new algorithm called Quantum ... sophisticated classical computing algorithm on supercomputers, Google said. ... In the future, the Quantum Echoes algorithm may be able to help measure molecular structure in molecules which could aid in drug discovery and help material science ...
-  - [Source](https://allwork.space/2025/10/google-says-its-new-quantum-computing-breakthrough-could-supercharge-ai-and-future-innovation-at-work)
+- **Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing | PC Gamer**
+  - Graphics Cards Nvidia is the world's first $5 trillion company, but CEO Jensen Huang's nifty narrative about accelerated computing and the remarkable foresight that led to today's AI revolution doesn't quite add up · Hardware Quantum computing might get a morsel of the financial love the Trump ...
+  - [Source](https://pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing)
 
-- **Sundar Pichai hails 'verifiable' quantum computing breakthrough as Google's Willow surpasses ability of supercomputers**
-  - Alphabet Inc.’s Google has developed an algorithm called “Quantum Echoes” on its “Willow” quantum computing chip, which claims to replicate on similar systems and surpass the performance of classical supercomputers.
-  - [Source](https://startupnews.fyi/2025/10/23/sundar-pichai-hails-verifiable-quantum-computing-breakthrough-as-googles-willow-surpasses-ability-of-supercomputers)
+- **Quantum Computing News: Nvidia’s NVQLink Marks New Step Toward Hybrid Quantum-AI Supercomputing - TipRanks.com**
+  - Welcome to another biweekly update on all things quantum computing. Today’s piece is truly dominated by Nvidia’s (NVDA) Global Technology Conference in Washington and the reveal of its new NVQLink system, which set off a wave of collaborations across the quantum industry.
+  - [Source](https://www.tipranks.com/news/quantum-computing-news-nvidias-nvqlink-marks-new-step-toward-hybrid-quantum-ai-supercomputing)
 
 
 ## News Archive

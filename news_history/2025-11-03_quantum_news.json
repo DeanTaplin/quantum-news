@@ -1,0 +1,198 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-11-03T00:21:00.674302"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "QTUM: Capturing The Synergistic Relationship Between Quantum Computing And AI | Seeking Alpha",
+                "url": "https://seekingalpha.com/article/4833511-qtum-capturing-synergistic-relationship-between-quantum-computing-ai",
+                "description": "The Defiance Quantum ETF offers diversified exposure to quantum computing and AI. Read what supports QTUM as a compelling long-term investment opportunity.",
+                "age": "1 week ago",
+                "page_age": "2025-10-27T02:25:21",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "seekingalpha.com",
+                    "hostname": "seekingalpha.com",
+                    "favicon": "https://imgs.search.brave.com/Vlj2pnYV-5jX9naNLppkPkWwLBLiVzsauFEl21cB0_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMzN2JkNjhl/ODdiNGFiYzQyOThi/NzM3ZTBhMDExYmM5/ODM2M2U3ZjRkZGJj/MWQxYzkxYzJiYzdk/ZTQ3MjhkMS9zZWVr/aW5nYWxwaGEuY29t/Lw",
+                    "path": "\u203a article  \u203a 4833511-qtum-capturing-synergistic-relationship-between-quantum-computing-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/CN4iRLnR_r4iS1lrXkPWQS7FL7wwH1doSdIvc4-9m0o/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2Vla2luZ2Fs/cGhhLmNvbS9jZG4v/czMvdXBsb2Fkcy9n/ZXR0eV9pbWFnZXMv/MjIwNjU1NDY1MC9p/bWFnZV8yMjA2NTU0/NjUwLmpwZz9pbz1n/ZXR0eS1jLXcxNTM2"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI Meets Quantum Computing: The Next Leap in the Revolution | by Bushrazaheer | Oct, 2025 | Medium",
+                "url": "https://medium.com/@bushrazaheer424/ai-meets-quantum-computing-the-next-leap-in-the-revolution-a685f73e4401",
+                "description": "AI Meets Quantum Computing: The Next Leap in the Revolution The best way to understand the future of AI isn\u2019t by reading research papers it\u2019s by building and experimenting with the ideas that \u2026",
+                "age": "4 days ago",
+                "page_age": "2025-10-29T16:22:32",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "medium.com",
+                    "hostname": "medium.com",
+                    "favicon": "https://imgs.search.brave.com/4R4hFITz_F_be0roUiWbTZKhsywr3fnLTMTkFL5HFow/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTZhYmQ1N2Q4/NDg4ZDcyODIyMDZi/MzFmOWNhNjE3Y2E4/Y2YzMThjNjljNDIx/ZjllZmNhYTcwODhl/YTcwNDEzYy9tZWRp/dW0uY29tLw",
+                    "path": "\u203a @bushrazaheer424  \u203a ai-meets-quantum-computing-the-next-leap-in-the-revolution-a685f73e4401"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/nD8TeRJhx-4E9xXCkU6_e24KwKWGPSHgFkobfBWwbf0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvZGE6dHJ1ZS9y/ZXNpemU6Zml0OjEy/MDAvMCp4MkJJSGY2/X3k4blM2NFZj"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing stocks slump after Nvidia CEO Jensen Huang announces \u201cAI supercomputers\u201d in partnership with DOE - Sherwood News",
+                "url": "https://sherwood.news/markets/quantum-computing-stocks-slump-after-nvidia-ceo-jensen-huang-announces-ai/",
+                "description": "There may be a conflation of \u201cAI supercomputer\u201d and \u201cquantum computer\u201d going on here....",
+                "age": "5 days ago",
+                "page_age": "2025-10-28T18:28:05",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sherwood.news",
+                    "hostname": "sherwood.news",
+                    "favicon": "https://imgs.search.brave.com/JxEm3HZvcRn4HwKWGGjHVyeidIBhUathQwzGHnH9peM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTdhNjQ2M2Q5/MWZhOWY4ZTAxODI3/YzUwMGZkNTgwYWM1/ODYzOThkMjdkYjk4/YmVjMmE2YTViYzYz/N2UxZmI2NC9zaGVy/d29vZC5uZXdzLw",
+                    "path": "\u203a markets  \u203a quantum-computing-stocks-slump-after-nvidia-ceo-jensen-huang-announces-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/X_UrtIuQGmf4HH8wrENQG8Hlhy3eKn9uadxwrZ-Spag/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zaGVy/d29vZG5ld3MuaW1n/aXgubmV0L213cGh6/eXE2OW9zby9lbi1V/Uy9hc3NldHMvZmls/ZXMvMjE3NTg1MDg0/N19laG5pbmdlbi1n/ZXJtYW55LWEtbW9k/ZWwtb2YtaWJtLXF1/YW50dW0tc2hvd3Mt/dGhlLXRocmVlLWNo/YW5kZWxpZXJzLXRo/YXQtd291bGQtYmUt/YS1wYXJ0LW9mLmpw/Zz9hdXRvPWNvbXBy/ZXNzJTJDZm9ybWF0/JmFtcDtjcz1zcmdi"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Tech Voices: Nvidia's quantum computing push, AI bubble talk, Adobe | Seeking Alpha",
+                "url": "https://seekingalpha.com/news/4509625-tech-voices-nvidias-quantum-computing-push-ai-bubble-talk-adobe",
+                "description": "Seeking Alpha's roundup of statements, announcements, and remarks that could impact the technology sector. Nvidia (NASDAQ:NVDA) said it has developed a new system called NVQLink to connect quantum computers to its AI chips.",
+                "age": "5 days ago",
+                "page_age": "2025-10-28T18:46:28",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "seekingalpha.com",
+                    "hostname": "seekingalpha.com",
+                    "favicon": "https://imgs.search.brave.com/Vlj2pnYV-5jX9naNLppkPkWwLBLiVzsauFEl21cB0_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMzN2JkNjhl/ODdiNGFiYzQyOThi/NzM3ZTBhMDExYmM5/ODM2M2U3ZjRkZGJj/MWQxYzkxYzJiYzdk/ZTQ3MjhkMS9zZWVr/aW5nYWxwaGEuY29t/Lw",
+                    "path": "\u203a news  \u203a 4509625-tech-voices-nvidias-quantum-computing-push-ai-bubble-talk-adobe"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/f_SF6YzMvsaMa1ktIIZCIpnoLiJiOFUvs5s_iIbz5QY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2Vla2luZ2Fs/cGhhLmNvbS9jZG4v/czMvdXBsb2Fkcy9n/ZXR0eV9pbWFnZXMv/MTE0MTQ4ODk0NS9p/bWFnZV8xMTQxNDg4/OTQ1LmpwZz9pbz1n/ZXR0eS1jLXc2MzA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Not content with dominating the market for AI GPUs, Nvidia is turning its attention to QPUs for quantum computing | PC Gamer",
+                "url": "https://pcgamer.com/hardware/graphics-cards/not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing",
+                "description": "Graphics Cards Nvidia is the world's first $5 trillion company, but CEO Jensen Huang's nifty narrative about accelerated computing and the remarkable foresight that led to today's AI revolution doesn't quite add up \u00b7 Hardware Quantum computing might get a morsel of the financial love the Trump ...",
+                "age": "4 days ago",
+                "page_age": "2025-10-29T13:57:17",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pcgamer.com",
+                    "hostname": "pcgamer.com",
+                    "favicon": "https://imgs.search.brave.com/X9BWqj3nsCpmPsZSz5mP1dMXZmlH8rG8187RqXvojnQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUyYmQ2ZDI2/YTliN2VkYzk4ZDNl/NTE1MDEyY2U0Njdm/MzQxZWNmN2VkZTI5/NzNjM2UzYTcyYWFk/ZjlmN2Q4ZC9wY2dh/bWVyLmNvbS8",
+                    "path": "\u203a hardware  \u203a graphics-cards  \u203a not-content-with-dominating-the-market-for-ai-gpus-nvidia-is-turning-its-attention-to-qpus-for-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wSyrGVfXntUKS9h4-TmJXN748WOXZ2wcEHac57P3jlU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bW9zLmNtcy5mdXR1/cmVjZG4ubmV0L25Z/TGRZY1VKWVdxaDhu/V0tmdkFBelQtMTU5/MC04MC5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing News: Nvidia\u2019s NVQLink Marks New Step Toward Hybrid Quantum-AI Supercomputing - TipRanks.com",
+                "url": "https://www.tipranks.com/news/quantum-computing-news-nvidias-nvqlink-marks-new-step-toward-hybrid-quantum-ai-supercomputing",
+                "description": "Welcome to another biweekly update on all things quantum computing. Today\u2019s piece is truly dominated by Nvidia\u2019s (NVDA) Global Technology Conference in Washington and the reveal of its new NVQLink system, which set off a wave of collaborations across the quantum industry.",
+                "age": "4 days ago",
+                "page_age": "2025-10-30T09:04:05",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tipranks.com",
+                    "hostname": "www.tipranks.com",
+                    "favicon": "https://imgs.search.brave.com/Fy8mK1OL8AsqdTw9wP8nQlPqSoVi1CnSJLGsrm1tqnU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODNlNWE3OGM1/YmE3YzAwYTQxZDA3/ZDE2NzZjYWEyOWYy/MWVlMGJkOTA5NmRh/NTQzZDg2OGFmNTRm/ZDZiMTY2NC93d3cu/dGlwcmFua3MuY29t/Lw",
+                    "path": "\u203a news  \u203a quantum-computing-news-nvidias-nvqlink-marks-new-step-toward-hybrid-quantum-ai-supercomputing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/qsZ7Uw8FmKOflT9nm1fU7VEmM9phVI_KXgZSoXr0wTg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/LnRpcHJhbmtzLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8wMy9xdWFudHVt/X2NvbXB1dGluZ19u/ZXdzX2VuaGFuY2Vk/LTc1MHg0MDYud2Vi/cA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "How Quantum Computing Will Transform Data Security, AI, and Cloud Systems - Security Boulevard",
+                "url": "https://securityboulevard.com/2025/10/how-quantum-computing-will-transform-data-security-ai-and-cloud-systems/",
+                "description": "Quantum computing is set to redefine data security, AI, and cloud infrastructure. This in-depth research explores how post-quantum cryptography, quantum AI acceleration, and hybrid quantum-cloud systems will reshape technology by 2035\u2014and what developers can do to prepare.",
+                "age": "5 days ago",
+                "page_age": "2025-10-29T12:19:06",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "securityboulevard.com",
+                    "hostname": "securityboulevard.com",
+                    "favicon": "https://imgs.search.brave.com/sOSEdkIaIX5L8A4Zw9QZIa1EDetc3LsrfHO580k0apk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTJiODM5YTZi/ZDQ0MGM5MzhhZmY1/ZjIzODg4MWE2NmFk/NGQ5MzQ2NGFlY2Mw/MjlhM2M1MWUwOTA4/NWU1NTg0OS9zZWN1/cml0eWJvdWxldmFy/ZC5jb20v",
+                    "path": "\u203a 2025  \u203a 10  \u203a how-quantum-computing-will-transform-data-security-ai-and-cloud-systems"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/XrXkocg6B_Py8_qG2gTkoopXaE4ZpQ4FDApMFiyooF4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZWN1/cml0eWJvdWxldmFy/ZC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDEvVHdp/dHRlckxvZ28tMDAy/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Nvidia launches NVQLink interconnect system to integrate AI supercomputing with quantum computing | Bitget News",
+                "url": "https://bitget.com/news/detail/12560605035429",
+                "description": "Jinse Finance reported, citing ... quantum computer, CEO Jensen Huang is betting that the company will play a key role in the future development of this technology. In his keynote speech at the GTC conference held in Washington, he officially launched the NVQLink interconnect system\u2014a technology that can connect quantum processors with the AI supercomputers required for their efficient operation. \"NVQLink is the 'Rosetta Stone' connecting quantum and classical ...",
+                "age": "6 days ago",
+                "page_age": "2025-10-28T10:17:51",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "bitget.com",
+                    "hostname": "bitget.com",
+                    "favicon": "https://imgs.search.brave.com/DcbP-RpYrn_kswd-20LiWvYEYtL8UJVj6XWKxcwiBfg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjMxYzIxZWQw/ODQ3NzFhMTc2YWMz/ZTg5NDNlZGU1OWQ2/Nzg5YWQzYjliOGEz/ZWY1YmQ4NjA4NWM0/M2I4ZDY0OC9iaXRn/ZXQuY29tLw",
+                    "path": "\u203a news  \u203a detail  \u203a 12560605035429"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/9r0M4bsQtUCS4-2qhoyeC8bF2D9egbnZhBOipIXvUto/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/YmdzdGF0aWMuY29t/L211bHRpTGFuZy93/ZWIvMzIzZDBmNGEw/MDM2MDZjOWQ5YzJi/MDVhOTRhNzEzNGYu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Qblox Accelerates Utility-Scale Quantum Computing With NVIDIA | The AI Journal",
+                "url": "https://aijourn.com/qblox-accelerates-utility-scale-quantum-computing-with-nvidia",
+                "description": "NVIDIA NVQLink is an open and interoperable architecture integrated with the \u00b7 NVIDIA CUDA-Q software platform, designed to add real-time, scalable, accelerated computing to quantum processing.",
+                "age": "5 days ago",
+                "page_age": "2025-10-28T18:48:38",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "aijourn.com",
+                    "hostname": "aijourn.com",
+                    "favicon": "https://imgs.search.brave.com/G9_7A6eqCPbT6SW1tz1WDTE2pGLFYw88FNdl54ARhKA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDYzNDQyOWE4/MmQ0ODQwZjE2Yzdm/NDc2OThlODg0YWQ3/ZmQ0OWIwNWFjYzk3/ZjJmYTBiY2NjMmU4/OWQ4ZTM2Yi9haWpv/dXJuLmNvbS8",
+                    "path": "\u203a qblox-accelerates-utility-scale-quantum-computing-with-nvidia"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing may be tech investing\u2019s next big thing, but picking winners is a challenge - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/globe-advisor/advisor-stocks/article-quantum-computing-may-be-tech-investings-next-big-thing-but-picking",
+                "description": "What would take thousands of years for conventional computers might take mere seconds for a quantum machine.Olemedia/iStockPhoto / Getty Images ... From transistor computing to the web and artificial intelligence, the technology sector has always had another \u201cnext big thing\u201d to tempt eager ...",
+                "age": "6 days ago",
+                "page_age": "2025-10-28T08:45:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a globe-advisor  \u203a advisor-stocks  \u203a article-quantum-computing-may-be-tech-investings-next-big-thing-but-picking"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/bh_7hXCGrLm29IOE-N5-E3tv0cR8lVaWFnr6oUPA-NQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS9yZXNp/emVyL3YyLzNMVTdG/SVpPT1JDNERPR1ZD/UEFYVElHMjc0Lmpw/Zz9hdXRoPWU5YzNm/MWQwYjRlMDY4ZDZk/NDQ0MjU4YWU2MWJi/N2NiOTY0OGRhOWE1/NTdkOGM4YTk1YWNl/ZjMwN2I2Mzc1YWEm/YW1wO3dpZHRoPTEy/MDAmYW1wO2hlaWdo/dD04MDAmYW1wO3F1/YWxpdHk9ODAmYW1w/O3NtYXJ0PXRydWU"
+                }
+            }
+        ]
+    }
+}
