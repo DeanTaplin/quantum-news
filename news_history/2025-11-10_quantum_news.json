@@ -1,0 +1,255 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-11-10T00:21:02.007396"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Quantum computing & AI will be key themes of 2026: Rigetti CEO",
+                "url": "https://finance.yahoo.com/video/quantum-computing-ai-key-themes-155442307.html",
+                "description": "Rigetti CEO Subodh Kulkarni joins Opening Bid with Yahoo Finance Executive Editor Brian Sozzi to discuss the future of quantum computing and his expectations for AI. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.",
+                "age": "5 days ago",
+                "page_age": "2025-11-04T15:54:42",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a video  \u203a quantum-computing-ai-key-themes-155442307.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Why People Confuse AI with Quantum Computing and Why You Should Care",
+                "url": "https://www.investopedia.com/understanding-ai-vs-quantum-computing-11837953",
+                "description": "AI focuses on learning patterns from data to make decisions; quantum computing focuses on raw computational power for complex problems like molecular simulation and code-breaking.",
+                "age": "1 week ago",
+                "page_age": "2025-11-03T21:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "investopedia.com",
+                    "hostname": "www.investopedia.com",
+                    "favicon": "https://imgs.search.brave.com/vH1WzGlQMPqNEsgPv95DT5wzmy058riqrNA0jrAKzsQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzdiMDU5YmM2/NDE0MjY3N2VmMTQ2/N2JiY2Y3MTgwMDk0/ZjdlOGU3MDUzZTBk/M2UxMTAwODFmYjcz/NTA3ODc2Zi93d3cu/aW52ZXN0b3BlZGlh/LmNvbS8",
+                    "path": "\u203a understanding-ai-vs-quantum-computing-11837953"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VUBS_1wlX3UxBGKNTGwVnA3ZUhLrgKQyU-ylJlp9Nn4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aW52ZXN0b3BlZGlh/LmNvbS90aG1iL2xk/ZWl1aTFCXy0zTlBm/NURLb0pLZ1hqZzVE/TT0vMTUwMHgwL2Zp/bHRlcnM6bm9fdXBz/Y2FsZSgpOm1heF9i/eXRlcygxNTAwMDAp/OnN0cmlwX2ljYygp/L0dldHR5SW1hZ2Vz/LTIyMTE0MTM0MTIt/MWJhOWRiMWUyYTkw/NGQ4ZWFjMzgzZmQ2/YWY5ZjQ1MGUuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Federal budget dedicates over $1B to boost Canadian AI and quantum computing | CBC News",
+                "url": "https://www.cbc.ca/news/politics/federal-budget-quantum-ai-computing-9.6966549",
+                "description": "Prime Minister Mark Carney\u2019s first budget proposes providing more than $1 billion over the next five years to build up Canada\u2019s artificial intelligence and quantum computing ecosystems while embedding AI technology more deeply in federal government operations.",
+                "age": "5 days ago",
+                "page_age": "2025-11-04T21:20:36",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cbc.ca",
+                    "hostname": "www.cbc.ca",
+                    "favicon": "https://imgs.search.brave.com/yey-njz8kIibdr_wAHQkfp2YGnu-f1yKQM1TH4nPg0M/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjQ4NDdkOWE4/MjU4YjBlYTU4MjEw/YTkxM2Q0ZjE5MzFl/MGZlODlhMzNhOWIy/ZTlhMjNhMmI4YjIy/NjNmZGQ5OC93d3cu/Y2JjLmNhLw",
+                    "path": "\u203a news  \u203a politics  \u203a federal-budget-quantum-ai-computing-9.6966549"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/mP6gEbtJD3Sck2XiYH0dA8NF1u_fARxi-SsPX7xLuGU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmNi/Yy5jYS9haXMvMzk5/MTM0NzgtODM1ZS00/MmM1LWIwN2EtZDdk/MGJlMjkyNDE3LDE3/NjIyODU4MzQ0Nzgv/ZnVsbC9tYXgvMC9k/ZWZhdWx0LmpwZz9p/bT1Dcm9wJTJDcmVj/dCUzRCUyODAlMkMx/OTAlMkMyMzU1JTJD/MTMyNCUyOSUzQlJl/c2l6ZSUzRDYyMA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Nvidia's NVQLink breaks quantum computing barriers, proving that GPUs remain irreplaceable",
+                "url": "https://digitimes.com/news/a20251103PD229/nvidia-quantum-computing-gpu-jensen-huang-technology.html",
+                "description": "Nvidia CEO Jensen Huang stressed that the combination of quantum computing with AI will be crucial for driving developments in future technology, with industry consensus highlighting the need for directly connecting quantum computers to GPU-powered supercomputers to advance practical quantum ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-04T00:36:18",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "digitimes.com",
+                    "hostname": "digitimes.com",
+                    "favicon": "https://imgs.search.brave.com/QgO9pqzvdpROoq34OOawvof2z6mbNScHF3Lp8Hpavng/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjE3NDliYTQ0/OTBiNWFlMzFmMDdm/OTBiZjU3ZGFiYmIw/NjRiMzUzZmIxNjhl/NDQ5ZGIwYjMwN2Rm/YjdkZTI2ZS9kaWdp/dGltZXMuY29tLw",
+                    "path": "\u203a news  \u203a a20251103PD229  \u203a nvidia-quantum-computing-gpu-jensen-huang-technology.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3VL1ME3eiMX0RsQLAaZ35guRtNt23QWH-CP_ilZegKg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZGlnaXRpbWVzLmNv/bS9uZXdzc2hvdy8y/MDI1MTEwM3BkMjI5/X2ZpbGVzLzJfMmIu/anBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Is quantum computing reaching its AI moment? - Investors' Chronicle",
+                "url": "https://www.investorschronicle.co.uk/content/2775619a-c57c-4d44-94b8-e9a29b06ba3b",
+                "description": "If you missed the early artificial intelligence (AI) stock market boom, the next transformational technology is in the pipeline. That\u2019s the investment pitch for quantum computing, which promises to upend online security, medicine, scientific research and solve AI\u2019s issues of bandwidth and ...",
+                "age": "3 days ago",
+                "page_age": "2025-11-06T16:21:07",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "investorschronicle.co.uk",
+                    "hostname": "www.investorschronicle.co.uk",
+                    "favicon": "https://imgs.search.brave.com/zn8OzrQhJvDGL3tmojs9tBB1xd2E_jtN-7JITc2Am5o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODFiNjBmYzFl/ZDA4YWE3ZGVjZWE3/YzUxOGEwZmYzYzM4/MjZiYTgyZmZmMTMw/OTYwYzMzMzFiYmZm/ZDlhYjFmMi93d3cu/aW52ZXN0b3JzY2hy/b25pY2xlLmNvLnVr/Lw",
+                    "path": "\u203a content  \u203a 2775619a-c57c-4d44-94b8-e9a29b06ba3b"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/IX2ERolTQVTnkO-iR6ymsyNQE25KvNLaOAqfU6n9Ic8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMml6/dHJnM2tncXB1ZS5j/bG91ZGZyb250Lm5l/dC9wcm9kdWN0aW9u/L2RmZWM0NmU0LWY3/ODEtNDg0ZS04MjAy/LTg0ZTkxOGM3YWFi/NC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Could Quantum Computing Surpass AI as the Next Tech Revolution? \u2013 DualMedia Innovation News",
+                "url": "https://dualmedia.com/quantum-computing-vs-ai",
+                "description": "Explore if quantum computing could outshine AI as the next tech revolution. Discover impacts, comparisons, and future potentials now!",
+                "age": "4 days ago",
+                "page_age": "2025-11-06T08:03:36",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "dualmedia.com",
+                    "hostname": "dualmedia.com",
+                    "favicon": "https://imgs.search.brave.com/SW0xx5d7VD7KRdz_WCUucE2nmFMVhSRW271pY346pGA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2FhY2ZmOGVm/YWZjYmYzZjAzZjdk/M2IwOTBlOGJmOWQw/MjcyNzUzNjE0YzZk/NThmNjJkNTRmY2Nl/MzU5OGFjMy9kdWFs/bWVkaWEuY29tLw",
+                    "path": "\u203a quantum-computing-vs-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/XBs-xx3n2RUBSwTHcGaS-yy_8C2lZ832OXYxqbxoWMA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZHVhbG1lZGlhLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/NS8xMS9Db3VsZC1R/dWFudHVtLUNvbXB1/dGluZy1TdXJwYXNz/LUFJLWFzLXRoZS1O/ZXh0LVRlY2gtUmV2/b2x1dGlvbi5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "OQC, Digital Realty, and NVIDIA Launch First Quantum-AI Data Centre in New York City - Quantum Computing Report",
+                "url": "https://quantumcomputingreport.com/oqc-digital-realty-and-nvidia-launch-first-quantum-ai-data-centre-in-new-york-city-2/",
+                "description": "The center, located at Digital Realty\u2019s JFK10 facility and built with NVIDIA GH200 Grace Hopper Superchips, is a flagship initiative of the UK\u2013US Tech Trade Partnership. Oxford Instruments NanoScience (OIN) announced that its ProteoxLX dilution refrigerator is integrated into the facility to support OQC\u2019s GENESIS quantum computer...",
+                "age": "4 days ago",
+                "page_age": "2025-11-06T07:33:26",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumcomputingreport.com",
+                    "hostname": "quantumcomputingreport.com",
+                    "favicon": "https://imgs.search.brave.com/QCU3onB_rb5Nw0jdLUNda_e9hwQiVVh50SuRDm-vZFg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzViYWJkMzRl/NzFkOTIxZTJiOTUw/Mzg0YmRmYmQ3YWUw/NDgzYzk5NzlkMzQ4/YzEzMmJlMzk1YTY3/ZDcwYWJkYi9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS8",
+                    "path": "\u203a oqc-digital-realty-and-nvidia-launch-first-quantum-ai-data-centre-in-new-york-city-2"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/S2qLLmVEWZ7B846gcLNmHPQuVWZEXsr7skeFfaOlDvg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtY29tcHV0aW5n/cmVwb3J0LmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/Mi9RQ1ItYnktR1FJ/LU9yaWdpbmFsLW9u/LVRyYW5zcGFyZW50/LTIwLnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing: Standing at the edge of the next AI revolution - SAS Voices",
+                "url": "https://blogs.sas.com/content/sascom/2025/11/05/quantum-computing-standing-at-the-edge-of-the-next-ai-revolution",
+                "description": "Now imagine being in a helicopter ... at once, you can view all possible paths and find the lake almost immediately. I often use this analogy to illustrate the distinction between quantum and traditional computing....",
+                "age": "5 days ago",
+                "page_age": "2025-11-05T08:00:34",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "blogs.sas.com",
+                    "hostname": "blogs.sas.com",
+                    "favicon": "https://imgs.search.brave.com/C5qNIZxWhNt1FYJ4LWRQwSt8WSHRoI01NIdSYqeS69Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWU5ZDk0ZjFk/NzJhNDY5NDEyOWJm/ZTA5NDA5ZTk3Nzgz/NDYzMTUyODJmZGI2/OTI4YTMxMGJiNzAw/ODdiODM1YS9ibG9n/cy5zYXMuY29tLw",
+                    "path": "\u203a content  \u203a sascom  \u203a 2025  \u203a 11  \u203a 05  \u203a quantum-computing-standing-at-the-edge-of-the-next-ai-revolution"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/DufRJNrSjnmTTGTuwydUvPyOF99x1E0qUmqkS_gg6Nk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9ibG9n/cy5zYXMuY29tL2Nv/bnRlbnQvc2FzY29t/L2ZpbGVzLzIwMjUv/MTEvU0ExWlAyOC5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Nvidia Just Announced Massive Quantum Computing News - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/RGTI/pressreleases/35980193/nvidia-just-announced-massive-quantum-computing-news",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Nvidia's announcement ensures that its systems will be critical even after quantum computing rolls out.",
+                "age": "3 days ago",
+                "page_age": "2025-11-07T10:07:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a RGTI  \u203a pressreleases  \u203a 35980193  \u203a nvidia-just-announced-massive-quantum-computing-news"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Nvidia-Like Gains: This Quantum Computing ETF Could Deliver Multibagger Returns - 24/7 Wall St.",
+                "url": "https://247wallst.com/investing/2025/11/07/nvidia-like-gains-this-quantum-computing-etf-could-deliver-multibagger-returns",
+                "description": "McKinsey estimates the quantum computing industry could reach $72B in annual value by 2035. Are you ahead, or behind on retirement? SmartAsset\u2019s free tool can match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act ...",
+                "age": "2 days ago",
+                "page_age": "2025-11-07T13:34:18",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "247wallst.com",
+                    "hostname": "247wallst.com",
+                    "favicon": "https://imgs.search.brave.com/hmKk2pNIviGU25S0tv4dSvYR85X6D_k0g0dTnSKmn0Y/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTQwYjViNzBm/ZDBhZmI1NWFlMzUx/ODIyNjY4NmQzZWY5/MDk4MDc0NmU1ZTkw/MGY4MzA0NWEzYmFm/MzkzODU3OC8yNDd3/YWxsc3QuY29tLw",
+                    "path": "\u203a investing  \u203a 2025  \u203a 11  \u203a 07  \u203a nvidia-like-gains-this-quantum-computing-etf-could-deliver-multibagger-returns"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QVHTwjhsuLT4ZbaiZFfJ7JsORIS7024UcZfGLtG08O0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly8yNDd3/YWxsc3QuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA1/L3NodXR0ZXJzdG9j/ay0xMDQzMzAxNDU0/LWh1Z2UtbGljZW5z/ZWQtc2NhbGVkLmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "A Once-in-a-Lifetime Opportunity: These 3 Quantum Computing Stocks Could Be Your Ticket to Becoming a Millionaire | Nasdaq",
+                "url": "https://nasdaq.com/articles/once-lifetime-opportunity-these-3-quantum-computing-stocks-could-be-your-ticket-becoming",
+                "description": "Our team is working diligently to resolve the issue. Thank you for your patience and understanding. ... Pure plays will have a difficult time fending off legacy tech companies. One quantum computing company believes its software could replace GPUs one day.",
+                "age": "1 week ago",
+                "page_age": "2025-11-03T10:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nasdaq.com",
+                    "hostname": "nasdaq.com",
+                    "favicon": "https://imgs.search.brave.com/3mHU3NMakik_1yIDC--qSfJoAUjlV2JqYv6uIebAE5k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODUzZmNjZjRh/Y2FjNjkzODY4N2I3/MjE2ODJiZDkzMWJk/YjJiYjk5Y2Y3ZTJj/MGJhYTQ3ZDE0MmUw/NzJjZmNiZi9uYXNk/YXEuY29tLw",
+                    "path": "\u203a articles  \u203a once-lifetime-opportunity-these-3-quantum-computing-stocks-could-be-your-ticket-becoming"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "A Once-in-a-Lifetime Opportunity: These 3 Quantum Computing Stocks Could Be Your Ticket to Becoming a Millionaire - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/35858344/a-once-in-a-lifetime-opportunity-these-3-quantum-computing-stocks-could-be-your-ticket-to-becoming-a-millionaire",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Pure plays will have a difficult time fending off legacy tech companies. One quantum computing company believes ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-03T10:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a QBTS  \u203a pressreleases  \u203a 35858344  \u203a a-once-in-a-lifetime-opportunity-these-3-quantum-computing-stocks-could-be-your-ticket-to-becoming-a-millionaire"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "\u2018History won\u2019t forgive us\u2019 if UK falls behind in quantum computing race, says Tony Blair | Computing | The Guardian",
+                "url": "https://www.theguardian.com/technology/2025/nov/03/history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair",
+                "description": "Tony Blair: \u2018As we have seen ... Jade Gao/AFP/Getty Images ... Exclusive: Former PM and ex-Tory leader William Hague warn UK lacks high-risk capital and infrastructure to harness benefits of powerful technology ... Tony Blair has said \u201chistory won\u2019t forgive us\u201d if the UK falls behind in the race to harness quantum computing, a frontier ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-03T06:00:27",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theguardian.com",
+                    "hostname": "www.theguardian.com",
+                    "favicon": "https://imgs.search.brave.com/rC70n-17a9InstnH-PH4YuXbWwFkdbesPtRJKvIQAwQ/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRmYTNkMTZl/NmJhYTQwYmQ4NDRj/MzQ4NDZkNGQ0YTgy/ZWRlZDM4YWVkMzM4/NmM0Y2Y2NTgyMTQ5/NzQxOTExYy93d3cu/dGhlZ3VhcmRpYW4u/Y29tLw",
+                    "path": "\u203a technology  \u203a 2025  \u203a nov  \u203a 03  \u203a history-wont-forgive-us-if-uk-falls-behind-in-quantum-computing-race-says-tony-blair"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/P6t6vHRkdr126CMJvhLyBf4KqdWlF9T3MpvFAGRPM4U/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pLmd1/aW0uY28udWsvaW1n/L21lZGlhL2IwYmFl/NTZiOGYxOTNkMDVj/ZjVkYTM2ZTY0Zjgz/MWI2MGQwMWU4YmYv/OTgyXzBfNjg4MF81/NTA0L21hc3Rlci82/ODgwLmpwZz93aWR0/aD0xMjAwJmhlaWdo/dD02MzAmcXVhbGl0/eT04NSZhdXRvPWZv/cm1hdCZmaXQ9Y3Jv/cCZwcmVjcm9wPTQw/OjIxLG9mZnNldC14/NTAsb2Zmc2V0LXkw/Jm92ZXJsYXktYWxp/Z249Ym90dG9tJTJD/bGVmdCZvdmVybGF5/LXdpZHRoPTEwMHAm/b3ZlcmxheS1iYXNl/NjQ9TDJsdFp5OXpk/R0YwYVdNdmIzWmxj/bXhoZVhNdmRHY3Ra/R1ZtWVhWc2RDNXdi/bWMmZW5hYmxlPXVw/c2NhbGUmcz1mNWVl/N2QxNmQ0ZDJmMDU5/MTU1M2ZjN2ZiZjVi/ZmYwYg"
+                }
+            }
+        ]
+    }
+}
