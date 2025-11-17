@@ -1,0 +1,219 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-11-17T00:20:40.528173"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Nvidia's quiet move into quantum computing could reshape the next frontier of AI",
+                "url": "https://www.fool.com.au/2025/11/16/nvidias-quiet-move-into-quantum-computing-could-reshape-the-next-frontier-of-ai-usfeed/",
+                "description": "Quantum computing is still years away, but Nvidia just built the bridge that will bring it closer -- a quiet integration of AI, GPUs, and patience that could shorten the wait for the next computing revolution.",
+                "age": "1 day ago",
+                "page_age": "2025-11-15T16:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com.au",
+                    "hostname": "www.fool.com.au",
+                    "favicon": "https://imgs.search.brave.com/-77jZ55OEkeImWrQ_LHaBiO546L7TQiH_qdXV_lTDrE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjkwNTAxNDkw/ZjJiMTBhZjQ2MGEz/ZjllMTBhMTM3YWM0/ODBjZjgxODZkYWJm/NTNmNDZhNjMyYzNh/ODFhOTFiMC93d3cu/Zm9vbC5jb20uYXUv",
+                    "path": "\u203a 2025  \u203a 11  \u203a 16  \u203a nvidias-quiet-move-into-quantum-computing-could-reshape-the-next-frontier-of-ai-usfeed"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/GKOY8Cph5ijfuqaiG8fHYWKs-7jVMSEkd1_qcxFejxM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Zm9vbC5jb20uYXUv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTEvcG9uZGVyaW5n/LXNoYXJlcy0xNi45/LTEyMDB4Njc1Lmpw/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Intelligence: When AI Meets Quantum Computing to Revolutionize the Future | by Hayanan | Nov, 2025 | Artificial Intelligence in Plain English",
+                "url": "https://ai.plainenglish.io/quantum-intelligence-when-ai-meets-quantum-computing-to-revolutionize-the-future-fe36de73d9f5",
+                "description": "Quantum Intelligence: When AI Meets Quantum Computing to Revolutionize the Future Im\u200cagine AI\u2060 thinki\u2060n\u200cg faster, dee\u200dper\u2060, and i\u2060n wa\u200cys\u200c class\u200dical\u200c co\u200bm\u2060puters can\u200c\u2019t \u2026",
+                "age": "2 days ago",
+                "page_age": "2025-11-15T04:37:29",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ai.plainenglish.io",
+                    "hostname": "ai.plainenglish.io",
+                    "favicon": "https://imgs.search.brave.com/zV_8q5ZLItwZJcBvYvF2rB2JcnVQCTU_Yc_8og_GX-o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhZjFiM2Ix/MDI0YzVjZjFkMzFh/ODMyNWQ4NDUxZmNk/YzlmZGE3ZDQyNjg0/MDBiYzAxZjhmYzQ4/OTdlZjA2Yi9haS5w/bGFpbmVuZ2xpc2gu/aW8v",
+                    "path": "\u203a quantum-intelligence-when-ai-meets-quantum-computing-to-revolutionize-the-future-fe36de73d9f5"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Rg7usAAKD9NLjT6tYLhyfiYBQTzmOBe6FPLIe-IG1e4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqbk4t/ZUIyRVpBbW9ubzlJ/R3hnUEJ3QS5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google AI Outlines Five-Stage Roadmap to Make Quantum Computing Useful",
+                "url": "https://thequantuminsider.com/2025/11/14/google-ai-outlines-five-stage-roadmap-to-make-quantum-computing-useful/",
+                "description": "Google\u2019s Quantum AI team released ... useful quantum computing applications, shifting focus from hardware milestones to verified, real-world utility. The researchers highlight a lack of progress in the middle stages of the framework \u2014 identifying hard problem instances and linking algorithms ...",
+                "age": "3 days ago",
+                "page_age": "2025-11-14T09:37:17",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2025  \u203a 11  \u203a 14  \u203a google-ai-outlines-five-stage-roadmap-to-make-quantum-computing-useful"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Zu1jQpC6qhkQ4s7Z7mj0riAVyWAXzSrxi_piHmKA7oI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTEvU2Ny/ZWVuc2hvdC0yMDI1/LTExLTE0LWF0LTQu/MjkuMDctQU0ucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Will Quantum Computing Overtake AI? Debunking the Myths",
+                "url": "https://analyticsinsight.net/quantum-computing-analytics-insight/will-quantum-computing-overtake-ai-debunking-the-myths",
+                "description": "Overview Each serves a different purpose. AI focuses on learning, reasoning, and decision-making, while quantum computing specializes in solving complex calcula",
+                "age": "5 days ago",
+                "page_age": "2025-11-11T13:45:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "analyticsinsight.net",
+                    "hostname": "analyticsinsight.net",
+                    "favicon": "https://imgs.search.brave.com/QVDrbvIPz6ZuZt88zC4u0Tt2ewceHbMuL1m4oCgmxj0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjhmYmNlYjgz/MmJkZGNiY2JmZjY5/NGFmZjc2NjRmNWNh/NmIyMGVkNmE2Nzg2/MTEwMWQzMjJhY2Jj/ODM5ZWI3OS9hbmFs/eXRpY3NpbnNpZ2h0/Lm5ldC8",
+                    "path": "\u203a quantum-computing-analytics-insight  \u203a will-quantum-computing-overtake-ai-debunking-the-myths"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/vDrd2aFmx-1a6611Pu2KtbFH11TiCyujVACYLW2LEXo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2FuYWx5dGlj/c2luc2lnaHQlMkYy/MDI1LTExLTExJTJG/M2VkbmpuZXclMkZX/aWxsLVF1YW50dW0t/Q29tcHV0aW5nLU92/ZXJ0YWtlLUFJLURl/YnVua2luZy10aGUt/TXl0aHMuanBnP3c9/MTIwMCZhbXA7YXI9/NDAlM0EyMSZhbXA7/YXV0bz1mb3JtYXQl/MkNjb21wcmVzcyZh/bXA7b2dJbWFnZT10/cnVlJmFtcDttb2Rl/PWNyb3AmYW1wO2Vu/bGFyZ2U9dHJ1ZSZh/bXA7b3ZlcmxheT1m/YWxzZSZhbXA7b3Zl/cmxheV9wb3NpdGlv/bj1ib3R0b20mYW1w/O292ZXJsYXlfd2lk/dGg9MTAw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Rigetti CEO: Quantum Computing, AI Key To Future Growth",
+                "url": "https://quantumzeitgeist.com/rigetti-ai-quantum-computing-future-growth/",
+                "description": "Rigetti Computing CEO Subodh Kulkarni forecasts that advancements in both quantum computing and artificial intelligence will be pivotal growth drivers in 2026, as discussed in a November 4, 2025, interview with Yahoo Finance.",
+                "age": "4 days ago",
+                "page_age": "2025-11-13T11:34:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a rigetti-ai-quantum-computing-future-growth"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/37LZk-a1opLK9BwR6eb9pav2vCiRRkxmRznlfwb4G-M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtemVpdGdlaXN0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/cV9haS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Will Quantum Computing Outpace AI? BBC Chimes In",
+                "url": "https://quantumzeitgeist.com/quantum-computing-ai-vs-quantum/",
+                "description": "For decades, the promise of quantum computing has lingered on the horizon, a theoretical revolution in processing power, but is it poised to eclipse even the current AI boom? While artificial intelligence dominates headlines and rapidly reshapes our world, a quiet race is underway to unlock ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-10T15:07:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a quantum-computing-ai-vs-quantum"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/CSn0pJR1YOW7nv7Xp9zBMKd15HfXIoJl415AZkeBmVk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtemVpdGdlaXN0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/YnBybnQuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "POET Technologies and Quantum Computing Inc. to Co-Develop 3.2 Tbps Optical Engines for CPO and Next-Gen AI Connectivity",
+                "url": "https://www.prnewswire.com/news-releases/poet-technologies-and-quantum-computing-inc-to-co-develop-3-2-tbps--optical-engines-for-cpo-and-next-gen-ai-connectivity-302611095.html",
+                "description": "Quantum Computing Inc. ... SAN JOSE, Calif. and HOBOKEN, N.J., Nov. 11, 2025 /PRNewswire/ -- POET Technologies Inc. (\"POET\" or the \"Company\") (NASDAQ: POET), a leader in the design and implementation of highly-integrated optical engines and light sources for artificial intelligence networks, ...",
+                "age": "6 days ago",
+                "page_age": "2025-11-11T12:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "prnewswire.com",
+                    "hostname": "www.prnewswire.com",
+                    "favicon": "https://imgs.search.brave.com/ngor7d1kk07rJ8pY90YDI7ODv5z9i_-Ir6XdLmXti_Q/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjJlMGNkOTM5/MzliMWNkNWM0YzZj/Y2IyN2U4ZWU2YTUw/YTljMzFjYjkwZmFj/MjU2MWM0OTA3MDFi/NmIxYTk2Yi93d3cu/cHJuZXdzd2lyZS5j/b20v",
+                    "path": "\u203a news-releases  \u203a poet-technologies-and-quantum-computing-inc-to-co-develop-3-2-tbps--optical-engines-for-cpo-and-next-gen-ai-connectivity-302611095.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/qOQztfK1zQEjUf7MUkFvgor4AQMKCkmaDumKtTKEWvk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tbWEu/cHJuZXdzd2lyZS5j/b20vbWVkaWEvMjM5/NDEwNC9RdWFudHVt/X0NvbXB1dGluZ19M/b2dvX1YxLmpwZz9w/PWZhY2Vib29r"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing, not AI, could be tech\u2019s next revolution",
+                "url": "https://dagens.com/technology/quantum-computing-not-ai-could-be-techs-next-revolution",
+                "description": "IBM has introduced two new quantum devices: the experimental Loon processor and the Nighthawk chip. Imagine cutting drug development timelines from years to hours. That\u2019s the potential of quantum computing, a long-researched field now gaining serious momentum.",
+                "age": "4 days ago",
+                "page_age": "2025-11-12T19:45:41",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "dagens.com",
+                    "hostname": "dagens.com",
+                    "favicon": "https://imgs.search.brave.com/htsxodso2dbV7OGEe-BEVh-42hLPD4nVFp6G8uVBC44/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGM3YjdhN2Fk/NmM0ZWRiMjhmZjY5/Y2U1OGExMDc5Zjcz/N2Y4MjliMjlmZDNi/NzM2YzQ4NTlhNDU4/MWZhMzYwMi9kYWdl/bnMuY29tLw",
+                    "path": "\u203a technology  \u203a quantum-computing-not-ai-could-be-techs-next-revolution"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ja4jyBigvMOy-c7rI6OHh0YnJtXGG0-YLTjoNQSaJIM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5tZ2RrLmRrL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9zaXRlcy8y/LzIwMjUvMDUvQ3li/ZXJzZWN1cml0eS1j/b21wdXRlci1sb2Nr/LWN5YmVyLTEuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Will quantum computing be chemistry\u2019s next AI?",
+                "url": "https://cen.acs.org/business/quantum-computing-chemistrys-next-AI/103/web/2025/11",
+                "description": "Quantum computers, like the one shown here, could someday allow chemists to solve problems that classical computers can\u2019t. Credit: IBM \u00b7 Recurring stories and special news packages from C&EN.",
+                "age": "3 days ago",
+                "page_age": "2025-11-14T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "cen.acs.org",
+                    "hostname": "cen.acs.org",
+                    "favicon": "https://imgs.search.brave.com/_yuAJoIOK-_V_tm27djKeJu-i0HCISxN-qL2XlGW-VM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTYwMTI3MTNi/MGZlY2I0NmJmMzA2/OWMxNzRlMGFlYzRh/ZTY1NTI1ZDk3NzQ4/YTgyNjNmNzgzMDVj/NzdmMDlmNy9jZW4u/YWNzLm9yZy8",
+                    "path": "\u203a business  \u203a quantum-computing-chemistrys-next-AI  \u203a 103  \u203a web  \u203a 2025  \u203a 11"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/eVARhkHvZGjJf1AByHyM2dnKvgQQRDMoAaTOZOAsjbY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zN2Qx/LnNjZW5lNy5jb20v/aXMvaW1hZ2UvQ0VO/T0RTL1dpbGwtcXVh/bnR1bS1jb21wdXRp/bmctYmUtYmlnZ2Vy/LXRoZW4tQUktLS0x/OTQxMDItMTpXaWRl/c2NyZWVuPyRyZXNw/b25zaXZlJCZhbXA7/cWx0JiM2MTs5MCww/JmFtcDtyZXNNb2Rl/JiM2MTtzaGFycDIm/YW1wO2ZtdCYjNjE7/d2VicA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Why quantum computing teams at JPMorgan and other banks are being outshined by AI",
+                "url": "https://efinancialcareers.fr/en/news/quantum-computing-jobs-banking",
+                "description": "It has been all quiet on the quantum front in banking since the summer, when multiple top quantum computing researchers in banking mysteriously left. Most notably, Marco Pistoia and Charles Lim, leaders of JPMorgan's quantum team (that accounted for two thirds of quantum jobs in banking as ...",
+                "age": "3 days ago",
+                "page_age": "2025-11-13T13:06:06",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "efinancialcareers.fr",
+                    "hostname": "efinancialcareers.fr",
+                    "favicon": "https://imgs.search.brave.com/heyg6ZLy6g1RiIGVu_4ygUaicK0qo8pXKtrmpbjF5Oc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGU0OWUxYjk5/MmUyNDk3MjFmMTBk/MGRmYmJmNWJhMWU4/Nzg0ZmQwYTBkZjIw/Y2Q0N2E2NzYwYzRh/NjIxNGFjZC9lZmlu/YW5jaWFsY2FyZWVy/cy5mci8",
+                    "path": "\u203a en  \u203a news  \u203a quantum-computing-jobs-banking"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/z59sS3xwYkA4jnQP4p5DmlQEcf5pORu0U_JF9y3Mo1k/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWZpbmFuY2lhbGNh/cmVlcnMuZnIvaW1n/L3Jlc2l6ZT13aWR0/aDoxMjAwLGZpdDpt/YXgvRGNyd0I4WG5S/UTZ1dTRiS2plckc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This is Why Tech Giants are Investing Billions of Dollars into Quantum Computing - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/36024907/this-is-why-tech-giants-are-investing-billions-of-dollars-into-quantum-computing",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing will be significant game-changer for just about every industry, creating a potential $100 billion ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-10T14:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a QBTS  \u203a pressreleases  \u203a 36024907  \u203a this-is-why-tech-giants-are-investing-billions-of-dollars-into-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}

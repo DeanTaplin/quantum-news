@@ -7,41 +7,29 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **OQC, Digital Realty, and NVIDIA Launch First Quantum-AI Data Centre in New York City - Quantum Computing Report**
-  - The center, located at Digital Realty’s JFK10 facility and built with NVIDIA GH200 Grace Hopper Superchips, is a flagship initiative of the UK–US Tech Trade Partnership. Oxford Instruments NanoScience (OIN) announced that its ProteoxLX dilution refrigerator is integrated into the facility to support OQC’s GENESIS quantum computer...
-  - [Source](https://quantumcomputingreport.com/oqc-digital-realty-and-nvidia-launch-first-quantum-ai-data-centre-in-new-york-city-2/)
+- **Google AI Outlines Five-Stage Roadmap to Make Quantum Computing Useful**
+  - Google’s Quantum AI team released ... useful quantum computing applications, shifting focus from hardware milestones to verified, real-world utility. The researchers highlight a lack of progress in the middle stages of the framework — identifying hard problem instances and linking algorithms ...
+  - [Source](https://thequantuminsider.com/2025/11/14/google-ai-outlines-five-stage-roadmap-to-make-quantum-computing-useful/)
 
-- **Nvidia Just Announced Massive Quantum Computing News - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Nvidia's announcement ensures that its systems will be critical even after quantum computing rolls out.
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/RGTI/pressreleases/35980193/nvidia-just-announced-massive-quantum-computing-news)
-
-- **A Once-in-a-Lifetime Opportunity: These 3 Quantum Computing Stocks Could Be Your Ticket to Becoming a Millionaire - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Pure plays will have a difficult time fending off legacy tech companies. One quantum computing company believes ...
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/35858344/a-once-in-a-lifetime-opportunity-these-3-quantum-computing-stocks-could-be-your-ticket-to-becoming-a-millionaire)
+- **This is Why Tech Giants are Investing Billions of Dollars into Quantum Computing - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing will be significant game-changer for just about every industry, creating a potential $100 billion ...
+  - [Source](https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/36024907/this-is-why-tech-giants-are-investing-billions-of-dollars-into-quantum-computing)
 
 ### Notable Innovations
 
-- **Is quantum computing reaching its AI moment? - Investors' Chronicle**
-  - If you missed the early artificial intelligence (AI) stock market boom, the next transformational technology is in the pipeline. That’s the investment pitch for quantum computing, which promises to upend online security, medicine, scientific research and solve AI’s issues of bandwidth and ...
-  - [Source](https://www.investorschronicle.co.uk/content/2775619a-c57c-4d44-94b8-e9a29b06ba3b)
+- **Quantum computing, not AI, could be tech’s next revolution**
+  - IBM has introduced two new quantum devices: the experimental Loon processor and the Nighthawk chip. Imagine cutting drug development timelines from years to hours. That’s the potential of quantum computing, a long-researched field now gaining serious momentum.
+  - [Source](https://dagens.com/technology/quantum-computing-not-ai-could-be-techs-next-revolution)
 
-- **Could Quantum Computing Surpass AI as the Next Tech Revolution? – DualMedia Innovation News**
-  - Explore if quantum computing could outshine AI as the next tech revolution. Discover impacts, comparisons, and future potentials now!
-  - [Source](https://dualmedia.com/quantum-computing-vs-ai)
+- **Why quantum computing teams at JPMorgan and other banks are being outshined by AI**
+  - It has been all quiet on the quantum front in banking since the summer, when multiple top quantum computing researchers in banking mysteriously left. Most notably, Marco Pistoia and Charles Lim, leaders of JPMorgan's quantum team (that accounted for two thirds of quantum jobs in banking as ...
+  - [Source](https://efinancialcareers.fr/en/news/quantum-computing-jobs-banking)
 
 ### Market Trends
 
-- **Quantum computing & AI will be key themes of 2026: Rigetti CEO**
-  - Rigetti CEO Subodh Kulkarni joins Opening Bid with Yahoo Finance Executive Editor Brian Sozzi to discuss the future of quantum computing and his expectations for AI. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.
-  - [Source](https://finance.yahoo.com/video/quantum-computing-ai-key-themes-155442307.html)
-
-- **Nvidia's NVQLink breaks quantum computing barriers, proving that GPUs remain irreplaceable**
-  - Nvidia CEO Jensen Huang stressed that the combination of quantum computing with AI will be crucial for driving developments in future technology, with industry consensus highlighting the need for directly connecting quantum computers to GPU-powered supercomputers to advance practical quantum ...
-  - [Source](https://digitimes.com/news/a20251103PD229/nvidia-quantum-computing-gpu-jensen-huang-technology.html)
-
-- **Nvidia-Like Gains: This Quantum Computing ETF Could Deliver Multibagger Returns - 24/7 Wall St.**
-  - McKinsey estimates the quantum computing industry could reach $72B in annual value by 2035. Are you ahead, or behind on retirement? SmartAsset’s free tool can match you with a financial advisor in minutes to help you answer that today. Each advisor has been carefully vetted, and must act ...
-  - [Source](https://247wallst.com/investing/2025/11/07/nvidia-like-gains-this-quantum-computing-etf-could-deliver-multibagger-returns)
+- **Rigetti CEO: Quantum Computing, AI Key To Future Growth**
+  - Rigetti Computing CEO Subodh Kulkarni forecasts that advancements in both quantum computing and artificial intelligence will be pivotal growth drivers in 2026, as discussed in a November 4, 2025, interview with Yahoo Finance.
+  - [Source](https://quantumzeitgeist.com/rigetti-ai-quantum-computing-future-growth/)
 
 
 ## News Archive
