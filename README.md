@@ -7,29 +7,31 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Google AI Outlines Five-Stage Roadmap to Make Quantum Computing Useful**
-  - Google’s Quantum AI team released ... useful quantum computing applications, shifting focus from hardware milestones to verified, real-world utility. The researchers highlight a lack of progress in the middle stages of the framework — identifying hard problem instances and linking algorithms ...
-  - [Source](https://thequantuminsider.com/2025/11/14/google-ai-outlines-five-stage-roadmap-to-make-quantum-computing-useful/)
+- **Quantum Computing Is the Next AI. Are You Ready for It?**
+  - Unlike traditional computers that process information in a linear, step-by-step fashion, quantum computers use quantum bits, or qubits, which can represent multiple states simultaneously. This leads to breakthroughs in areas such as drug discovery, financial modeling, and cybersecurity by ...
+  - [Source](https://www.inc.com/fast-company-2/quantum-computing-ai-artificial-intelligence-jensen-huang-nvidia/91266857)
 
-- **This is Why Tech Giants are Investing Billions of Dollars into Quantum Computing - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Quantum computing will be significant game-changer for just about every industry, creating a potential $100 billion ...
-  - [Source](https://theglobeandmail.com/investing/markets/stocks/QBTS/pressreleases/36024907/this-is-why-tech-giants-are-investing-billions-of-dollars-into-quantum-computing)
+- **Better Artificial Intelligence Stock: Quantum Computing vs. IBM - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Artificial intelligence continues to evolve, with Quantum Computing and IBM working on tech to enable this.
+  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/36248049/better-artificial-intelligence-stock-quantum-computing-vs-ibm/)
+
+- **Amazon Just Issued a Massive Warning to the Quantum Computing Industry - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Amazon held nearly 1 million shares of IonQ. Amazon is building a quantum computing chip internally.
+  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/36156690/amazon-just-issued-a-massive-warning-to-the-quantum-computing-industry/)
 
 ### Notable Innovations
 
-- **Quantum computing, not AI, could be tech’s next revolution**
-  - IBM has introduced two new quantum devices: the experimental Loon processor and the Nighthawk chip. Imagine cutting drug development timelines from years to hours. That’s the potential of quantum computing, a long-researched field now gaining serious momentum.
-  - [Source](https://dagens.com/technology/quantum-computing-not-ai-could-be-techs-next-revolution)
+- **Breakthrough Discovery in AI and Quantum Computing From SiC Systems Wins 2025 HPC Innovation Excellence Award**
+  - SiC Systems, together with ORCA Computing, Novo Nordisk, and the Technical University of Denmark has won the prestigious Hyperion HPC Innovation Excellence Award for breakthrough research in AI and quantum computing. The research shows how AI can ...
+  - [Source](https://finance.yahoo.com/news/breakthrough-discovery-ai-quantum-computing-110000203.html)
 
-- **Why quantum computing teams at JPMorgan and other banks are being outshined by AI**
-  - It has been all quiet on the quantum front in banking since the summer, when multiple top quantum computing researchers in banking mysteriously left. Most notably, Marco Pistoia and Charles Lim, leaders of JPMorgan's quantum team (that accounted for two thirds of quantum jobs in banking as ...
-  - [Source](https://efinancialcareers.fr/en/news/quantum-computing-jobs-banking)
+- **NVIDIA and RIKEN Advance Japan’s Scientific Frontiers With New Supercomputers for AI and Quantum Computing | NVIDIA Newsroom**
+  - NVIDIA today announced that RIKEN, Japan’s leading national research institute, is integrating NVIDIA GB200 NVL4 systems with two new supercomputers in Japan — one built for AI for science and the other for quantum computing.
+  - [Source](https://nvidianews.nvidia.com/news/nvidia-and-riken-advance-japans-scientific-frontiers-with-new-supercomputers-for-ai-and-quantum-computing)
 
-### Market Trends
-
-- **Rigetti CEO: Quantum Computing, AI Key To Future Growth**
-  - Rigetti Computing CEO Subodh Kulkarni forecasts that advancements in both quantum computing and artificial intelligence will be pivotal growth drivers in 2026, as discussed in a November 4, 2025, interview with Yahoo Finance.
-  - [Source](https://quantumzeitgeist.com/rigetti-ai-quantum-computing-future-growth/)
+- **Will Quantum Computing Break Bitcoin?Time to Act Is 'Now,' Chainalysis Says - U.Today**
+  - Chainalysis claims that there should be an emphasis on proactive preparation, analytics support, and collaboration instead of reactionary measures. ... Google’s recent breakthrough demonstrates that quantum computing is advancing faster than many expected.
+  - [Source](https://u.today/will-quantum-computing-break-bitcointime-to-act-is-now-chainalysis-says)
 
 
 ## News Archive

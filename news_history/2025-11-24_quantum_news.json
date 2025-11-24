@@ -1,0 +1,237 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-11-24T00:21:43.575415"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Governor Moore advocates for AI, quantum computing investment amid budget deficit concerns",
+                "url": "https://foxbaltimore.com/news/local/governor-wes-moore-advocates-ai-quantum-computing-investment-amid-budget-deficit-concerns-maryland",
+                "description": "Maryland Governor Wes Moore is advocating for investment in AI and quantum computing as the state faces a projected $1.4 billion budget deficit.",
+                "age": "2 days ago",
+                "page_age": "2025-11-22T03:56:20",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "foxbaltimore.com",
+                    "hostname": "foxbaltimore.com",
+                    "favicon": "https://imgs.search.brave.com/H1A-RhMmAM5STTFhpfBJQSnjjXhaIKf-QJELiecj7dI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzM3NmMxODQ4/N2ZmMWIyZDg1OTkx/MWJhYmJlOWUxZjg0/MWMxYWFmNWI3ZjAw/MzdhNzRmZTg1MDll/YTQ2Y2U0Yy9mb3hi/YWx0aW1vcmUuY29t/Lw",
+                    "path": "\u203a news  \u203a local  \u203a governor-wes-moore-advocates-ai-quantum-computing-investment-amid-budget-deficit-concerns-maryland"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/iW95w0hYIdM0bL9CX0yFa1WdPC52rrT6sUk-VGvL3xI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9mb3hi/YWx0aW1vcmUuY29t/L3Jlc291cmNlcy9t/ZWRpYS8yY2RmODY5/Yi0yM2Y2LTQ5MGEt/OGRmMi0xOTcxOWVm/ZjY0MWItYmUwOGJi/MjQ0NjFlNDMyNzg4/OGI0YzFlMjRmYjA0/MzIucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Prediction: This Quantum Computing Stock Could Make You a Millionaire (Hint: It's Not Pure-Plays IonQ, Rigetti Computing, or D-Wave Quantum)",
+                "url": "https://finance.yahoo.com/news/prediction-quantum-computing-stock-could-143700585.html",
+                "description": "From time to time, investors become exhausted by the same old run-of-the-mill opportunities and begin to rotate capital into new positions. Over the last year, one emerging pocket of the AI landscape that's garnered its share of intrigue is quantum computing.",
+                "age": "3 days ago",
+                "page_age": "2025-11-20T14:37:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a prediction-quantum-computing-stock-could-143700585.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Breakthrough Discovery in AI and Quantum Computing From SiC Systems Wins 2025 HPC Innovation Excellence Award",
+                "url": "https://finance.yahoo.com/news/breakthrough-discovery-ai-quantum-computing-110000203.html",
+                "description": "SiC Systems, together with ORCA Computing, Novo Nordisk, and the Technical University of Denmark has won the prestigious Hyperion HPC Innovation Excellence Award for breakthrough research in AI and quantum computing. The research shows how AI can ...",
+                "age": "5 days ago",
+                "page_age": "2025-11-19T11:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a breakthrough-discovery-ai-quantum-computing-110000203.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Is the Next AI. Are You Ready for It?",
+                "url": "https://www.inc.com/fast-company-2/quantum-computing-ai-artificial-intelligence-jensen-huang-nvidia/91266857",
+                "description": "Unlike traditional computers that process information in a linear, step-by-step fashion, quantum computers use quantum bits, or qubits, which can represent multiple states simultaneously. This leads to breakthroughs in areas such as drug discovery, financial modeling, and cybersecurity by ...",
+                "age": "6 days ago",
+                "page_age": "2025-11-18T10:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "inc.com",
+                    "hostname": "www.inc.com",
+                    "favicon": "https://imgs.search.brave.com/pH1UR317cqrL2ovxE2PXOdtWowzKoaEwADBpJyCv2zU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmI0YWJlYzJl/MWNmNGZkYTQ3MjEz/ZThkODJmNTM1MGJm/OGUzY2Q0ZTM1ODk0/ZDEzODlkZWUwYjZj/YmMyYzhlYS93d3cu/aW5jLmNvbS8",
+                    "path": "\u203a fast-company-2  \u203a quantum-computing-ai-artificial-intelligence-jensen-huang-nvidia  \u203a 91266857"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/bBWOzPA_ynwIzO2S2u89BzkJBfECEHWSDn3fctwZF14/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWct/Y2RuLmluYy5jb20v/aW1hZ2UvdXBsb2Fk/L2Zfd2VicCxxX2F1/dG8sY19maXQvdmlw/LzIwMjUvMTEvcC0x/LTkxNDE4MzE4LXF1/YW50dW0tY29tcHV0/aW5nLWlzLXRoZS1u/ZXh0LWFpLWFyZS15/b3UtcmVhZHktZm9y/LWl0LndlYnA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Amazon Just Sold Shares of 2 of the Hottest Stocks in Quantum Computing and Artificial Intelligence (AI)",
+                "url": "https://finance.yahoo.com/news/amazon-just-sold-shares-2-140100809.html",
+                "description": "Form 13Fs provide a way for investors to track which stocks Wall Street's savviest money managers -- and publicly traded companies -- are buying and selling. Amazon completely exited its stake in the largest quantum computing pure-play stock during the third quarter.",
+                "age": "4 days ago",
+                "page_age": "2025-11-19T14:01:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "finance.yahoo.com",
+                    "hostname": "finance.yahoo.com",
+                    "favicon": "https://imgs.search.brave.com/ZxJbtHZiiBXciqcRfJn3XPiTEOf_XYrooAjrJf1rnag/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjRkNjc1NWY5/MzM5ZjlkMWQyNjM5/OWNiMTQ4ZjcwNTQx/ZjA3ZDE4NDQ2M2Iw/MWZjZjVhOTFlM2Ji/NTE1NWRjZS9maW5h/bmNlLnlhaG9vLmNv/bS8",
+                    "path": "\u203a news  \u203a amazon-just-sold-shares-2-140100809.html"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Better Artificial Intelligence Stock: Quantum Computing vs. IBM - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/36248049/better-artificial-intelligence-stock-quantum-computing-vs-ibm/",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Artificial intelligence continues to evolve, with Quantum Computing and IBM working on tech to enable this.",
+                "age": "3 days ago",
+                "page_age": "2025-11-21T09:20:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a IBM  \u203a pressreleases  \u203a 36248049  \u203a better-artificial-intelligence-stock-quantum-computing-vs-ibm"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "DCAI supports NVIDIA NVQLink for hybrid AI\u2013quantum computing - Engineering.com",
+                "url": "https://www.engineering.com/dcai-supports-nvidia-nvqlink-for-hybrid-ai-quantum-computing/",
+                "description": "NVQLink enables ultra-low-latency, ... and quantum systems, creating a pathway for hybrid workflows that combine AI-driven data processing with quantum algorithms. Integrated with the NVIDIA CUDA-Q platform, NVQLink allows developers to orchestrate both types of computing resources ...",
+                "age": "4 days ago",
+                "page_age": "2025-11-20T11:37:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "engineering.com",
+                    "hostname": "www.engineering.com",
+                    "favicon": "https://imgs.search.brave.com/DkXHjeCSl2AaWgX1tQ1OVmFBTBPCLIxHSWHjZZLlCmk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjY3YmY5NDI1/NzRiMDExNTFhNDlk/ZmZlZDBiYmQ0NmFi/OWEwMDYwN2Y1Y2Qy/ZTFmOTFjZDVmNGJh/NDQyMmU0Zi93d3cu/ZW5naW5lZXJpbmcu/Y29tLw",
+                    "path": "\u203a dcai-supports-nvidia-nvqlink-for-hybrid-ai-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/kEsqNlvI2PcYVsBXMZwpNU90-y7eeUw3OWlOdvASX88/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZW5naW5lZXJpbmcu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDI1LzExL0RDQUkt/c3VwcG9ydHMtTlZJ/RElBLU5WUUxpbmsu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "NVIDIA and RIKEN Advance Japan\u2019s Scientific Frontiers With New Supercomputers for AI and Quantum Computing | NVIDIA Newsroom",
+                "url": "https://nvidianews.nvidia.com/news/nvidia-and-riken-advance-japans-scientific-frontiers-with-new-supercomputers-for-ai-and-quantum-computing",
+                "description": "NVIDIA today announced that RIKEN, Japan\u2019s leading national research institute, is integrating NVIDIA GB200 NVL4 systems with two new supercomputers in Japan \u2014 one built for AI for science and the other for quantum computing.",
+                "age": "1 week ago",
+                "page_age": "2025-11-17T09:11:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nvidianews.nvidia.com",
+                    "hostname": "nvidianews.nvidia.com",
+                    "favicon": "https://imgs.search.brave.com/uuFFL1yFVZL5_ounswg4oe5y4lvQeKLtG4TRaCoIm5A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmFhYzFlODgz/MmMxZGM5ZDVlYTJh/NmI4MGMxMzhmYWIy/NzdlNzg3YmUzYzk4/ODJlYTU1ODhlMzdl/YWI5YWNiZC9udmlk/aWFuZXdzLm52aWRp/YS5jb20v",
+                    "path": "\u203a news  \u203a nvidia-and-riken-advance-japans-scientific-frontiers-with-new-supercomputers-for-ai-and-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Enabling Utility-Scale Quantum Computing with HPC-QC Integration | Inside HPC & AI News",
+                "url": "https://insidehpc.com/2025/11/enabling-utility-scale-quantum-computing-with-hpc-qc-integration/",
+                "description": "We know there are many challenges to building a utility-scale quantum computer. That\u2019s why we are taking a vendor-agnostic approach\u2014integrating third-party quantum technologies with our HPC and networking .... - Read more from Inside HPC & AI News.",
+                "age": "1 week ago",
+                "page_age": "2025-11-17T19:45:44",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "insidehpc.com",
+                    "hostname": "insidehpc.com",
+                    "favicon": "https://imgs.search.brave.com/nIh5HRsNWxTx9Ev9fVB3yhm_mxSmxJUtzsq5NsIZIu4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGYyMWM3Yzcw/YjE3YzM2ZmI4ZGQy/YjI2NTdmMDU1NWYz/Y2JlODFlNDYxYjUz/ZTc4MDg2YmEwNzU0/YzExMjI2ZS9pbnNp/ZGVocGMuY29tLw",
+                    "path": "\u203a 2025  \u203a 11  \u203a enabling-utility-scale-quantum-computing-with-hpc-qc-integration"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QmSfR8RwdUqUb3feWXih74nuAJ5VEXZ1LPWXun5I0ns/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbnNp/ZGVocGMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzA2/L2hwZS1sb2dvLTIt/MS0wNjI1LTEucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Will Quantum Computing Break Bitcoin?Time to Act Is 'Now,' Chainalysis Says - U.Today",
+                "url": "https://u.today/will-quantum-computing-break-bitcointime-to-act-is-now-chainalysis-says",
+                "description": "Chainalysis claims that there should be an emphasis on proactive preparation, analytics support, and collaboration instead of reactionary measures. ... Google\u2019s recent breakthrough demonstrates that quantum computing is advancing faster than many expected.",
+                "age": "4 days ago",
+                "page_age": "2025-11-19T14:03:31",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "u.today",
+                    "hostname": "u.today",
+                    "favicon": "https://imgs.search.brave.com/8daH46Yltymzfh_lRS0fnBUNrFFHWmmu7O6uAIeNQhg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjc4YmQwYjg2/MjRkNTZjYThhMWQ0/MjJiZjU5NWZmMWFl/Y2Q2MjU2ZThmMWE3/MzQyODQ3ZDIwMjcz/ZDdmNGMyMy91LnRv/ZGF5Lw",
+                    "path": "\u203a will-quantum-computing-break-bitcointime-to-act-is-now-chainalysis-says"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/u7M_xC72DB_uIpwT5kybVZktpHXMezSxxwf8_o7Ph1Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly91LnRv/ZGF5L3NpdGVzL2Rl/ZmF1bHQvZmlsZXMv/c3R5bGVzL3R3aXR0/ZXJ3aXRob3V0bG9n/by9wdWJsaWMvMjAy/NS0xMS9zMTAxMTUu/anBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Amazon Just Issued a Massive Warning to the Quantum Computing Industry - The Globe and Mail",
+                "url": "https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/36156690/amazon-just-issued-a-massive-warning-to-the-quantum-computing-industry/",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Amazon held nearly 1 million shares of IonQ. Amazon is building a quantum computing chip internally.",
+                "age": "1 week ago",
+                "page_age": "2025-11-17T11:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "www.theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/7G2vz3HbsqP1xL612Xy35KOl9C4gWG5E_hACf3AnAhM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmUyZmU2YzFm/NDM0OWE1Njc1MmI5/NTIxMGQzNWNkNGM1/YTM5NjMzM2VkMTA4/ZTJhMWUzMWIxODBj/OTY0ODYzMC93d3cu/dGhlZ2xvYmVhbmRt/YWlsLmNvbS8",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a AMZN  \u203a pressreleases  \u203a 36156690  \u203a amazon-just-issued-a-massive-warning-to-the-quantum-computing-industry"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "2 Quantum Computing Stocks That Could Make You a Millionaire | The Motley Fool",
+                "url": "https://www.fool.com/investing/2025/11/17/2-quantum-computing-stocks-that-could-make-you-a-m/",
+                "description": "But these two quantum computing leaders have tremendous potential. What's the easiest way to make $1 million? The answer, at least according to an old joke, is to start with $2 million. However, there could be a better way. Investing in leaders with promising potential in an up-and-coming ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-17T11:32:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 11  \u203a 17  \u203a 2-quantum-computing-stocks-that-could-make-you-a-m"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/gV39-mOXJg-g0xzoRiREFLOnBWbgu8GMajXJaRKZXhw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQyNDU1JTJGcXVh/bnR1bS1jb21wdXRp/bmctdGV4dC5qcGcm/YW1wO3c9MTIwMCZh/bXA7b3A9cmVzaXpl"
+                }
+            }
+        ]
+    }
+}
