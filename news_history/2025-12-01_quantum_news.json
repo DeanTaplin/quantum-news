@@ -1,0 +1,111 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-12-01T00:25:02.063002"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Google CEO Sundar Pichai signals quantum computing could be next big tech shift after AI - The Economic Times",
+                "url": "https://economictimes.indiatimes.com/tech/technology/google-ceo-sundar-pichai-signals-quantum-computing-could-be-next-big-tech-shift-after-ai/articleshow/125652145.cms",
+                "description": "Google\u2019s quantum programme is ... speaking at the BBC Newsnight. Through the quantum computing programme, Google is looking to build machines capable of simulating natural processes more precisely, leading to breakthroughs in materials science, energy, and drug discovery, ...",
+                "age": "2 days ago",
+                "page_age": "2025-11-29T06:08:22",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "economictimes.indiatimes.com",
+                    "hostname": "economictimes.indiatimes.com",
+                    "favicon": "https://imgs.search.brave.com/BzLL9gUyCudT2hTGbRoZCuJw-81LG_UxK3mZR71yXss/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTBkNWExNTY2/YmU0YWQxMDZlZGI5/ZjY5ZWE2ODlhMWI0/YmM5MDZhYzVlYmUz/M2UwNjI3YWQzZDNm/N2RmZmIyYy9lY29u/b21pY3RpbWVzLmlu/ZGlhdGltZXMuY29t/Lw",
+                    "path": "\u203a tech  \u203a technology  \u203a google-ceo-sundar-pichai-signals-quantum-computing-could-be-next-big-tech-shift-after-ai  \u203a articleshow  \u203a 125652145.cms"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/sa12gglC5JEAl5gKTfEtNoPTnruvCAuhC8-Ebjc_Bkw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZXRpbWcuY29tL3Ro/dW1iL3dpZHRoLTEy/MDAsaGVpZ2h0LTkw/MCxpbWdzaXplLTQx/NzI0LHJlc2l6ZW1v/ZGUtNzUsbXNpZC0x/MjU2NTIxNDUvdGVj/aC90ZWNobm9sb2d5/L2dvb2dsZS1jZW8t/c3VuZGFyLXBpY2hh/aS1zaWduYWxzLXF1/YW50dW0tY29tcHV0/aW5nLWNvdWxkLWJl/LW5leHQtYmlnLXRl/Y2gtc2hpZnQtYWZ0/ZXItYWkuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "\u201cQuantum Computing Will Pop the AI Bubble,\u201d Claims Ex-Intel CEO Pat Gelsinger, Predicting GPUs Won\u2019t Survive the Decade",
+                "url": "https://wccftech.com/quantum-computing-will-pop-the-ai-bubble-claims-ex-intel-ceo-pat-gelsinger/",
+                "description": "Pat Gelsinger is indeed a ... interesting statements concerning the AI hype and the high cost of NVIDIA's AI chips. Now, in an interview with the Financial Times, Gelsinger was asked about the advantages of quantum computing for the world, to which he claimed that quantum ...",
+                "age": "2 days ago",
+                "page_age": "2025-11-28T19:05:53",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "wccftech.com",
+                    "hostname": "wccftech.com",
+                    "favicon": "https://imgs.search.brave.com/rtQ1eG2E6DxPt3r81p3pLwmGecC0t-Lq4sAY3LYw_lA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjk3NWQyNDVj/MmM0OGE3MTJiYTE1/N2VkY2YzNDc3Mjhj/MDMyY2E3YTIzYjY4/YTczY2U4MDM4NDBj/NDgzMzA4OC93Y2Nm/dGVjaC5jb20v",
+                    "path": "\u203a quantum-computing-will-pop-the-ai-bubble-claims-ex-intel-ceo-pat-gelsinger"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/qrkHh99gs7zn-52KzHHB51orcW804keTFUpxY54xXpg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/d2NjZnRlY2guY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzEyL0ludGVsLUNF/Ty1QYXQtR2Vsc2lu/Z2VyLVJldGlyZXMt/QWZ0ZXItNDAtWWVh/ci1DYXJlZXItMS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Pichai Says Quantum Is Where 'AI Was 5 Years Ago\u2019 \u2014 Are Quantum Stocks The Next Moonshot Trade? - Quantum Computing (NASDAQ:QUBT), IBM (NYSE:IBM), D-Wave Quantum (NYSE:QBTS), Honeywell Intl (NASDAQ:HON) - Benzinga",
+                "url": "https://www.benzinga.com/markets/tech/25/11/49105785/pichai-says-quantum-is-where-ai-was-5-years-ago-are-quantum-stocks-the-next-moonshot-trade",
+                "description": "Pichai framed quantum computing as a foundational leap rather than just incremental tech, telling the BBC: \"We have the state-of-the-art quantum computing efforts in the world\u2026 building quantum systems I think will help us better simulate and understand nature and unlock many benefits for ...",
+                "age": "3 days ago",
+                "page_age": "2025-11-27T16:15:36",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "benzinga.com",
+                    "hostname": "www.benzinga.com",
+                    "favicon": "https://imgs.search.brave.com/DiYVmcwpsRdadwlLLFwu7vI7n5fzKgfTgW58clS0Juo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWJlOWNlN2U5/NTFhNDc4Y2RmMmQx/NTgzNjRiNWUwZGM1/MjIzNzE2MTkzOTJi/NTJjMDllNjk4NDEy/YmZjMzRkMi93d3cu/YmVuemluZ2EuY29t/Lw",
+                    "path": "\u203a markets  \u203a tech  \u203a 25  \u203a 11  \u203a 49105785  \u203a pichai-says-quantum-is-where-ai-was-5-years-ago-are-quantum-stocks-the-next-moonshot-trade"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/oLbynpcIThhMFfUlBICrPoFAFfEY42WQP8uXl21m6l4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YmVuemluZ2EuY29t/L2ZpbGVzL2ltYWdl/cy9zdG9yeS8yMDI1/LzExLzI3L1N1bmRh/ci1QaWNoYWktSXMt/QW4tSW5kaWFuLWFt/ZXJpY2FuLUJ1c2ku/anBlZz93aWR0aD0x/MjAwJmFtcDtoZWln/aHQ9ODAwJmFtcDtm/aXQ9Y3JvcA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "CyberQ Conference to spotlight disruptive impact of quantum computing and AI on cybersecurity",
+                "url": "https://economymiddleeast.com/news/cyberq-conference-spotlight-disruptive-impact-quantum-computing-ai-cybersecurity/",
+                "description": "Mohammed Hamad Al Kuwaiti, head ... in digital and cybersecurity fields, and cementing its status as a global hub for data. He emphasised that this year\u2019s edition focuses on vital topics, particularly encryption, quantum computing and their relationship with AI and ...",
+                "age": "1 week ago",
+                "page_age": "2025-11-24T10:26:43",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "economymiddleeast.com",
+                    "hostname": "economymiddleeast.com",
+                    "favicon": "https://imgs.search.brave.com/E2V9NFYo7FMsHdKDzGFVG1zmJQ-k4g5Yl_5vZwHy7yA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTRlZTM3ZTc5/ZDRiZjVhNWEwMzVi/NjlkZGQzYWMxZWYy/MjFlNzE3N2ZjNWYz/NDZlNThlZDRjNDFi/OTliZWE0NC9lY29u/b215bWlkZGxlZWFz/dC5jb20v",
+                    "path": "\u203a news  \u203a cyberq-conference-spotlight-disruptive-impact-quantum-computing-ai-cybersecurity"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/w3em0lQhiB9wC6AxP8Aa3YE7hjgBH4xTKKjvbybfr-w/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9lY29u/b215bWlkZGxlZWFz/dC5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMTEvQ3li/ZXJRLmpwZWc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "2 Quantum Computing Stocks to Buy Before They Soar 128% and 132%, According to Certain Wall Street Analysts | Nasdaq",
+                "url": "https://nasdaq.com/articles/2-quantum-computing-stocks-buy-they-soar-128-and-132-according-certain-wall-street",
+                "description": "Our analyst team just revealed ... Stock Advisor. See the stocks \u00bb \u00b7 Image source: Getty Images. IonQ uses trapped ions to develop quantum computers on the gate-based model, the most common framework. It benefits from vertical integration, meaning it controls much of its supply chain by building hardware, developing software, and delivering ...",
+                "age": "6 days ago",
+                "page_age": "2025-11-25T08:45:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nasdaq.com",
+                    "hostname": "nasdaq.com",
+                    "favicon": "https://imgs.search.brave.com/3mHU3NMakik_1yIDC--qSfJoAUjlV2JqYv6uIebAE5k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvODUzZmNjZjRh/Y2FjNjkzODY4N2I3/MjE2ODJiZDkzMWJk/YjJiYjk5Y2Y3ZTJj/MGJhYTQ3ZDE0MmUw/NzJjZmNiZi9uYXNk/YXEuY29tLw",
+                    "path": "\u203a articles  \u203a 2-quantum-computing-stocks-buy-they-soar-128-and-132-according-certain-wall-street"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/CagdN07FfP_hrodEu8UJq8-dmdUE3IVdsO2aJFKW6jw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmFzZGFxLmNvbS9z/aXRlcy9hY3F1aWEu/cHJvZC9maWxlcy8y/MDE5LTA1LzA5MDIt/UTE5JTIwVG90YWwl/MjBNYXJrZXRzJTIw/cGhvdG9zJTIwYW5k/JTIwZ2lmX0NDOC5q/cGc"
+                }
+            }
+        ]
+    }
+}

@@ -7,31 +7,15 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Quantum Computing Is the Next AI. Are You Ready for It?**
-  - Unlike traditional computers that process information in a linear, step-by-step fashion, quantum computers use quantum bits, or qubits, which can represent multiple states simultaneously. This leads to breakthroughs in areas such as drug discovery, financial modeling, and cybersecurity by ...
-  - [Source](https://www.inc.com/fast-company-2/quantum-computing-ai-artificial-intelligence-jensen-huang-nvidia/91266857)
-
-- **Better Artificial Intelligence Stock: Quantum Computing vs. IBM - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Artificial intelligence continues to evolve, with Quantum Computing and IBM working on tech to enable this.
-  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/IBM/pressreleases/36248049/better-artificial-intelligence-stock-quantum-computing-vs-ibm/)
-
-- **Amazon Just Issued a Massive Warning to the Quantum Computing Industry - The Globe and Mail**
-  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Amazon held nearly 1 million shares of IonQ. Amazon is building a quantum computing chip internally.
-  - [Source](https://www.theglobeandmail.com/investing/markets/stocks/AMZN/pressreleases/36156690/amazon-just-issued-a-massive-warning-to-the-quantum-computing-industry/)
+- **2 Quantum Computing Stocks to Buy Before They Soar 128% and 132%, According to Certain Wall Street Analysts | Nasdaq**
+  - Our analyst team just revealed ... Stock Advisor. See the stocks » · Image source: Getty Images. IonQ uses trapped ions to develop quantum computers on the gate-based model, the most common framework. It benefits from vertical integration, meaning it controls much of its supply chain by building hardware, developing software, and delivering ...
+  - [Source](https://nasdaq.com/articles/2-quantum-computing-stocks-buy-they-soar-128-and-132-according-certain-wall-street)
 
 ### Notable Innovations
 
-- **Breakthrough Discovery in AI and Quantum Computing From SiC Systems Wins 2025 HPC Innovation Excellence Award**
-  - SiC Systems, together with ORCA Computing, Novo Nordisk, and the Technical University of Denmark has won the prestigious Hyperion HPC Innovation Excellence Award for breakthrough research in AI and quantum computing. The research shows how AI can ...
-  - [Source](https://finance.yahoo.com/news/breakthrough-discovery-ai-quantum-computing-110000203.html)
-
-- **NVIDIA and RIKEN Advance Japan’s Scientific Frontiers With New Supercomputers for AI and Quantum Computing | NVIDIA Newsroom**
-  - NVIDIA today announced that RIKEN, Japan’s leading national research institute, is integrating NVIDIA GB200 NVL4 systems with two new supercomputers in Japan — one built for AI for science and the other for quantum computing.
-  - [Source](https://nvidianews.nvidia.com/news/nvidia-and-riken-advance-japans-scientific-frontiers-with-new-supercomputers-for-ai-and-quantum-computing)
-
-- **Will Quantum Computing Break Bitcoin?Time to Act Is 'Now,' Chainalysis Says - U.Today**
-  - Chainalysis claims that there should be an emphasis on proactive preparation, analytics support, and collaboration instead of reactionary measures. ... Google’s recent breakthrough demonstrates that quantum computing is advancing faster than many expected.
-  - [Source](https://u.today/will-quantum-computing-break-bitcointime-to-act-is-now-chainalysis-says)
+- **Google CEO Sundar Pichai signals quantum computing could be next big tech shift after AI - The Economic Times**
+  - Google’s quantum programme is ... speaking at the BBC Newsnight. Through the quantum computing programme, Google is looking to build machines capable of simulating natural processes more precisely, leading to breakthroughs in materials science, energy, and drug discovery, ...
+  - [Source](https://economictimes.indiatimes.com/tech/technology/google-ceo-sundar-pichai-signals-quantum-computing-could-be-next-big-tech-shift-after-ai/articleshow/125652145.cms)
 
 
 ## News Archive
