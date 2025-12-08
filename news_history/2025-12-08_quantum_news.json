@@ -1,0 +1,363 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-12-08T00:21:18.872169"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "AI Techniques To Solve HW-SW Challenges For Useful Quantum Computing (Nvidia, U. of Oxford et al.)",
+                "url": "https://semiengineering.com/ai-techniques-to-solve-hw-sw-challenges-for-useful-quantum-computing-nvidia-u-of-oxford-et-al/",
+                "description": "A new technical paper \u201cArtificial ... quantum computing\u201d was published by researchers at NVIDIA, University of Oxford, University of Toronto, Quantum Motion, University of Waterloo et al. Abstract \u201cArtificial intelligence (AI) advancements over the past few years have had an unprecedented and revolutionary ...",
+                "age": "3 hours ago",
+                "page_age": "2025-12-07T21:43:30",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "semiengineering.com",
+                    "hostname": "semiengineering.com",
+                    "favicon": "https://imgs.search.brave.com/R6-5YJV8q_WQAXigAMS5FII7GgnzqW1eQHCaoXmuKBg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkxZTM1NGIz/NmUxZDAzZGNjODlk/NTJjZDc4ZTRkNGY3/M2VjMDQwMzhiYTVm/ZTZjN2E4MjViMzk2/ZjgxMjZlNy9zZW1p/ZW5naW5lZXJpbmcu/Y29tLw",
+                    "path": "\u203a ai-techniques-to-solve-hw-sw-challenges-for-useful-quantum-computing-nvidia-u-of-oxford-et-al"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/PVL0etR4vvrY4mTIUSJJSUSkutzB6LTZ9vkInTmdsu8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZW1p/ZW5naW5lZXJpbmcu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9x/dWFudHVtLUFkb2Jl/U3RvY2tfNDQ1NjQ2/NzgwLTAxLTI5LTI1/LXNjYWxlZC5qcGVn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "\u201cCombined with AI and classical computing, quantum computing is the most influential | Ctech",
+                "url": "https://www.calcalistech.com/ctechnews/article/3nzmz0o16",
+                "description": "IBM\u2019s Alessandro Curioni explains how quantum, classical, and AI together could reshape technology and society.",
+                "age": "15 hours ago",
+                "page_age": "2025-12-07T09:21:47",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "calcalistech.com",
+                    "hostname": "www.calcalistech.com",
+                    "favicon": "https://imgs.search.brave.com/HP0_7Goq-kaP6NjQD_cv3JPAdHgWddN3kGX5K_Ex3eg/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2JiNDEwODFj/ZGRmNzgyNDE1YzM5/ZGNhMDk1OWI0MzM3/MjIxY2U1MGI3M2Rj/ZjY1OThjYzc4ZGFh/MmIzNWQ0YS93d3cu/Y2FsY2FsaXN0ZWNo/LmNvbS8",
+                    "path": "\u203a ctechnews  \u203a article  \u203a 3nzmz0o16"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/2Omn4T47YLGKTxOL32-8SWkK-wOlCEp6f9oClhkQseQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9waWMx/LmNhbGNhbGlzdC5j/by5pbC9waWNzZXJ2/ZXIzL2Nyb3BfaW1h/Z2VzLzIwMjUvMTEv/MzAvSEpXZ2kzWVdX/Zy9ISldnaTNZV1dn/XzBfMF8yMDAxXzEx/MjZfMF9sYXJnZS5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "2025 Tech Trends: AI, Quantum Computing, and Ethical Innovations",
+                "url": "https://www.webpronews.com/2025-tech-trends-ai-quantum-computing-and-ethical-innovations/",
+                "description": "Tech trends for 2025 highlight AI's transformative role in industries, sustainability innovations, quantum computing breakthroughs, blockchain for decentralized systems, edge computing with IoT, enhanced cybersecurity, automation reshaping work, 5G connectivity, and biotech advancements.",
+                "age": "1 day ago",
+                "page_age": "2025-12-06T21:54:53",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "www.webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/suojK4VhkzRRy_isSVjhgEHtSBzCNTEP1B2Hb9MF0HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU2NmYzZWNj/MDllODg5NjA2MjQ1/YWE4OWIyN2VlMjFm/NTY3ODRlYmVkMjQx/NDYwZmE5YTExZTAy/YmYwMDFmMS93d3cu/d2VicHJvbmV3cy5j/b20v",
+                    "path": "\u203a 2025-tech-trends-ai-quantum-computing-and-ethical-innovations"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/v8nce-ZH4kBy_h9nJ7kAKA0Br10j6-Q6agY5CgMRYHk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMTIvYXJ0aWNs/ZS0zMzUzLTE3NjUw/NTgwODkuanBlZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Cardano Developer Expands to AI and Quantum Computing",
+                "url": "https://beincrypto.com/cardano-developer-expands-to-ai-quantum-computing/",
+                "description": "Input Output, the engineering firm behind the Cardano blockchain, is restructuring and rebranding as Input Output Group.",
+                "age": "1 day ago",
+                "page_age": "2025-12-06T16:53:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "beincrypto.com",
+                    "hostname": "beincrypto.com",
+                    "favicon": "https://imgs.search.brave.com/qu63yKDkzSlH7_fKfZOOc1WhAtH_IVL9MsZXaY3b84g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGYwYzZiMGY1/NDhlM2VmMzhjNTRj/ZWE2MTRkY2JkMTgx/M2FmNjc5ZGQ2MGY1/ODlkZTBmNTIzMDg1/ZWViYzdkMC9iZWlu/Y3J5cHRvLmNvbS8",
+                    "path": "\u203a cardano-developer-expands-to-ai-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/IZcDuGUXYHj2XsE1HBtnEaZ26Ssn87s7bPjE9wuxgk8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuYmVpbmNyeXB0/by5jb20vaW1nL3Bh/dC1WaGpLTkR3ajZw/S2JLRzFxOTRrak5D/dz0vc21hcnQvMzM4/MGQ0YmNkOTk5NDQw/ZWJlZjc3YTMzZTkw/MWVlZGU"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Cardano Builders are Now Betting on AI and Quantum Computing Growth \u2014 TradingView News",
+                "url": "https://www.tradingview.com/news/beincrypto:c463e5672094b:0-cardano-builders-are-now-betting-on-ai-and-quantum-computing-growth/",
+                "description": "Input Output, the engineering firm best known for building Cardano, has begun a sweeping restructuring that includes a name change and a move into technology sectors far beyond its blockchain origins.The company said on December 5 that it will drop \u201cGlobal\u201d from its name and operate as ...",
+                "age": "1 day ago",
+                "page_age": "2025-12-06T16:53:08",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tradingview.com",
+                    "hostname": "www.tradingview.com",
+                    "favicon": "https://imgs.search.brave.com/Bx7TXETtnuCWbO2LJ4EhAkL5WtZdMckFiD7mK-MrKLw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzQzODc4MDVj/OWUwOTk4ZmY1YTJh/NzUwOTkzYTlmYzY4/ODAwNjRjZGQyOTE4/YjIyZjNmYmU4ZDE2/MjMxZWIyZC93d3cu/dHJhZGluZ3ZpZXcu/Y29tLw",
+                    "path": "\u203a news  \u203a beincrypto:c463e5672094b:0-cardano-builders-are-now-betting-on-ai-and-quantum-computing-growth"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/NxQxkucUcvbHhjDo31Djow4QESooWZ6wtVv0CoJYGuI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zLnRy/YWRpbmd2aWV3LmNv/bS9zdGF0aWMvaW1h/Z2VzL2lsbHVzdHJh/dGlvbnMvbmV3cy1z/dG9yeS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "1 Quantum Computing Stock That Could Make You a Multimillionaire | The Motley Fool",
+                "url": "https://fool.com/investing/2025/12/04/quantum-computing-stock-make-you-millionaire",
+                "description": "Quantum computing is being hailed as the catalyst that will usher in a new era of growth for the technology sector. With its potential to drive dramatic advancements for artificial intelligence (AI) and revolutionize cryptography, the tech has a subset of investors extremely excited.",
+                "age": "3 days ago",
+                "page_age": "2025-12-05T04:18:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 12  \u203a 04  \u203a quantum-computing-stock-make-you-millionaire"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/DRcTmPiQvbHSrP3IDwYOkv166cT5BPyDsrzZdvIl2nU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQzMDE2JTJGZ2V0/dHlpbWFnZXMtMTY4/NjQ5NzkzNS5qcGcm/YW1wO3c9MTIwMCZh/bXA7b3A9cmVzaXpl"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI is Emerging as Quantum Computing\u2019s Missing Ingredient, NVIDIA-led Research Team Asserts",
+                "url": "https://thequantuminsider.com/2025/12/03/ai-is-emerging-as-quantum-computings-missing-ingredient-nvidia-led-research-team-asserts/",
+                "description": "Researchers report that ... and drifting noise conditions. The study concludes that long-term progress will likely depend on hybrid systems that combine AI supercomputers with quantum processors to overcome the bottlenecks neither technology can solve alone. Artificial intelligence may now be the most important tool for solving quantum computing\u2019s most stubborn ...",
+                "age": "5 days ago",
+                "page_age": "2025-12-03T12:04:40",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2025  \u203a 12  \u203a 03  \u203a ai-is-emerging-as-quantum-computings-missing-ingredient-nvidia-led-research-team-asserts"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/vB0lg_W5_iYKF8qlayHWLbfirqICi_olGJANa-J0lPI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTIvU2Ny/ZWVuc2hvdC0yMDI1/LTEyLTAzLWF0LTMu/MzYuNTQtQU0ucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Pichai: Quantum Computing Echoes AI\u2019s Pre-Boom Era, Google Advances",
+                "url": "https://www.webpronews.com/pichai-quantum-computing-echoes-ais-pre-boom-era-google-advances/",
+                "description": "Alphabet CEO Sundar Pichai likens quantum computing's current stage to AI's pre-boom era, highlighting Google's verifiable quantum advantage and AI integrations for error correction. This sparks investor enthusiasm, with potential industry transformations in optimization and drug discovery.",
+                "age": "1 week ago",
+                "page_age": "2025-12-02T01:10:05",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "webpronews.com",
+                    "hostname": "www.webpronews.com",
+                    "favicon": "https://imgs.search.brave.com/suojK4VhkzRRy_isSVjhgEHtSBzCNTEP1B2Hb9MF0HY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWU2NmYzZWNj/MDllODg5NjA2MjQ1/YWE4OWIyN2VlMjFm/NTY3ODRlYmVkMjQx/NDYwZmE5YTExZTAy/YmYwMDFmMS93d3cu/d2VicHJvbmV3cy5j/b20v",
+                    "path": "\u203a pichai-quantum-computing-echoes-ais-pre-boom-era-google-advances"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5jFE_D-lmpVyx9_CyVwnhxmfSZo3czEA3kOe4nwqq5Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/d2VicHJvbmV3cy5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMTIvYXJ0aWNs/ZS0yOTAyLTE3NjQ1/NzM3NTMuanBlZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Google CEO Sundar Pichai: Quantum Computing Is Where AI Was Five Years Ago",
+                "url": "https://quantumzeitgeist.com/google-ceo-sundar-pichai-quantum-computing-is-where-ai-was-five-years-ago/",
+                "description": "Speaking to the BBC in a rare extended ... quantum computing efforts amid the current frenzy of AI investment. \u201cThe progress is so exciting,\u201d Pichai said. \u201cI would say quantum is there where maybe AI was five years ago. So I think in five years from now we\u2019ll be going through a very exciting phase in quantum, and we are investing ...",
+                "age": "1 week ago",
+                "page_age": "2025-12-01T17:43:16",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumzeitgeist.com",
+                    "hostname": "quantumzeitgeist.com",
+                    "favicon": "https://imgs.search.brave.com/qaOAESE5-U9KK8OOLhf7yvh6jSFQ2S_BjKDZYTLrVwU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTJjNTA5YzM1/ZTQ2MjJkMGFhN2Zl/NTlmY2VjZjc0YjMz/YzEzYzNmYjE0ZWRh/OWYyYzJmMjQ3ODc3/NDNkNmI4Mi9xdWFu/dHVtemVpdGdlaXN0/LmNvbS8",
+                    "path": "\u203a google-ceo-sundar-pichai-quantum-computing-is-where-ai-was-five-years-ago"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/0FYuLtqfbkGNb_gg3dp3bj43iAwmGizVxRQ59H3dXi0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9xdWFu/dHVtemVpdGdlaXN0/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/c3VuZC5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing Investment Soars as AI Demands New Solutions | 2025 - News and Statistics - IndexBox",
+                "url": "https://indexbox.io/blog/quantum-computing-boom-2025-ai-crisis-fuels-multi-billion-dollar-investment-surge",
+                "description": "In 2025, the quantum computing sector is booming with massive investment, fueled by AI's infrastructure demands and national security concerns, despite minimal current revenue and technical hurdles.",
+                "age": "2 days ago",
+                "page_age": "2025-12-05T13:19:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "indexbox.io",
+                    "hostname": "indexbox.io",
+                    "favicon": "https://imgs.search.brave.com/cBq3xpyJp1jbGDTIseRvCmp7RkEyP25MvgIKZByqc_k/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNWUzM2Q1YjM3/NDA5ZTJjMzA0OThj/NTZjYjhmZWQ3YWMw/OGQwNzUxY2EyM2E3/ZTUxM2VmOGM1NGU5/YjJiNGMxZS9pbmRl/eGJveC5pby8",
+                    "path": "\u203a blog  \u203a quantum-computing-boom-2025-ai-crisis-fuels-multi-billion-dollar-investment-surge"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/LWz5aCRYu6y4ie6k3UGTtjCbhRHJMykKtaMS6oT3vKg/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/aW5kZXhib3guaW8v/bGFuZGluZy9pbWcv/RGVmYXVsdC53ZWJw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Chinese Research Team Launches Quantum Computing Platform Aimed at Speeding Scientific Work",
+                "url": "https://thequantuminsider.com/2025/12/04/chinese-research-team-launches-quantum-computing-platform-aimed-at-speeding-scientific-work",
+                "description": "China introduced what researchers ... computations. The platform was unveiled in Chongqing by the Shanghai Jiao Tong University Chongqing Institute of Artificial Intelligence and is based on new \u201cSchr\u00f6dingerization\u201d quantum algorithms and related numerical methods. The institute also released a medical panoramic AI agent and ...",
+                "age": "3 days ago",
+                "page_age": "2025-12-04T12:32:17",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2025  \u203a 12  \u203a 04  \u203a chinese-research-team-launches-quantum-computing-platform-aimed-at-speeding-scientific-work"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/MDkhV2O-GcwUm3iElTUdGnWaJGUsWKMpVBSIYrVanq4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTIvMTc1/MjA0Ni5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing and Artificial Intelligence Usher a New Era of Computing - AI World Journal",
+                "url": "https://aiworldjournal.com/report-ai-2026-quantum-computing-and-artificial-intelligence-usher-a-new-era-of-computing/",
+                "description": "By 2026, quantum computing and artificial intelligence (AI) are expected to redefine the boundaries of computing. AI continues to drive intelligent decision-making and automation, while quantum computing introduces unprecedented computational power through qubits, superposition, and entanglement.",
+                "age": "3 days ago",
+                "page_age": "2025-12-04T21:11:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "aiworldjournal.com",
+                    "hostname": "aiworldjournal.com",
+                    "favicon": "https://imgs.search.brave.com/ICMokCQrsQ2xCqL_d6x3XJJ6A-Z9NwWWqXk-LHt6s3o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZmIxNWM5ZDk0/Zjc5NTgyZjg1ZWRm/NTljNjE0NDRmYmFm/NmQ3NGYzNmU5NjZi/ZjNjOGJmOWYxYTcy/MzIzZjljYy9haXdv/cmxkam91cm5hbC5j/b20v",
+                    "path": "\u203a report-ai-2026-quantum-computing-and-artificial-intelligence-usher-a-new-era-of-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/KUhZ-2NuYvz7vRSWSExi1RDPuIwfza2MdmFjoj_YIk4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9haXdv/cmxkam91cm5hbC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjUvMTIvYS1zbGVl/ay1wcm9mZXNzaW9u/YWwtcmVwb3J0LWNv/dmVyLWRlc2lnbl96/NXFURjM2c1NsR0s1/S1d6dVhxcm1BX0pR/OXB6MHFkUW5xd19I/UjRFdzR4dkEucG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing: The Missing Key Unlocking AI\u2019s Next Frontier",
+                "url": "https://markets.financialcontent.com/wral/article/tokenring-2025-12-2-quantum-computing-the-missing-key-unlocking-ais-next-frontier",
+                "description": "The convergence of quantum computing and artificial intelligence (AI), often termed \"Quantum AI,\" is rapidly emerging as the pivotal advancement poised to unlock unprecedented potentials for AI. This synergy is increasingly viewed as the \"missing key\" for AI's future, promising to overcome ...",
+                "age": "5 days ago",
+                "page_age": "2025-12-02T19:22:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "markets.financialcontent.com",
+                    "hostname": "markets.financialcontent.com",
+                    "favicon": "https://imgs.search.brave.com/1gl-6OUUTySWvtiyYM-lN_RkOcjFQIZZ9TtzouW4vJc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTdmMDlmZjA5/NTZiMTQ5NGMyMmEw/ODNmMzRjZDlhMmYx/ZmZjMmJjYzkyMWYw/MDEzYjdiZjE1ZmFi/NDMwN2Q3Mi9tYXJr/ZXRzLmZpbmFuY2lh/bGNvbnRlbnQuY29t/Lw",
+                    "path": "\u203a wral  \u203a article  \u203a tokenring-2025-12-2-quantum-computing-the-missing-key-unlocking-ais-next-frontier"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Here Are My Top 3 Quantum Computing Stocks to Buy in December - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/36493106/here-are-my-top-3-quantum-computing-stocks-to-buy-in-december",
+                "description": "This is a smart strategy for Nvidia, as it allows it to benefit from a new technology while also focusing the majority of its resources on developing GPUs for AI computing that are in massive demand today. Useful quantum computing is still years out, and investing in companies that are thriving ...",
+                "age": "1 day ago",
+                "page_age": "2025-12-06T19:21:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a NVDA-Q  \u203a pressreleases  \u203a 36493106  \u203a here-are-my-top-3-quantum-computing-stocks-to-buy-in-december"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM Quantum Computing 2025-2029: The Race to Fault-Tolerant Quantum Advantage - Quantum AI",
+                "url": "https://quantumai.co.com/ibm-quantum-computing-2025-2029-the-race-to-fault-tolerant-quantum-advantage/",
+                "description": "First quantum ai processor module capable of storing information in qLDPC memory and processing with attached logical processing unit (LPU). ... Demonstration of entanglement between qLDPC modules using universal adapters, enabling multi-module quantum computations.",
+                "age": "3 days ago",
+                "page_age": "2025-12-05T07:02:21",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quantumai.co.com",
+                    "hostname": "quantumai.co.com",
+                    "favicon": "https://imgs.search.brave.com/Ber6-3IkzGvsZDX4u0SXpRianysaVPpboaaqUqsHkFI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTE5ZGM3ZDkx/MTRhYzcxYmYzZjg0/YWY0ZGI4M2FmOGY3/MzRmNDY3Y2QxZWNi/NDE0MTliY2Y5MzE4/ZDJiMWVjZC9xdWFu/dHVtYWkuY28uY29t/Lw",
+                    "path": "\u203a ibm-quantum-computing-2025-2029-the-race-to-fault-tolerant-quantum-advantage"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/RwmwiTmJ5kfCkmLp1zDE9LJyuh-vVvYOQ3SoQQumqKI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uZXdx/dWFudHVtLmItY2Ru/Lm5ldC93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNS8xMi9pYm0t/cXVhbnR1bS1jb21w/dXRpbmctMTAyNHg1/NzIuYXZpZg"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Johnson Fistel, PLLP Investigates Claims on Behalf of Long\u2011Term Shareholders of Quantum Computing Inc. (QUBT), Quanex Building Products Corporation (NX), Treace Medical Concepts, Inc. (TMCI), and BigBear.ai Holdings, Inc. (BBAI)",
+                "url": "https://globenewswire.com/news-release/2025/12/01/3197528/0/en/Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-Quantum-Computing-Inc-QUBT-Quanex-Building-Products-Corporation-NX-Treace-Medical-Concepts-Inc-TMCI-a.html",
+                "description": "SAN DIEGO, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Johnson Fistel, PLLP is investigating whether certain officers and directors of Quantum Computing Inc. (NASDAQ: QUBT), Quanex Building Products Corporation (NYSE: NX), Treace Medical Concepts, Inc. (NASDAQ: TMCI), and BigBear.ai Holdings, Inc.",
+                "age": "1 week ago",
+                "page_age": "2025-12-01T14:57:10",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "globenewswire.com",
+                    "hostname": "globenewswire.com",
+                    "favicon": "https://imgs.search.brave.com/hukKBNSb-B3iFxZLdFWKE45ndNpQC8IKUgN1_WHVijc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTUzYjNkN2Q1/ZDAxMGM5ZWNiMDFi/YzdhZWEzYjk4ODQz/NzM2ZWJmNDdlNWVj/NTgzMDU3MTNjMjI1/Yzc2YzBlNC9nbG9i/ZW5ld3N3aXJlLmNv/bS8",
+                    "path": "\u203a news-release  \u203a 2025  \u203a 12  \u203a 01  \u203a 3197528  \u203a 0  \u203a en  \u203a Johnson-Fistel-PLLP-Investigates-Claims-on-Behalf-of-Long-Term-Shareholders-of-Quantum-Computing-Inc-QUBT-Quanex-Building-Products-Corporation-NX-Treace-Medical-Concepts-Inc-TMCI-a.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/G7dJ3Ug15B7ExtcFS5xKux7-chqWA0CYPJK7yZrEVaw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tbC5n/bG9iZW5ld3N3aXJl/LmNvbS9SZXNvdXJj/ZS9Eb3dubG9hZC9i/YjJlNmNmNi05ZDUz/LTRkMmUtYTVkMi03/NTljZGQzYjUxNmM"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "LLMs: Why Quantum Computing Needs Conceptual Brain Science - WorldHealth.net",
+                "url": "https://worldhealth.net/news/quantum-computing-conceptual-brain-science/",
+                "description": "Though recent quantum error correction (QEC) demonstrations have been performed, all popular qubit modalities suffer from hardware noise, preventing the below-threshold operation needed to perform fault-tolerant computations.\u201d \u00b7 \u201cThough high-performance computing (HPC), and in particular, accelerated GPU computing, already drives QC research through circuit and hardware simulations, the rise of generative artificial intelligence (AI...",
+                "age": "3 days ago",
+                "page_age": "2025-12-05T06:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "worldhealth.net",
+                    "hostname": "worldhealth.net",
+                    "favicon": "https://imgs.search.brave.com/9fXRG1_gTpeu2RyDu0MRzzD9zKKpmq4Am0fx6YMUnrU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTAzNDU1ODI1/ZmZmOTk3Mjg0Y2U5/MTRmMmUwYWFhMDcy/ZjgzNDg2ZWMwNzc1/NGIwNjVkNzBiZDk4/YjJjMjFlZi93b3Js/ZGhlYWx0aC5uZXQv",
+                    "path": "\u203a news  \u203a quantum-computing-conceptual-brain-science"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/BhSUI7df9vNZfArAPHby13XH9Mh2NGv2s6cdplijZzs/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93b3Js/ZGhlYWx0aC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjUv/MTIvbWFudWVsLUNB/TkwzYnpwNndVLXVu/c3BsYXNoLmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI And Quantum Computing May Enable Sophisticated Cyberattacks : Data Breach Analysis | Crowdfund Insider",
+                "url": "https://www.crowdfundinsider.com/2025/12/256113-ai-and-quantum-computing-may-enable-sophisticated-cyberattacks-data-breach-analysis/",
+                "description": "Experian released its latest Data Breach Industry Forecast, offering a look at the cyber threat ecosystem. The predictions address how the coming year could bring another new wave of more sophisticated attacks driven by artificial intelligence along with various other threats as well as significant ...",
+                "age": "3 days ago",
+                "page_age": "2025-12-05T02:35:54",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "crowdfundinsider.com",
+                    "hostname": "www.crowdfundinsider.com",
+                    "favicon": "https://imgs.search.brave.com/v1oiQRu9GCEaX89niuSWqCxhzOmBq4A48l4SarUCXyY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMDQxNTRiYmE5/Y2JlZjdlYWJiNzQw/OWUxNTkyYTdhZmNm/MTZlYWViOWU3YzUx/OWM3NGJmN2UzNGJm/ODRjZTQ5Ny93d3cu/Y3Jvd2RmdW5kaW5z/aWRlci5jb20v",
+                    "path": "\u203a 2025  \u203a 12  \u203a 256113-ai-and-quantum-computing-may-enable-sophisticated-cyberattacks-data-breach-analysis"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/LT2jfdXHT2uk4nUXw2YL86Isp2M8FRBj2IJr1GUFOms/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/Y3Jvd2RmdW5kaW5z/aWRlci5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjEvMTAv/Y29tcHV0ZXIuanBl/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing and blockchains: Matching urgency to actual threats - a16z crypto",
+                "url": "https://a16zcrypto.com/posts/article/quantum-computing-misconceptions-realities-blockchains-planning-migrations",
+                "description": "More generally, many quantum computing roadmaps use the term \u201clogical qubit\u201d to refer to qubits that support only Clifford operations. These operations are efficiently classically simulable, and therefore insufficient to run Shor\u2019s algorithm, which needs thousands of error-corrected T gates (or non-Clifford gates more generally). Even if one of those roadmaps aims ...",
+                "age": "2 days ago",
+                "page_age": "2025-12-05T19:00:44",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "a16zcrypto.com",
+                    "hostname": "a16zcrypto.com",
+                    "favicon": "https://imgs.search.brave.com/9mXu3e7pxuok63zugEfVJEtYE2K_yc5Hw4UUtiv8v6g/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBhNzk2Y2Jh/Y2Y1YTI1NWQ0OTQ0/YjQyNWEwOTA3N2Vm/YzEyNjE1OTBhNjIz/MWFjZDZiMGQ1MjYy/MmQyNDA5Ny9hMTZ6/Y3J5cHRvLmNvbS8",
+                    "path": "\u203a posts  \u203a article  \u203a quantum-computing-misconceptions-realities-blockchains-planning-migrations"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/PK1R5qZCLW6ePpRhQdWlC5qkCeFTCVzC6Efw2EenI2Y/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9kMmhn/dXBybDN3MnNqZS5j/bG91ZGZyb250Lm5l/dC91cGxvYWRzLzIw/MjUvMTIvcG9zdC1x/dWFudHVtLWNyeXB0/b19hMTZ6LXNvY2lh/bC5qcGc"
+                }
+            }
+        ]
+    }
+}
