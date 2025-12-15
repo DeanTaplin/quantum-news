@@ -1,0 +1,147 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-12-15T00:22:58.689368"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Rail Vision to acquire 51% stake in quantum computing firm",
+                "url": "https://www.streetinsider.com/Corporate+News/Rail+Vision+to+acquire+51%25+stake+in+quantum+computing+firm/25732624.html",
+                "description": "The technology addresses challenges in quantum computing devices by enabling real-time decoding of surface code errors and reducing computational overhead. The acquisition aims to combine quantum-AI intellectual property with Rail Vision's existing vision and railway safety technologies.",
+                "age": "2 days ago",
+                "page_age": "2025-12-12T14:00:06",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "streetinsider.com",
+                    "hostname": "www.streetinsider.com",
+                    "favicon": "https://imgs.search.brave.com/dyxpA8wVem-bLvP7Pm_U0n4Y-QqWPxbGIXi0QufCmyk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZGQ2MTA1NWE1/ZDVjMTFmNzVkNzU2/MTZmNTRlYzM2Njc4/ZjMwZDk3MWE1M2Mw/ZDg0NGZlYzQzZjdh/NWIwMjU0My93d3cu/c3RyZWV0aW5zaWRl/ci5jb20v",
+                    "path": "\u203a Corporate+News  \u203a Rail+Vision+to+acquire+51%+stake+in+quantum+computing+firm  \u203a 25732624.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/tH5Cc4O8IffVtPupCBt7Dt6LSC-roEB3NqRQbOutw48/rs:fit:200:200:1:0/g:ce/aHR0cDovL3d3dy5z/dHJlZXRpbnNpZGVy/LmNvbS9pbWFnZXMv/c2lsb2dvLW5ldy5w/bmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI, quantum computing, fusion energy remain Energy\u2019s top research priorities - Nextgov/FCW",
+                "url": "https://www.nextgov.com/artificial-intelligence/2025/12/ai-quantum-computing-fusion-energy-remain-energys-top-research-priorities/410078/",
+                "description": "Although Genesis is primarily focused ... Gil also shared other emerging tech sectors that Energy is prioritizing and aiming to incorporate into the Genesis infrastructure. Quantum computing is among the top fields to be eventually incorporated into the AI and supercomputing ...",
+                "age": "4 days ago",
+                "page_age": "2025-12-10T22:03:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nextgov.com",
+                    "hostname": "www.nextgov.com",
+                    "favicon": "https://imgs.search.brave.com/5xGC0o852_WrchCdQihCSQHfe7w7YCDzPQ8IkzUd7MU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNThkZWFhNDU2/ZGE2ZjYwYTQwY2Y0/NDUwNGQ1ZjcyZmEz/MmQwOTBiMGYwNDg1/ZjEyZTk1YTliMzBh/MDFlNmYxNy93d3cu/bmV4dGdvdi5jb20v",
+                    "path": "\u203a artificial-intelligence  \u203a 2025  \u203a 12  \u203a ai-quantum-computing-fusion-energy-remain-energys-top-research-priorities  \u203a 410078"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/YOzrBcduD6qd8odlvJjfi85-FKl_OU7w_Gr9Cr031yk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/bmV4dGdvdi5jb20v/bWVkaWEvaW1nL2Nk/LzIwMjUvMTIvMTAv/ODYweDM5NC0xL29w/ZW4tZ3JhcGguanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum computing \u2018KPIs\u2019 could distinguish true breakthroughs from spurious claims",
+                "url": "https://nature.com/articles/d41586-025-04063-8",
+                "description": "Using a range of metrics could ... quantum computers, as well as interoperability, says Whitfield. Each type of qubit has its own strengths, and sometimes companies report only the metrics that suit them. \u201cIt\u2019s almost like they don\u2019t want you to compare across devices,\u201d Whitfield says. The Quantum Advantage Tracker aims to help compare ...",
+                "age": "4 days ago",
+                "page_age": "2025-12-11T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nature.com",
+                    "hostname": "nature.com",
+                    "favicon": "https://imgs.search.brave.com/U1D-dprWcKmwdTStIYk1azko2m5-qFL5cUZsmQ9AiC4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjk0YzM2Zjdi/OGE4ZDFiNTNjZTE0/MzdkM2FmNGRmZGE2/NGY0NzRhZjNmZGU1/MTM0ZDI0OTVkMGM1/M2I3MzUzZC9uYXR1/cmUuY29tLw",
+                    "path": "\u203a articles  \u203a d41586-025-04063-8"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HA1izpTu3pamkScv1L--19A-BcZa44digiL5m982_GE/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5uYXR1cmUuY29t/L2x3MTIwMC9tYWdh/emluZS1hc3NldHMv/ZDQxNTg2LTAyNS0w/NDA2My04L2Q0MTU4/Ni0wMjUtMDQwNjMt/OF81MTgxNzQ3MC5q/cGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Will Conceptual Brain Science Advance Quantum Computing?",
+                "url": "https://irishtechnews.ie/will-brain-science-advance-quantum-computing/",
+                "description": "Though recent quantum error correction (QEC) demonstrations have been performed, all popular qubit modalities suffer from hardware noise, preventing the below-threshold operation needed to perform fault-tolerant computations.\u201d \u00b7 \u201cThough high-performance computing (HPC), and in particular, accelerated GPU computing, already drives QC research through circuit and hardware simulations, the rise of generative artificial intelligence (AI...",
+                "age": "2 days ago",
+                "page_age": "2025-12-12T14:00:57",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "irishtechnews.ie",
+                    "hostname": "irishtechnews.ie",
+                    "favicon": "https://imgs.search.brave.com/FhTd_X0aHQowGN2shuuQ0cKITmwNBLoArSqIXE47jQE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWVlNzNkNTQ0/MWFhZWMwZmExZTJh/MDJiODhlZDNlOWQx/OGMzYjdiNWQxMGI1/MzE3YjJiYWE0M2Mw/NDRmOWJjNi9pcmlz/aHRlY2huZXdzLmll/Lw",
+                    "path": "\u203a will-brain-science-advance-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/9lORXNTwBFWSJDge2kqHLRkPDxbvOenPfahDx4LmIMA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pcmlz/aHRlY2huZXdzLmll/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI1/LzEyL2Jyb3duLWFu/ZC1ibGFjay1icmlk/Z2Utc3RvY2twYWNr/LXBleGVscy5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "This Is the Quantum Computing Stock Billionaires Want to Own for 2026 (Even Warren Buffett) -- and It's Not IonQ, Rigetti Computing, or D-Wave Quantum | The Motley Fool",
+                "url": "https://fool.com/investing/2025/12/09/quantum-computing-stock-billionaires-want-own-2026",
+                "description": "A company that possesses a virtual ... and tested a quantum processing unit is the quantum computing stock billionaires want to own in 2026. These 10 Stocks Could Mint the Next Wave of Millionaires \u203a ... Several of Wall Street's savviest billionaire money managers purchased this stock during the September-ended quarter. Although artificial intelligence (AI) has been ...",
+                "age": "6 days ago",
+                "page_age": "2025-12-09T08:06:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 12  \u203a 09  \u203a quantum-computing-stock-billionaires-want-own-2026"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/JXH2zKD7L_APk7ZmHBfWn4bveLvAnLeFTxbhNz7zON8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ1OTMwJTJGcXVh/bnR1bS1jb21wdXRl/ci1kaWdpdGFsLWRh/dGEtY2FsY3VsYXRp/b25zLWFydGlmaWNp/YWwtaW50ZWxsaWdl/bmNlLWdldHR5Lmpw/ZyZhbXA7dz0xMjAw/JmFtcDtvcD1yZXNp/emU"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Art Raises $100 Million in Series A Round to Drive Scalable, Multi-Core Quantum Computing",
+                "url": "https://prnewswire.com/news-releases/quantum-art-raises-100-million-in-series-a-round-to-drive-scalable-multi-core-quantum-computing-302637558.html",
+                "description": "/PRNewswire/ -- Quantum Art, a developer of full-stack quantum computers based on trapped-ion qubits and a proprietary scale-up architecture, today announced...",
+                "age": "4 days ago",
+                "page_age": "2025-12-10T15:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "prnewswire.com",
+                    "hostname": "prnewswire.com",
+                    "favicon": "https://imgs.search.brave.com/Cy2gc2T9cd0w-vFEA2i1BYmYtjk9X4-WZcW2MXG3rsM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZTlmZGYyZTI2/NWRmYmU3MmZiNWJl/OTllODE0ZThjMWQ0/NWEwMzhiYjhhMmI5/OGY4Yjg0MmIyNDRm/YTgzOTJhMy9wcm5l/d3N3aXJlLmNvbS8",
+                    "path": "\u203a news-releases  \u203a quantum-art-raises-100-million-in-series-a-round-to-drive-scalable-multi-core-quantum-computing-302637558.html"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/NkiSEhmqM9ApJxuPKEowg1rgcHIueLa_6Rlkcrim5hM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tbWEu/cHJuZXdzd2lyZS5j/b20vbWVkaWEvMjcw/NzgwOC9RdWFudHVt/X0FydF9Mb2dvLmpw/Zz9wPWZhY2Vib29r"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI Bubble 'Set to Pop' as Ex-Intel CEO Claims Quantum Computing Will Kill GPUs",
+                "url": "https://inkl.com/news/ai-bubble-set-to-pop-as-ex-intel-ceo-claims-quantum-computing-will-kill-gpus",
+                "description": "Economists, central banks and major tech leaders have already voiced concerns about excessive valuations across the AI sector. Now a striking new claim has entered the debate. Former Intel CEO Pat Gelsinger says quantum computing will arrive faster than expected and ultimately render today's ...",
+                "age": "5 days ago",
+                "page_age": "2025-12-10T10:51:32",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "inkl.com",
+                    "hostname": "inkl.com",
+                    "favicon": "https://imgs.search.brave.com/KYzvJPGpNj2Jj1qVXuQFH1IprGWM6aIo3wYxDdzSODM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2U5NWUxYThm/OTZhMTI5ZWE3ODc2/NGQ0NWI5Yzc0MjNi/OWQxNTk5YThjZWY3/ZjZmNjhlNGRhZDQ5/M2Y3N2VlNi9pbmts/LmNvbS8",
+                    "path": "\u203a news  \u203a ai-bubble-set-to-pop-as-ex-intel-ceo-claims-quantum-computing-will-kill-gpus"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/WqerYPK6JujsdSeaRxObCYq60wVqyg_Rpu1SSc8ahN4/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5rbC5jb20v/czMvYXJ0aWNsZS9s/ZWFkX2ltYWdlLzIy/Nzk0MzcwL2Zvcm1l/ci1pbnRlbC1jZW8t/cGF0LWdlbHNpbmdl/ci5wbmc"
+                }
+            }
+        ]
+    }
+}
