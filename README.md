@@ -5,19 +5,17 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 ## Latest Updates (Past 7 Days)
 
 
+### Major Model Releases & Improvements
+
+- **Amazon Reorganization Combines AI, Silicon and Quantum Computing | PYMNTS.com**
+  - Amazon has formed a new organization that will bring together its AI models, silicon development and quantum computing.
+  - [Source](https://www.pymnts.com/amazon/2025/amazon-reorganization-combines-ai-silicon-and-quantum-computing/)
+
 ### Notable Innovations
 
-- **AI, quantum computing, fusion energy remain Energy’s top research priorities - Nextgov/FCW**
-  - Although Genesis is primarily focused ... Gil also shared other emerging tech sectors that Energy is prioritizing and aiming to incorporate into the Genesis infrastructure. Quantum computing is among the top fields to be eventually incorporated into the AI and supercomputing ...
-  - [Source](https://www.nextgov.com/artificial-intelligence/2025/12/ai-quantum-computing-fusion-energy-remain-energys-top-research-priorities/410078/)
-
-- **Quantum computing ‘KPIs’ could distinguish true breakthroughs from spurious claims**
-  - Using a range of metrics could ... quantum computers, as well as interoperability, says Whitfield. Each type of qubit has its own strengths, and sometimes companies report only the metrics that suit them. “It’s almost like they don’t want you to compare across devices,” Whitfield says. The Quantum Advantage Tracker aims to help compare ...
-  - [Source](https://nature.com/articles/d41586-025-04063-8)
-
-- **Will Conceptual Brain Science Advance Quantum Computing?**
-  - Though recent quantum error correction (QEC) demonstrations have been performed, all popular qubit modalities suffer from hardware noise, preventing the below-threshold operation needed to perform fault-tolerant computations.” · “Though high-performance computing (HPC), and in particular, accelerated GPU computing, already drives QC research through circuit and hardware simulations, the rise of generative artificial intelligence (AI...
-  - [Source](https://irishtechnews.ie/will-brain-science-advance-quantum-computing/)
+- **Quantum Computing, Sycophancy: AI is an Obituary for Human Intelligence**
+  - There are possibilities for breakthroughs in quantum computing before the end of the decade if there parallels of architectures from conceptual brain science. Quantum computing may not also have some of the risks of AI, and may be useful to solve some of it, probably.
+  - [Source](https://sedona.biz/quantum-computing-sycophancy-ai-is-an-obituary-for-human-intelligence/)
 
 
 ## News Archive

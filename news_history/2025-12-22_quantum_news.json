@@ -1,0 +1,147 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-12-22T00:22:14.627959"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "US House subcommittees explore cybersecurity implications of AI, quantum computing | IAPP",
+                "url": "https://iapp.org/news/a/us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing",
+                "description": "Beyond adopting a proactive mindset, ... AI development. \"Intelligent automation allows attacks to become continuous rather than episodic, eroding assumptions that organizations can recover between incidents or rely on periodic assessments,\" Coates said. \"Artificial intelligence and quantum computing are accelerating ...",
+                "age": "2 days ago",
+                "page_age": "2025-12-20T09:40:07",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "iapp.org",
+                    "hostname": "iapp.org",
+                    "favicon": "https://imgs.search.brave.com/7ROdN84N7Rr0sVlkAO0ENwKTq9xTPJdBntPHxjcDtVI/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzI5Y2FkZjFm/N2NlMjgyNWE5NDcy/YjhiYjhjYjYyM2Vj/MjUyZTY5MmM4YTA0/ODMyM2I2ZjIxZjM1/NjUzNDU2Zi9pYXBw/Lm9yZy8",
+                    "path": "\u203a news  \u203a a  \u203a us-house-subcommittees-explore-cybersecurity-implications-of-ai-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/OmA9yP6c_pqbRLmLtIG3FAnE9Bi_fGjARFKbfdYIJJk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY29udGVudHN0/YWNrLmlvL3YzL2Fz/c2V0cy9ibHRkNGRk/NWIyZDcwNTI1MmJj/L2JsdDU4ZTdkZjk5/NGY4YjEyNjMvNjk0/NTdiOTkwZjQxMzg5/NDUwYzkyMzU0L3N0/cmVldC12aWV3LXdh/c2hpbnRvbi1kYy1V/Uy0wNTIxMjQuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What Is the Best Quantum Computing Stock Billionaire Investors Are Buying Right Now? | The Motley Fool",
+                "url": "https://www.fool.com/investing/2025/12/21/what-is-the-best-quantum-computing-stock-billionai/",
+                "description": "The most popular quantum computing stocks include pure plays like IonQ, Rigetti Computing, and D-Wave Quantum. Several \"Magnificent Seven\" companies are also exploring the benefits of quantum artificial intelligence (AI).",
+                "age": "19 hours ago",
+                "page_age": "2025-12-21T05:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 12  \u203a 21  \u203a what-is-the-best-quantum-computing-stock-billionai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/rUB89b3hGtMCXAvRfXUOnXNN1buQ2ukXDuswWaY7xUw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ3NTkxJTJGZ29v/Zy0xMC5qcGcmYW1w/O3c9MTIwMCZhbXA7/b3A9cmVzaXpl"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaires Sell Amazon Stock and Buy a Quantum Computing Stock Up 3,050% Since 2023 | The Motley Fool",
+                "url": "https://www.fool.com/investing/2025/12/20/billionaires-sell-amazon-buy-quantum-stock-up-3050/",
+                "description": "Three savvy hedge fund billionaires bought small positions in Rigetti Computing in the third quarter.",
+                "age": "2 days ago",
+                "page_age": "2025-12-20T08:30:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "www.fool.com",
+                    "favicon": "https://imgs.search.brave.com/WApw2kto_pU_fkDjG9VP20wwEs08ki09eil7b1Kc_aw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWYzZjY3ZTJj/NWQzYjNhNTgxZTBl/ZDUxMTNmNjk1MTMz/ZWFjYWM5NTM4YzAx/Y2JmZmJjMDAyMWE4/NzIzMWRmZi93d3cu/Zm9vbC5jb20v",
+                    "path": "\u203a investing  \u203a 2025  \u203a 12  \u203a 20  \u203a billionaires-sell-amazon-buy-quantum-stock-up-3050"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ZcBIHAWBe7UQydPHg1qJwlGgynQw4uwZ56V-7vAp1a0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ3OTM3JTJGYnVs/bC1hbmQtYmVhci0y/LmpwZyZhbXA7dz0x/MjAwJmFtcDtvcD1y/ZXNpemU"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Amazon Reorganization Combines AI, Silicon and Quantum Computing | PYMNTS.com",
+                "url": "https://www.pymnts.com/amazon/2025/amazon-reorganization-combines-ai-silicon-and-quantum-computing/",
+                "description": "Amazon has formed a new organization that will bring together its AI models, silicon development and quantum computing.",
+                "age": "4 days ago",
+                "page_age": "2025-12-17T22:10:02",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "pymnts.com",
+                    "hostname": "www.pymnts.com",
+                    "favicon": "https://imgs.search.brave.com/w68kIc_7HKCOtyJwNpTADJI7ah2LwqemLZf2aAmlNu0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzBkMjA1NDhh/MWY0MzcxZTE5NWJl/YjcwMzM4NTNmZDkw/ZTg2MDhkMzM5ZjRl/YzFhYTQ2NGU3MzMy/ZTIzYzc5MS93d3cu/cHltbnRzLmNvbS8",
+                    "path": "\u203a amazon  \u203a 2025  \u203a amazon-reorganization-combines-ai-silicon-and-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/HM4fL0m--5BIk3JzNPsSWpehWfBYInI0AY2tBRKZeuo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/cHltbnRzLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyNS8x/Mi9BbWF6b24tcmVv/cmdhbml6YXRpb24x/LmpwZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Billionaire Ken Griffin Just Bought a Quantum Computing Stock That Could Soar by as Much as 101%, According to Wall Street | The Motley Fool",
+                "url": "https://fool.com/investing/2025/12/19/billionaire-ken-griffin-just-bought-a-quantum-comp",
+                "description": "Hedge fund Citadel increased its stake in D-Wave Quantum by more than 200% last quarter.",
+                "age": "3 days ago",
+                "page_age": "2025-12-19T08:28:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2025  \u203a 12  \u203a 19  \u203a billionaire-ken-griffin-just-bought-a-quantum-comp"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/aljcJ-q2j4YAo-LZz2YsQKbGSfSlXImWWz8nRIaFzyA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ3NDgyJTJGZ2V0/dHlpbWFnZXMtMjE1/NjYxNTg2Mi0xOS5q/cGcmYW1wO3c9MTIw/MCZhbXA7b3A9cmVz/aXpl"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing, Sycophancy: AI is an Obituary for Human Intelligence",
+                "url": "https://sedona.biz/quantum-computing-sycophancy-ai-is-an-obituary-for-human-intelligence/",
+                "description": "There are possibilities for breakthroughs in quantum computing before the end of the decade if there parallels of architectures from conceptual brain science. Quantum computing may not also have some of the risks of AI, and may be useful to solve some of it, probably.",
+                "age": "9 hours ago",
+                "page_age": "2025-12-21T15:42:45",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sedona.biz",
+                    "hostname": "sedona.biz",
+                    "favicon": "https://imgs.search.brave.com/QGlLbRIRDYKdulf0oLIVdVtkLrvSfZXBj4m1TTBHRF4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmVkYzIyYmJi/YmI5NGFjNzIxOTUx/OTE2MDA2ZDQxN2E0/NjEzZGEzYjA2Zjky/MTViZTQ2ZmQwYjVl/OTE0NTU0ZC9zZWRv/bmEuYml6Lw",
+                    "path": "\u203a quantum-computing-sycophancy-ai-is-an-obituary-for-human-intelligence"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/G5g9Jc0ZYKkU2jGpgfR0W-8Fmq7jIOnPJi3tgh3Z_L8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zZWRv/bmEuYml6L3dwLWNv/bnRlbnQvdXBsb2Fk/cy9zaHV0dGVyc3Rv/Y2tfNTUwNzEyOTk1/LTU2MHgzNzMuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM Targets Training 5 Million Indian Youth In AI, Cybersecurity, Quantum Computing By 2030",
+                "url": "https://www.ndtvprofit.com/technology/ibm-targets-training-5-million-indian-youth-in-ai-cybersecurity-quantum-computing-by-2030",
+                "description": "TechnologyIBM Targets Training 5 Million Indian Youth In AI, Cybersecurity, Quantum Computing By 2030 ... Arvind Krishna, IBM chairman, president, and CEO.",
+                "age": "3 days ago",
+                "page_age": "2025-12-19T09:18:59",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ndtvprofit.com",
+                    "hostname": "www.ndtvprofit.com",
+                    "favicon": "https://imgs.search.brave.com/toXCbXxKqzk2xNz-l-GrnmH-2cnnlmDLehvop2s1r6I/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjUzN2MzMDZk/Y2FiYmRiOWRmZTRk/ZGM3NjdhYTAyMzE0/MGVhZGVmOWQ3MGZj/MGU2NmM5NzRiYzZm/ZTAxN2UwZS93d3cu/bmR0dnByb2ZpdC5j/b20v",
+                    "path": "\u203a technology  \u203a ibm-targets-training-5-million-indian-youth-in-ai-cybersecurity-quantum-computing-by-2030"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Qlixckc33xgPNZW3DJuH0RKt4eJksH5tZ8aHf5gIf54/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmR0dnByb2ZpdC5j/b20vaWNvbnMvYXBw/bGUtdG91Y2gtaWNv/bi5wbmc"
+                }
+            }
+        ]
+    }
+}
