@@ -1,0 +1,147 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2025-12-29T00:23:27.442284"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "This tiny chip could change the future of quantum computing | ScienceDaily",
+                "url": "https://sciencedaily.com/releases/2025/12/251226045341.htm",
+                "description": "A new microchip-sized device could dramatically accelerate the future of quantum computing. It controls laser frequencies with extreme precision while using far less power than today\u2019s bulky systems. Crucially, it\u2019s made with standard chip manufacturing, meaning it can be mass-produced ...",
+                "age": "2 days ago",
+                "page_age": "2025-12-27T00:10:03",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "sciencedaily.com",
+                    "hostname": "sciencedaily.com",
+                    "favicon": "https://imgs.search.brave.com/QMxzIRv3nUYelI4Sg8j6d5I7a8NPHLMLzgb3BEtREZk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjczYzIzZjhj/MmJlZDY4ZjYyY2Rk/MDQ4MGQ0ZWUxOGIx/YmY5OGNiN2FjMGQ1/MzEzNTA0YmJlMTM4/ZmNkYTdhOC9zY2ll/bmNlZGFpbHkuY29t/Lw",
+                    "path": "\u203a releases  \u203a 2025  \u203a 12  \u203a 251226045341.htm"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/g68mKTwbQ6Wpp9LinBRFtqWKTy-ZSAPqLEekph9lkDw/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZWRhaWx5/LmNvbS9pbWFnZXMv/MTkyMC9xdWFudHVt/LWNvbXB1dGluZy1v/cHRpY2FsLWZpYmVy/LWFycmF5LndlYnA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "IBM to skill 5 million Indian youth in AI, cybersecurity and quantum computing by 2030: Details inside - Technology News | The Financial Express",
+                "url": "https://www.financialexpress.com/life/technology-ibm-to-skill-5-million-indian-youth-in-ai-cybersecurity-and-quantum-computing-by-2030-details-inside-4082018/",
+                "description": "IBM today announced its commitment to skill 5 million learners across India in Artificial Intelligence (AI), cybersecurity, and quantum computing by 2030.",
+                "age": "3 days ago",
+                "page_age": "2025-12-26T10:58:57",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "financialexpress.com",
+                    "hostname": "www.financialexpress.com",
+                    "favicon": "https://imgs.search.brave.com/4hWpwetFzglrlmkqB7jYp7EocTHqMq-8f1OkPJ4Z0IY/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOThkNjBkZGQ5/ODkxOTk5MTM2Nzhj/ODQwYmIyNjU2ODJm/MTJlZDIzM2RlOTcw/ZjA3YzIyNzJjMWNi/ZTA3YThiZC93d3cu/ZmluYW5jaWFsZXhw/cmVzcy5jb20v",
+                    "path": "\u203a life  \u203a technology-ibm-to-skill-5-million-indian-youth-in-ai-cybersecurity-and-quantum-computing-by-2030-details-inside-4082018"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/ZKSYt9eaVbM7UeE1Ld2zxoB-Zj7OTYzepRCqx9I-Lu8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZmluYW5jaWFs/ZXhwcmVzc2RpZ2l0/YWwuY29tLzIwMjUv/MTIvVW50aXRsZWQt/ZGVzaWduLTE0LnBu/Zz9xdWFsaXR5PTEw/MA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Tech Will Deliver In 2026: AI, Quantum Computing To Propel Stocks Higher | Seeking Alpha",
+                "url": "https://seekingalpha.com/article/4855633-tech-will-deliver-in-2026-ai-quantum-computing-to-propel-stocks-higher",
+                "description": "What are the top sector picks for 2026? Read why AI and quantum computing may deliver for tech investors.",
+                "age": "4 days ago",
+                "page_age": "2025-12-24T16:26:39",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "seekingalpha.com",
+                    "hostname": "seekingalpha.com",
+                    "favicon": "https://imgs.search.brave.com/Vlj2pnYV-5jX9naNLppkPkWwLBLiVzsauFEl21cB0_o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMGMzN2JkNjhl/ODdiNGFiYzQyOThi/NzM3ZTBhMDExYmM5/ODM2M2U3ZjRkZGJj/MWQxYzkxYzJiYzdk/ZTQ3MjhkMS9zZWVr/aW5nYWxwaGEuY29t/Lw",
+                    "path": "\u203a article  \u203a 4855633-tech-will-deliver-in-2026-ai-quantum-computing-to-propel-stocks-higher"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/hSZt8bu_yigx3j3_QdvFD1G2NlR2Md9TIhycvqsWGJY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuc2Vla2luZ2Fs/cGhhLmNvbS9jZG4v/czMvdXBsb2Fkcy9n/ZXR0eV9pbWFnZXMv/MjIxNDY1MTM0My9p/bWFnZV8yMjE0NjUx/MzQzLmpwZz9pbz1n/ZXR0eS1jLXcxNTM2"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What Is Quantum Computing? An Explainer by the Centre for Police Technology - The420.in",
+                "url": "https://the420.in/india-quantum-computing-race-public-investment-talent-pool",
+                "description": "He added that quantum technologies ... and future cybercrime challenges. \u201cInstitutions must start preparing today for a post-quantum world, where existing cryptographic systems could become vulnerable,\u201d Singh noted. Globally, quantum computing is projected to contribute trillions of dollars to the economy by 2035. India aims to be a ...",
+                "age": "16 hours ago",
+                "page_age": "2025-12-28T08:46:47",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "the420.in",
+                    "hostname": "the420.in",
+                    "favicon": "https://imgs.search.brave.com/-4r15poeYAicH6owBXPun92oA7nIq-NibOZnOTA4DKk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjVmNzNlZDFm/MDg4YmQxOTE5ZTdl/Yzk0YmFkYzNmNjM3/YjNjZTZkMjZhZWM4/NjNiOWIxY2I3ZTlh/NmNjNTAxZC90aGU0/MjAuaW4v",
+                    "path": "\u203a india-quantum-computing-race-public-investment-talent-pool"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/t3MFsyosqO_-gS_rhSJvT8Sb0RPWq4aMgqVtMo4jORY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGU0/MjAuaW4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjUvMTIvQ1BU/LTEuanBlZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Are These 2 Quantum Computing Stocks the Key to Decades of Wealth? - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/GOOG-Q/pressreleases/36807102/are-these-2-quantum-computing-stocks-the-key-to-decades-of-wealth",
+                "description": "This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Investors who want to capitalize on the future of quantum computing have a few options. Even as it pushes ahead in AI, ...",
+                "age": "2 hours ago",
+                "page_age": "2025-12-28T22:06:25",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a GOOG-Q  \u203a pressreleases  \u203a 36807102  \u203a are-these-2-quantum-computing-stocks-the-key-to-decades-of-wealth"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Machine Learning (QML): How Quantum Computing Could Speed Up AI Training | by Varun Chopra | Dec, 2025 | Artificial Intelligence in Plain English",
+                "url": "https://ai.plainenglish.io/quantum-machine-learning-qml-how-quantum-computing-could-speed-up-ai-training-b9bcb072ac1c?gi=cd9619e7ce32",
+                "description": "Why quantum computing is being explored as a response to the rising cost, energy limits, and scaling challenges of modern AI training.",
+                "age": "3 days ago",
+                "page_age": "2025-12-26T08:39:33",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ai.plainenglish.io",
+                    "hostname": "ai.plainenglish.io",
+                    "favicon": "https://imgs.search.brave.com/zV_8q5ZLItwZJcBvYvF2rB2JcnVQCTU_Yc_8og_GX-o/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzhhZjFiM2Ix/MDI0YzVjZjFkMzFh/ODMyNWQ4NDUxZmNk/YzlmZGE3ZDQyNjg0/MDBiYzAxZjhmYzQ4/OTdlZjA2Yi9haS5w/bGFpbmVuZ2xpc2gu/aW8v",
+                    "path": "\u203a quantum-machine-learning-qml-how-quantum-computing-could-speed-up-ai-training-b9bcb072ac1c"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/xpXosASX5qipplmAJLIthaFRR6YVgd9fXF2hDsEPTNA/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvcmVzaXplOmZp/dDoxMjAwLzEqZy0x/aXNNQVlLU2dYS1Mz/QXFGVFc4US5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "What Is the Smartest Quantum Computing Stock to Buy in 2026? - The Globe and Mail",
+                "url": "https://theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/36792198/what-is-the-smartest-quantum-computing-stock-to-buy-in-2026",
+                "description": "Pure-play developers like IonQ, Rigetti Computing, and D-Wave Quantum are the hottest quantum computing stocks right now. Big tech giants are also exploring quantum computing in addition to their established generative artificial intelligence (AI) products.",
+                "age": "3 days ago",
+                "page_age": "2025-12-26T06:57:19",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "theglobeandmail.com",
+                    "hostname": "theglobeandmail.com",
+                    "favicon": "https://imgs.search.brave.com/cU7eheJzwER1VgJ2ocUbrIh69b7z3Hf50Gs45-7hdrk/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzg4MWFhYjNj/YTlmZWNjYmJmNjdh/MzZmNzllOWU5NmYx/NmJjNzNkYzg1ZDMw/MmVmNDkxODkwMWM2/ZTg1YWY0OC90aGVn/bG9iZWFuZG1haWwu/Y29tLw",
+                    "path": "\u203a investing  \u203a markets  \u203a stocks  \u203a MSFT-Q  \u203a pressreleases  \u203a 36792198  \u203a what-is-the-smartest-quantum-computing-stock-to-buy-in-2026"
+                },
+                "thumbnail": {
+                    "src": ""
+                }
+            }
+        ]
+    }
+}

@@ -7,15 +7,9 @@ A curated collection of the latest developments, breakthroughs, and news in the 
 
 ### Major Model Releases & Improvements
 
-- **Amazon Reorganization Combines AI, Silicon and Quantum Computing | PYMNTS.com**
-  - Amazon has formed a new organization that will bring together its AI models, silicon development and quantum computing.
-  - [Source](https://www.pymnts.com/amazon/2025/amazon-reorganization-combines-ai-silicon-and-quantum-computing/)
-
-### Notable Innovations
-
-- **Quantum Computing, Sycophancy: AI is an Obituary for Human Intelligence**
-  - There are possibilities for breakthroughs in quantum computing before the end of the decade if there parallels of architectures from conceptual brain science. Quantum computing may not also have some of the risks of AI, and may be useful to solve some of it, probably.
-  - [Source](https://sedona.biz/quantum-computing-sycophancy-ai-is-an-obituary-for-human-intelligence/)
+- **Are These 2 Quantum Computing Stocks the Key to Decades of Wealth? - The Globe and Mail**
+  - This section contains press releases and other materials from third parties (including paid content). The Globe and Mail has not reviewed this content. Please see disclaimer. ... Investors who want to capitalize on the future of quantum computing have a few options. Even as it pushes ahead in AI, ...
+  - [Source](https://theglobeandmail.com/investing/markets/stocks/GOOG-Q/pressreleases/36807102/are-these-2-quantum-computing-stocks-the-key-to-decades-of-wealth)
 
 
 ## News Archive
