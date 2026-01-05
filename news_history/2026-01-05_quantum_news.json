@@ -1,0 +1,93 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2026-01-05T00:23:56.583999"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "Will AI-Accelerated Quantum Computing Break Bitcoin in 2026? | CoinMarketCap",
+                "url": "https://coinmarketcap.com/academy/article/ai-quantum-computing-break-bitcoin-encryption-2026",
+                "description": "Will AI-Accelerated Quantum Computing Break Bitcoin in 2026? ... To find out, one must look past the BTC and artificial intelligence fear headlines and examine the actual math of the \"Quantum-AI\" synergy.",
+                "age": "2 days ago",
+                "page_age": "2026-01-02T14:31:56",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "coinmarketcap.com",
+                    "hostname": "coinmarketcap.com",
+                    "favicon": "https://imgs.search.brave.com/R8sbEhMu9i27Sror8MoTdAK9XBLPZQF7r38sH6SBPDM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMjYyZDFhNzE2/NTU3YWZiYzUzMjhj/ZTIyYzlmYzI5NmYz/MmU5Yjc4OTRmZjg0/MmVkM2NmYjlmYTEz/M2E0ZjEyOC9jb2lu/bWFya2V0Y2FwLmNv/bS8",
+                    "path": "\u203a academy  \u203a article  \u203a ai-quantum-computing-break-bitcoin-encryption-2026"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/t_ZvQ6ceFgXAvBVztqtOsVOLR7PJiM-mH1QSD7QgEp8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hY2Fk/ZW15LXB1YmxpYy5j/b2lubWFya2V0Y2Fw/LmNvbS9vcHRpbWl6/ZWQtdXBsb2Fkcy80/MWI3NmVhYmQ2MWU0/YzJhYWM3OWNlNGY4/YzUxMzQ5My5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Meet the Cornerstone Quantum Computing Stock Billionaires Have Piled Into for 2026 (Hint: It's Not IonQ, Rigetti Computing, or D-Wave Quantum) | The Motley Fool",
+                "url": "https://fool.com/investing/2026/01/02/quantum-computing-stock-billionaire-2026-ionq-rgti",
+                "description": "Although artificial intelligence (AI) has been a leading technological trend on Wall Street over the last three years, it took a back seat in 2025 to an even hotter tech innovation: the rise of quantum computing. During select points in 2025, pure-play quantum computing stocks IonQ (IONQ +4.23%), Rigetti Computing (RGTI +6.55%), D-Wave Quantum (QBTS +7.57%), and ...",
+                "age": "2 days ago",
+                "page_age": "2026-01-02T13:36:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2026  \u203a 01  \u203a 02  \u203a quantum-computing-stock-billionaire-2026-ionq-rgti"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/rh3zeypcRuvlvbgEakMqeI1kVc4IGcp1WI3wTtFBn0M/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ4OTEzJTJGbW9u/ZXktbWFuYWdlci1z/dG9jay1jaGFydC1t/YXJrZXQtbGV2ZWwt/Mi1kYXRhLWludmVz/dC1nZXR0eS5qcGcm/YW1wO3c9MTIwMCZh/bXA7b3A9cmVzaXpl"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Is IBM Stock a Buy for 2026 Amid AI and Quantum Computing Momentum?",
+                "url": "https://www.ainvest.com/news/ibm-stock-buy-2026-ai-quantum-computing-momentum-2601/",
+                "description": "IBM stock is a compelling investment in 2026 hinges on a nuanced evaluation of its strategic bets in artificial intelligence (AI) and quantum computing. While the company has demonstrated robust financial performance and technological leadership in these high-growth fields, the path to sustained ...",
+                "age": "2 days ago",
+                "page_age": "2026-01-02T15:41:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "ainvest.com",
+                    "hostname": "www.ainvest.com",
+                    "favicon": "https://imgs.search.brave.com/sBjDTVttp_YyBFuWWEsD7GT6pwNiEkV3pQNBP7Ehq9s/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTkyMmM1YjVh/NGYzMmUzOTRlMjk4/Nzk5ZTZmNWIxMmQ2/YTYyOWNiZmE1NWI1/ZDc3ZTdiYjEyZjFl/YzE0OWUwOS93d3cu/YWludmVzdC5jb20v",
+                    "path": "\u203a news  \u203a ibm-stock-buy-2026-ai-quantum-computing-momentum-2601"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3cdJ7lQTlce42GIB3zcc_bCFVEfAq6pFotsYhe2ulUk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/YWludmVzdC5jb20v/YWlnYy9oeGNtcC9p/bWFnZXMvY29tcHJl/c3MtcXdlbl9nZW5l/cmF0ZWRfMTc2NzM2/Nzg4NDE1NC5qcGcu/cG5n"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "QuLearnLabs Program - AI-assisted Software Engineering for Quantum Computing [AI-SEQ] | EIT Deep Tech Talent Initiative",
+                "url": "https://www.eitdeeptechtalent.eu/courses/qulearnlabs-program-ai-assisted-software-engineering-for-quantum-computing-ai-seq/",
+                "description": "Get started with quantum software engineering using Qiskit and learn how to build quantum programs with help from Q, an open-source AI coding assistant-perfect for beginners exploring the future of deep tech development. ... Course Description Section titled presentation Course details Section titled course details Dates Section titled dates Course provider Section titled course provider \u00b7 AI-SEQ (AI-assisted Software Engineering for Quantum Computing ...",
+                "age": "5 days ago",
+                "page_age": "2025-12-31T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "eitdeeptechtalent.eu",
+                    "hostname": "www.eitdeeptechtalent.eu",
+                    "favicon": "https://imgs.search.brave.com/0LPOsNr66U9kHEbJD1cuefdUseOJFLvOI43sPKFIrhE/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGQ1MTI1MjY5/MWM2NGIwN2E5MTRi/MzlkZDM2ZWRiYWYw/MjA4YjIxZTQyZDJm/MTFkNjcyN2RlOGVi/OTZlNDMxYS93d3cu/ZWl0ZGVlcHRlY2h0/YWxlbnQuZXUv",
+                    "path": "\u203a courses  \u203a qulearnlabs-program-ai-assisted-software-engineering-for-quantum-computing-ai-seq"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Abyyg4xuXHwflJfyIoJMKDaJgxjf5MkLkXgcDBANeF0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/ZWl0ZGVlcHRlY2h0/YWxlbnQuZXUvd3At/Y29udGVudC91cGxv/YWRzL2diLzIwMjMv/MDIvZmFsbGJhY2st/ZWl0LWR0dGkuanBn"
+                }
+            }
+        ]
+    }
+}
