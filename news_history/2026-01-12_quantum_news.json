@@ -1,0 +1,270 @@
+{
+    "query_details": {
+        "query_sent": "\"Quantum Computing\" AND \"AI\"",
+        "freshness_used": "pw",
+        "country_used": "us",
+        "search_lang_used": "en",
+        "search_type": "weekly_freshness",
+        "retrieval_timestamp": "2026-01-12T00:23:09.506660"
+    },
+    "api_response": {
+        "type": "news",
+        "query": {
+            "original": "\"Quantum Computing\" AND \"AI\"",
+            "altered": "quantum computing ai",
+            "spellcheck_off": false,
+            "show_strict_warning": false
+        },
+        "results": [
+            {
+                "type": "news_result",
+                "title": "What to Watch for in 2026: AI, Cybersecurity, and Quantum Computing Updates",
+                "url": "https://www.analyticsinsight.net/artificial-intelligence/what-to-watch-for-in-2026-ai-cybersecurity-and-quantum-computing-updates",
+                "description": "Explore AI innovations, cybersecurity trends, and quantum computing breakthroughs in 2026. Stay ahead with insights on tech, security, and enterprise transformation.",
+                "age": "3 days ago",
+                "page_age": "2026-01-09T10:47:26",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "analyticsinsight.net",
+                    "hostname": "www.analyticsinsight.net",
+                    "favicon": "https://imgs.search.brave.com/IZxcZxYaltFYkchQ2sNNCyUjxbUmVLPqNTB_PDs6VtU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOGI0MGUzMDlm/MTY4YjJlMDdjZWUy/Nzc0ZDg0ZmE0OGU5/MjNmMmJlNDViZjcw/MTY0MjBhMDA5MTkw/MWY2ZmJlYy93d3cu/YW5hbHl0aWNzaW5z/aWdodC5uZXQv",
+                    "path": "\u203a artificial-intelligence  \u203a what-to-watch-for-in-2026-ai-cybersecurity-and-quantum-computing-updates"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/iqfzx4q7LsEii7yvewFu1Mj5ezVExd_7HyYN3K8OKSc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2FuYWx5dGlj/c2luc2lnaHQlMkYy/MDI2LTAxLTA5JTJG/enIzbTQ0MDUlMkZX/aGF0LXRvLVdhdGNo/LWZvci1pbi0yMDI2/LmpwZz93PTEyMDAm/YW1wO2FyPTQwJTNB/MjEmYW1wO2F1dG89/Zm9ybWF0JTJDY29t/cHJlc3MmYW1wO29n/SW1hZ2U9dHJ1ZSZh/bXA7bW9kZT1jcm9w/JmFtcDtlbmxhcmdl/PXRydWUmYW1wO292/ZXJsYXk9ZmFsc2Um/YW1wO292ZXJsYXlf/cG9zaXRpb249Ym90/dG9tJmFtcDtvdmVy/bGF5X3dpZHRoPTEw/MA"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing vs AI: Myths, Limits & Real Potential",
+                "url": "https://thequantuminsider.com/2026/01/07/quantum-computing-vs-ai/",
+                "description": "Researchers argue that quantum computing and artificial intelligence are being developed as complementary technologies, not rivals, with hybrid systems emerging in which classical computing remains dominant, AI provides control and learning, and quantum hardware is used selectively as an ...",
+                "age": "5 days ago",
+                "page_age": "2026-01-07T09:19:20",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "thequantuminsider.com",
+                    "hostname": "thequantuminsider.com",
+                    "favicon": "https://imgs.search.brave.com/yqUBKgLlJM6Fy4Xd7U6ENLKuvasbNAkyfGODrOAMxmA/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhZmY2NTZj/YTEyMTIwMDgzNWJl/Y2JhNDAwNTY3Njhh/MjJkMWUzNjM3YzUz/ZGZmYzU5NTI0ODYy/YjA1ZDY5NS90aGVx/dWFudHVtaW5zaWRl/ci5jb20v",
+                    "path": "\u203a 2026  \u203a 01  \u203a 07  \u203a quantum-computing-vs-ai"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/b4IUv_7rfhYVhJZbO5P9sJt96l6Cpmo_QB4dW-qNxT0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90aGVx/dWFudHVtaW5zaWRl/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjYvMDEvQUkt/VnMtUXVhbnR1bS0x/LnBuZw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Chandigarh University Launches \"Quantum for Bharat\" Mission; Aims to Make India a Global AI and Quantum Computing Hub - The Tribune",
+                "url": "https://www.tribuneindia.com/news/advertorial-disclaimer/chandigarh-university-launches-quantum-for-bharat-mission-aims-to-make-india-a-global-ai-and-quantum-computing-hub-2",
+                "description": "The AI Convergence Summit 2026 ... together AI & Tech-Experts from 5 countries including Government policymakers, global industry leaders, researchers, start-ups, venture capitalists, investors, and academicians on one platform to discuss the opportunities and challenges for India & its citizens in emerging fields like Artificial Intelligence and Quantum Computing...",
+                "age": "2 days ago",
+                "page_age": "2026-01-10T10:35:19",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tribuneindia.com",
+                    "hostname": "www.tribuneindia.com",
+                    "favicon": "https://imgs.search.brave.com/Y4sAg9Gp_zU_MxlZg4c4s3hhHZrs7UH8fRvJRNVSQZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2MyMWUyN2Q2/OTQwM2Y4NWEzNDZm/OWM4M2RhZGU4MjA5/NDJmYjlmYjc4NDA1/MDViNzA1MDk3NDZh/N2VjZDc2Yi93d3cu/dHJpYnVuZWluZGlh/LmNvbS8",
+                    "path": "\u203a news  \u203a advertorial-disclaimer  \u203a chandigarh-university-launches-quantum-for-bharat-mission-aims-to-make-india-a-global-ai-and-quantum-computing-hub-2"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wls0A564y1o22kl_FKufEERjuKS047fy7oVaRjzVqq8/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dHJpYnVuZWluZGlh/LmNvbS9zb3J0ZC1z/ZXJ2aWNlL2ltYWdp/bmFyeS92MjItMDEv/anBnL2xhcmdlL2hp/Z2g_dXJsPWRHaGxk/SEpwWW5WdVpTMXpi/M0owWkMxd2NtOHRj/SEp2WkMxemIzSjBa/Qzl0WldScFlURXpN/MkkxWW1Jd0xXVmxN/VEF0TVRGbU1DMDVa/amRtTFdRNU5XSTBO/V1l3TVdNeE5pNXFj/R2M9"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Chandigarh University Launches 'Quantum for Bharat' Mission; Aims to Make India a Global AI and Quantum Computing Hub - The Tribune",
+                "url": "https://www.tribuneindia.com/news/business/chandigarh-university-launches-quantum-for-bharat-mission-aims-to-make-india-a-global-ai-and-quantum-computing-hub",
+                "description": "The AI Convergence Summit 2026 ... together AI & Tech-Experts from 5 countries including Government policymakers, global industry leaders, researchers, start-ups, venture capitalists, investors, and academicians on one platform to discuss the opportunities and challenges for India & its citizens in emerging fields like Artificial Intelligence and Quantum Computing...",
+                "age": "2 days ago",
+                "page_age": "2026-01-10T10:33:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "tribuneindia.com",
+                    "hostname": "www.tribuneindia.com",
+                    "favicon": "https://imgs.search.brave.com/Y4sAg9Gp_zU_MxlZg4c4s3hhHZrs7UH8fRvJRNVSQZw/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2MyMWUyN2Q2/OTQwM2Y4NWEzNDZm/OWM4M2RhZGU4MjA5/NDJmYjlmYjc4NDA1/MDViNzA1MDk3NDZh/N2VjZDc2Yi93d3cu/dHJpYnVuZWluZGlh/LmNvbS8",
+                    "path": "\u203a news  \u203a business  \u203a chandigarh-university-launches-quantum-for-bharat-mission-aims-to-make-india-a-global-ai-and-quantum-computing-hub"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/74vObRQIlaE1GNjzR9qzzqrJQXkD_F6bGk-gT-dpwCQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/dHJpYnVuZWluZGlh/LmNvbS9zb3J0ZC1z/ZXJ2aWNlL2ltYWdp/bmFyeS92MjItMDEv/anBnL2xhcmdlL2hp/Z2g_dXJsPWRHaGxk/SEpwWW5WdVpTMXpi/M0owWkMxd2NtOHRj/SEp2WkMxemIzSjBa/Qzl0WldScFlXVmha/V0ZsWXpjd0xXVmxN/R1l0TVRGbU1DMDVa/amRtTFdRNU5XSTBO/V1l3TVdNeE5pNXFj/R2M9"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Startup Quantum Elements Brings AI, Digital Twins To Quantum Computing",
+                "url": "https://www.nextplatform.com/2026/01/09/startup-quantum-elements-brings-ai-digital-twins-to-quantum-computing/",
+                "description": "Quantum Elements, a startup came ... of Engineering, is using that combination of AI and digital twins with its Constellation platform that\u2019s aimed at accelerating the timeline to commercial, fault-tolerant quantum computing....",
+                "age": "2 days ago",
+                "page_age": "2026-01-09T18:54:47",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nextplatform.com",
+                    "hostname": "www.nextplatform.com",
+                    "favicon": "https://imgs.search.brave.com/d23kLFBEBz6OaIWvX6sVRfWBGnfRDCKSxB3r4J6xbW4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNzdlNGY2YmEz/ZjYzYWI3OWE4YTg5/Y2NiOWMxMDI4Mjc5/MWVkODU0YmMyNWFi/N2QxNGU1YjU3Zjgx/Y2E4YzZlMi93d3cu/bmV4dHBsYXRmb3Jt/LmNvbS8",
+                    "path": "\u203a 2026  \u203a 01  \u203a 09  \u203a startup-quantum-elements-brings-ai-digital-twins-to-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/cktzttvPy5ISuplLZq_kCB4EnSnlqADn7Af5P92x0mM/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly93d3cu/bmV4dHBsYXRmb3Jt/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNi8wMS9xdWFu/dHVtLWVsZW1lbnRz/LWxvZ28uanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "3 Quantum Computing Stocks That Could Make a Millionaire | The Motley Fool",
+                "url": "https://fool.com/investing/2026/01/08/quantum-computing-stocks-make-a-millionaire",
+                "description": "D-Wave is taking a two-pronged ... and more traditional gate-based systems. CEO says this is worth 18 Nvidias. Will this make the world's first trillionaire? \u203a ... Quantum computing is still in its early innings, but offers enormous potential. Quantum computing could be the next big technological advancement after artificial intelligence (AI)...",
+                "age": "3 days ago",
+                "page_age": "2026-01-08T19:45:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fool.com",
+                    "hostname": "fool.com",
+                    "favicon": "https://imgs.search.brave.com/Hj8iQYZd5rTfjYxYvaU1wKgHu5jwIKzsK1UA1HfnuX0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2I0MmNlMzYw/ZGRlMjNjMDk3NDdi/MWYxOGEwZjc2MjJj/NTk1NzUwMWEzNzA3/Mzk3ODUzNGEyZWYw/NDZlZDk2Yy9mb29s/LmNvbS8",
+                    "path": "\u203a investing  \u203a 2026  \u203a 01  \u203a 08  \u203a quantum-computing-stocks-make-a-millionaire"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/VjewwcjxFRoFvMjcdj43LUmhMNlPQX_alJczfd6GhAU/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9nLmZv/b2xjZG4uY29tL2lt/YWdlLz91cmw9aHR0/cHMlM0ElMkYlMkZn/LmZvb2xjZG4uY29t/JTJGZWRpdG9yaWFs/JTJGaW1hZ2VzJTJG/ODQ5NjY5JTJGZ2V0/dHlpbWFnZXMtMTY0/ODYxNzEwOS5qcGcm/YW1wO3c9MTIwMCZh/bXA7b3A9cmVzaXpl"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "2026: The Year Quantum Computing Changes Everything | by Alok Kushwaha | Dec, 2025 | Artificial Intelligence in Plain English",
+                "url": "https://archive.is/9zc5s",
+                "description": "New AI, ML and Data Science articles every day. Follow to join our 3.5M+ monthly readers. ... After 30 years of promises, quantum computers are finally about to prove they\u2019re better than supercomputers.",
+                "age": "2 days ago",
+                "page_age": "2026-01-10T02:54:37",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "archive.is",
+                    "hostname": "archive.is",
+                    "favicon": "https://imgs.search.brave.com/q1SB9VHom-tM2mCzP-2jErTGQme1wlIHmtek0rr3d84/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjczZTE5YzQx/ODI4MzM4YzNlNmNl/OWUzYjA3MmIzZDE3/NDkxNjZiZjBkZDlm/YWE1YTE0YjgyOWNj/MjQ1NTY1NS9hcmNo/aXZlLmlzLw",
+                    "path": "\u203a 9zc5s"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/4rdSRMwiJUA4UnLp5LQt8ua2gklkvh_eJMJp_aiqFN0/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9hcmNo/aXZlLmlzLzl6YzVz/L2I0Njk5NjhkNjA4/NTkwMzY0NTgxYmM2/NWRhODI5NmFkYzdj/MTBmMzcvc2NyLnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Warning of Quantum Computing Stock Bubble Burst: Three Hot Stocks Could Crash in 2026 | NAI 500",
+                "url": "https://nai500.com/blog/2026/01/warning-of-quantum-computing-stock-bubble-burst-three-hot-stocks-could-crash-in-2026/",
+                "description": "D-Wave focuses on quantum annealing technology, and while its most advanced system has approximately 5,000 qubits, its design is limited to optimization problems. IonQ specializes in trapped-ion quantum computing, with its most advanced system featuring around 100 qubits, and aims to build ...",
+                "age": "2 days ago",
+                "page_age": "2026-01-10T01:55:53",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "nai500.com",
+                    "hostname": "nai500.com",
+                    "favicon": "https://imgs.search.brave.com/vSB4PHz7aNg_7KuVVpnKzie1QqdSJYqEBJ3K1x4vgk4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGEwYzMxZDEx/YjI5ZTNmZWVmMjA1/MDQ3ZGQyNzZmZjAx/ZDQ5YjdjNDk3N2Fm/ZDM3ODczYjUyYzYw/NDM3OWNmMC9uYWk1/MDAuY29tLw",
+                    "path": "\u203a blog  \u203a 2026  \u203a 01  \u203a warning-of-quantum-computing-stock-bubble-burst-three-hot-stocks-could-crash-in-2026"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/biJP_DRk0ZdqzKFTzoMqK9_nxDMa5fyXPuRIB8aH9PI/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9uYWk1/MDAuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA0L3F1/YW50dW0tY29tcHV0/ZXIuanBn"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "CES2026: Quantum Computing Leaders Map Next Phase in AI Age",
+                "url": "https://broadbandbreakfast.com/ces2026-quantum-computing-leaders-map-next-phase-in-ai-age",
+                "description": "Photo of (from left), Pat Pelletier, ... head of trade, supply chain, and quantum policy, Amazon Web Services; and Burns Healy, researcher, Dell Technologies, speak during a panel on quantum computing at the Consumer Electronics Show in Las Vegas on Thursday, Jan....",
+                "age": "3 days ago",
+                "page_age": "2026-01-09T03:00:03",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "broadbandbreakfast.com",
+                    "hostname": "broadbandbreakfast.com",
+                    "favicon": "https://imgs.search.brave.com/VWqjgDzBKb2e06qOXdvGr-VxuInX8Z08fuBFlgZsA9A/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjg3MmRhOGFm/ZTI5NjJlYTQ1ODcx/MzY5ODFmMTIzNDJh/NDZkODczMzI1MWVk/MjBmNWQxNGJhNTc0/NDNhZmFmMy9icm9h/ZGJhbmRicmVha2Zh/c3QuY29tLw",
+                    "path": "\u203a ces2026-quantum-computing-leaders-map-next-phase-in-ai-age"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/3OOciwx0s7RmaM7QVi_7Yukb55VNzL2K3YRt_5OAOJk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9icm9h/ZGJhbmRicmVha2Zh/c3QuY29tL2NvbnRl/bnQvaW1hZ2VzLzIw/MjYvMDEvU2NyZWVu/c2hvdC0yMDI2LTAx/LTA4LWF0LTYuMTQu/MTQtLS1QTS0xLnBu/Zw"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Feature: Quantum computing nears mainstream as experts predict \"ChatGPT moment\"-Xinhua",
+                "url": "https://english.news.cn/20260110/e1a92c57fb29487397efc04a0448a9bf/c.html",
+                "description": "The technology is expected to play ... and a range of other fields requiring advanced computation. \"The momentum is building up,\" Pouya Dianat, Chief Revenue Officer of Quantum Computing Inc., told Xinhua, noting that progress has moved faster than many expected just a few years ago. The buzz around quantum computing has been fueled in part by the rapid rise of artificial intelligence. Panelists at CES compared the current moment to AI's sudden ...",
+                "age": "2 days ago",
+                "page_age": "2026-01-10T00:00:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "english.news.cn",
+                    "hostname": "english.news.cn",
+                    "favicon": "https://imgs.search.brave.com/qMVFWHR0O5SVNwS1SGBKLo-bFDu0i0hCptVU8wC9yMc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYTEyZTNkMmI2/ZDA5YjgxMWU0YzE4/OGE0ZWFiMDVhNDUy/M2MxNTkyNTYxMDQ4/MzY0Nzg3ZjFiMDJh/OTA3YjlhYy9lbmds/aXNoLm5ld3MuY24v",
+                    "path": "\u203a 20260110  \u203a e1a92c57fb29487397efc04a0448a9bf  \u203a c.html"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "AI, quantum computing and interdisciplinary research to reshape science: Heng Swee Keat | The Straits Times",
+                "url": "https://www.straitstimes.com/singapore/ai-quantum-computing-and-interdisciplinary-research-to-reshape-science-says-heng-swee-keat",
+                "description": "Over 400 young researchers from 57 countries are attending the Global Young Scientists Summit for the first time. Read more at straitstimes.com.",
+                "age": "6 days ago",
+                "page_age": "2026-01-06T09:35:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "straitstimes.com",
+                    "hostname": "www.straitstimes.com",
+                    "favicon": "https://imgs.search.brave.com/FSUR1m4Whdd8fOHFavXNYE--T-xSrveCpsOzROvTF-U/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNTkwMWQ4Y2U5/ZTY1ODVhYWE2MjUy/ZGY4OWJkYTQ5NDll/M2NiNTg5YjFhMzg5/N2MyMTViZGE4Mjc0/NzJlMzBhYy93d3cu/c3RyYWl0c3RpbWVz/LmNvbS8",
+                    "path": "\u203a singapore  \u203a ai-quantum-computing-and-interdisciplinary-research-to-reshape-science-says-heng-swee-keat"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/0AeDk5IDUkL_Eq_uUYm2ceKYszXifvxK2QmM5z_8yAk/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jYXNz/ZXR0ZS5zcGhkaWdp/dGFsLmNvbS5zZy9p/bWFnZS9zdHJhaXRz/dGltZXMvYTQ4MWJm/YmI4MjgwYTFjZjRh/ZmM3NDA1NTVhNDIz/Y2FjMDQwMTNiNzQx/YWVmZWE3Mzc3YTc1/ZTdkZGMxZTVhMQ"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Quantum Computing 2026: How Next-Gen Machines Will Revolutionize Data, Security, and AI - TechScope",
+                "url": "https://techscope.it.com/quantum-computing-2026/",
+                "description": "Quantum Computing 2026 explores how next-gen machines transform AI, data security, encryption, and decision-making across industries worldwide.",
+                "age": "5 days ago",
+                "page_age": "2026-01-06T17:54:51",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "techscope.it.com",
+                    "hostname": "techscope.it.com",
+                    "favicon": "https://imgs.search.brave.com/P23Nrfhv49Zp-elpEkGzjkXQY9zHNsw3yEgCO4X3S18/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGRiMmEzODc5/YzgyNTlkMjYwYjA1/NDg4MTlmMDJkYTAz/NzNhNTFmMGFkYzli/MmM0YTNiOGRkYzQ4/OGE1OTE4OC90ZWNo/c2NvcGUuaXQuY29t/Lw",
+                    "path": "\u203a quantum-computing-2026"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/7FnONMdX2UQ7ewsAByhm3BbVWkoHyrswTjrvzPRnTkc/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly90ZWNo/c2NvcGUuaXQuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI2/LzAxL1F1YW50dW0t/Q29tcHV0aW5nLTIw/MjYt4oCTLU5leHQt/R2VuLU1hY2hpbmVz/LVZpc3VhbC5wbmc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "After Naidu, Now Revanth Bats For Quantum Computing!",
+                "url": "https://gulte.com/political-news/391161/after-naidu-now-revanth-bats-for-quantum-computing",
+                "description": "Referring to rapid technological ... that quantum computing and artificial intelligence are transforming healthcare into a highly technology-driven field. While urging doctors to stay updated with the latest technologies, he also stressed the importance of retaining the human touch in medical practice. Expressing concern over the rising number of deaths due to heart diseases, the Chief Minister called for a collective mission to prevent cardiac ailments and save more ...",
+                "age": "1 day ago",
+                "page_age": "2026-01-11T02:51:00",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "gulte.com",
+                    "hostname": "gulte.com",
+                    "favicon": "https://imgs.search.brave.com/s8nksByHEd5x0AwBspGERdcMzyGPXqTPhkWW61_WJcU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOWQyZWI5NTg2/ODMxMDBjNTZiZmU1/ZWQxNDY0NTlmMTVl/NDY4YTFhYzE1ZGY1/OGE0YWYzZWE0ZWQw/NDhlMDk3MC9ndWx0/ZS5jb20v",
+                    "path": "\u203a political-news  \u203a 391161  \u203a after-naidu-now-revanth-bats-for-quantum-computing"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/QQDY7pj8C3cEvE8cNNyCGIW_STAyMnXxfWqvm9QLYgo/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z3VsdGUuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI1LzEx/L2Nibi1yZXZhbnRo/LXJhbW9qaS5qcGc"
+                }
+            },
+            {
+                "type": "news_result",
+                "title": "Is Bitcoin at Risk from AI Quantum Computing in 2026?",
+                "url": "https://analyticsinsight.net/quantum-computing-analytics-insight/is-bitcoin-at-risk-from-ai-quantum-computing-in-2026",
+                "description": "Quantum computing is a long-term concern for Bitcoin, not an immediate threat, as current machines lack the scale and stability to break encryption. Market fear, misinformation, and poor wallet practices pose bigger risks to Bitcoin than AI or quantum technology.",
+                "age": "5 days ago",
+                "page_age": "2026-01-06T17:49:20",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "analyticsinsight.net",
+                    "hostname": "analyticsinsight.net",
+                    "favicon": "https://imgs.search.brave.com/QVDrbvIPz6ZuZt88zC4u0Tt2ewceHbMuL1m4oCgmxj0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZjhmYmNlYjgz/MmJkZGNiY2JmZjY5/NGFmZjc2NjRmNWNh/NmIyMGVkNmE2Nzg2/MTEwMWQzMjJhY2Jj/ODM5ZWI3OS9hbmFs/eXRpY3NpbnNpZ2h0/Lm5ldC8",
+                    "path": "\u203a quantum-computing-analytics-insight  \u203a is-bitcoin-at-risk-from-ai-quantum-computing-in-2026"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/uLJE0NHpAw9PRC8hWf1jvl8SX6D0ZSLnFAml6KUBkEQ/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5hc3NldHR5cGUu/Y29tL2FuYWx5dGlj/c2luc2lnaHQlMkYy/MDI2LTAxLTA2JTJG/NG9zYml2eXolMkZJ/cy1CaXRjb2luLWF0/LVJpc2stZnJvbS1B/SS1RdWFudHVtLUNv/bXB1dGluZy1pbi0y/MDI2LmpwZz93PTEy/MDAmYW1wO2FyPTQw/JTNBMjEmYW1wO2F1/dG89Zm9ybWF0JTJD/Y29tcHJlc3MmYW1w/O29nSW1hZ2U9dHJ1/ZSZhbXA7bW9kZT1j/cm9wJmFtcDtlbmxh/cmdlPXRydWUmYW1w/O292ZXJsYXk9ZmFs/c2UmYW1wO292ZXJs/YXlfcG9zaXRpb249/Ym90dG9tJmFtcDtv/dmVybGF5X3dpZHRo/PTEwMA"
+                }
+            }
+        ]
+    }
+}
